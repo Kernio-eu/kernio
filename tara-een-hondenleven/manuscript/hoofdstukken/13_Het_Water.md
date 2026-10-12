@@ -36,19 +36,23 @@ Op een dag werkte het protocol niet. In een stuk bos waar alles was opgeruimd, r
 
 Aan de rand van het pad stond een jonge berk, niet hoger dan de proefpersoon, met een stam zo dik als mijn voorpoot. Hij was van hout. Hij had de juiste lengte. Ik nam hem onderaan in mijn bek en trok.
 
-De berk boog. Zijn bladeren ritselden boven mijn kop en zijn kruin zwiepte heen en weer. Ik zette mijn achterpoten schrap en trok nog eens, grommend, want een opdracht is een opdracht. Het zand rond zijn voet barstte open. Er kwam een wortel boven, wit en nat, die naar aarde van heel diep rook.
+De berk boog. Zijn bladeren ritselden boven mijn kop en zijn kruin zwiepte heen en weer. Ik zette mijn achterpoten schrap en trok nog eens, grommend, want een opdracht is een opdracht. Het zand rond zijn voet begon te kraken.
 
 De proefpersoon stond voorovergebogen met zijn handen op zijn knieën en lachte, zo dat er geen woorden meer tussen pasten, en toen er wel woorden kwamen, waren het deze:
 
 "Amai! Nen stok, Tara! Nen stók! Geen heel bos!"
 
-Ik liet niet los. Over het pad kwam een vrouw met een wandelstok. Ze keek naar mij, naar de trillende berk, en naar de man die op zijn knieën in het zand zat.
+Daarna rechtte hij zijn rug, en zijn stem werd die van het terras: laag en kalm.
 
-"Ze moest een stok zoeken," zei hij tegen haar, met natte ogen.
+"Tara. Laat los. Laat staan."
+
+Ik liet los. De berk zwiepte terug en stond weer recht, een beetje scheef aan de voet, met bladeren die nog even natrilden. Ik ging zitten, want als zijn stem zo klonk, kwam er na het zitten iets. Over het pad kwam een vrouw met een wandelstok. Ze keek naar mij, naar de trillende berk, en naar de man die met natte ogen naast een boompje stond.
+
+"Ze moest een stok zoeken," zei hij tegen haar.
 
 De vrouw liep door, en daarna een beetje sneller.
 
-Hij maakte mijn tanden voorzichtig los, zette de berk recht en trapte het zand rond de wortel aan, zoals Mieke bij haar tomaten. Toen keek hij naar links en naar rechts over het pad. Die dag vond hij zelf een stok. Hij gaf hem aan mij.
+Hij trapte het zand rond de voet van de berk aan, zoals Mieke bij haar tomaten. Toen keek hij naar links en naar rechts over het pad. Die dag vond hij zelf een stok. Hij gaf hem aan mij.
 
 Iets anders verbaasde de proefpersoon telkens opnieuw. Op warme dagen, als mijn tong al een tijd buiten hing, ging ik soms ineens van de wandeling af, recht door het hoge gras, onder een draad door, naar een sloot of een drinkbak voor koeien waar hij niets van wist, en daar dronk ik.
 

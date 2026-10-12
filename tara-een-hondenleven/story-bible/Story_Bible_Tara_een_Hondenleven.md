@@ -342,7 +342,7 @@ Een donkere, warme plek. Er is geen beeld en geen geluid, alleen warmte, een zac
 
 **Hoofdstuk 13. Het Water (nieuw in versie 7).** *Dogtime.* Tara op haar sterkst, drie à vier jaar.
 - Plonsjes in het ven en in de Nete; Lode gooit een tak in het water en Tara haalt hem terug.
-- "Zoek een stok": Tara zoekt plichtsbewust, en als er geen stok is, begint ze een jong boompje uit te rukken.
+- "Zoek een stok": Tara zoekt plichtsbewust, en als er geen stok is, begint ze een jong boompje uit te rukken, tot Lode haar rustig laat loslaten.
 - Met dorst loopt ze van ver recht naar het water. Water ruikt niet, wat erin leeft wel.
 - Het balletje vindt ze met de neus, als de wind goed zit.
 - Bij Dirk en zijn Mechelaars wordt het een wedstrijd, en de baasjes zijn even fel als de honden.

@@ -46,7 +46,7 @@ In de winter is de heide bruin en grijs. Elk takje van de struikhei had een witt
 
 Aan de ingang van het pad staat het bordje. Ik heb er niets meer mee te maken. Ik heb het toch gelezen.
 
-Waar het pad laag bij het water komt, stak een tak uit het ijs. Daar gooide ik vroeger een dode tak in het ven, en ze haalde hem terug, legde hem voor mijn voeten en schudde het ven uit haar vacht, over mijn broek, tot mijn arm op was. Als ik "zoek een stok" zei, zocht ze zelf, en één keer trok ze een jonge berk half uit de grond. De tak in het ijs zat vast. Ik heb hem laten zitten.
+Waar het pad laag bij het water komt, stak een tak uit het ijs. Daar gooide ik vroeger een dode tak in het ven, en ze haalde hem terug, legde hem voor mijn voeten en schudde het ven uit haar vacht, over mijn broek, tot mijn arm op was. Als ik "zoek een stok" zei, zocht ze zelf, en één keer begon ze een jonge berk uit de grond te trekken, tot ik zei dat ze moest loslaten. Ze liet los. De tak in het ijs zat vast. Ik heb hem laten zitten.
 
 Bram heeft gevraagd of we deze zomer naar zee gaan. Daar liep ze achter het balletje de golven in, tot er alleen nog een kop boven het water was, met het balletje erin, en ze kwam terug met zout tot in haar oren. Ik heb gezegd dat ik het nog niet wist.
 
