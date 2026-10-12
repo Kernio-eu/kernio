@@ -64,6 +64,10 @@ Mijn poten gingen voor ik er iets over kon zeggen. Ik was bij de schutting voor 
 
 Dezelfde plank. Een andere kat. Een ander lichaam onder mij.
 
+Die avond zag ik ze een derde keer samen, met glas ertussen. Mira zat op de vensterbank aan de tuinkant, tussen de plant en het gordijn, en buiten op de schutting, in het laatste licht, zat de kater. Ik rook hem niet. Het raam was dicht, en de kamer rook naar de kachel en naar haar. Ik zag alleen dat ze anders zat dan anders. Ze lag niet. Ze zat rechtop, met haar voorpoten tegen elkaar en haar staart om haar poten gelegd, en het puntje van die staart tikte op het hout van de vensterbank, één keer, en nog eens. Haar oren stonden naar voren. Ze knipperde niet. De kater op de schutting knipperde ook niet. Zo bleven ze zitten, langer dan ik kan blijven zitten met een koekje op mijn neus. Toen draaide de kater zijn kop weg, likte zijn schouder en liet zich aan de kant van de buurman naar beneden zakken. Mira keek nog een tijd naar de lege plank. Daarna stapte ze van de vensterbank, liep langs mij naar de keuken en at haar bak leeg.
+
+Ik noteer alleen dat zij niet gesprongen is, en ik wel.
+
 Mijn derde hypothese moest dus worden bijgesteld. Het was niet de plaats waar de kat zat. Het was de plaats waar de kat thuishoorde. Mira hoort bij de geur van ons huis: bij de mand, de kachel, de deurmat in de gang, de slaapkamer zonder deur. Ze zit in dezelfde geurwolk als de proefpersoon en Mieke en ik. De kater komt van buiten die wolk. En alles wat van buiten de wolk komt en beweegt, is van de wereld, en de wereld is om achter te lopen.
 
 Dat is een dubbele logica, en ik merk ze bij mezelf zonder ze te kunnen uitzetten. Ik noteer ze hier zoals ik ze vond: in mijn poten, niet in mijn hoofd.

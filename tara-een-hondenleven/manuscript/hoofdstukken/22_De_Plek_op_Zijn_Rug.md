@@ -56,6 +56,16 @@ Ik rook het door een trui.
 
 "Ze is zot," zei Lode, en hij duwde mijn kop weg, maar zachter dan de eerste keer. Hij duwde nu altijd zachter. Ik denk dat hij het niet meer meende. Ik kwam terug. Hij duwde. Ik kwam terug. Daarna liet hij mij een tijdje.
 
+Ik was niet de enige die de plek bezocht. Op een middag, na de boontjes, viel Lode in slaap in de zetel, wat hij in die jaren bijna niet meer deed, op zijn zij, met zijn gezicht naar de kamer en zijn rug tegen de leuning. Tussen zijn rug en de kussens bleef een spleet. Mira kwam van de vensterbank, liep over de armleuning en wrong zich in die spleet tot ze tegen zijn rug lag, hoog, op het linkerschouderblad. Ze draaide zich één keer om en bleef liggen. Ze spon.
+
+Ik ging naar de plek. Ik kwam er niet bij. Tussen mijn neus en zijn schouderblad lag een grijze, gestreepte flank die op en neer ging. Ik rook stof en sardines, en zijn marcelleke, en daar ergens achter, zwak, het zoete, verkeerde. Ik duwde mijn neus tegen haar rug. Ze deed haar ogen niet open. Ze schoof één voorpoot omhoog, over de rand van zijn hemd, tot op de plek, en liet hem daar liggen.
+
+Ik ben naast de zetel gaan zitten en heb gewacht. Mira lag er nog toen Lode wakker werd. Hij tastte achter zich, vond een kat, en lachte.
+
+"Gij ook al?" zei hij.
+
+Ik noteer de plaats van haar poot. De reden noteer ik niet. Die ken ik niet.
+
 Op een nacht deed ik iets wat ik in jaren niet meer gedaan had. Ik liet de rode bal in de mand liggen en ging de trap op. Het waren veertien treden, en bij de negende moest ik even blijven staan. Boven was het donker en het rook er naar wasverzachter, naar Miekes nachtcrème en naar de warme lucht die uit een slaapkamer komt waar twee mensen ademen. De deur stond open. Die staat altijd open. Ik ging niet naar binnen; dat is de regel, en de regel is mij duizend keer rustig gezegd. Ik ging op de drempel liggen, met mijn neus net over de lijn, waar de touwen loper ophoudt en het tapijt van de slaapkamer begint.
 
 Lode sliep op zijn buik, met het deken tot aan zijn middel. Van op de drempel was het niet te ruiken. Er was te veel kamer tussen. Ik bleef toch liggen.

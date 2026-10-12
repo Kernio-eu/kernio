@@ -52,11 +52,19 @@ Bram heeft gevraagd of we deze zomer naar zee gaan. Daar liep ze achter het ball
 
 Halverwege, waar het pad naar links buigt langs het ven, ben ik rechtdoor gegaan. Ik weet niet waarom. Er was geen reden.
 
-Tussen de dennen was de grond zacht van de naalden. Ze veerden onder mijn voeten. Waar de zon op de stammen kwam, rook het naar hars, zoet en een beetje scherp. Verderop, in een laagte, was het zand nat en donker en rook het naar zand en naar ijzer. Ik ben die geur achterna gegaan, van de ene den naar de andere, zonder haast, zonder te weten waar ik uitkwam.
+Tussen de dennen was de grond zacht van de naalden. Ze veerden onder mijn voeten. Waar de zon op de stammen kwam, rook het naar hars, zoet en een beetje scherp. Verderop, in een laagte aan de rand van het ven, niet ver van waar het pad naar het water afdaalt, was het zand nat en donker en rook het naar zand en naar ijzer.
+
+Daar stond een afdruk.
+
+Hij was groter dan die van een hond. Vier tenen, dicht tegen elkaar, de twee middelste naar voren, en voor elke teen een putje van een nagel. De randen waren hard van de vorst; hij moest er van voor de nacht staan. Ik ben gehurkt en heb mijn hand ernaast gelegd, met de vingers tegen elkaar. Hij was zo lang als mijn handpalm.
+
+Op die plek is zij jaren geleden tegen mijn knie komen staan, met het haar recht op haar rug, van haar nek tot haar staart. Ik vroeg of ze een spook had gezien. Zij had het geroken lang voor ik iets zag. Ik zag het nu alleen. Ik heb mijn neus er niet bij gebracht. Ik wist wat er voor mij in zou zitten.
+
+Achter de eerste afdruk stond een tweede, en een derde, op één lijn, de achterpoot in het spoor van de voorpoot, zoals een dier loopt dat weet waar het naartoe gaat. Ik ben ze achterna gegaan, van de ene naar de andere, tussen de dennen door, zonder haast, zonder te weten waar ik uitkwam.
 
 Meewandelen is voor mij, zei ik vroeger. Dat is geen dogtime. Dogtime is voor haar.
 
-Bij een oude den met een kromme voet, waar de wortels boven het zand uitkomen, ben ik blijven staan. Daar bleef zij altijd staan. Elke keer. Ik heb nooit geweten wat daar lag. Ik stond er dan naast en keek op mijn horloge.
+Waar het zand droog en hard werd, hielden de afdrukken op, een paar passen voor een oude den met een kromme voet, waar de wortels boven het zand uitkomen. Daar bleef zij altijd staan. Elke keer. Ik heb nooit geweten wat daar lag. Ik stond er dan naast en keek op mijn horloge.
 
 Ik boog me voorover, zo diep als mijn rug toeliet, naar het zand tussen de wortels.
 

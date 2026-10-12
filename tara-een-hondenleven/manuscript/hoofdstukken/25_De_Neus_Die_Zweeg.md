@@ -184,6 +184,30 @@ Mieke hing een papiertje op de koelkast met een rode cirkel erop. Ik weet niet w
 
 Op het grasveld maakte hij de lijn nog altijd los. Ik liep nog altijd naar de paal. Hij wachtte nog altijd tot ik klaar was, ook al was er niets om klaar mee te zijn.
 
+Mijn ogen en oren hadden twaalf jaar lang alleen bevestigd wat mijn neus al wist. Ze kwamen achteraan, zoals Lotte uit de auto. Nu moesten ze voorop, en ze kenden de weg niet.
+
+'s Morgens lag ik vroeger al wakker voor hij boven uit bed kwam, omdat zijn slaapgeur als eerste de trap af kwam. Nu kwam er niets af. Ik lag in de mand en luisterde. Er waren twee mensen boven, en de zevende trede piept onder iedereen. Na een paar ochtenden wist ik dat ze niet onder iedereen op dezelfde manier piept. Onder Mieke kort en hoog, als een muis die zich bedenkt. Onder hem lang en laag, omdat hij er zijn hele gewicht op zet en dan nog even blijft hangen. Pas bij die lange piep nam ik de bal in mijn bek. Twaalf jaar had ik hem herkend aan wat hij was. Nu herkende ik hem aan een plank.
+
+Overdag ging het minder goed. Ik ging aan de tuindeur staan, stil, zoals ik altijd deed als ik naar buiten wilde, en Lode deed open. De tuin kwam niet binnen. Vroeger stond hij meteen in de opening, met alles erin: de egel onder de compostbak, een kat die over de schutting was gegaan of niet, de appels die in het gras lagen te gisten. Nu was het een opening met koude lucht, en daarachter een vlak dat groen is voor de mensen. Ik bleef op de drempel staan. Ik keek naar de schutting, naar de groentebakken, naar het donker onder de appelboom, een voor een, zoals Lode de woonkamer afzoekt naar zijn leesbril. Ik wist niet wat daar was, en dus wist ik niet of ik erheen wilde.
+
+Lode bleef met de klink in zijn hand staan tot de kamer koud werd.
+
+"Allez, ouwe," zei hij. "Ik ga mee."
+
+Hij ging voor mij uit, tot onder de appelboom, en bleef daar staan. Toen ging ik ook.
+
+Op een middag sliep ik in de mand, met mijn kin op de bal, en kwam er een hand op mijn rug. Ik schoot overeind. Mijn kop sloeg tegen de rand van de mand, en ik stond met mijn poten in de deken en mijn lippen omhoog voor ik wist wat ik deed. Het was zijn hand. Het was altijd zijn hand geweest. Ik had ze alleen nog nooit eerst gevoeld en pas daarna geweten van wie ze was.
+
+Lode trok zijn hand niet terug. Hij liet ze liggen, heel stil, tot mijn lippen weer over mijn tanden zakten. Daarna ging hij naast de mand op de grond zitten.
+
+Vanaf die middag kondigde hij zich aan. In de deuropening klapte hij twee keer in zijn handen, zacht en laag, zodat het geluid over de vloer naar mij toe kwam, en dan zei hij: "Tara. Ik ben het." Pas dan kwam hij. Op het grasveld, als ik te ver van hem af stond en niet wist welke kant op, floot hij niet meer, want een fluit komt van overal. Hij nam zijn pet af en zwaaide ermee, met zijn arm hoog, tot mijn ogen hem vonden. Een man met een pet in de lucht is goed te zien, ook in grijs.
+
+Mieke liep een keer mee en vroeg wat hij daar stond te doen, midden op het grasveld, met zijn arm omhoog als een man die een bus tegenhoudt.
+
+"Ik roep haar," zei Lode.
+
+Ik kwam.
+
 ### Conclusie
 
 Een conclusie volgt uit metingen. Ik had geen metingen meer.

@@ -70,6 +70,18 @@ Mieke zei het die avond, aan tafel, terwijl Lode zijn aardappelen in vieren snee
 
 Lode at zijn achtste stukje aardappel. Hij gaf mij die avond toch het laatste stukje van zijn bord. Hij legde het niet in mijn bek maar op de grond, en hij keek erbij naar het raam.
 
+Toen ik daarna naar mijn mand ging, lag Mira erin.
+
+Ze lag in het midden, opgerold, met haar kin op mijn pantoffel. De mand rook naar mij, naar het vilt en naar de warmte van de hele middag, en daarbovenop, als een deken over een deken, naar stof en sardines. Ze deed één oog open toen ik aan de rand stond. Daarna deed ze het weer dicht.
+
+Ik heb haar niet weggeduwd. Dat heb ik in al die jaren nooit gedaan. Ik ging op de tegels voor de kachel liggen, op een poot afstand van de mand, met mijn kop zo dat ik de pantoffel kon zien. De tegels waren koel, want de kachel brandde in die tijd van het jaar nog niet, en ze roken naar de zeep waarmee Mieke 's morgens had gedweild.
+
+"Ge laat u doen door een kat van vier kilo," zei Lode vanuit de zetel.
+
+"Laat ze," zei Mieke.
+
+Ergens in de nacht hoorde ik de mand kraken en zachte poten op de vloer. Toen ik opstond en erin stapte, was het kussen nog warm. De pantoffel lag niet meer in het midden. Hij lag aan de rand, waar ik hem altijd leg. Ik heb dat genoteerd en er geen hypothese aan verbonden.
+
 ### Experiment
 
 Wandeltype: meewandelen, zeventien keer achter elkaar.

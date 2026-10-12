@@ -34,6 +34,52 @@ Ik heb in die periode op kinderdag vaak een roze speldje op mijn linkeroor gedra
 
 Bram dacht daar een tijd over na, tussen twee schoten, en schoot dan naast. Hij heeft het niet meer tegengesproken. Ik heb het ook niet gedaan. Er zat een koekje in Lottes jaszak, en ik wist dat.
 
+Dat koekje kwam niet uit de trommel op de tweede plank. Het kwam van Mieke.
+
+Als Mieke aan het aanrecht kaas sneed, rook de keuken naar korst: het harde, zoute randje dat mensen niet eten. Dat randje viel nooit in de vuilnisbak. Het viel uit haar linkerhand naar beneden, zonder dat haar hoofd zich omdraaide, op de plek waar ik zat. Op kinderdag stond er een koek op tafel die naar boter en kaneel rook, en Mieke keek naar het raam terwijl Bram en Lotte hun stuk in tweeën braken en de helften onder de tafel verdwenen.
+
+"Niet aan opa zeggen," zei ze dan.
+
+Ik heb het niet gezegd.
+
+Aan tafel, 's avonds, was ze een andere vrouw. Als Lode na het getik van het bestek met zijn bord naar mijn mand kwam, zei ze: "Een klein stukje, Lode. Ze is geen vuilnisbak." Of: "Gij met uw roedel." Lode sneed het stukje dan nog wat kleiner, met zijn rug naar haar toe.
+
+Toen gingen we naar de dierenarts in het dorp, voor de prik die ik elk jaar krijg. De vloer van de wachtkamer rook naar de angst van honderd honden, zoals altijd. Nieuw was een plaat van zwart rubber in de hoek, die naar al die honden tegelijk rook. Ik moest erop gaan staan. Ze piepte. De dierenarts keek naar een getal en daarna naar mij, van opzij, zoals Lode naar een auto kijkt die te laag op zijn veren staat. Hij legde zijn hand op mijn ribben en duwde. Ik voelde zijn vingers zoeken.
+
+"Ze mag er een paar kilo af," zei hij. "Krijgt ze iets tussendoor?"
+
+"Een stukje van mijn bord," zei Lode. "Na het eten. Een klein stukje." Hij hield zijn duim en wijsvinger een eind uit elkaar, en daarna wat dichter.
+
+"Daar komen die kilo's niet van."
+
+Thuis stond Mieke met haar armen over elkaar in de deur van de keuken. "Ik heb het u gezegd. Dat bord."
+
+Lode gaf mij die avond geen stukje, en de avond daarna ook niet. Op de derde dag stond hij in de deuropening van de keuken terwijl Mieke kaas sneed. Hij keek niet naar Mieke. Hij keek naar mij. Ik zat naast haar linkervoet, met mijn kop omhoog en mijn ogen op haar hand, zoals ik daar altijd zat als het mes in de kaas ging.
+
+"Mieke," zei hij. "Waarom zit die hond daar?"
+
+"Ze zit overal waar eten is."
+
+"Bij mij zit ze niet als ik kaas snij."
+
+Mieke sneed verder. Het korstje viel niet. Het bleef op de plank liggen, en ik keek ernaar, en Lode keek naar mij die ernaar keek. Haar handcrème rook ineens sterker, zoals altijd wanneer haar handen warm worden.
+
+"Een korstje," zei ze ten slotte, zonder op te kijken. Ze schoof het met de punt van het mes naar de rand van de plank. "Dat eet een mens toch niet. En met de kinderen een stukje koek. Dat is iets anders."
+
+"Elke keer?"
+
+"Bijna elke keer." Ze legde het mes neer en veegde haar handen af aan haar schort, langer dan nodig was.
+
+Lode lachte niet. Hij kwam naast haar staan, nam het korstje van de plank en at het zelf op.
+
+"Dan zijn we met twee," zei hij. "Dat heet een roedel."
+
+"Zwijg," zei Mieke, en ze gaf hem een tik met de theedoek.
+
+Vanaf toen lag het korstje in de vuilnisbak, met het deksel erop, en kreeg ik mijn stukje van Lodes bord terug, kleiner dan vroeger.
+
+Ik heb dit niet als een verlies genoteerd, maar als een wetenschappelijk dilemma. De dierenarts mat: te veel. Twee proefpersonen hadden jarenlang, elk op een eigen plaats en één van hen in het geheim, het tegendeel vastgesteld. Welke meting de juiste is, weet ik nog altijd niet. Voor de volledigheid ben ik naast Miekes linkervoet blijven zitten als ze kaas sneed.
+
 ### Hypothese
 
 Op een kinderdag in het najaar rook Bram niet alleen naar voetbalschoenen en chips. Er zat iets zuurs onder. Ik kende het van Lode, van de jaren van de Ring, maar bij Bram was het jonger en dunner, minder metaal en meer citroen. Het was het sterkst bij zijn boekentas, die in de gang stond, onder de kapstok, naast de lijn.

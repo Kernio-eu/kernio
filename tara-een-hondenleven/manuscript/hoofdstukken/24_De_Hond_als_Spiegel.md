@@ -120,7 +120,33 @@ Lode kwam voorbij, draafde, en hoorde het. Hij bleef niet staan.
 
 "Zie."
 
+Sofie lachte niet. Onder het parfum kwam iets naar boven wat ik bij haar zelden rook: het dunne, scherpe dat ik van Lode ken uit de jaren van de Ring, maar jonger. Haar armen bleven over elkaar, en haar vingers drukten in haar mouwen tot de toppen wit werden. Ze keek niet naar haar vader. Ze keek naar Lottes rug.
+
 Bij de lantaarnpaal liet hij het zadel los. Lotte fietste verder, zonder het te weten, tot aan de hoek. Daar keek ze om, zag dat hij er niet was, en viel. Lode stond bij de lantaarnpaal en hijgde niet.
+
+Lotte stond zelf weer op, voor iemand bij haar was, en riep dat ze het kon. Ze bleef aan de hoek oefenen, heen en weer tussen twee vuilnisbakken. Lode kwam langzaam terug over de stoep, met zijn hand in zijn zij, en bleef aan de andere kant van het hekje staan, tegenover Sofie. Ik lag tussen hen in, onder de lat. Hij rook naar zweet en koffie en naar de straat aan zijn schoenen. Sofie had haar armen losgemaakt en haar handen op de bovenste lat gelegd.
+
+"Ge zijt tegen de kerkmuur gereden," zei hij.
+
+"Twee keer."
+
+"En ik stond te roepen dat ge moest trappen."
+
+"Trappen, Sofie. Trappen. Kijk vooruit." Ze deed zijn stem na, lager dan de hare en harder. "Heel het dorp wist dat ik moest trappen."
+
+Lode legde zijn handen ook op de lat en keek ernaar. Ze lagen naast de hare, met een handbreed ertussen.
+
+"Ik wist het niet beter," zei hij. "Toen."
+
+Meer kwam er niet. Hij zei niet wat hij nu wel wist. Hij schoof één hand over de lat, tot zijn pink tegen de hare lag, en liet hem daar.
+
+Sofie trok haar hand niet weg. Ze ademde lang uit door haar neus. Het scherpe zakte weg, en wat eronder lag, rook naar zout, aan één kant van haar gezicht. Ze veegde met de rug van haar hand over haar wang en zei dat de zon in haar ogen scheen. De zon stond achter het huis. Ik noteer dat zonder conclusie.
+
+"Ge hebt het toch geleerd," zei Lode.
+
+"Ja." Ze haalde haar neus op. "Met roepen."
+
+Aan de hoek riep Lotte dat iedereen moest kijken. Ze keken allebei, op hetzelfde moment, met hun hoofd op dezelfde manier scheef. Het is een van de weinige gegevens in dit rapport waarvoor ik mijn neus niet nodig had.
 
 ### Conclusie
 
