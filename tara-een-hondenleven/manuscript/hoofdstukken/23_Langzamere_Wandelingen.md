@@ -90,7 +90,7 @@ Dat het grootste deel van een leven in twee soorten kan bestaan, en dat die twee
 
 's Avonds nam ik de rode bal mee naar de mand. Hij was niet rood meer, zei Mieke. Hij was roze geworden van het bijten en het zand en de jaren. Voor mij was hij nooit rood geweest. Hij rook nog wel helemaal naar mij.
 
-> **Onderzoeksdossier 41**
+> **Onderzoeksdossier 41 (herzien)**
 > Onderwerp: de stofzuiger.
 > Status: herzien. Vroeger levensgevaarlijk. Nu vooral luid.
 > Observatie: de stofzuiger wordt aangezet. De onderzoeker blijft liggen. Opstaan kost meer dan vluchten oplevert.
