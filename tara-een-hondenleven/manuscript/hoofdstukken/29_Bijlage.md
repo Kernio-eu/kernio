@@ -12,9 +12,12 @@ Hieronder volgt een overzicht van de wetten en dossiers die in dit verslag zijn 
 - **Labradorwet nr. 31.** Een wandeling is nooit dezelfde. Alleen mensen denken dat. (hoofdstuk 11)
 - **Labradorwet nr. 38.** Wie eerst eet, moet ook delen. Anders is het geen roedel, maar een restaurant. (hoofdstuk 14)
 - **Labradorwet nr. 40.** Meewandelen is ook wandelen. *Niet opgenomen: ingediend door de proefpersoon, afgewezen door de onderzoeker.*
+- **Labradorwet nr. 44.** Als iemand zegt dat hij geen honger heeft, wacht vijf minuten. *Niet opgenomen: te vaak bevestigd om nog onderzoek te heten.*
 - **Labradorwet nr. 45.** Een goede onderzoeker twijfelt aan haar hypothese. Een goede hond twijfelt nooit aan haar baas. (hoofdstuk 19)
 - **Labradorwet nr. 47.** Wandel elke dag, in elk weer, ook als je stijf bent. Op den duur vergeet je waarom je ooit begonnen bent. Dat is het goede moment om door te gaan. (hoofdstuk 24)
 - **Labradorwet nr. 52.** Wat je niet begrijpt, mag je nog steeds liefhebben. (hoofdstuk 26)
+- **Labradorwet nr. 57.** Verdriet wordt lichter wanneer je ernaast gaat liggen. *Niet opgenomen: de onderzoeker deed het liever dan het op te schrijven.*
+- **Labradorwet nr. 63.** Een bal die onder de bank ligt, is niet kwijt. Hij wacht. *Niet opgenomen.*
 
 ## Onderzoeksdossiers
 
@@ -32,6 +35,7 @@ Hieronder volgt een overzicht van de wetten en dossiers die in dit verslag zijn 
 - **Dossier 77.** De koekjestrommel. Status: dossier vermoedelijk in de koekjestrommel opgeborgen. Deksel klemt. *Niet opgenomen.*
 - **Dossier 81.** De kat. Status: de kat werkt niet mee. Eerste meting beantwoord met een mep op de neus van de onderzoeker. *Niet opgenomen.*
 - **Dossier 89.** De postbode. Status: reproduceerbaar gevaar. (hoofdstuk 16)
+- **Dossier 91.** De koelkast. Waarneming: de proefpersoon opent de koelkast, kijkt erin, sluit hem, en opent hem kort daarna opnieuw. Status: mogelijk een opslagplaats van hoop. *Niet opgenomen.*
 - **Dossier 95.** Het bordje in het bos. Status: de proefpersoon kan het lezen en negeert het. De boswachter kan het lezen en wijst ernaar. (hoofdstuk 20)
 - **Dossier 98.** Het bad. Status: ontweken. Onderzoeker bevond zich bij elke poging tot meting onder de keukentafel. *Niet opgenomen.*
 - **Dossier 103.** De spiegel. Status: een tweede hond die nooit buiten komt. Zeer onbeleefd. (hoofdstuk 18)
