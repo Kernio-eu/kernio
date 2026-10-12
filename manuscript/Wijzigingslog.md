@@ -1,5 +1,112 @@
 # Wijzigingslog
 
+## v5 (12 oktober 2026): schuldig verzuim en het hoofdstuk "Twee meter"
+
+Basis: v4.
+
+- Tenlastelegging bij de arrestatie en in "Afwikkeling" gewijzigd in schuldig verzuim met de dood tot gevolg.
+- Nieuw hoofdstuk "Twee meter" tussen "In het ziekenhuis" en "De nieuwe bewaarder".
+- In "In het ziekenhuis" één alinea toegevoegd over de afstand tussen Lars en Sophie.
+- In "De nieuwe bewaarder" de vier korte verzoeningsalinea's uit v4 verwijderd; dat gesprek staat nu in "Twee meter".
+- Inhoudsopgave bijgewerkt (232 bladzijden).
+
+### wijziging
+
+Oud: Niemand protesteerde. Sanders liep naar het raam, waar Van Buren stond, en zei zonder haar stem te verheffen: „Willem van Buren, ik houd u aan op verdenking van het in hulpeloze toestand laten van Erik van der Meer, met de dood tot gevolg. U bent niet verplicht een verklaring af te leggen.”
+
+Nieuw: Niemand protesteerde. Sanders liep naar het raam, waar Van Buren stond, en zei zonder haar stem te verheffen: „Willem van Buren, ik houd u aan op verdenking van schuldig verzuim met de dood van Erik van der Meer tot gevolg. U bent niet verplicht een verklaring af te leggen.”
+
+### wijziging
+
+Oud: „Niemand komt overal mee weg,” zei Sanders. „Van Buren en Arnold de Wit worden allebei vervolgd voor het in hulpeloze toestand laten van Erik van der Meer, met de dood tot gevolg. Bij Van Buren overweegt de officier ook uitlokking. Arnolds verklaring, de kaart en de krassen in de schacht dragen de zaak; de opname doet de rest. De stichting die Van Buren tot twee jaar geleden voorzat, staat onder verscherpt toezicht van drie ministeries, en elk advies dat ze de afgelopen dertig jaar heeft gegeven, wordt opnieuw beoordeeld. Twee van die vondsten worden nu alsnog gepubliceerd.” Ze zweeg even. „Arnold heeft zich niet verzet tegen één punt van de tenlastelegging. Zijn advocaat werd er gek van.”
+
+Nieuw: „Niemand komt overal mee weg,” zei Sanders. „Van Buren en Arnold de Wit worden allebei vervolgd voor schuldig verzuim met de dood van Erik van der Meer tot gevolg. Bij Van Buren overweegt de officier ook uitlokking. Arnolds verklaring, de kaart en de krassen in de schacht dragen de zaak; de opname doet de rest. De stichting die Van Buren tot twee jaar geleden voorzat, staat onder verscherpt toezicht van drie ministeries, en elk advies dat ze de afgelopen dertig jaar heeft gegeven, wordt opnieuw beoordeeld. Twee van die vondsten worden nu alsnog gepubliceerd.” Ze zweeg even. „Arnold heeft zich niet verzet tegen één punt van de tenlastelegging. Zijn advocaat werd er gek van.”
+
+### ingevoegd
+
+Nieuw: Sophie keek naar het raam. Lars stond aan het voeteneind van het bed, zij bij de vensterbank, en de hele kamer lag tussen hen in, met Piet in het midden als een eiland. Niemand anders leek het te merken. Piet wel. Hij keek van de een naar de ander en zei er niets van, wat voor Piet een prestatie was.
+
+### verwijderd
+
+Oud: Sophie bleef staan waar ze stond. Sinds de Herengracht hadden ze over alles gesproken behalve over dit, en de stilte ertussen was bijna een week oud.
+
+### verwijderd
+
+Oud: „Je had het me in Aken al kunnen zeggen,” zei Lars, zonder op te kijken. Het klonk niet als een verwijt. Het klonk als iets wat hij al dagen had willen zeggen om te horen hoe het klonk.
+
+### verwijderd
+
+Oud: „In Aken wist ik het nog niet,” zei Sophie. „Ik wist alleen een zin.” Ze aarzelde. „En daarna had ik hem één nacht beloofd. Ik weet niet of dat goed was.”
+
+### verwijderd
+
+Oud: Lars knikte, langzaam, met de beitel in zijn hand. „Hij heeft me geschreven,” zei hij. „Je vader. Gisteren kwam de brief. Vier kantjes. Ik heb hem drie keer gelezen.” Hij keek naar de lege steen. „Ik weet nog niet wat ik ervan vind. Maar hij heeft het zelf gedaan. Dat telt.”
+
+### wijziging
+
+Oud: De Sint-Pietersberg voelde een week later anders aan dan bij elk eerder bezoek, niet omdat de heuvel zelf was veranderd, maar omdat Lars, terwijl hij door het hek liep dat nu open en officieel gemarkeerd stond met het gele lint van een forensisch onderzoek dat al was afgerond, voor het eerst het gevoel had dat hij hier kwam uit keuze en niet uit noodzaak. Sophie liep naast hem, een halve pas opzij, en Isaak volgde twee passen achter met een zaklamp die hij, ondanks de nieuwe stroomkabels die de aannemers hadden aangelegd voor het onderzoeksteam, uit gewoonte toch had meegenomen.
+
+Nieuw: De Sint-Pietersberg voelde een week later anders aan dan bij elk eerder bezoek, niet omdat de heuvel zelf was veranderd, maar omdat Lars, terwijl hij door het hek liep dat nu open en officieel gemarkeerd stond met het gele lint van een forensisch onderzoek dat al was afgerond, voor het eerst het gevoel had dat hij hier kwam uit keuze en niet uit noodzaak. Sophie liep naast hem, en Isaak volgde twee passen achter met een zaklamp die hij, ondanks de nieuwe stroomkabels die de aannemers hadden aangelegd voor het onderzoeksteam, uit gewoonte toch had meegenomen.
+
+### nieuw hoofdstuk
+
+Oud: Twee meter
+
+Nieuw: Het regende al sinds de middag, een fijne, volhardende Amsterdamse regen die geen haast had en geen einde, en de Brouwersgracht lag erbij als een strook gehamerd tin. Sophie zat in de kajuit met alleen het leeslampje aan. Het water tikte tegen de romp, traag, als een klok die achterliep. Op tafel lag een stapel post die ze niet had geopend, en daarbovenop haar telefoon, die al vijf dagen niet was gegaan op de manier waarop ze wilde dat hij ging.
+
+Vijf dagen. Ze had Lars gezien bij de notaris, waar ze hun namen onder elkaar hadden gezet zonder elkaar aan te kijken, en één keer bij Sanders, aan een tafel met een kan water en drie rechercheurs. Daarna niets. Ze had hem twee berichten gestuurd. Het eerste had hij gelezen. Het tweede niet.
+
+Om tien uur hoorde ze voetstappen op de kade, en toen het geluid dat ze kende van elke bezoeker die ze ooit had gehad: de loopplank die even doorboog en kraakte, het moment van aarzeling op de rand.
+
+Lars stond in de regen zonder paraplu. Zijn haar plakte tegen zijn voorhoofd, net als die eerste ochtend, en in zijn hand had hij een envelop die aan de randen nat was geworden.
+
+„Mag ik binnenkomen,” zei hij. Het klonk niet als een vraag.
+
+Ze deed een stap opzij. Hij bleef midden in de kajuit staan, zoals die eerste keer, met het air van een man die niet wist of hij mocht gaan zitten. Toen zag ze hem kijken. Niet naar haar. Naar de wand achter haar, naar de plank met restauratiehandleidingen, en naar de ingelijste foto die half verscholen stond achter de boeken: een streng kijkende man in een donker pak.
+
+„Dat is hem,” zei Lars.
+
+„Ja.”
+
+„Die stond hier al. Die eerste dag. Ik heb op die bank gezeten en hem niet gezien.”
+
+„Ik heb hem nooit opgehangen,” zei Sophie. „En nooit weggegooid. Ik weet niet waarom niet.”
+
+Lars legde de envelop op tafel, op de stapel post, zodat hij precies tussen hen in lag. „Vier kantjes,” zei hij. „Hij schrijft dat mijn vader hem riep, toen hij wegrende. Zijn naam. Twee keer. Dat hij dat elke nacht hoort.” Hij keek naar de envelop alsof die zou gaan bewegen. „Ik heb hem gelezen in de trein. Mijn moeder weet het nog niet. Ik weet niet hoe ik het haar moet vertellen.”
+
+Sophie zei niets. Er was niets wat ze kon zeggen dat niet over haarzelf zou gaan.
+
+„In Aken,” zei Lars. „Toen ik die zin las. Sommige vragen kunnen beter in de kantlijn blijven. Je zat naast me. Je zei niets.”
+
+„Ik wist het niet zeker.”
+
+„Je wist genoeg om naar Den Haag te gaan. Alleen.” Zijn stem bleef laag, en dat was erger dan als hij had geschreeuwd. „En daarna heb je me laten staan bij een auto achter het Amstelstation en gezegd: morgen. Terwijl je zijn kaart in je tas had. Mijn vaders kaart, Sophie. Die twaalf jaar in een la heeft gelegen, in een huis waar elke zondag gewoon werd gegeten, terwijl mijn moeder drie keer een voicemail insprak.”
+
+Het water tikte tegen de romp. Ergens op de gracht voer een late boot voorbij, en de golfslag liet de lamp aan het plafond heel licht slingeren, zodat hun schaduwen even over de wand gleden en weer stil kwamen te staan.
+
+„Ik was tweeëntwintig,” zei Sophie. „Ik zag zijn schoenen en ik wist dat er iets was, en ik wist niet wat, en ik ben weggegaan. Dat is alles wat ik toen kon. Twaalf jaar lang heb ik gedacht dat ik wegging omdat hij geen antwoord gaf. Vorige week heb ik ontdekt dat ik wegging omdat ik het antwoord niet wilde horen.” Ze merkte dat haar handen trilden en legde ze plat op tafel, naast de envelop. „Ik had het je die nacht moeten vertellen. Ik heb hem die nacht gegeven omdat hij mijn vader is. Dat is de waarheid, en ze is niet mooi.”
+
+Lars keek haar lang aan. Toen ging hij zitten, op de bank, tussen de vaktijdschriften en het kussen met de gescheurde hoes, precies waar hij die eerste ochtend had gezeten.
+
+„Weet je wat het ergste is,” zei hij. „Dat ik het begrijp. Als het mijn vader was geweest, had ik hem die nacht ook gegeven.” Hij wreef met beide handen over zijn gezicht. „Ik wil boos op je zijn. Ik ben vijf dagen boos op je geweest. Het lukt steeds slechter.”
+
+Iets in Sophie gaf mee, een spanning die ze sinds de Herengracht in haar schouders had gedragen. Ze stond op en zette water op, uit gewoonte, en de vertrouwde klik van het fornuis vulde de kajuit. In een keukenkastje vond ze nog een half pak beschuit. Ze legde het tussen hen in, naast de envelop, zonder commentaar.
+
+Lars keek ernaar en lachte, kort, voor het eerst in dagen. „Beschuit,” zei hij.
+
+„Normaal eten maakt normaal wat er gebeurd is,” zei Sophie. „Dat dacht ik die eerste ochtend. Toen werkte het ook niet.”
+
+Ze dronken thee. Buiten werd de regen zachter. Lars vertelde over zijn moeder, die hij nog niets had durven vertellen, en over een paard in houtskool op de wand van een mergelgang dat hij zich ineens herinnerde, uit de keren dat zijn vader hem als jongen had meegenomen. Sophie vertelde over haar vader, die ze die middag aan de telefoon had gehad en die had gevraagd of ze de ring wilde hebben, en dat ze nee had gezegd. Nog niet.
+
+Tegen middernacht stond Lars op. Bij de deur bleef hij staan, zijn hand op de klink, de envelop weer in zijn binnenzak.
+
+„Zaterdag ga ik naar de berg,” zei hij. „Isaak gaat mee. Ik wil mijn naam onder die van mijn vader zetten.” Hij aarzelde. „Ik weet niet of ik dat zonder jou kan. Ik weet ook niet of ik het met jou kan. Maar ik wil het met jou proberen.”
+
+Sophie stond op twee meter van hem, net als in die bibliotheek aan de Herengracht. Ze dacht erover na hoe je zo'n afstand oversteekt. Toen deed ze het gewoon, met twee stappen, en legde haar voorhoofd tegen zijn natte jas, en voelde zijn hand, na een seconde die heel lang duurde, op haar achterhoofd.
+
+„Zaterdag,” zei ze.
+
+
 ## v4 (12 oktober 2026): continuïteit en ontknoping
 
 Basis: v3. Bevat de nieuwe proloog (nu met de juiste alinea-inspringing), alle punten van de continuïteitslijst in de story bible, en een herschreven ontknoping.
