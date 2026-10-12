@@ -8,7 +8,47 @@ Dat was de eerste vraag. Er kwam geen tweede. Dat had ik moeten opmerken.
 
 ### Observatie
 
-Het begon in de herfst, toen de tuin naar natte bladeren en paddenstoelen rook en de kachel voor het eerst weer aanging. Ik niesde op de deurmat, waar alle geuren eerst landen. Eén keer. Dat was niets bijzonders. Een neus die de hele dag werkt, moet af en toe leeg. Ik had het honderden keren gedaan, na stof, na peper, na het flesje dat Sofie in haar hals spuit.
+Eerst moet ik iets vermelden wat voor het niezen gebeurde. Ik heb het toen niet als een probleem genoteerd. Ik heb het genoteerd als een vondst.
+
+Het was het einde van de zomer. De boontjes achteraan bij de compostbak waren geplukt, en de stokken lagen in een bundel tegen de schutting. In de garage, waar de zak met mijn brokken staat, naast de fietsen en Lodes laarzen, liep 's nachts een nieuw spoor langs de muur: klein, haastig, naar stof en graan en de achterkant van een kast. Muizen. Ze kwamen voor mijn brokken. Ik wist het lang voor Lode. Hij zag het pas aan een gaatje in de zak.
+
+Op een avond zat hij lang gehurkt achteraan in de garage, met zijn leesbril op en een doosje in zijn hand. Daarna rook het onderaan de achterste muur, achter het rek met de verfpotten, naar graan en naar iets zoets en vets, zoals de boterhammen van Bram. Het kwam uit een spleet tussen twee stenen, waar de voeg uit gevallen was.
+
+De volgende middag stond de zijdeur van de garage open. Lode had de grasmaaier binnengereden en was naar de compostbak gelopen. Een open deur laat een Labrador niet onbeproefd. Uit de spleet stak een blokje, net ver genoeg om er mijn tanden achter te krijgen. Het smaakte naar graan en vet, en op het einde naar iets bitters. Achter het eerste lag een tweede. Daarachter, dieper, lag er nog, waar ik mijn tong voor nodig had. Ik heb de spleet leeggemaakt zoals ik een kom leegmaak: grondig, tot er alleen nog steen was.
+
+Daar vond Lode mij, met mijn neus in de muur. Hij ging op zijn hurken zitten en scheen met zijn telefoon in de spleet. Hij stak er zijn vinger in, zo ver als hij kon. Toen rook hij ineens naar metaal, van zijn handen tot in zijn nek, scherper dan vroeger na de Ring.
+
+"Er lagen er vijf," zei hij, tegen de muur. "Gisteren lagen er nog vijf."
+
+Hij keek naar de keutels op de plank, en naar mij. Hij veegde met zijn duim iets van mijn lippen en keek naar zijn duim. Die was blauw. Blauw is een van de weinige kleuren die ik goed zie.
+
+"Dat kan geen muizenwerk zijn."
+
+In de auto las hij het doosje hardop voor, met de motor al aan, en daarna nog eens.
+
+De dierenarts in het dorp liet ons niet in de wachtkamer zitten. Hij las het doosje en vroeg hoe lang het geleden was.
+
+"Een half uur," zei Lode. "Hooguit een uur."
+
+"Dan zijn we op tijd."
+
+Ik kreeg een spuitje in mijn nek. Daarna stond ik op de koude metalen tafel, in de geur van ontsmetting die in mijn neus brandde zoals altijd, en de kamer helde over, en alles wat ik in de garage gevonden had, kwam terug op de tegels. Graan, vet, blauw. Ik heb het niet opnieuw opgegeten. Dat noteer ik, omdat het de eerste keer was.
+
+"Dat gif zorgt dat het bloed niet meer stolt," zei de dierenarts. "Niet vandaag. Over een paar dagen. Daarom geven we vitamine K, elke dag, vier weken lang. Daarna kijken we haar bloed na."
+
+"En dan is het goed?"
+
+"Dan zou het goed moeten zijn."
+
+Vanaf dan kreeg ik elke ochtend twee blokjes kaas: één met het pilletje voor mijn gewrichten en één met het nieuwe. Ik noteerde een gunstige wending in het onderzoek. Lode metselde de spleet dicht, op zijn knieën, met een emmertje specie, en zette in de garage vallen met kaas erop. Mijn kaas.
+
+Toen de pilletjes op waren, kreeg ik een prik in mijn voorpoot, en een buisje van mijn bloed bleef bij de dierenarts. Die avond ging de telefoon. Lode zei "ja", en "goed", en "merci, dokter".
+
+"Het stolt," zei hij tegen Mieke. "Het is in orde."
+
+Daarna kreeg ik een blokje kaas zonder pilletje erin. Ik heb het nagekeken.
+
+Het niezen begon in de herfst, toen de tuin naar natte bladeren en paddenstoelen rook en de kachel voor het eerst weer aanging. Ik niesde op de deurmat, waar alle geuren eerst landen. Eén keer. Dat was niets bijzonders. Een neus die de hele dag werkt, moet af en toe leeg. Ik had het honderden keren gedaan, na stof, na peper, na het flesje dat Sofie in haar hals spuit.
 
 Daarna niesde ik in reeksen. Drie keer, vier keer, vijf keer na elkaar, tot mijn kop bij elke keer tegen de tegels tikte. De proefpersoon keek op van zijn tablet.
 
@@ -16,7 +56,15 @@ Daarna niesde ik in reeksen. Drie keer, vier keer, vijf keer na elkaar, tot mijn
 
 Bij de vijfde keer zei hij niets meer. Hij legde het weg, met het scherm naar beneden.
 
-Uit mijn linkerneusgat kwam slijm. Alleen links. Ik likte het weg en het kwam terug, dik en geel. Later zat er bloed bij. Een rode draad op het kussen van de mand, 's morgens, op de plek waar mijn kin had gelegen. Mieke waste het kussen. Ze waste het een week later weer.
+Uit mijn linkerneusgat kwam slijm. Alleen links. Ik likte het weg en het kwam terug, dik en geel. Later zat er bloed bij. Een rode draad op het kussen van de mand, 's morgens, op de plek waar mijn kin had gelegen. Lode zag het eerst. Hij stond met het kussen in zijn handen, en hij rook naar metaal, zoals in de garage.
+
+"Het gif," zei hij.
+
+Diezelfde ochtend stond ik weer bij de dierenarts in het dorp, en kreeg ik weer een prik in mijn voorpoot. 's Avonds belde hij. Lode bleef met de telefoon in zijn hand staan.
+
+"Haar bloed stolt goed," zei hij tegen Mieke. "Het is het gif niet. Hij weet niet waar het van komt. Als het niet overgaat, moeten we terug."
+
+Mieke waste het kussen. Ze waste het een week later weer.
 
 Op kinderdag stond Sofies auto op de oprit en kwam Bram de gang in, met zijn voetbalschoenen in een zak. Hij hurkte bij de mand.
 
@@ -82,7 +130,7 @@ Ik stelde er toch een op, uit gewoonte: de neus is moe en komt terug. Ik kon haa
 
 Het experiment werd niet door mij uitgevoerd.
 
-Bij de dierenarts in het dorp stond ik op de koude metalen tafel en wachtte ik op het ontsmettingsmiddel dat altijd in mijn neus brandde zodra de deur openging. Het brandde niet. De vloer van de wachtkamer, waarin de angst van honderd honden zit, was een vloer. Ik ging er plat op liggen alsof het de keuken was.
+Toen we terug moesten, stond ik bij de dierenarts in het dorp opnieuw op de koude metalen tafel en wachtte ik op het ontsmettingsmiddel dat altijd in mijn neus brandde zodra de deur openging. Het brandde niet. De vloer van de wachtkamer, waarin de angst van honderd honden zit, was een vloer. Ik ging er plat op liggen alsof het de keuken was.
 
 De dierenarts scheen met een lampje in mijn neus. Ik trok mijn kop weg. Hij keek lang, met zijn lippen op elkaar.
 

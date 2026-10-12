@@ -134,6 +134,8 @@ Had ze mij gehoord, die eerste avond, met dat oor?
 
 Had ik nog een dag moeten vragen? En daarna nog een?
 
+En verder terug, op het einde van de zomer, de blokjes in de muur van de garage. Was het dat? Had dat gif haar zwakker gemaakt, zodat die schimmel in haar neus kon gaan zitten? Haar bloed was in orde, zei de dierenarts. Dat zullen we nooit weten.
+
 Ik heb er geen antwoord op. Ik schrijf ze op met een vraagteken, zoals de rest.
 
 Daarna heb ik de bal in haar mand gelegd, in het midden, waar haar kin altijd lag. Mira stond op, stapte over de rand en ging ernaast liggen, op de vloer. De halsband heb ik in mijn zak gelaten. Ik weet niet waarom. Dat schrijf ik ook op.
