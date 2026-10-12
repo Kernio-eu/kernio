@@ -1,6 +1,6 @@
 ---
 title: "Tara, een Hondenleven"
-subtitle: "Story bible, versie 7 (12 oktober 2026)"
+subtitle: "Story bible, versie 8 (12 oktober 2026)"
 lang: nl-BE
 ---
 
@@ -546,6 +546,7 @@ Het einde is het moeilijkste en belangrijkste deel van het boek. Deze afspraken 
 - **Dossier 7:** de rode bal. Status: onzichtbaar. Vermoedelijk gemaakt van geur alleen.
 - **Dossier 18:** waarom mensen applaudisseren. Status: nog onbegrepen. Opmerking: niemand krijgt een koekje.
 - **Dossier 26 (nieuw):** de krant. Status: gearchiveerd. De proefpersoon leest sindsdien op een plat licht ding dat niet ritselt. Aanbeveling: geen verder onderzoek nodig.
+- **Dossier 33 (nieuw):** water. Status: reukloos, volgens mensen.
 - **Dossier 41:** de stofzuiger. Status: levensgevaarlijk. Aanbeveling: vanop veilige afstand blijven observeren.
 - **Dossier 64:** gapen. Status: besmettelijk, maar uitsluitend bij eigen mensen.
 - **Dossier 72:** Kerstmis. Status: onverklaarbaar.
@@ -920,3 +921,42 @@ Op aanwijzing van de auteur zijn in versie 7 deze dingen toegevoegd:
 - Bij etenstijd kijkt hij naar zijn schoot. 's Avonds snijdt hij het laatste stukje vlees apart, en hij controleert of de bal in de mand ligt.
 - Hij wandelt na de koffie, via de zandweg en de paal met het bordje, naar de heide met het grote ven. Daar zit een tak vast in het ijs.
 - Bram vraagt of ze "deze zomer" naar zee gaan.
+
+# 23. Versie 8: aanvullingen uit de externe beoordelingen
+
+Op basis van drie externe beoordelingen, met toestemming van de auteur, zijn deze verbeteringen doorgevoerd.
+
+**Gecorrigeerd**
+- **De telfout in het nest (hoofdstuk 2):** zes pups staan in de schaal, twee liggen erin, en het zusje staat aan de rand.
+- **Dossier 41** heet de tweede keer "41 (herzien)".
+- **De bijlage** (29_Bijlage.md) is geschreven. Ze verklaart de verspringende nummering en eindigt met "Status: afgesloten door de proefpersoon."
+
+**Toegevoegd**
+- **Mieke krijgt een fout (hoofdstuk 21).**
+  - Ze geeft Tara stiekem kaaskorstjes en koek, ook met de kinderen op kinderdag ("Niet aan opa zeggen").
+  - Intussen berispt ze Lode als hij aan tafel deelt.
+  - De dierenarts heeft een zwarte rubberen weegplaat en zegt: "Ze mag er een paar kilo af."
+  - Lode betrapt haar, en eet het korstje zelf op: "Dan zijn we met twee. Dat heet een roedel."
+- **De wolf komt terug (epiloog).**
+  - Bij het ven ziet Lode een vers wolvenspoor met vorst in de randen.
+  - De afdrukken houden op een paar passen voor de oude den met de kromme voet.
+  - Lode brengt zijn neus er bewust niet bij.
+- **Mira in de verhaaltekst:**
+  - **hoofdstuk 11:** ze bekijkt de rode kater vanop de vensterbank aan de tuinkant;
+  - **hoofdstuk 16:** ze ligt in Tara's mand, en Tara slaapt op de tegels;
+  - **hoofdstuk 22:** ze legt een poot op de plek op Lodes rug ("Gij ook al?").
+- **Sofie en haar vader (hoofdstuk 24).**
+  - Als kind reed Sofie twee keer tegen de kerkmuur, terwijl Lode riep: "Trappen, Sofie."
+  - Nu erkent hij: "Ik wist het niet beter. Toen."
+  - Hij schuift zijn pink tegen de hare.
+- **Leven zonder neus (hoofdstuk 25).**
+  - De zevende trede piept onder Mieke kort en hoog, onder Lode lang en laag; daaraan herkent Tara hen nog.
+  - Ze blijft te lang op de drempel van de tuindeur staan, tot Lode zegt: "Ik ga mee."
+  - Als zijn hand haar in haar slaap verrast, trekt ze haar lippen op.
+  - Daarna kondigt Lode zich aan met twee keer klappen en "Tara. Ik ben het". Op het grasveld zwaait hij met zijn pet in plaats van te fluiten.
+
+**In uitvoering:** een stijlronde over het hele boek.
+- Doel: ongeveer 58.000 woorden.
+- "Metalig" en "Hij zei niets" worden uitgedund.
+- Het lied wordt na hoofdstuk 10 korter vermeld.
+- "Ge" en "gij" worden consequent gebruikt.
