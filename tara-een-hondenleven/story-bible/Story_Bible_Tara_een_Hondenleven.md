@@ -955,8 +955,8 @@ Op basis van drie externe beoordelingen, met toestemming van de auteur, zijn dez
   - Als zijn hand haar in haar slaap verrast, trekt ze haar lippen op.
   - Daarna kondigt Lode zich aan met twee keer klappen en "Tara. Ik ben het". Op het grasveld zwaait hij met zijn pet in plaats van te fluiten.
 
-**In uitvoering:** een stijlronde over het hele boek.
-- Doel: ongeveer 58.000 woorden.
+**Afgerond:** een stijlronde over het hele boek.
+- Resultaat: ongeveer 59.000 woorden, zo'n 218 bladzijden van 6 x 9 inch.
 - "Metalig" en "Hij zei niets" worden uitgedund.
 - Het lied wordt na hoofdstuk 10 korter vermeld.
 - "Ge" en "gij" worden consequent gebruikt.

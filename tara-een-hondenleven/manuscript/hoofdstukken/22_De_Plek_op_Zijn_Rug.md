@@ -56,7 +56,7 @@ Ik rook het door een trui.
 
 "Ze is zot," zei Lode, en hij duwde mijn kop weg, maar zachter dan de eerste keer. Hij duwde nu altijd zachter. Ik kwam terug. Hij duwde. Ik kwam terug. Daarna liet hij mij een tijdje.
 
-Ik was niet de enige die de plek bezocht. Op een middag, na de boontjes, viel Lode in slaap in de zetel, wat hij in die jaren bijna niet meer deed, op zijn zij, met zijn gezicht naar de kamer en zijn rug tegen de leuning. Tussen zijn rug en de kussens bleef een spleet. Mira kwam van de vensterbank, liep over de armleuning en wrong zich in die spleet tot ze tegen zijn rug lag, hoog, op het linkerschouderblad. Ze draaide zich één keer om en bleef liggen. Ze spon.
+Ik was niet de enige die de plek bezocht. Op een middag, na de boontjes, viel Lode in slaap in de zetel, op zijn zij, met zijn gezicht naar de kamer en zijn rug tegen de leuning. Tussen zijn rug en de kussens bleef een spleet. Mira kwam van de vensterbank, liep over de armleuning en wrong zich in die spleet tot ze tegen zijn rug lag, hoog, op het linkerschouderblad. Ze draaide zich één keer om en bleef liggen. Ze spon.
 
 Ik ging naar de plek. Ik kwam er niet bij. Tussen mijn neus en zijn schouderblad lag een grijze, gestreepte flank die op en neer ging. Ik rook stof en sardines, en zijn marcelleke, en daar ergens achter, zwak, het zoete, verkeerde. Ik duwde mijn neus tegen haar rug. Ze deed haar ogen niet open. Ze schoof één voorpoot omhoog, over de rand van zijn hemd, tot op de plek, en liet hem daar liggen.
 

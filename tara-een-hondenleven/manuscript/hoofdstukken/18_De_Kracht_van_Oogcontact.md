@@ -86,7 +86,7 @@ Ik rook. Ik deed het van onderaf, met mijn nek gestrekt, zoals bij de man in het
 
 "Ze gaat weer de wacht houden," zei Mieke.
 
-Bram had dit allemaal bekeken vanop de trap, met zijn duim in zijn mond. Toen ging hij weg. Hij kwam terug van de zolder, waar ik nooit kom omdat de trap daar te steil is en naar stof en oude kerstballen ruikt, en hij sleepte iets achter zich aan. Het was zijn eigen oude draagmand, de grijze, die Mieke voor kinderdag had bewaard. Hij trok hem over de drempel van de woonkamer. Hij zette hem naast die van Lotte. Hij legde er zijn konijn in, het stoffen konijn met één oor, dat naar zijn speeksel en naar zandbak rook.
+Bram had dit allemaal bekeken vanop de trap, met zijn duim in zijn mond. Toen ging hij weg. Hij kwam terug van de zolder, waar ik nooit kom omdat de trap daar te steil is en naar stof en oude kerstballen ruikt, en hij sleepte iets achter zich aan. Het was zijn eigen oude draagmand, de grijze, die Mieke voor kinderdag had bewaard. Hij zette hem naast die van Lotte. Hij legde er zijn konijn in, het stoffen konijn met één oor, dat naar zijn speeksel en naar zandbak rook.
 
 Toen keek hij mij aan, met de onderzoekende blik.
 
