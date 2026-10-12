@@ -16,9 +16,9 @@ Ik zet koffie. Mijn hand gaat naar de kast waar de maatbeker staat. Halverwege w
 
 Overdag gaat het zo verder.
 
-Als ik naar de bakker ga, zeg ik in de gang: "Ik kom terug." Dat heb ik twaalf jaar gezegd, tegen een hond die al aan de deur stond voor ik mijn sleutels had. Ze kende die woorden. Ze ging dan liggen, met haar neus tegen de kier, en wachtte. Gisteren zei ik het weer. Mieke bleef in de keuken staan, met de theedoek in haar handen.
+Als ik naar de bakker ga, zeg ik in de gang: "Ik kom terug." Dat heb ik jaren gezegd, elke ochtend voor ik naar Antwerpen reed, en daarna bij elke boodschap, tegen een hond die al aan de deur stond voor ik mijn sleutels had. Ze kende die woorden. Ze ging dan liggen, met haar neus tegen de kier, en wachtte. Gisteren zei ik het weer. Mieke bleef in de keuken staan, met de theedoek in haar handen.
 
-Tegen etenstijd kijk ik naar mijn knie. Om die tijd kwam ze haar kop op mijn schoot leggen, zwaar, met haar ogen naar boven, om te vragen of ik haar eten niet vergeten was. Ik ben het nooit vergeten. Ze vroeg het toch, elke dag, voor het geval dat.
+Tegen etenstijd kijk ik naar mijn schoot. Om die tijd kwam ze haar kop daar leggen, zwaar, met haar ogen naar boven, om te vragen of ik haar eten niet vergeten was. Ik ben het nooit vergeten. Ze vroeg het toch, elke dag, voor het geval dat.
 
 's Avonds snijd ik het laatste stukje van mijn vlees apart, aan de rand van mijn bord, voor ik het weet. Ik eet het niet op. Mieke ruimt het af en zegt er niets van.
 
@@ -26,13 +26,13 @@ Na het eten zit ik op de grond, met mijn rug tegen de zetel, op het kussen dat M
 
 Voor ik naar boven ga, kijk ik of de bal in de mand ligt. Hij ligt er altijd. Niemand neemt hem nog mee.
 
-Ik heb mij afgevraagd waarom dat zo'n pijn doet. Het zijn geen slechte dingen. Een trede die piept. Een kop op een knie. Een stukje vlees aan de rand van een bord. Het zijn de beste dingen die ik gehad heb. Waarom zijn het dan juist die, en niet de kliniek?
+Ik heb mij afgevraagd waarom dat zo'n pijn doet. Het zijn geen slechte dingen. Een trede die piept. Een kop op een schoot. Een stukje vlees aan de rand van een bord. Het zijn de beste dingen die ik gehad heb. Waarom zijn het dan juist die, en niet de kliniek?
 
 Ik weet het niet. Ik heb maar een half antwoord, en het komt van haar. Zij heeft mij leren kijken. Leren ruiken. Elke dag hetzelfde doen, op hetzelfde uur, in elk weer. Zij had geen woorden, en ik had er niet veel. Dus deden we elke dag hetzelfde. Ik dacht dat dat gewoontes waren. Het was de manier waarop wij het tegen elkaar zeiden. Nu zeg ik het nog altijd, elke ochtend op de trap, en er is niemand meer die het hoort.
 
 Dat schrijf ik op met een vraagteken. Ik weet niet waar het moet staan.
 
-Na de koffie, op het uur waarop we altijd gingen, neem ik mijn jas van de kapstok. Ze keek altijd eerst naar de kapstok, dan naar mij, dan weer naar de kapstok, tot ik deed wat ik toch al van plan was. Het woord wandelen mocht ik niet zeggen voor mijn schoenen aan waren, want dan stond ze al aan de deur, met haar staart tegen de kapstok. Ze verstond meer woorden dan ik haar ooit geleerd heb. Ik zeg het nu niet meer. De lijn hangt er nog. Ik heb hem niet weggehangen. Mieke ook niet.
+Na de koffie, op het uur waarop we altijd gingen, neem ik mijn jas van de kapstok. Ze keek altijd eerst naar de kapstok, dan naar mij, dan weer naar de kapstok, tot ik deed wat ik toch al van plan was. Het woord wandelen kon ik niet zeggen voor mijn schoenen aan waren, want dan stond ze al aan de deur, met haar staart tegen de kapstok. Ik heb het een tijd gespeld. Na een paar weken kende ze de spelling ook. Ze verstond meer woorden dan ik haar ooit geleerd heb. Wandelen zeg ik nu niet meer. De lijn hangt er nog. Ik heb hem niet weggehangen. Mieke ook niet.
 
 De halsband zit nog in mijn rechterzak. Mijn hand vindt hem elke ochtend, zonder te zoeken.
 
@@ -46,7 +46,7 @@ In de winter is de heide bruin en grijs. Elk takje van de struikhei had een witt
 
 Aan de ingang van het pad staat het bordje. Ik heb er niets meer mee te maken. Ik heb het toch gelezen.
 
-Waar het pad laag bij het water komt, stak een tak uit het ijs. Daar ging ze het ven in als ik "zoek een stok" zei, en ze kwam altijd terug met de verkeerde: te lang, te zwaar, een halve boom. Ze legde hem voor mijn voeten en schudde het ven uit haar vacht, over mijn broek. De tak zat vast. Ik heb hem laten zitten.
+Waar het pad laag bij het water komt, stak een tak uit het ijs. Daar gooide ik vroeger een dode tak in het ven, en ze haalde hem terug, legde hem voor mijn voeten en schudde het ven uit haar vacht, over mijn broek, tot mijn arm op was. Als ik "zoek een stok" zei, zocht ze zelf, en één keer trok ze een jonge berk half uit de grond. De tak in het ijs zat vast. Ik heb hem laten zitten.
 
 Bram heeft gevraagd of we deze zomer naar zee gaan. Daar liep ze achter het balletje de golven in, tot er alleen nog een kop boven het water was, met het balletje erin, en ze kwam terug met zout tot in haar oren. Ik heb gezegd dat ik het nog niet wist.
 
@@ -56,7 +56,7 @@ Tussen de dennen was de grond zacht van de naalden. Ze veerden onder mijn voeten
 
 Meewandelen is voor mij, zei ik vroeger. Dat is geen dogtime. Dogtime is voor haar.
 
-Bij een oude den met een kromme voet, waar de wortels boven het zand uitkomen, ben ik blijven staan. Daar bleef zij altijd staan. Elke keer. Ik heb nooit geweten wat daar lag. Ik stond dan te wachten met de lijn in mijn hand en keek op mijn horloge.
+Bij een oude den met een kromme voet, waar de wortels boven het zand uitkomen, ben ik blijven staan. Daar bleef zij altijd staan. Elke keer. Ik heb nooit geweten wat daar lag. Ik stond er dan naast en keek op mijn horloge.
 
 Ik boog me voorover, zo diep als mijn rug toeliet, naar het zand tussen de wortels.
 

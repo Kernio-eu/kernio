@@ -78,7 +78,7 @@ Op de terugweg liep Lode sneller dan anders, met de lijn zo los dat hij in een b
 
 "Vroeger had ik die mens gelijk gegeven," zei hij. Tegen niemand.
 
-Daarna opende hij de achterklep. Ik sprong erin. Daar lag het dekentje uit de auto weer, sinds de pantoffel zijn plaats in mijn mand had ingenomen. Het rook naar mij en naar de heide van gisteren.
+Daarna opende hij de achterklep. Ik sprong erin, op het dekentje. Het rook naar mij en naar de heide van gisteren.
 
 ### Resultaat
 

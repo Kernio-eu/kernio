@@ -30,7 +30,7 @@ Elke wandelscène is ofwel *meewandelen* (aan de lijn, Lodes tempo, korte strakk
 
 ## 4. Opmaak (Markdown)
 
-- Elk hoofdstuk is een apart bestand: `tara-een-hondenleven/manuscript/hoofdstukken/NN_Titel.md`, bijvoorbeeld `05_De_Eerste_Experimenten.md`. De proloog heet `00_Proloog.md`, de epiloog `27_Epiloog.md`.
+- Elk hoofdstuk is een apart bestand: `tara-een-hondenleven/manuscript/hoofdstukken/NN_Titel.md`, bijvoorbeeld `05_De_Eerste_Experimenten.md`. De proloog heet `00_Proloog.md`, de epiloog `28_Epiloog.md`.
 - De eerste regel is `# Hoofdstuk 5. De Eerste Experimenten`, of `# Proloog. Een Herinnering Ontwaakt`.
 - **Hoofdstuk 1 tot 4** zijn zuiver verhalend, zonder tussenkopjes.
 - **Vanaf hoofdstuk 5** gebruik je deze tussenkopjes, met doorlopend proza eronder:

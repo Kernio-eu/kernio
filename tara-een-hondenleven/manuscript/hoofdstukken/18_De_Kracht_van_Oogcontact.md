@@ -14,7 +14,7 @@ De eerste is oud. Ik was nog geen jaar. Lode had iets gelezen, op papier dat toe
 
 Die blik heb ik al jaren niet meer gezien. De krant is in de vuilnisbak verdwenen, en de blik is met de krant mee gegaan, en ik heb er nooit meer naar gezocht.
 
-De tweede blik is van nu. Het was winter toen ik hem begon te meten. De houtkachel tikte bij het opwarmen en het oranje licht bewoog over het tapijt. Buiten was het donker voor Lode thuiskwam, en hij kwam binnen met de kou in zijn jas en de Ring nog in zijn schouders, en hij ging zitten in zijn zetel. Ik ging liggen voor zijn voeten met mijn kin op de pantoffel. Ik keek naar hem.
+De tweede blik is van nu. Het was winter toen ik hem begon te meten. De houtkachel tikte en het oranje licht bewoog over het tapijt. Buiten was het donker voor Lode thuiskwam, en hij kwam binnen met de kou in zijn jas en de Ring nog in zijn schouders, en hij ging zitten in zijn zetel. Ik ging liggen voor zijn voeten met mijn kin op de pantoffel. Ik keek naar hem.
 
 Hij keek terug.
 
@@ -32,7 +32,7 @@ Ik stelde de hypothese op dat de liefdevolle blik een soort wederzijdse ademhali
 
 ### Experiment
 
-Het experiment liep over een hele winter en een voorjaar, en het werd onderbroken door een geboorte.
+Het experiment besloeg de winteravonden, en het kreeg een vervolg dat ik niet had gepland: een geboorte.
 
 Eerst de metingen. Ik koos de avonden, omdat Lode dan uit de stad komt en zijn ademhaling dan het snelst gaat. Ik telde zijn ademhalingen van de deur tot aan zijn zetel. Daarna ging ik voor hem liggen, keek, en telde opnieuw. Ik ben geen boekhouder. Wandelingen tel ik goed, want een wandeling heeft een lijn die aanklikt en een lijn die losklikt, maar ademhalingen lopen in elkaar over, en na een handvol wordt het "veel". Maar het verschil tussen "veel" en "minder" is zelfs voor mij betrouwbaar waarneembaar, en het was er, elke avond, behalve op de avonden dat hij meteen zijn tablet nam en niet terugkeek. Die avonden noteer ik als controlegroep.
 

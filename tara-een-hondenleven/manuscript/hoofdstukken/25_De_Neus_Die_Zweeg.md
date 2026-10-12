@@ -10,7 +10,7 @@ Dat was de eerste vraag. Er kwam geen tweede. Dat had ik moeten opmerken.
 
 Eerst moet ik iets vermelden wat voor het niezen gebeurde. Ik heb het toen niet als een probleem genoteerd. Ik heb het genoteerd als een vondst.
 
-Het was het einde van de zomer. De boontjes achteraan bij de compostbak waren geplukt, en de stokken lagen in een bundel tegen de schutting. In de garage, waar de zak met mijn brokken staat, naast de fietsen en Lodes laarzen, liep 's nachts een nieuw spoor langs de muur: klein, haastig, naar stof en graan en de achterkant van een kast. Muizen. Ze kwamen voor mijn brokken. Ik wist het lang voor Lode. Hij zag het pas aan een gaatje in de zak.
+De zomer liep ten einde. De boontjes achteraan bij de compostbak waren geplukt, en de stokken lagen in een bundel tegen de schutting. In de garage, waar de zak met mijn brokken staat, naast de fietsen en Lodes laarzen, liep 's nachts een nieuw spoor langs de muur: klein, haastig, naar stof en graan en de achterkant van een kast. Muizen. Ze kwamen voor mijn brokken. Ik wist het lang voor Lode. Hij zag het pas aan een gaatje in de zak.
 
 Op een avond zat hij lang gehurkt achteraan in de garage, met zijn leesbril op en een doosje in zijn hand. Daarna rook het onderaan de achterste muur, achter het rek met de verfpotten, naar graan en naar iets zoets en vets, zoals de boterhammen van Bram. Het kwam uit een spleet tussen twee stenen, waar de voeg uit gevallen was.
 
@@ -20,7 +20,7 @@ Daar vond Lode mij, met mijn neus in de muur. Hij ging op zijn hurken zitten en 
 
 "Er lagen er vijf," zei hij, tegen de muur. "Gisteren lagen er nog vijf."
 
-Hij keek naar de keutels op de plank, en naar mij. Hij veegde met zijn duim iets van mijn lippen en keek naar zijn duim. Die was blauw. Blauw is een van de weinige kleuren die ik goed zie.
+Hij keek naar de keutels op de plank, en naar mij. Hij veegde met zijn duim iets van mijn lippen en keek naar zijn duim. Die was blauw. Blauw zie ik goed.
 
 "Dat kan geen muizenwerk zijn."
 
@@ -66,7 +66,7 @@ Diezelfde ochtend stond ik weer bij de dierenarts in het dorp, en kreeg ik weer 
 
 Mieke waste het kussen. Ze waste het een week later weer.
 
-Op kinderdag stond Sofies auto op de oprit en kwam Bram de gang in, met zijn voetbalschoenen in een zak. Hij hurkte bij de mand.
+Op kinderdag, met Sofies auto op de oprit, kwam Bram de gang in, met zijn voetbalschoenen in een zak. Hij hurkte bij de mand.
 
 "Opa, kijk. Ze heeft een snottebel."
 

@@ -10,7 +10,7 @@ Wandeltype: dogtime.
 
 Het ven lag achter het dennenbos, aan het eind van de zandweg, en ik rook het lang voor ik het zag: eerst het ijzer, koel en roestig, dan de kikkers, dan het riet en de modder aan de rand, zwart en zoet en vol dingen die ooit hadden geleefd, en onder de dennen werd het zand koeler en veerden de naalden onder mijn poten, en tussen de stammen speelde een licht dat beweeglijk was en zilver, alsof iemand achter de bomen met een spiegel stond, en ik versnelde, en achter mij riep de proefpersoon iets wat ik niet hoefde te verstaan.
 
-Die zomer was ik op mijn sterkst, en mijn lijf wilde vooral één ding.
+Ik was toen ongeveer drie. Die zomer was ik op mijn sterkst, en mijn lijf wilde vooral één ding.
 
 Ik ging het water in zoals je in een mand gaat, zonder te kijken of het mag. De kou rond mijn poten, dan rond mijn buik, dan het moment waarop de bodem verdwijnt en je lijf licht wordt en je poten vanzelf beginnen te trappelen.
 
@@ -24,7 +24,7 @@ Ik nam hem zacht tussen mijn tanden, zwom terug, klom de oever op, legde de tak 
 
 Het water vloog in een kring van mij af, en het grootste deel van die kring was de proefpersoon. Hij gooide de tak verder. Het spel hield op wanneer hij zei dat zijn arm "op" was, en zijn arm was altijd eerder op dan ik.
 
-Ik versta meer woorden dan mensen denken. *Bal*, *koekje*, *wandelen*, *dogtime*: dat weten ze. Maar ik ken ook *auto*, en *bad*, waarna ik onder de keukentafel ga liggen, en het verschil tussen *straks* en *nu*, dat bij de proefpersoon kleiner is dan hij denkt. En ik ken *stok*.
+Op wandelingen zegt de proefpersoon graag twee woorden achter elkaar die ik allebei ken: *zoek* en *stok*.
 
 "Zoek een stok, Tara."
 
@@ -134,7 +134,7 @@ Drie honden keken naar de overkant. Twee mannen stonden aan de oever met hun han
 
 Die avond hield de proefpersoon zijn rechterarm tegen zijn buik. Toen Mieke vroeg wat er was, zei hij: "Niks. Gegooid."
 
-Laat in het najaar, toen de appelboom leeg was, lag ik in de koffer op het dekentje, naast Miekes tas met handdoeken en een fles water. Door de kier van het raam kwamen dennen, dan de diesel van de grote weg, dan weiden zonder einde. Op het einde kwam er iets binnen wat ik nooit eerder had geroken.
+Laat in het najaar, toen de appelboom leeg was, lag ik in de koffer, naast Miekes tas met handdoeken en een fles water, op het dekentje. Dat lag daar weer sinds de pantoffel zijn plaats in mijn mand had ingenomen. Door de kier van het raam kwamen dennen, dan de diesel van de grote weg, dan weiden zonder einde. Op het einde kwam er iets binnen wat ik nooit eerder had geroken.
 
 Zout. Zout in de lucht, als een tweede lucht, en daaronder vis, rottend wier, natte steen, de diesel van grote boten, en heel ver iets wat ik alleen kan beschrijven als veel.
 
@@ -152,7 +152,7 @@ Het zand bovenaan stoof weg onder mijn poten. Lager werd het hard en nat, met sc
 
 Aan de rand gleed het water over het zand naar mij toe, dun en schuimend en ijskoud, en trok weer terug en nam het zand onder mijn tenen mee. Ik sprong achteruit. Het kwam opnieuw. Ik sprong opnieuw.
 
-"Kijk ze," zei Mieke. "Ze speelt tikkertje met de zee."
+"Kijk ze," zei Mieke. "Ze speelt pakkertje met de zee."
 
 Uit zijn jaszak haalde de proefpersoon een balletje dat ik nog niet kende. Het was geel, het geel dat ik zie. Hij liet het mij ruiken en gooide het, ver, over de eerste golf, en ik zag het: een gele stip op het grijs, die verdween en weer bovenkwam.
 

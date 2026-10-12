@@ -644,7 +644,7 @@ Vastgelegd in versie 5: het dorp is Heultje (Westerlo), de GAS-boete bedraagt 25
    - hoofdstuk 26 *De Laatste Avond* (de avond, de operatie, de mist);
    - hoofdstuk 27 *Laatste Observatie, Genoteerd door de Proefpersoon* (de hartstilstand, twee bezoeken, de beslissing).
 
-   Het boek telt nu 26 hoofdstukken.
+   Het boek telde toen 26 hoofdstukken; sinds versie 7 zijn het er 27.
 7. **De proloog** speelt niet meer bij de haard, maar in de mist na de operatie. De lezer ontdekt dat pas in hoofdstuk 26.
 8. **Nieuwe schrijfregels 13 en 14:** de ene uitzondering op het perspectief, en Lodes ontwikkeling tonen.
 9. **Sectie 11 legt vast hoe het einde geschreven wordt,** met een voorbeeldfragment.
@@ -855,3 +855,68 @@ Deze feiten zijn bij het schrijven van de eerste versie ontstaan en gelden nu al
 - **De trap:** veertien treden, de zevende piept, Lode zet zijn linkervoet eerst. Dit staat in de schrijfbrief, nog niet in de bible.
 - **"Kinderdag":** herkenbaar aan Sofies auto op de oprit, in de middag. Lode komt dan vroeger thuis.
 - **"Ik had werk":** Tara's antwoord als Mieke zegt dat ze gerust mag gaan liggen (hoofdstuk 6 en 8).
+
+# 22. Versie 7: aanvullingen van de auteur
+
+Op aanwijzing van de auteur zijn in versie 7 deze dingen toegevoegd:
+
+1. **Het nieuwe hoofdstuk 13, Het Water:**
+   - het ven en de tak;
+   - "zoek een stok" en het jonge berkje;
+   - water ruiken bij dorst;
+   - het balletje vinden met de wind;
+   - de wedstrijd bij Dirk, waarin de baasjes even fel worden als de honden;
+   - de zee.
+2. **De communicatie tussen Tara en Lode** in hoofdstuk 18 en 19:
+   - de vragende blik;
+   - aan de deur staan;
+   - de kop op Lodes schoot om naar haar eten te vragen;
+   - de vele woorden die ze verstaat.
+3. **Het muizengif** in hoofdstuk 25, vóór het niezen, en Lodes onbeantwoorde vraag in hoofdstuk 27: "Dat zullen we nooit weten."
+4. **De epiloog** vertelt over de weggevallen gewoontes, en over de vraag waarom die zo'n pijn doen.
+
+**Omvang:** met dit hoofdstuk telt het boek 27 hoofdstukken en ongeveer 58.600 woorden, zo'n 215 bladzijden in het formaat 6 x 9 inch. Dat valt binnen de marge van 180 tot 220 bladzijden.
+
+**Bestanden:** de epiloog heet nu 28_Epiloog.md.
+
+## Nieuwe vaste feiten uit versie 7
+
+**Hoofdstuk 13**
+- Tara is ongeveer drie. H13 speelt in hetzelfde jaar als H11 en H12.
+- Het ven achter het dennenbos, aan het einde van de zandweg, ruikt naar ijzer, kikkers, riet en zwarte modder. Lode gooit er een dode dennentak in. Het spel stopt wanneer zijn arm "op" is.
+- Bij "Zoek een stok" in een opgeruimd stuk bos trekt Tara een jonge berk half uit de grond. Lode lacht ("Nen stok, Tara! Geen heel bos!"), zet de berk recht en trapt het zand aan.
+- Tara loopt bij dorst van de wandeling af naar sloten en drinkbakken. Lode: "Water ruikt naar niks." Mieke: "Misschien ruikt het voor haar wel naar iets."
+- **Dirk:** hij heeft een grijze baard, rookt en eet pepermunt, en woont voorbij Westerlo, in een huis met een lange weide die afloopt naar de Nete. Zijn Mechelaars heten Rex en Zara. Ze gehoorzamen "op een knip". Na zijn ontslag heeft hij "tijd om te oefenen".
+- De wedstrijd aan de Nete: Lode gooit met de wind mee in het riet. Er volgt ruzie over regels die niet bestaan. De laatste worp gaat over de Nete, tussen de koeien. Lode heeft 's avonds pijn aan zijn rechterarm.
+- **Meetvoorwaarde:** Tara vindt iets alleen als de wind van het voorwerp naar haar neus waait.
+- **De zee:** in het late najaar, op de dijk tussen Zeebrugge en Blankenberge, met een leeg strand. Lode haalt een geel balletje uit zijn jaszak (het is nieuw, en Tara kan het zien). Hij staat met opgerolde broekspijpen in het water. Tara drinkt zeewater. Mieke heeft een sjaal, een handdoek, een fles en een kommetje bij zich. Ze zegt "Ze speelt pakkertje met de zee", "Gij zijt nen echte zeehond, gij" en "Die gaat stinken tot aan Kerstmis".
+- Het dekentje ligt in de koffer (de bible noemt H17, H25, H26 en H27; daar komt nu H13 bij).
+- De tekst van dossier 33 (water) staat in H13.
+
+**Hoofdstuk 18**
+- De vragende blik is "Lode, lijn, Lode". Hij werkt ook bij de koekjestrommel ("Ééntje. En niet tegen haar zeggen.") en bij de tuindeur. Bij Mira zegt Lode "Nee". Tara meet in knipperingen.
+
+**Hoofdstuk 19**
+- Wanneer Lode naar zijn werk vertrekt, hurkt hij en zegt hij "Ik kom terug, Tara. Seffens." Dat gebeurde niet van in het begin.
+- De woordenlijst: *wandelen*, *dogtime*, *bal*, *koekje*, *eten*, *auto*, *bad*, *straks*/*nu*, *kom*, *plaats*, *zoek*, *stok*, *Mieke*, *Sofie*, *Bram*, *Tara*.
+- Lode spelt "w-a-n-d-e-l-e-n". Tara leert de spelling, en daarna zegt hij "een toerke". Mieke spelt nooit.
+- Tara vraagt om buiten te gaan door stil aan de deur te staan, zonder te krabben of te blaffen.
+- Voor het eten legt ze haar kop op Lodes schoot. Lode zegt dan "Allez, allez. Gij en uw bak."
+- Jonas vraagt hoeveel woorden ze verstaat. Lode antwoordt "Meer dan ge denkt".
+
+**Hoofdstuk 25**
+- Er zitten muizen in de garage, voor de zak brokken. Daar staan ook de fietsen en Lodes laarzen.
+- Lode legt vijf blauwe blokjes muizengif in een spleet in de achterste muur, achter het rek met de verfpotten. Tara eet ze op toen de zijdeur openstond.
+- De dierenarts in het dorp geeft een spuitje om te braken, en daarna vier weken vitamine K, in een tweede blokje kaas. Na afloop is de bloedtest in orde.
+- Lode metselt de spleet dicht en zet vallen met kaas.
+- Bij de bloedneus doet de dierenarts een tweede bloedtest, die opnieuw in orde is. Daarna volgt de doorverwijzing naar de kliniek aan de steenweg.
+- Lotte ligt naast de mand en kijkt naar Tara's neus zonder te wijzen.
+
+**Hoofdstuk 27**
+- Lode twijfelt of het gif Tara verzwakt heeft. Die vraag blijft open.
+
+**Epiloog**
+- Lode zegt "Ik kom terug" als hij naar de bakker gaat.
+- Bij etenstijd kijkt hij naar zijn schoot. 's Avonds snijdt hij het laatste stukje vlees apart, en hij controleert of de bal in de mand ligt.
+- Hij wandelt na de koffie, via de zandweg en de paal met het bordje, naar de heide met het grote ven. Daar zit een tak vast in het ijs.
+- Bram vraagt of ze "deze zomer" naar zee gaan.
