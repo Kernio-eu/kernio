@@ -44,7 +44,7 @@ Van de grachten van Amsterdam via het Mauritshuis in Den Haag tot diep in de mer
 
 - **Taal:** Nederlands
 - **Formaat paperback:** 6 × 9 inch (15,24 × 22,86 cm), zonder afloop, matte of glanzende omslag naar keuze
-- **Aantal pagina's:** ongeveer 222 (controleer na het uploaden in de KDP-previewer)
+- **Aantal pagina's:** 221 (controleer na het uploaden in de KDP-previewer)
 - **Rugdikte:**
   - wit papier: ongeveer 0,50 inch;
   - crèmekleurig papier: ongeveer 0,56 inch.
@@ -56,7 +56,7 @@ Van de grachten van Amsterdam via het Mauritshuis in Den Haag tot diep in de mer
 
 **Formaat:**
 - Volledige omslag (achterkant, rug, voorkant) met 0,125 inch afloop rondom.
-- Bij 222 pagina's op wit papier is dat ongeveer 12,75 × 9,25 inch in totaal.
+- Bij 221 pagina's op wit papier is dat ongeveer 12,75 × 9,25 inch in totaal.
 - Gebruik de KDP-omslagcalculator voor de exacte maat.
 
 **Sfeer:** donker, ingetogen, spannend. Meer kunstthriller dan actiefilm.
