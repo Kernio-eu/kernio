@@ -1,5 +1,1132 @@
 # Wijzigingslog
 
+## v7 (12 oktober 2026): correctorsronde
+
+Basis: v6.1. Strenge taalcorrectie van het hele boek; 187 wijzigingen. Spelling (Farahs, Sophies, museumeigendom, logesymbool), Engelse woorden (crowbar, still, voice-recorder), verkeerde voorzetsels en werkwoordstijden, scheve bijzinnen, dubbele woorden en een paar kleine continuïteitsfouten (Sophie had geen telefoon bij het hek, vier mensen aan tafel in plaats van drie, Isaaks dienstjaren, Isaak heeft de zaklamp in de berg, een nieuw boekje dat 'verweerd' heette). Vragen zonder vraagteken zijn bewust zo gelaten: dat is de stijl van het boek.
+
+### wijziging
+
+Oud: De opluchting die door de schuur ging voelde bijna fysiek, een golf die Daan deed instorten tegen de balen stro achter hem en Sophie's ogen deed prikken op een manier die ze de hele dag had onderdrukt. Lars legde zijn hand op Isaaks schouder, een gebaar zonder woorden dat meer zei dan een toespraak had gekund.
+
+Nieuw: De opluchting die door de schuur ging voelde bijna fysiek, een golf die Daan deed instorten tegen de balen stro achter hem en Sophies ogen deed prikken op een manier die ze de hele dag had onderdrukt. Lars legde zijn hand op Isaaks schouder, een gebaar zonder woorden dat meer zei dan een toespraak had gekund.
+
+### wijziging
+
+Oud: Daan had in zijn hele leven nog nooit een crowbar vastgehouden met de bedoeling er iets mee te laten instorten, en toch stond hij nu, op instructie van een rechercheur die hij die ochtend pas had leren kennen, tegen een losse steunbalk in de gang net achter het hek te duwen, terwijl zijn hart sneller ging dan bij alles wat hij ooit voor zijn studie had gedaan, zijn handen klam van het zweet ondanks de kou van de gang.
+
+Nieuw: Daan had in zijn hele leven nog nooit een koevoet vastgehouden met de bedoeling er iets mee te laten instorten, en toch stond hij nu, op instructie van een rechercheur die hij die ochtend pas had leren kennen, tegen een losse steunbalk in de gang net achter het hek te duwen, terwijl zijn hart sneller ging dan bij alles wat hij ooit voor zijn studie had gedaan, zijn handen klam van het zweet ondanks de kou van de gang.
+
+### wijziging
+
+Oud: „Dit kan niet,” zei ze hardop, tegen niemand, in een studio waar geen niemand haar kon horen behalve het schilderij zelf.
+
+Nieuw: „Dit kan niet,” zei ze hardop, tegen niemand, in een studio waar niemand haar kon horen behalve het schilderij zelf.
+
+### wijziging
+
+Oud: Het schilderij hing losgemaakt van zijn gewone plek, opgetild uit de Eregalerij en overgebracht naar de glazen cocon van de studio, omgeven door steigers, meetapparatuur en het koude witte licht van de spots. Overdag stond er altijd een zacht gezoem van bezoekers achter het glas, een wisselende rij gezichten die haar bij het werk gadesloeg alsof restaureren een voorstelling was in plaats van een ambacht. Nu, in de vroege stilte, was er alleen het schilderij en zij, en het gevoel, dat ze na twaalf jaar in dit vak nooit helemaal was kwijtgeraakt, dat ze een kamer met een reus binnenging.
+
+Nieuw: Het schilderij hing losgemaakt van zijn gewone plek, opgetild uit de Eregalerij en overgebracht naar de glazen cocon van de studio, omgeven door steigers, meetapparatuur en het koude witte licht van de spots. Overdag stond er altijd een zacht gezoem van bezoekers achter het glas, een wisselende rij gezichten die haar bij het werk gadesloeg alsof restaureren een voorstelling was in plaats van een ambacht. Nu, in de vroege stilte, waren er alleen het schilderij en zij, en het gevoel, dat ze na twaalf jaar in dit vak nooit helemaal was kwijtgeraakt, dat ze een kamer met een reus binnenging.
+
+### wijziging
+
+Oud: Ze had dit schilderij haar hele carrière bestudeerd, was erin gespecialiseerd, had er haar proefschrift over geschreven in een tijd dat ze nog dacht dat kennis van een schilderij hetzelfde was als het kennen ervan. Vandaag was ze hier voor iets kleiners en preciezer: de eerste hoge-resolutie infraroodscan met de nieuwe camera, onderdeel van het lopende conserveringsproject dat het museum al drie jaar financierde en waarvan de resultaten tot nu toe, op wat pentimenti na, weinig hadden opgeleverd dat de vakwereld niet al wist. Routine. Of dat had ze zichzelf voorgehouden op de fiets hierheen, door de nog lege ochtendstraten langs de Amstel, waar de mist nog boven het water hing en een enkele roeier zijn baan trok alsof de stad nog van niemand was.
+
+Nieuw: Ze had dit schilderij haar hele carrière bestudeerd, was erin gespecialiseerd, had er haar proefschrift over geschreven in een tijd dat ze nog dacht dat kennis van een schilderij hetzelfde was als het kennen ervan. Vandaag was ze hier voor iets kleiners en preciezer: de eerste infraroodscan in hoge resolutie met de nieuwe camera, onderdeel van het lopende conserveringsproject dat het museum al drie jaar financierde en waarvan de resultaten tot nu toe, op wat pentimenti na, weinig hadden opgeleverd dat de vakwereld niet al wist. Routine. Of dat had ze zichzelf voorgehouden op de fiets hierheen, door de nog lege ochtendstraten langs de Amstel, waar de mist nog boven het water hing en een enkele roeier zijn baan trok alsof de stad nog van niemand was.
+
+### wijziging
+
+Oud: Ze dwong zichzelf terug naar het protocol, ademde twee keer diep in en uit zoals ze had geleerd tijdens haar eerste jaar als restaurator, toen een leermeester haar had voorgehouden dat opwinding en onzorgvuldigheid buren waren. Drie hoge-resolutieopnamen, elk vanuit een lichtjes andere hoek om artefacten van de scanner zelf uit te sluiten, opgeslagen onder een bestandsnaam die niemand zou herkennen als iets bijzonders, in een map die ze normaal alleen gebruikte voor voorlopige, nog niet gevalideerde data. Pas toen ze zeker wist dat de lijnen bleven staan onder elke hoek, en dat het geen reflectie was van de spotlights of een artefact van de sensor, stuurde ze ze naar de enige persoon die ze kende die hier iets zinnigs over kon zeggen zonder meteen over samenzweringen te beginnen. Professor Lars van der Meer. Haar oude mentor, en een van de weinige mensen in haar vakgebied met een grondiger hekel aan esoterische onzin dan zij.
+
+Nieuw: Ze dwong zichzelf terug naar het protocol, ademde twee keer diep in en uit zoals ze had geleerd tijdens haar eerste jaar als restaurator, toen een leermeester haar had voorgehouden dat opwinding en onzorgvuldigheid buren waren. Drie opnamen in hoge resolutie, elk vanuit een lichtjes andere hoek om artefacten van de scanner zelf uit te sluiten, opgeslagen onder een bestandsnaam die niemand zou herkennen als iets bijzonders, in een map die ze normaal alleen gebruikte voor voorlopige, nog niet gevalideerde data. Pas toen ze zeker wist dat de lijnen bleven staan onder elke hoek, en dat het geen reflectie was van de spotlights of een artefact van de sensor, stuurde ze ze naar de enige persoon die ze kende die hier iets zinnigs over kon zeggen zonder meteen over samenzweringen te beginnen. Professor Lars van der Meer. Haar oude mentor, en een van de weinige mensen in haar vakgebied met een grondiger hekel aan esoterische onzin dan zij.
+
+### wijziging
+
+Oud: Ze dwong zichzelf terug naar het protocol, ademde twee keer diep in en uit zoals ze had geleerd tijdens haar eerste jaar als restaurator, toen een leermeester haar had voorgehouden dat opwinding en onzorgvuldigheid buren waren. Drie opnamen in hoge resolutie, elk vanuit een lichtjes andere hoek om artefacten van de scanner zelf uit te sluiten, opgeslagen onder een bestandsnaam die niemand zou herkennen als iets bijzonders, in een map die ze normaal alleen gebruikte voor voorlopige, nog niet gevalideerde data. Pas toen ze zeker wist dat de lijnen bleven staan onder elke hoek, en dat het geen reflectie was van de spotlights of een artefact van de sensor, stuurde ze ze naar de enige persoon die ze kende die hier iets zinnigs over kon zeggen zonder meteen over samenzweringen te beginnen. Professor Lars van der Meer. Haar oude mentor, en een van de weinige mensen in haar vakgebied met een grondiger hekel aan esoterische onzin dan zij.
+
+Nieuw: Ze dwong zichzelf terug naar het protocol, ademde twee keer diep in en uit zoals ze had geleerd tijdens haar eerste jaar als restaurator, toen een leermeester haar had voorgehouden dat opwinding en onzorgvuldigheid buren waren. Drie opnamen in hoge resolutie, elk vanuit een lichtjes andere hoek om artefacten van de scanner zelf uit te sluiten, opgeslagen onder een bestandsnaam die niemand zou herkennen als iets bijzonders, in een map die ze normaal alleen gebruikte voor voorlopige, nog niet gevalideerde data. Pas toen ze zeker wist dat de lijnen bleven staan onder elke hoek, en dat het geen reflectie was van de spotlights of een artefact van de sensor, stuurde ze de opnamen naar de enige persoon die ze kende die hier iets zinnigs over kon zeggen zonder meteen over samenzweringen te beginnen. Professor Lars van der Meer. Haar oude mentor, en een van de weinige mensen in haar vakgebied met een grondiger hekel aan esoterische onzin dan zij.
+
+### wijziging
+
+Oud: Lars had het boekje twaalf jaar in een la laten liggen, uit iets wat hij zichzelf wijsmaakte dat geen angst was. Zijn moeder had er nooit meer naar gevraagd na de begrafenis, alsof ze een stilzwijgende afspraak hadden gemaakt om het verleden zijn gang te laten gaan, en Lars had zich daaraan gehouden tot hij zelf hoogleraar werd en merkte dat zijn eigen onderzoek, telkens weer, ongemerkt terugboog naar dezelfde periode, dezelfde symboliek, dezelfde vage rand van de geschiedenis waar zijn vader was blijven hangen.
+
+Nieuw: Lars had het boekje twaalf jaar in een la laten liggen, uit iets waarvan hij zichzelf wijsmaakte dat het geen angst was. Zijn moeder had er nooit meer naar gevraagd na de begrafenis, alsof ze een stilzwijgende afspraak hadden gemaakt om het verleden zijn gang te laten gaan, en Lars had zich daaraan gehouden tot hij zelf hoogleraar werd en merkte dat zijn eigen onderzoek, telkens weer, ongemerkt terugboog naar dezelfde periode, dezelfde symboliek, dezelfde vage rand van de geschiedenis waar zijn vader was blijven hangen.
+
+### wijziging
+
+Oud: Onderweg passeerde hij het café waar hij normaal op donderdagochtend zijn krant las voor hij de trein naar Leiden nam, en de eigenaar zwaaide door het raam zoals altijd, niet wetend dat de man die hij groette over een paar minuten voorgoed een andere versie van zichzelf zou worden. Er waren van die momenten, dacht Lars later terug, die je pas als kantelpunt herkent nadat de scharnier al lang is dichtgeklapt.
+
+Nieuw: Onderweg passeerde hij het café waar hij normaal op donderdagochtend zijn krant las voor hij de trein naar Leiden nam, en de eigenaar zwaaide door het raam zoals altijd, niet wetend dat de man die hij groette over een paar minuten voorgoed een andere versie van zichzelf zou worden. Er waren van die momenten, dacht Lars later, die je pas als kantelpunt herkent nadat de scharnier al lang is dichtgeklapt.
+
+### wijziging
+
+Oud: Zij noemden zichzelf het Nieuwe Licht. Waar de anderen geloofden in het bewaren van een geheim, geloofde hun Meester, die die ochtend in een loods aan het IJ op nieuws zat te wachten, in het ontsteken ervan. Zijn mensen kenden hem als iemand die zelden zijn stem verhief en nooit een bevel twee keer gaf. Een van zijn mensen, een jonge vrouw die zichzelf twee jaar geleden bij hem had aangesloten na een studie die ze nooit had afgemaakt, controleerde voor de derde keer een klein apparaat in haar jaszak en probeerde niet te laten merken hoe snel haar hart ging, haar ademhaling zo beheerst als ze hem kon maken in de seconden voor alles zou beginnen.
+
+Nieuw: Zij noemden zichzelf het Nieuwe Licht. Waar de anderen geloofden in het bewaren van een geheim, geloofde hun Meester, die die ochtend in een loods aan het IJ op nieuws zat te wachten, in het ontsteken ervan. Zijn mensen kenden hem als iemand die zelden zijn stem verhief en nooit een bevel twee keer gaf. Een van zijn mensen, een jonge vrouw die zich twee jaar geleden bij hem had aangesloten na een studie die ze nooit had afgemaakt, controleerde voor de derde keer een klein apparaat in haar jaszak en probeerde niet te laten merken hoe snel haar hart ging, haar ademhaling zo beheerst als ze hem kon maken in de seconden voor alles zou beginnen.
+
+### wijziging
+
+Oud: Beide groepen wisten, ieder via hun eigen kanalen, dat de klok drong. Donderdag zou het museum de scan online zetten. De een wilde voorkomen dat juist dat ene hoekje ooit de openbaarheid bereikte; de ander wilde de ruwe opnamen in handen hebben voor iemand in een bestuurskamer kon besluiten dat ze toch maar beter niet gevalideerd werden. Dat was, meer dan enig ander signaal, de reden dat twee organisaties die elkaar al generaties in de gaten hielden zonder ooit rechtstreeks te botsen, op dezelfde ochtend hadden besloten dat wachten geen optie meer was.
+
+Nieuw: Beide groepen wisten, elk via eigen kanalen, dat de klok drong. Donderdag zou het museum de scan online zetten. De een wilde voorkomen dat juist dat ene hoekje ooit de openbaarheid bereikte; de ander wilde de ruwe opnamen in handen hebben voor iemand in een bestuurskamer kon besluiten dat ze toch maar beter niet gevalideerd werden. Dat was, meer dan enig ander signaal, de reden dat twee organisaties die elkaar al generaties in de gaten hielden zonder ooit rechtstreeks te botsen, op dezelfde ochtend hadden besloten dat wachten geen optie meer was.
+
+### wijziging
+
+Oud: Sophie had de scan net een derde keer bekeken, op zoek naar iets dat ze de eerste twee keer over het hoofd had gezien, toen ze voetstappen hoorde op de gang. Niet het vertrouwde tempo van de vroege schoonmaakploeg, die altijd in paren liep en altijd pratend. Zwaarder. Meerdere paren, uit twee richtingen tegelijk. Ze legde haar hand op het deksel van de laptop, half instinct, half voorgevoel, en overwoog even Ahmed te roepen voor ze zichzelf voorhield dat ze overdreef, dat het misschien gewoon de technische dienst was die vroeg was voor onderhoud aan de klimaatinstallatie.
+
+Nieuw: Sophie had de scan net een derde keer bekeken, op zoek naar iets dat ze de eerste twee keer over het hoofd had gezien, toen ze voetstappen hoorde op de gang. Niet het vertrouwde tempo van de vroege schoonmaakploeg, die altijd in paren liep, altijd pratend. Zwaarder. Meerdere paren, uit twee richtingen tegelijk. Ze legde haar hand op het deksel van de laptop, half instinct, half voorgevoel, en overwoog even Ahmed te roepen voor ze zichzelf voorhield dat ze overdreef, dat het misschien gewoon de technische dienst was die vroeg was voor onderhoud aan de klimaatinstallatie.
+
+### wijziging
+
+Oud: „Ik weet niet waar u het over heeft,” zei ze, met een stem die vlakker klonk dan ze zich voelde, een oude reflex uit jaren van musea-veiligheidstrainingen die haar nu, absurd genoeg, van pas leek te komen.
+
+Nieuw: „Ik weet niet waar u het over heeft,” zei ze, met een stem die vlakker klonk dan ze zich voelde, een oude reflex uit jaren van veiligheidstrainingen voor museumpersoneel die haar nu, absurd genoeg, van pas leek te komen.
+
+### wijziging
+
+Oud: „Wie waren dat?” hijgde ze, terwijl regen langs haar nek in haar kraag droop, haar handen nu zichtbaar trillend nu de adrenaline begon weg te ebben.
+
+Nieuw: „Wie waren dat?” hijgde ze, terwijl regen langs haar nek in haar kraag droop, haar handen zichtbaar trillend nu de adrenaline begon weg te ebben.
+
+### wijziging
+
+Oud: Isaak liep naar het beveiligingsbeeld dat Dekker hem voorhield, een korrelige still van twee gedaanten die de trap af renden, een vrouw voorop met een laptop tegen haar borst geklemd, een man die haar bij de arm hield. Geen van beiden droeg een masker. Geen van beiden zag eruit als iemand die met opzet een kunstroof pleegde, en dat soort observaties, wist hij uit ervaring, telden voor niets op papier maar altijd voor iets in zijn eigen hoofd.
+
+Nieuw: Isaak liep naar het beveiligingsbeeld dat Dekker hem voorhield, een korrelig stilstaand beeld van twee gedaanten die de trap af renden, een vrouw voorop met een laptop tegen haar borst geklemd, een man die haar bij de arm hield. Geen van beiden droeg een masker. Geen van beiden zag eruit als iemand die met opzet een kunstroof pleegde, en dat soort observaties, wist hij uit ervaring, telden voor niets op papier maar altijd voor iets in zijn eigen hoofd.
+
+### wijziging
+
+Oud: „Vaardig het bevel uit,” zei hij tegen Dekker. „Sophie de Wit en Lars van der Meer, gezocht voor verhoor in verband met een gewelddadig incident en de verdwijning van musea-eigendom. Voorzichtig geformuleerd. Ik wil geen krantenkop met het woord kunstroof erin voor we weten wat er precies weg is.”
+
+Nieuw: „Vaardig het bevel uit,” zei hij tegen Dekker. „Sophie de Wit en Lars van der Meer, gezocht voor verhoor in verband met een gewelddadig incident en de verdwijning van museumeigendom. Voorzichtig geformuleerd. Ik wil geen krantenkop met het woord kunstroof erin voor we weten wat er precies weg is.”
+
+### wijziging
+
+Oud: Sophies woonboot lag op de Brouwersgracht, tussen twee hoger opgetrokken buren, zo laag bij het water dat je bij springtij de golfjes tegen de romp kon horen tikken als een trage klok. Ze kocht hem ooit met het geld van haar proefschrift-beurs, tegen het advies van iedereen die ze kende. Spijt kwam er nooit, tot vandaag, toen ze zich op de loopplank voor het eerst afvroeg of iemand haar hierheen kon volgen.
+
+Nieuw: Sophies woonboot lag op de Brouwersgracht, tussen twee hoger opgetrokken buren, zo laag bij het water dat je bij springtij de golfjes tegen de romp kon horen tikken als een trage klok. Ze had hem ooit gekocht met het geld van haar proefschrift-beurs, tegen het advies van iedereen die ze kende. Spijt kwam er nooit, tot vandaag, toen ze zich op de loopplank voor het eerst afvroeg of iemand haar hierheen kon volgen.
+
+### wijziging
+
+Oud: Sophies woonboot lag op de Brouwersgracht, tussen twee hoger opgetrokken buren, zo laag bij het water dat je bij springtij de golfjes tegen de romp kon horen tikken als een trage klok. Ze had hem ooit gekocht met het geld van haar proefschrift-beurs, tegen het advies van iedereen die ze kende. Spijt kwam er nooit, tot vandaag, toen ze zich op de loopplank voor het eerst afvroeg of iemand haar hierheen kon volgen.
+
+Nieuw: Sophies woonboot lag op de Brouwersgracht, tussen twee hoger opgetrokken buren, zo laag bij het water dat je bij springtij de golfjes tegen de romp kon horen tikken als een trage klok. Ze had hem ooit gekocht met het geld van haar promotiebeurs, tegen het advies van iedereen die ze kende. Spijt kwam er nooit, tot vandaag, toen ze zich op de loopplank voor het eerst afvroeg of iemand haar hierheen kon volgen.
+
+### wijziging
+
+Oud: Sophies woonboot lag op de Brouwersgracht, tussen twee hoger opgetrokken buren, zo laag bij het water dat je bij springtij de golfjes tegen de romp kon horen tikken als een trage klok. Ze had hem ooit gekocht met het geld van haar promotiebeurs, tegen het advies van iedereen die ze kende. Spijt kwam er nooit, tot vandaag, toen ze zich op de loopplank voor het eerst afvroeg of iemand haar hierheen kon volgen.
+
+Nieuw: Sophies woonboot lag op de Brouwersgracht, tussen twee hoger opgetrokken buren, zo laag bij het water dat je bij springtij de golfjes tegen de romp kon horen tikken als een trage klok. Ze had hem ooit gekocht met het geld van haar promotiebeurs, tegen het advies van iedereen die ze kende. Spijt had ze nooit gehad, tot vandaag, toen ze zich op de loopplank voor het eerst afvroeg of iemand haar hierheen kon volgen.
+
+### wijziging
+
+Oud: Ze liepen niet samen. Dat was Lars' idee geweest, tien minuten nadat Sophie haar telefoon had uitgezet en in een keukenla had gelegd alsof het ding zelf besmet was. Twee mensen wier gezichten inmiddels op een politiebericht stonden vielen samen sneller op dan apart, dus liep Sophie honderd meter voor hem uit, met een sjaal om haar hoofd geknoopt die ze normaal alleen droeg tegen de regen, en Lars volgde met zijn capuchon op, langs een route die hij expres langs geen enkele bank of pinautomaat liet lopen, waar hij wist dat camera's hingen die niemand ooit leek te controleren tot het er toe deed.
+
+Nieuw: Ze liepen niet samen. Dat was Lars' idee geweest, tien minuten nadat Sophie haar telefoon had uitgezet en in een keukenla had gelegd alsof het ding zelf besmet was. Twee mensen wier gezichten inmiddels op een politiebericht stonden vielen samen sneller op dan apart, dus liep Sophie honderd meter voor hem uit, met een sjaal om haar hoofd geknoopt die ze normaal alleen droeg tegen de regen, en Lars volgde met zijn capuchon op, langs een route die hij expres langs geen enkele bank of pinautomaat liet lopen, waar hij wist dat camera's hingen die niemand ooit leek te controleren tot het ertoe deed.
+
+### wijziging
+
+Oud: „Den Haag,” zei Lars, en voelde de wetenschap indalen als een gewicht, niet als opluchting. Elke stap die ze zetten bracht hen verder van iedereen die hen ooit had kunnen helpen, en dieper in iets waarvan zijn vader nooit was teruggekomen.
+
+Nieuw: „Den Haag,” zei Lars, en voelde het besef indalen als een gewicht, niet als opluchting. Elke stap die ze zetten bracht hen verder van iedereen die hen ooit had kunnen helpen, en dieper in iets waarvan zijn vader nooit was teruggekomen.
+
+### wijziging
+
+Oud: Zijn telefoon trilde in zijn zak. Dekker, met een update over het opsporingsbevel: geen zichtingen, geen bankactiviteit, geen gebruik van telefoons op naam van de verdachten. Ze waren, in het jargon van het korps, „stil”, wat meestal betekende dat mensen ofwel heel goed voorbereid waren, ofwel al niet meer in staat om gevonden te worden. Isaak geloofde het laatste niet, al kon hij niet meteen zeggen waarom, alleen dat er iets in de manier waarop deze twee waren gevlucht, doelgericht, zonder paniek, hem meer deed denken aan mensen die een plan volgden dan aan mensen die simpelweg wegrenden.
+
+Nieuw: Zijn telefoon trilde in zijn zak. Dekker, met een update over het opsporingsbevel: geen waarnemingen, geen bankactiviteit, geen gebruik van telefoons op naam van de verdachten. Ze waren, in het jargon van het korps, „stil”, wat meestal betekende dat mensen ofwel heel goed voorbereid waren, ofwel al niet meer in staat om gevonden te worden. Isaak geloofde het laatste niet, al kon hij niet meteen zeggen waarom, alleen dat er iets in de manier waarop deze twee waren gevlucht, doelgericht, zonder paniek, hem meer deed denken aan mensen die een plan volgden dan aan mensen die simpelweg wegrenden.
+
+### wijziging
+
+Oud: Hij pakte zijn telefoon en belde niet Dekker, maar het archief van de mijnbouwautoriteit in Limburg, en kreeg, zoals te verwachten was om deze tijd van de avond, alleen een voicemail. Hij sprak zijn naam in, zijn dienstnummer, en een simpele vraag: of er in de afgelopen twaalf jaar nog incidenten waren geweest rond sector noordwest van de Sint-Pietersberg-groeve.
+
+Nieuw: Hij pakte zijn telefoon en belde niet Dekker, maar het archief van de mijnbouwautoriteit in Limburg, en kreeg, zoals te verwachten was aan het eind van de middag, alleen een voicemail. Hij sprak zijn naam in, zijn dienstnummer, en een simpele vraag: of er in de afgelopen twaalf jaar nog incidenten waren geweest rond sector noordwest van de Sint-Pietersberg-groeve.
+
+### wijziging
+
+Oud: Ze zag het bijna niet, de agent die bij de in- en uitrit stond, geleund tegen zijn motor, met de nonchalance van iemand die een rustige controle deed op een rustige ochtend. Ze bevroor achter een betonnen pilaar, haar hart plotseling op haar keel, en wachtte tot Lars naast haar kwam staan, zijn adem net zo ingehouden als de hare.
+
+Nieuw: Ze zag het bijna niet, de agent die bij de in- en uitrit stond, geleund tegen zijn motor, met de nonchalance van iemand die een rustige controle deed op een rustige ochtend. Ze bevroor achter een betonnen pilaar, haar hart plotseling in haar keel, en wachtte tot Lars naast haar kwam staan, zijn adem net zo ingehouden als de hare.
+
+### wijziging
+
+Oud: Daan stond al bij de auto, met de motorkap open alsof hij aan het sleutelen was, wat Sophie een paar seconden nodig had om te herkennen als een uitstekende dekmantel voor iemand die eigenlijk gewoon stond te wachten. Hij droeg een pet die ze nooit eerder op hem had gezien en die, vermoedde ze, precies daarvoor was gekozen, en zijn handen, gewapend met een moersleutel die hij duidelijk niet wist hoe te gebruiken, verrieden meer zenuwen dan zijn houding.
+
+Nieuw: Daan stond al bij de auto, met de motorkap open alsof hij aan het sleutelen was, wat Sophie een paar seconden nodig had om te herkennen als een uitstekende dekmantel voor iemand die eigenlijk gewoon stond te wachten. Hij droeg een pet die ze nooit eerder op hem had gezien en die, vermoedde ze, precies daarvoor was gekozen, en zijn handen, gewapend met een moersleutel waarmee hij duidelijk niet overweg kon, verrieden meer zenuwen dan zijn houding.
+
+### wijziging
+
+Oud: Ergens ter hoogte van Leiden, waar Lars normaal zijn colleges gaf en waar hij nu met opgetrokken schouders voorbijreed alsof de universiteit zelf hem kon herkennen, kraakte de autoradio met een nieuwsbulletin. Sophie voelde zich verstijven bij de eerste zin, maar het ging over iets anders, een storing bij het spoor, en de opluchting die door haar heen ging was bijna net zo ontwrichtend als de angst was geweest, een golf van adrenaline die nergens heen kon en gewoon in haar borst bleef hangen.
+
+Nieuw: Ergens ter hoogte van Leiden, waar Lars normaal zijn colleges gaf en waar hij nu met opgetrokken schouders voorbijreed alsof de universiteit zelf hem kon herkennen, kraakte de autoradio met een nieuwsbulletin. Sophie verstijfde bij de eerste zin, maar het ging over iets anders, een storing bij het spoor, en de opluchting die door haar heen ging was bijna net zo ontwrichtend als de angst was geweest, een golf van adrenaline die nergens heen kon en gewoon in haar borst bleef hangen.
+
+### wijziging
+
+Oud: Het doek was groter dan ze zich herinnerde uit boeken, Dr. Tulp met zijn instrumenten gebogen over het lijk, de omringende chirurgijns met gezichten vol verschillende gradaties van fascinatie en afgrijzen, sommigen recht de toeschouwer aankijkend alsof ze wisten dat ze eeuwen later nog bekeken zouden worden, en op de voorgrond, uitgestrekt, de gedissecteerde onderarm die het hele compositorische zwaartepunt van het schilderij vormde. Sophie had het duizend keer op foto's gezien tijdens haar studie en nog nooit met de specifieke blik waarmee ze er nu naar keek, niet als kunsthistorica maar als iemand op zoek naar een sleutel die ergens in het penseelwerk verstopt moest zitten.
+
+Nieuw: Het doek was groter dan ze zich herinnerde uit boeken, dokter Tulp met zijn instrumenten gebogen over het lijk, de omringende chirurgijns met gezichten vol verschillende gradaties van fascinatie en afgrijzen, sommigen recht de toeschouwer aankijkend alsof ze wisten dat ze eeuwen later nog bekeken zouden worden, en op de voorgrond, uitgestrekt, de gedissecteerde onderarm die het hele compositorische zwaartepunt van het schilderij vormde. Sophie had het duizend keer op foto's gezien tijdens haar studie en nog nooit met de specifieke blik waarmee ze er nu naar keek, niet als kunsthistorica maar als iemand op zoek naar een sleutel die ergens in het penseelwerk verstopt moest zitten.
+
+### wijziging
+
+Oud: Ze had de scan nog niet opgeslagen toen haar laptop, zonder waarschuwing, een korte piep liet horen, het geluid dat ze kende van een automatische back-up naar haar cloudaccount, iets wat ze duizend keer eerder had gehoord en waar ze nooit bij had stilgestaan, tot vandaag, tot het geluid haar deed opschrikken als een schot, haar hele lichaam een fractie van een seconde verstijvend voor haar verstand had bijbenen wat er precies was gebeurd.
+
+Nieuw: Ze had de scan nog niet opgeslagen toen haar laptop, zonder waarschuwing, een korte piep liet horen, het geluid dat ze kende van een automatische back-up naar haar cloudaccount, iets wat ze duizend keer eerder had gehoord en waar ze nooit bij had stilgestaan, tot vandaag, tot het geluid haar deed opschrikken als een schot, haar hele lichaam een fractie van een seconde verstijvend voor haar verstand kon bijbenen wat er precies was gebeurd.
+
+### wijziging
+
+Oud: Het pand aan de rand van het Westelijk Havengebied zag er van buiten uit als elk ander leegstaand loods, roestige golfplaten, een naam op de gevel van een expeditiebedrijf dat tien jaar geleden was opgehouden te bestaan, de ramen half dichtgeplakt met kranten die vergeeld waren tot onleesbaarheid. Binnen, achter een wand van dozen die niemand ooit zou controleren, had Van der Heijden zijn eigen ruimte laten inrichten, kaal, functioneel, drie schermen en een tafel, precies genoeg om te doen wat gedaan moest worden en niets wat overbodige aandacht zou trekken. Het enige geluid was het zachte gezoem van de servers en, af en toe, het tikken van regen op het golfplaten dak boven hen.
+
+Nieuw: Het pand aan de rand van het Westelijk Havengebied zag er van buiten uit als elke andere leegstaande loods, roestige golfplaten, een naam op de gevel van een expeditiebedrijf dat tien jaar geleden was opgehouden te bestaan, de ramen half dichtgeplakt met kranten die vergeeld waren tot onleesbaarheid. Binnen, achter een wand van dozen die niemand ooit zou controleren, had Van der Heijden zijn eigen ruimte laten inrichten, kaal, functioneel, drie schermen en een tafel, precies genoeg om te doen wat gedaan moest worden en niets wat overbodige aandacht zou trekken. Het enige geluid was het zachte gezoem van de servers en, af en toe, het tikken van regen op het golfplaten dak boven hen.
+
+### wijziging
+
+Oud: Hij zat er al twee uur, niet omdat hij ongeduldig was, maar omdat geduld het enige was dat hij zichzelf in twintig jaar volledig had kunnen aanleren. De ochtend in het Rijksmuseum was mislukt op een manier die hij niet had voorzien, Van Burens mannen op dezelfde plek op hetzelfde moment, iets wat volgens elke logica die hij kende onmogelijk toeval kon zijn en dat hem meer onrustig maakte dan hij aan zijn mensen liet zien. Iemand had gelekt, of iemand had meegekeken zonder dat hij het wist, en beide mogelijkheden vroegen om een antwoord voor hij verder kon.
+
+Nieuw: Hij zat er al twee uur, niet omdat hij ongeduldig was, maar omdat geduld het enige was dat hij zichzelf in twintig jaar volledig had kunnen aanleren. De ochtend in het Rijksmuseum was mislukt op een manier die hij niet had voorzien, Van Burens mannen op dezelfde plek op hetzelfde moment, iets wat volgens elke logica die hij kende onmogelijk toeval kon zijn en dat hem onrustiger maakte dan hij aan zijn mensen liet zien. Iemand had gelekt, of iemand had meegekeken zonder dat hij het wist, en beide mogelijkheden vroegen om een antwoord voor hij verder kon.
+
+### wijziging
+
+Oud: „Wat is er gebeurd,” vroeg hij, terwijl hij wegreed zonder op een antwoord te wachten.
+
+Nieuw: „Wat is er gebeurd,” vroeg hij, terwijl hij gas gaf zonder op een antwoord te wachten.
+
+### wijziging
+
+Oud: „En Voss,” zei Van Buren, zonder zich om te draaien van het raam. „Deze keer geen chaos. Geen tweede loge die ons voor de voeten loopt, geen kogels in een museum vol camera's. Rust. Geduld. We hebben bijna vierhonderd jaar gewacht om te weten wat daar echt ligt. We kunnen nog een paar dagen wachten om het op de juiste manier te halen.”
+
+Nieuw: „En Voss,” zei Van Buren, zonder zich van het raam af te draaien. „Deze keer geen chaos. Geen tweede loge die ons voor de voeten loopt, geen kogels in een museum vol camera's. Rust. Geduld. We hebben bijna vierhonderd jaar gewacht om te weten wat daar echt ligt. We kunnen nog een paar dagen wachten om het op de juiste manier te halen.”
+
+### wijziging
+
+Oud: Iets verderop gleed Sophies lamp over een gat aan de rand van de gang, afgezet met twee roestige buizen en een bordje waarvan de letters allang waren weggeschilferd. Ze scheen erin. De bundel verdween in het donker zonder ergens op te stuiten, en uit de diepte kwam een geur omhoog van nat steen en stilstaand water. Lars bleef er langer bij staan dan nodig was, zonder te weten waarom, en liep toen door.
+
+Nieuw: Iets verderop gleed Sophies lamp over een gat aan de rand van de gang, afgezet met twee roestige buizen en een bordje waarvan de letters allang waren weggeschilferd. Ze scheen erin. De bundel verdween in het donker zonder ergens op te stuiten, en uit de diepte kwam een geur omhoog van natte steen en stilstaand water. Lars bleef er langer bij staan dan nodig was, zonder te weten waarom, en liep toen door.
+
+### wijziging
+
+Oud: Hij zag het al. Een inkeping, op borsthoogte, in een vorm die hij duizend keer had zien getekend op de bladzijden van het notitieboek dat nog altijd tegen zijn borst gedrukt zat. Precies zoals zijn vader het twaalf jaar geleden had gevoeld, in hetzelfde donker, met dezelfde koude die door zijn jas drong.
+
+Nieuw: Hij zag het al. Een inkeping, op borsthoogte, in een vorm die hij duizend keer getekend had gezien op de bladzijden van het notitieboek dat nog altijd tegen zijn borst gedrukt zat. Precies zoals zijn vader het twaalf jaar geleden had gevoeld, in hetzelfde donker, met dezelfde koude die door zijn jas drong.
+
+### wijziging
+
+Oud: Farah's hand was ingepakt in een verse mitella toen ze samen met Bram terugkeerde naar de loods, haar gezicht bleek van pijn die ze weigerde te tonen, en Van der Heijden merkte, voor hij ook maar één woord over de mislukte operatie hoorde, dat hij eerst opgelucht was dat ze allebei nog overeind liepen. Dat volgorde van gevoelens, opluchting voor informatie, was iets wat hij zichzelf al twintig jaar probeerde te trainen en nooit helemaal onder de knie had gekregen, een menselijkheid die hij zowel koesterde als wantrouwde in zichzelf.
+
+Nieuw: Farah's hand was ingepakt in een verse mitella toen ze samen met Bram terugkeerde naar de loods, haar gezicht bleek van pijn die ze weigerde te tonen, en Van der Heijden merkte, voor hij ook maar één woord over de mislukte operatie hoorde, dat hij eerst opgelucht was dat ze allebei nog overeind liepen. Die volgorde van gevoelens, opluchting voor informatie, was iets wat hij zichzelf al twintig jaar probeerde te trainen en nooit helemaal onder de knie had gekregen, een menselijkheid die hij zowel koesterde als wantrouwde in zichzelf.
+
+### wijziging
+
+Oud: Bram had de woonboot aan de Brouwersgracht die ochtend in de gaten gehouden en was de twee op honderd meter afstand gevolgd, langs een kerk aan de Oudezijds Voorburgwal waar hij niet naar binnen had gedurfd, tot de ingang van een parkeergarage bij het Waterlooplein, waar hij ze tussen de betonnen pilaren was kwijtgeraakt. Reva riep het beeldmateriaal op, de korrelige opname van een parkeergarage-camera die ze via een achterdeur in het gemeentelijke systeem hadden weten te bereiken, het beeld schokkerig en donker maar duidelijk genoeg, en Van der Heijden bestudeerde het gezicht van de jonge bestuurder, te jong om een collega te zijn, te vertrouwd met de twee vluchtelingen om een toevallige taxichauffeur te zijn, zijn ogen samengeknepen op de manier van een man die gewend was patronen te zien waar anderen alleen chaos zagen.
+
+Nieuw: Bram had de woonboot aan de Brouwersgracht die ochtend in de gaten gehouden en was de twee op honderd meter afstand gevolgd, langs een kerk aan de Oudezijds Voorburgwal waar hij niet naar binnen had gedurfd, tot de ingang van een parkeergarage bij het Waterlooplein, waar hij ze tussen de betonnen pilaren was kwijtgeraakt. Reva riep het beeldmateriaal op, de korrelige opname van een parkeergaragecamera die ze via een achterdeur in het gemeentelijke systeem hadden weten te bereiken, het beeld schokkerig en donker maar duidelijk genoeg, en Van der Heijden bestudeerde het gezicht van de jonge bestuurder, te jong om een collega te zijn, te vertrouwd met de twee vluchtelingen om een toevallige taxichauffeur te zijn, zijn ogen samengeknepen op de manier van een man die gewend was patronen te zien waar anderen alleen chaos zagen.
+
+### wijziging
+
+Oud: Reva sloot het beeldbestand, niet omdat ze de gegevens niet meer nodig had, Van der Heijden zou de identificatie sowieso via de universiteit binnen een dag hebben, maar omdat ze niet langer naar dat gezicht wilde kijken zonder een antwoord te hebben op de vraag die het in haar opriep. Ze had gekozen voor deze beweging omdat ze geloofde dat waarheid, hoe ongemakkelijk ook, altijd beter was dan een gecontroleerde stilte. Ze was nooit gevraagd wat er gebeurde wanneer die overtuiging een gewoon mens in de weg stond die toevallig aan de verkeerde kant van een deur had gestaan.
+
+Nieuw: Reva sloot het beeldbestand, niet omdat ze de gegevens niet meer nodig had, Van der Heijden zou de identificatie sowieso via de universiteit binnen een dag hebben, maar omdat ze niet langer naar dat gezicht wilde kijken zonder een antwoord te hebben op de vraag die het in haar opriep. Ze had gekozen voor deze beweging omdat ze geloofde dat waarheid, hoe ongemakkelijk ook, altijd beter was dan een gecontroleerde stilte. Niemand had haar ooit gevraagd wat er gebeurde wanneer die overtuiging een gewoon mens in de weg stond die toevallig aan de verkeerde kant van een deur had gestaan.
+
+### wijziging
+
+Oud: Het hotel was precies zo onopvallend als Lars had beloofd, een familiebedrijf met tien kamers boven een café aan de rand van de oude binnenstad, de trap krakend onder versleten loper, de muren behangen met vergeelde foto's van een Maastricht dat er decennia geleden anders had uitgezien. De eigenaar, een gedrongen man van in de zestig met een sigaret die permanent leek te bungelen tussen zijn lippen zonder ooit aangestoken te worden, herkende Lars nog van twintig jaar geleden en stelde geen vragen over de creditcard die ze niet gebruikten of de reden waarom drie mensen zonder bagage om elf uur 's avonds incheckten. Hij schoof hun sleutels over de balie met de onverstoorbaarheid van een man die in vier decennia alles al eens had gezien.
+
+Nieuw: Het hotel was precies zo onopvallend als Lars had beloofd, een familiebedrijf met tien kamers boven een café aan de rand van de oude binnenstad, de trap krakend onder een versleten loper, de muren behangen met vergeelde foto's van een Maastricht dat er decennia geleden anders had uitgezien. De eigenaar, een gedrongen man van in de zestig met een sigaret die permanent leek te bungelen tussen zijn lippen zonder ooit aangestoken te worden, herkende Lars nog van twintig jaar geleden en stelde geen vragen over de creditcard die ze niet gebruikten of de reden waarom drie mensen zonder bagage om elf uur 's avonds incheckten. Hij schoof hun sleutels over de balie met de onverstoorbaarheid van een man die in vier decennia alles al eens had gezien.
+
+### wijziging
+
+Oud: „Kijk,” zei ze, met haar mond nog half vol, en wees op haar potloodschets, haar vinger langs de lijnen glijdend die ze uit haar geheugen had overgetekend met de precisie van iemand die gewend was elk detail te bewaren. „Als deze verhouding klopt, dan is het drukpunt niet willekeurig een plek in de steen. Het zou op nul komma zes één acht van de langste lijn moeten liggen, wat volgens de Gulden Snede-berekening hier uitkomt.” Ze tekende een klein kruisje op het papier. „We hebben geen zaklampen nodig zo erg als we handschoenen nodig hebben. Als daar een mechanisme zit dat twaalf jaar niet is aangeraakt, wil ik niet dat we het met blote vingers forceren en iets beschadigen dat bijna vierhonderd jaar heeft standgehouden.”
+
+Nieuw: „Kijk,” zei ze, met haar mond nog half vol, en wees op haar potloodschets, haar vinger langs de lijnen glijdend die ze uit haar geheugen had overgetekend met de precisie van iemand die gewend was elk detail te bewaren. „Als deze verhouding klopt, dan is het drukpunt niet willekeurig een plek in de steen. Het zou op nul komma zes één acht van de langste lijn moeten liggen, wat volgens de Gulden Snede-berekening hier uitkomt.” Ze tekende een klein kruisje op het papier. „We hebben handschoenen harder nodig dan zaklampen. Als daar een mechanisme zit dat twaalf jaar niet is aangeraakt, wil ik niet dat we het met blote vingers forceren en iets beschadigen dat bijna vierhonderd jaar heeft standgehouden.”
+
+### wijziging
+
+Oud: „Niet vannacht,” zei ze uiteindelijk. „Morgen gaan we terug naar de berg. Als we het mechanisme kunnen openen en zien wat daarachter ligt, hebben we tenminste iets tastbaars om mee naar hem toe te stappen. Anders geloven ze ons geen van beiden, en eindigen we als twee namen op een aanhoudingsbevel in plaats van als mensen met een verhaal.”
+
+Nieuw: „Niet vannacht,” zei ze uiteindelijk. „Morgen gaan we terug naar de berg. Als we het mechanisme kunnen openen en zien wat daarachter ligt, hebben we tenminste iets tastbaars om mee naar hem toe te stappen. Anders gelooft niemand ons, en eindigen we als twee namen op een aanhoudingsbevel in plaats van als mensen met een verhaal.”
+
+### wijziging
+
+Oud: Hij parkeerde zijn auto langs een verlaten weg waar het asfalt overging in onverhard pad, precies zoals in het dossier beschreven, en liep de laatste honderden meters te voet, zijn zaklamp nog uit, zijn ogen wennend aan het schemerdonker terwijl de geluiden van de stad achter hem wegstierven en plaatsmaakten voor het geritsel van bladeren en het verre geroep van een uil ergens boven in de heuvel.
+
+Nieuw: Hij parkeerde zijn auto langs een verlaten weg waar het asfalt overging in onverhard pad, precies zoals in het dossier beschreven, en liep de laatste paar honderd meter te voet, zijn zaklamp nog uit, zijn ogen wennend aan het schemerdonker terwijl de geluiden van de stad achter hem wegstierven en plaatsmaakten voor het geritsel van bladeren en het verre geroep van een uil ergens boven in de heuvel.
+
+### wijziging
+
+Oud: Hij liep de laatste honderden meters te voet, zoals de vorige avond, maar ditmaal met zijn zaklamp aan en zijn stappen minder voorzichtig, minder bang om gehoord te worden, zijn hart sneller kloppend dan de wandeling rechtvaardigde. Als Lars van der Meer en Sophie de Wit hier beneden waren, wilde hij niet dat zijn eigen onaangekondigde verschijning voor paniek zorgde die tot iets onomkeerbaars kon leiden, een gedachte die hem ertoe bracht luider te roepen dan zijn opleiding hem ooit had aangeleerd.
+
+Nieuw: Hij liep de laatste paar honderd meter te voet, zoals de vorige avond, maar ditmaal met zijn zaklamp aan en zijn stappen minder voorzichtig, minder bang om gehoord te worden, zijn hart sneller kloppend dan de wandeling rechtvaardigde. Als Lars van der Meer en Sophie de Wit hier beneden waren, wilde hij niet dat zijn eigen onaangekondigde verschijning voor paniek zorgde die tot iets onomkeerbaars kon leiden, een gedachte die hem ertoe bracht luider te roepen dan zijn opleiding hem ooit had aangeleerd.
+
+### wijziging
+
+Oud: Isaak bleef staan, zijn eigen licht op de grond gericht om niemand te verblinden, zijn stem zo kalm als hij hem kon maken. „Dat weten jullie niet,” zei hij eerlijk. „Maar ik weet dat Erik van der Meer twaalf jaar geleden hier is gestorven, dat het dossier binnen een week is gesloten op verzoek van een externe partij, en dat niemand ooit de moeite heeft genomen zijn weduwe terug te bellen. Ik ben die persoon die dat destijds had moeten doen. Ik kom het rechtzetten. Niet jullie arresteren.”
+
+Nieuw: Isaak bleef staan, zijn eigen licht op de grond gericht om niemand te verblinden, zijn stem zo kalm als hij hem kon maken. „Dat weten jullie niet,” zei hij eerlijk. „Maar ik weet dat Erik van der Meer twaalf jaar geleden hier is gestorven, dat het dossier binnen een week is gesloten op verzoek van een externe partij, en dat niemand ooit de moeite heeft genomen zijn weduwe terug te bellen. Ik ben degene die dat destijds had moeten doen. Ik kom het rechtzetten. Niet jullie arresteren.”
+
+### wijziging
+
+Oud: Lars nam de bladzijden aan met handen die niet helemaal stil waren, en Isaak zag, in het schijnsel van drie zaklampen tegelijk, hoe de uitdrukking op het gezicht van de man voor hem veranderde van wantrouwen naar iets wat dichter bij ongeloof lag, het soort ongeloof dat hoort bij mensen die eindelijk, na jaren, iemand tegenkomen die hen niet voor gek verklaart.
+
+Nieuw: Lars nam de bladzijden aan met handen die trilden, en Isaak zag, in het schijnsel van drie zaklampen tegelijk, hoe de uitdrukking op het gezicht van de man voor hem veranderde van wantrouwen naar iets wat dichter bij ongeloof lag, het soort ongeloof dat hoort bij mensen die eindelijk, na jaren, iemand tegenkomen die hen niet voor gek verklaart.
+
+### wijziging
+
+Oud: Voss had de auto nu al anderhalf uur stil zien staan op zijn scherm, een groen stipje dat zich niet meer bewoog dan een muis zou bewegen, en met elk uur dat verstreek voelde hij de discipline die Van Buren hem had opgelegd zwaarder wegen dan hij prettig vond, zijn ogen droog van het staren naar een scherm dat weigerde iets nieuws te tonen.
+
+Nieuw: Voss had de auto nu al anderhalf uur stil zien staan op zijn scherm, een groen stipje dat zich niet meer bewoog dan een muis zou bewegen, en met elke minuut die verstreek voelde hij de discipline die Van Buren hem had opgelegd zwaarder wegen dan hij prettig vond, zijn ogen droog van het staren naar een scherm dat weigerde iets nieuws te tonen.
+
+### wijziging
+
+Oud: Hij belde om half elf, niet omdat de instructie was veranderd, maar omdat een goede soldaat, had zijn vader hem ooit geleerd, zijn meester informeert voor de meester zelf moet vragen, een les die hij zich nog altijd herinnerde als een van de weinige dingen zijn vader hem had nagelaten die werkelijk nuttig waren gebleken.
+
+Nieuw: Hij belde om half elf, niet omdat de instructie was veranderd, maar omdat een goede soldaat, had zijn vader hem ooit geleerd, zijn meester informeert voor de meester zelf moet vragen, een les die hij zich nog altijd herinnerde als een van de weinige dingen die zijn vader hem had nagelaten die werkelijk nuttig waren gebleken.
+
+### wijziging
+
+Oud: Wat Van Buren niet had gezien, omdat hij zijn volledige aandacht op Lars had gericht sinds het moment dat hij de kamer binnenstapte, was dat Isaak, ergens tussen de eerste bekentenis en dit laatste ultimatum, zijn telefoon uit zijn zak had gehaald en, zonder ook maar een blik naar beneden te werpen, de voice-recorder had gestart, een gewoonte die hij zich twintig jaar geleden had aangeleerd na een verhoor dat zonder opname was verworden tot een welles-nietes dat een schuldige man had vrijgepleit, een les die hij nooit meer had willen herhalen.
+
+Nieuw: Wat Van Buren niet had gezien, omdat hij zijn volledige aandacht op Lars had gericht sinds het moment dat hij de kamer binnenstapte, was dat Isaak, ergens tussen de eerste bekentenis en dit laatste ultimatum, zijn telefoon uit zijn zak had gehaald en, zonder ook maar een blik naar beneden te werpen, de opnamefunctie had gestart, een gewoonte die hij zich twintig jaar geleden had aangeleerd na een verhoor dat zonder opname was verworden tot een welles-nietes dat een schuldige man had vrijgepleit, een les die hij nooit meer had willen herhalen.
+
+### wijziging
+
+Oud: „Ik heb geen bereik nodig om dit op te nemen,” zei Isaak kalm, terwijl hij de telefoon omhoog hield zodat Van Buren het scherm kon zien. „Alles wat u hier heeft gezegd staat nu vast. Uw betrokkenheid bij Eriks dood. Uw wetenschap van een tweede loge. Uw dreigement met een gewapend team. Dat is geen bewijs voor een rechtbank, u heeft gelijk. Maar het is wel iets waarmee ik, de volgende keer dat we elkaar spreken, niet met lege handen sta.”
+
+Nieuw: „Ik heb geen bereik nodig om dit op te nemen,” zei Isaak kalm, terwijl hij de telefoon omhooghield zodat Van Buren het scherm kon zien. „Alles wat u hier heeft gezegd staat nu vast. Uw betrokkenheid bij Eriks dood. Uw wetenschap van een tweede loge. Uw dreigement met een gewapend team. Dat is geen bewijs voor een rechtbank, u heeft gelijk. Maar het is wel iets waarmee ik, de volgende keer dat we elkaar spreken, niet met lege handen sta.”
+
+### wijziging
+
+Oud: Ze liep naar de deur, bleef even staan, en draaide zich half om, haar stem net iets te losjes voor wat ze ging zeggen. „We hebben trouwens ook uw assistent-onderzoeker gevonden. Daan. Een aardige jongen, volgens zijn huisgenoten. Maakt u zich geen zorgen, we hebben hem niet lastiggevallen. Ik zeg het alleen omdat ik wil dat u begrijpt hoe grondig we zoeken wanneer het ertoe doet. En hoe beperkt uw eigen privacy eigenlijk is, ook al voelt dat elke dag anders.”
+
+Nieuw: Ze liep naar de deur, bleef even staan, en draaide zich half om, haar stem net iets te losjes voor wat ze ging zeggen. „We hebben trouwens ook uw onderzoeksassistent gevonden. Daan. Een aardige jongen, volgens zijn huisgenoten. Maakt u zich geen zorgen, we hebben hem niet lastiggevallen. Ik zeg het alleen omdat ik wil dat u begrijpt hoe grondig we zoeken wanneer het ertoe doet. En hoe beperkt uw eigen privacy eigenlijk is, ook al voelt dat elke dag anders.”
+
+### wijziging
+
+Oud: Ze belde niemand meteen. Ze zat een lange tijd stil, kijkend naar haar telefoon, wegend wat ze wist tegen wat ze kon riskeren te delen, de stilte van haar kantoor plotseling drukkender dan ze ooit had aangevoeld in twintig jaar hier werken, tot ze uiteindelijk een sms opstelde aan het enige nummer van Lars dat ze had, wetend dat hij het waarschijnlijk niet meer gebruikte, wetend dat het misschien nooit zou aankomen, maar niet in staat om niets te doen.
+
+Nieuw: Ze belde niemand meteen. Ze zat een lange tijd stil, kijkend naar haar telefoon, wegend wat ze wist tegen wat ze kon riskeren te delen, de stilte van haar kantoor plotseling drukkender dan ze ooit had aangevoeld in twintig jaar in dit gebouw, tot ze uiteindelijk een sms opstelde aan het enige nummer van Lars dat ze had, wetend dat hij het waarschijnlijk niet meer gebruikte, wetend dat het misschien nooit zou aankomen, maar niet in staat om niets te doen.
+
+### wijziging
+
+Oud: Isaak, die met zijn armen over elkaar tegen zijn auto leunde, keek naar de groep met de blik van een man die een tactische situatie beoordeelde, zijn gedachten al vooruitlopend op de vraag hoe hij vier levens tegelijk kon beschermen met de middelen van één man. „We kunnen niet blijven improviseren,” zei hij. „We hebben nu drie dingen die we niet hadden gisteren: een opname van een bekentenis, een fysieke plek die het hele verhaal bevestigt, en een rechercheur die gelooft dat jullie de waarheid spreken. Dat is meer bewijs dan de meeste zaken waar ik ooit een veroordeling mee heb gekregen.”
+
+Nieuw: Isaak, die met zijn armen over elkaar tegen zijn auto leunde, keek naar de groep met de blik van een man die een tactische situatie beoordeelde, zijn gedachten al vooruitlopend op de vraag hoe hij vier levens tegelijk kon beschermen met de middelen van één man. „We kunnen niet blijven improviseren,” zei hij. „We hebben nu drie dingen die we gisteren niet hadden: een opname van een bekentenis, een fysieke plek die het hele verhaal bevestigt, en een rechercheur die gelooft dat jullie de waarheid spreken. Dat is meer bewijs dan de meeste zaken waar ik ooit een veroordeling mee heb gekregen.”
+
+### wijziging
+
+Oud: Lars knikte, en voor hij zich omdraaide naar het hek, keek hij nog één keer naar Sophie, een blik die meer zei dan woorden op dat moment hadden gekund, en samen liepen ze terug de duisternis in, naar een archief vol namen dat nog niet klaar was hun geheimen prijs te geven.
+
+Nieuw: Lars knikte, en voor hij zich omdraaide naar het hek, keek hij nog één keer naar Sophie, een blik die meer zei dan woorden op dat moment hadden gekund, en samen liepen ze terug de duisternis in, naar een archief vol namen dat nog niet klaar was zijn geheimen prijs te geven.
+
+### wijziging
+
+Oud: Sophie werkte met de methodische kalmte die haar vak haar had geleerd, ook al voelde niets aan deze kamer als een gewone opdracht: ze fotografeerde niet, uit voorzichtigheid tegen digitale sporen, maar tekende, potlood op papier, elke lijn van de inscriptie onder Eriks naam met de precisie waarmee ze ooit craquelures in vier eeuwen oude verf had overgetrokken, haar hand verrassend stil ondanks alles wat er om haar heen gebeurde.
+
+Nieuw: Sophie werkte met de methodische kalmte die haar vak haar had geleerd, ook al voelde niets aan deze kamer als een gewone opdracht: ze fotografeerde niet, uit angst voor digitale sporen, maar tekende, potlood op papier, elke lijn van de inscriptie onder Eriks naam met de precisie waarmee ze ooit craquelures in vier eeuwen oude verf had overgetrokken, haar hand verrassend stil ondanks alles wat er om haar heen gebeurde.
+
+### wijziging
+
+Oud: „En als ik hem laat leeg,” zei Lars. „Wat gebeurt er dan met dit alles? Met alle namen hier, met wat mijn vader heeft geprobeerd te beschermen?”
+
+Nieuw: „En als ik hem leeg laat,” zei Lars. „Wat gebeurt er dan met dit alles? Met alle namen hier, met wat mijn vader heeft geprobeerd te beschermen?”
+
+### wijziging
+
+Oud: Buiten, boven hun hoofden, ver weg maar voelbaar door de steen zelf, klonk het gedempte geluid van een autoportier dat dichtsloeg, en beiden verstijfden, wetend dat hun uur bijna om moest zijn, het gewicht van het moment abrupt vervangen door een koude, scherpe alertheid.
+
+Nieuw: Buiten, boven hun hoofden, ver weg maar voelbaar door de steen zelf, klonk het gedempte geluid van een autoportier dat dichtsloeg, en ze verstijfden allebei, wetend dat hun uur bijna om moest zijn, het gewicht van het moment abrupt vervangen door een koude, scherpe alertheid.
+
+### wijziging
+
+Oud: Isaak had precies vierendertig minuten op zijn horloge zien verstrijken, geleund tegen zijn auto met zijn blik afwisselend op de weg en op de ingang van het hek, de stilte van het middaguur bijna misleidend vredig na alles wat er de afgelopen uren was gebeurd, toen een onopvallende grijze huurauto de bocht om kwam en langzamer ging rijden op een manier die geen toevallige voorbijganger paste.
+
+Nieuw: Isaak had precies vierendertig minuten op zijn horloge zien verstrijken, geleund tegen zijn auto met zijn blik afwisselend op de weg en op de ingang van het hek, de stilte van het middaguur bijna misleidend vredig na alles wat er de afgelopen uren was gebeurd, toen een onopvallende grijze huurauto de bocht om kwam en langzamer ging rijden op een manier die bij geen toevallige voorbijganger paste.
+
+### wijziging
+
+Oud: De vrouw en de man wisselden een blik, en voor het eerst zag Isaak iets van twijfel in haar ogen, alsof zijn antwoord niet in het scenario paste dat ze hadden voorbereid, een korte breuk in hun voorbereiding die hij zich onmiddellijk voornam te onthouden.
+
+Nieuw: De vrouw en de man wisselden een blik, en voor het eerst zag Isaak iets van twijfel in haar ogen, alsof zijn antwoord niet in het scenario paste dat ze hadden voorbereid, een korte barst in hun plan die hij zich onmiddellijk voornam te onthouden.
+
+### wijziging
+
+Oud: Isaak, die naast hem op de passagiersstoel was gaan zitten omdat zijn eigen auto nu een herkenbaar doelwit was geworden, wees naar het zuiden, weg van Maastricht. „Ik heb een oom,” zei hij. „Een boerderij bij Epen, tegen de Duitse grens aan. Hij verhuurt er soms kamers aan wandelaars, maar deze tijd van het jaar staat het meestal leeg. Hij vraagt geen vragen als ik hem vraag dat niet te doen.”
+
+Nieuw: Isaak, die naast hem op de passagiersstoel was gaan zitten omdat zijn eigen auto nu een herkenbaar doelwit was geworden, wees naar het zuiden, weg van Maastricht. „Ik heb een oom,” zei hij. „Een boerderij bij Epen, tegen de Duitse grens aan. Hij verhuurt er soms kamers aan wandelaars, maar deze tijd van het jaar staat het meestal leeg. Hij stelt geen vragen als ik hem vraag dat niet te doen.”
+
+### wijziging
+
+Oud: Een paar uur eerder, terwijl in de keuken bij Epen de stoofpot nog op het vuur stond, bereikte Van der Heijden het hek in de schemering, en de aanblik ervan, wijd open, roestig scharnier krakend in een wind die van de heuvel af kwam, vertelde hem al genoeg voor hij ook maar één stap in de duisternis had gezet. De lucht boven het Limburgse land had de kleur van natte as, en ergens in de verte riep een enkele kraai, het enige geluid behalve de wind en het gekraak van het hek. Farah liep naast hem, haar mitella inmiddels vervangen door een strakkere windsel, en Bram bleef twee passen achter, zijn hand losjes op het wapen dat hij, tegen Van der Heijdens eigen instructies in, nu toch zichtbaar droeg.
+
+Nieuw: Een paar uur eerder, terwijl in de keuken bij Epen de stoofpot nog op het vuur stond, bereikte Van der Heijden het hek in de schemering, en de aanblik ervan, wijd open, roestig scharnier krakend in een wind die van de heuvel af kwam, vertelde hem al genoeg voor hij ook maar één stap in de duisternis had gezet. De lucht boven het Limburgse land had de kleur van natte as, en ergens in de verte riep een enkele kraai, het enige geluid behalve de wind en het gekraak van het hek. Farah liep naast hem, haar mitella inmiddels vervangen door een strak verband, en Bram bleef twee passen achter, zijn hand losjes op het wapen dat hij, tegen Van der Heijdens eigen instructies in, nu toch zichtbaar droeg.
+
+### wijziging
+
+Oud: „Dat kost uren, misschien dagen, en maakt geluid dat een halve provincie hierheen trekt,” zei Van der Heijden. „Nee. We hebben verloren wat we hier hadden kunnen winnen. Wat we niet hoeven te verliezen is de mensen die wél weten wat er achter deze muur ligt.” Hij draaide zich om, liep terug naar het daglicht met een tempo dat zijn eigen ongeduld verried, en pakte zijn telefoon voor hij goed en wel buiten stond. „Reva. Waar is de rechercheur.”
+
+Nieuw: „Dat kost uren, misschien dagen, en maakt geluid dat een halve provincie hierheen trekt,” zei Van der Heijden. „Nee. We hebben verloren wat we hier hadden kunnen winnen. Wat we niet hoeven te verliezen, zijn de mensen die wél weten wat er achter deze muur ligt.” Hij draaide zich om, liep terug naar het daglicht met een tempo dat zijn eigen ongeduld verried, en pakte zijn telefoon voor hij goed en wel buiten stond. „Reva. Waar is de rechercheur.”
+
+### wijziging
+
+Oud: Het duurde vier tonen voor er werd opgenomen, en de stem die klonk was schor van slaap maar meteen alert op de manier van iemand die decennia had doorgebracht met midden in de nacht gewekt worden voor slecht nieuws. „De Graaf. Weet je wel hoe laat het is.”
+
+Nieuw: Het duurde vier tonen voor er werd opgenomen, en de stem die klonk was schor van slaap maar meteen alert op de manier van iemand die decennia had doorgebracht met het midden in de nacht gewekt worden voor slecht nieuws. „De Graaf. Weet je wel hoe laat het is.”
+
+### wijziging
+
+Oud: Hij liep terug naar zijn stoel bij het raam, ging zitten met een zwaarte die zijn leeftijd voor het eerst echt liet zien, en staarde naar het water dat nog altijd niet had beslist welk weer het wilde worden. „Bel Den Haag,” zei hij. „Niet het korps. De andere lijn. Zeg dat we een gunst nodig hebben, en zeg dat ik weet dat we die gunst al twintig jaar niet meer hebben opgevraagd, en dat dat precies de reden is waarom hij nu nog opengestaan zal hebben.”
+
+Nieuw: Hij liep terug naar zijn stoel bij het raam, ging zitten met een zwaarte die zijn leeftijd voor het eerst echt liet zien, en staarde naar het water dat nog altijd niet had beslist welk weer het wilde worden. „Bel Den Haag,” zei hij. „Niet het korps. De andere lijn. Zeg dat we een gunst nodig hebben, en zeg dat ik weet dat we die gunst al twintig jaar niet meer hebben opgevraagd, en dat dat precies de reden is waarom hij nu nog nog openstaat.”
+
+### wijziging
+
+Oud: „Frank heeft me alles gestuurd,” zei ze, zonder inleiding, terwijl ze een kop koffie afsloeg die Sophie haar aanbood. „Ik heb het drie keer beluisterd, en ik heb, tegen elke professionele instinct in, twee juristen gebeld die ik met mijn leven vertrouw, zonder namen te noemen. Beiden zeggen hetzelfde. Als die opname authentiek is, en als de context klopt zoals Frank die heeft beschreven, dan heb je iets in handen dat groter is dan een lokale zaak.”
+
+Nieuw: „Frank heeft me alles gestuurd,” zei ze, zonder inleiding, terwijl ze een kop koffie afsloeg die Sophie haar aanbood. „Ik heb het drie keer beluisterd, en ik heb, tegen elk professioneel instinct in, twee juristen gebeld die ik met mijn leven vertrouw, zonder namen te noemen. Beiden zeggen hetzelfde. Als die opname authentiek is, en als de context klopt zoals Frank die heeft beschreven, dan heb je iets in handen dat groter is dan een lokale zaak.”
+
+### wijziging
+
+Oud: Sophie voelde iets kouds door zich heen gaan bij het horen van Ahmeds naam, een man die haar al twaalf jaar 's ochtends vroeg begroette met dezelfde vermoeide vriendelijkheid, die haar nooit iets dan beleefdheid had getoond. „Hij wist niet eens wat hij zei,” zei ze langzaam, meer een vaststelling dan een vraag.
+
+Nieuw: Sophie voelde iets kouds door zich heen gaan bij het horen van Ahmeds naam, een man die haar al twaalf jaar 's ochtends vroeg begroette met dezelfde vermoeide vriendelijkheid, die haar nooit iets anders dan beleefdheid had getoond. „Hij wist niet eens wat hij zei,” zei ze langzaam, meer een vaststelling dan een vraag.
+
+### wijziging
+
+Oud: Zelfs met de bouwlampen die de aannemers hadden opgehangen, voelde de gang dieper de berg in kouder aan dan boven, een droge, minerale kou die na een paar honderd meter door elke laag kleding heen leek te dringen, en het geluid van hun eigen voetstappen kaatste terug in een echo die net iets te lang duurde om volledig natuurlijk te voelen, alsof de berg zelf meeluisterde. Sanders, die duidelijk niet gewend was aan besloten ruimtes, hield haar hand af en toe tegen de wand, niet uit steun maar uit een behoefte zich ervan te verzekeren dat de steen nog massief was.
+
+Nieuw: Zelfs met de bouwlampen die de aannemers hadden opgehangen, voelde de gang dieper de berg in kouder aan dan boven, een droge, minerale kou die na een paar honderd meter door elke laag kleding heen leek te dringen, en het geluid van hun eigen voetstappen kaatste terug in een echo die net iets te lang duurde om volledig natuurlijk te voelen, alsof de berg zelf meeluisterde. Sanders, die duidelijk niet gewend was aan besloten ruimtes, hield haar hand af en toe tegen de wand, niet om steun maar uit een behoefte zich ervan te verzekeren dat de steen nog massief was.
+
+### wijziging
+
+Oud: De bladzijden zelf waren met een precisie beschreven die Van Buren, ondanks zijn onrust, niet kon nalaten te bewonderen: in de kantlijn, naast elke belangrijke passage, had De Architect kleine diagrammen getekend, een cirkel verdeeld volgens de Gulden Snede, de verhouding steeds weer herhaald in de marges als een soort visuele handtekening, en op de laatste bladzijde een gebroken zegel in rode was, met een afdruk die geen enkel wapen of loge-symbool toonde dat Van Buren ooit had gezien, alleen een simpele passer, open, zonder de gebruikelijke vierkante winkelhaak ernaast. Alsof de schrijver zich bewust had willen distantiëren van elke broederschap die na hem zou komen.
+
+Nieuw: De bladzijden zelf waren met een precisie beschreven die Van Buren, ondanks zijn onrust, niet kon nalaten te bewonderen: in de kantlijn, naast elke belangrijke passage, had De Architect kleine diagrammen getekend, een cirkel verdeeld volgens de Gulden Snede, de verhouding steeds weer herhaald in de marges als een soort visuele handtekening, en op de laatste bladzijde een gebroken zegel in rode was, met een afdruk die geen enkel wapen of logesymbool toonde dat Van Buren ooit had gezien, alleen een simpele passer, open, zonder de gebruikelijke vierkante winkelhaak ernaast. Alsof de schrijver zich bewust had willen distantiëren van elke broederschap die na hem zou komen.
+
+### wijziging
+
+Oud: Van Buren legde zijn hand op de glazen kap, voelde de koelte ervan door zijn handschoen heen, en dacht aan veertig jaar van berekening die hem tot precies dit moment hadden gebracht, een oude man alleen in een bibliotheek met een boek dat de geschiedenis van een heel land had kunnen veranderen als iemand het driehonderd jaar eerder had durven publiceren.
+
+Nieuw: Van Buren legde zijn hand op de glazen kap, voelde de koelte ervan door zijn handschoen heen, en dacht aan veertig jaar van berekening die hem tot precies dit moment hadden gebracht, een oude man alleen in een bibliotheek met een boek dat de geschiedenis van een heel land had kunnen veranderen als iemand het vierhonderd jaar eerder had durven publiceren.
+
+### wijziging
+
+Oud: Lars deed onwillekeurig een stap naar voren, en Van Buren stak zijn hand op, niet dreigend maar met het gezag van een man die zijn hele leven had geleerd dat gezag zelden luid hoefde te klinken om effectief te zijn. „Kijk ernaar,” zei hij. „Ik ontzeg het u niet. Maar raak het niet aan zonder handschoenen, professor, hoezeer u ook uw vaders levenswerk in die bladzijden herkent. Vierhonderd jaar oud papier verdraagt geen emotie, alleen precisie.”
+
+Nieuw: Lars deed onwillekeurig een stap naar voren, en Van Buren stak zijn hand op, niet dreigend maar met het gezag van een man die zijn hele leven had geleerd dat gezag zelden luid hoefde te klinken om effectief te zijn. „Kijk ernaar,” zei hij. „Ik ontzeg het u niet. Maar raak het niet aan zonder handschoenen, professor, hoezeer u ook uw vaders levenswerk in die bladzijden herkent. Bijna vierhonderd jaar oud perkament verdraagt geen emotie, alleen precisie.”
+
+### wijziging
+
+Oud: Van Buren keek naar de telefoon. Toen naar de glazen kap. Sophie zag hem rekenen, zoals hij zijn hele leven had gerekend, en zag hem uitkomen bij een uitkomst die hem niet beviel. „Het verbond is van niemand die nog leeft,” zei hij. „Doe ermee wat u wilt. Maar achterin staan namen. Honderden. Kooplieden, artsen, onderwijzers, hun kinderen, hun kleinkinderen. Mensen die nooit iets anders hebben gedaan dan een eed afleggen die hun vader ook had afgelegd. Als u die bladzijden aan een krant geeft, maakt u van al die mensen medeplichtigen aan iets waarvan ze nooit hebben geweten.”
+
+Nieuw: Van Buren keek naar de telefoon. Toen naar de glazen kap. Sophie zag hem rekenen, zoals hij zijn hele leven had gerekend, en zag hem uitkomen bij een som die hem niet beviel. „Het verbond is van niemand die nog leeft,” zei hij. „Doe ermee wat u wilt. Maar achterin staan namen. Honderden. Kooplieden, artsen, onderwijzers, hun kinderen, hun kleinkinderen. Mensen die nooit iets anders hebben gedaan dan een eed afleggen die hun vader ook had afgelegd. Als u die bladzijden aan een krant geeft, maakt u van al die mensen medeplichtigen aan iets waarvan ze nooit hebben geweten.”
+
+### wijziging
+
+Oud: Reva had het gesprek onderschept om kwart voor vijf, een fragment van een telefoontje tussen Sanders' bureau en een notaris in Amsterdam die op dit uur normaal nooit wakker zou zijn, en tegen de tijd dat ze Van der Heijden had wakker gebeld in de loods aan het havengebied, was de betekenis ervan al helder genoeg om zijn hele lichaam verstijfd te doen rechtop komen in een stoel waarin hij de laatste uren had proberen te slapen zonder erin te slagen.
+
+Nieuw: Reva had het gesprek onderschept om kwart voor vijf, een fragment van een telefoontje tussen Sanders' bureau en een notaris in Amsterdam die op dit uur normaal nooit wakker zou zijn, en tegen de tijd dat ze Van der Heijden had wakker gebeld in de loods aan het havengebied, was de betekenis ervan al helder genoeg om hem met een schok rechtop te doen zitten in de stoel waarin hij de laatste uren tevergeefs had geprobeerd te slapen.
+
+### wijziging
+
+Oud: Lars, die tot dan had gezwegen, deed een stap naar voren. Zijn stem klonk vaster dan hij zich voelde. „Het is geen stilzwijgen. Het is uitstel, met een deadline die vaststaat, bewaakt door een instelling die geen van beide partijen alleen kan sturen. Over vijfenzeventig jaar komt dit naar buiten, Van der Heijden. Gegarandeerd. Wat u of Van Buren daar tegen die tijd ook van vinden.”
+
+Nieuw: Lars, die tot dan had gezwegen, deed een stap naar voren. Zijn stem klonk vaster dan hij zich voelde. „Het is geen stilzwijgen. Het is uitstel, met een deadline die vaststaat, bewaakt door een instelling die geen van beide partijen alleen kan sturen. Over vijfenzeventig jaar komt dit naar buiten, Van der Heijden. Gegarandeerd. Wat u of Van Buren daar tegen die tijd ook van vindt.”
+
+### wijziging
+
+Oud: „Vijfenzeventig jaar is een leven,” zei Van der Heijden. „Meer dan een leven. Het is een garantie dat niemand die nu lijdt onder dit soort leugens, er ooit iets aan zal hebben. Mijn zuster zou er niets aan hebben gehad. Dat is wat vijfenzeventig jaar betekent, professor. Niet geduld. Afstel voor iedereen die nu al dood is of nog gaat sterven wachtend.”
+
+Nieuw: „Vijfenzeventig jaar is een leven,” zei Van der Heijden. „Meer dan een leven. Het is een garantie dat niemand die nu lijdt onder dit soort leugens, er ooit iets aan zal hebben. Mijn zuster zou er niets aan hebben gehad. Dat is wat vijfenzeventig jaar betekent, professor. Niet geduld. Afstel voor iedereen die nu al dood is of al wachtend nog zal sterven.”
+
+### wijziging
+
+Oud: „Dan arresteer ik u,” zei Isaak, „hier, nu, voor de aanval op de boerderij van mijn oom, een aanval waarvan ik weet dat uw mensen hem hebben uitgevoerd, en voor elke andere daad die Hoofdinspecteur Sanders de afgelopen dagen heeft gedocumenteerd. Ik heb liever dat u instemt met iets dat een deel van wat u wilt garandeert, dan dat ik u dwing tot een cel waarin u niets meer kunt garanderen.”
+
+Nieuw: „Dan arresteer ik u,” zei Isaak, „hier, nu, voor de aanval op de boerderij van mijn oom, een aanval waarvan ik weet dat uw mensen hem hebben uitgevoerd, en voor elke andere daad die hoofdinspecteur Sanders de afgelopen dagen heeft gedocumenteerd. Ik heb liever dat u instemt met iets dat een deel van wat u wilt garandeert, dan dat ik u dwing tot een cel waarin u niets meer kunt garanderen.”
+
+### wijziging
+
+Oud: Buiten, over het water van de Herengracht, brak de zon nu volledig door de ochtendmist, en Sophie, die naar de mannen keek die zojuist, na twintig en veertig jaar oorlog, iets hadden bereikt dat geen van beiden een overwinning zou noemen maar dat, besefte ze, misschien wel de enige echte vrede was die deze zaak ooit zou kennen, voelde voor het eerst sinds ze de restauratiestudio in Amsterdam had verlaten dat het einde van dit verhaal eindelijk in zicht kwam.
+
+Nieuw: Buiten, over het water van de Herengracht, brak de zon nu volledig door de ochtendmist, en Sophie, die naar de mannen keek die zojuist, na twintig jaar oorlog, iets hadden bereikt dat geen van beiden een overwinning zou noemen maar dat, besefte ze, misschien wel de enige echte vrede was die deze zaak ooit zou kennen, voelde voor het eerst sinds ze de restauratiestudio in Amsterdam had verlaten dat het einde van dit verhaal eindelijk in zicht kwam.
+
+### wijziging
+
+Oud: Het Maastricht UMC rook zoals alle ziekenhuizen roken, naar ontsmettingsmiddel en te sterke koffie uit een automaat, maar voor Isaak had die geur die middag iets bijna vrolijks, een teken dat de wereld weer bestond uit gewone dingen als wachtkamers en bezoektijden in plaats van instortende mijngangen en bibliotheken vol geheimen. Hij liep de gang van de chirurgische afdeling op met een tas vol fruit die Sophie onderweg had gekocht bij een tankstation, hoewel geen van hen precies wist of Piet van fruit hield, en met een opluchting die hij de afgelopen dagen bijna was vergeten hoe die aanvoelde.
+
+Nieuw: Het Maastricht UMC rook zoals alle ziekenhuizen roken, naar ontsmettingsmiddel en te sterke koffie uit een automaat, maar voor Isaak had die geur die middag iets bijna vrolijks, een teken dat de wereld weer bestond uit gewone dingen als wachtkamers en bezoektijden in plaats van instortende mijngangen en bibliotheken vol geheimen. Hij liep de gang van de chirurgische afdeling op met een tas vol fruit die Sophie onderweg had gekocht bij een tankstation, hoewel geen van hen precies wist of Piet van fruit hield, en met een opluchting waarvan hij de afgelopen dagen bijna was vergeten hoe die aanvoelde.
+
+### wijziging
+
+Oud: „Onzin,” zei Piet, met de stelligheid van een man die zijn hele leven had besteed aan het negeren van excuses die hij niet nodig achtte. „Ik heb zelf gekozen om jullie binnen te laten. Ik heb zelf dat geweer gepakt. Als er iemand hier iets moet goedmaken, is het de wereld tegenover mij, omdat ze me veertig jaar lang niets interessanters hebben laten meemaken dan koeien en het weer.” Hij wierp een blik op Sophie en Lars, die achter Isaak de kamer binnenkwamen. „En dit zijn dus de beroemde professor en zijn restauratrice. Ik heb over jullie gehoord op het regionale nieuws vanochtend. Ze noemen jullie nog steeds voortvluchtig, hoor, dus ik hoop dat dat probleem inmiddels ook is opgelost, anders krijg ik zo meteen weer bezoek van mensen met minder vriendelijke bedoelingen dan een fruitmand.”
+
+Nieuw: „Onzin,” zei Piet, met de stelligheid van een man die zijn hele leven had besteed aan het negeren van excuses die hij niet nodig achtte. „Ik heb zelf gekozen om jullie binnen te laten. Ik heb zelf dat geweer gepakt. Als er iemand hier iets moet goedmaken, is het de wereld, omdat die me veertig jaar lang niets interessanters hebben laten meemaken dan koeien en het weer.” Hij wierp een blik op Sophie en Lars, die achter Isaak de kamer binnenkwamen. „En dit zijn dus de beroemde professor en zijn restauratrice. Ik heb over jullie gehoord op het regionale nieuws vanochtend. Ze noemen jullie nog steeds voortvluchtig, hoor, dus ik hoop dat dat probleem inmiddels ook is opgelost, anders krijg ik zo meteen weer bezoek van mensen met minder vriendelijke bedoelingen dan een fruitmand.”
+
+### wijziging
+
+Oud: „Dat probleem wordt vandaag opgelost,” zei een stem vanuit de deuropening, en Sanders liep binnen met haar telefoon al in haar hand, haar gezicht voor het eerst sinds Isaak haar kende ontspannen genoeg om iets te tonen dat op een glimlach leek. „Het opsporingsbevel wordt binnen het uur ingetrokken. Ik heb de officier van justitie persoonlijk gesproken, met Frank erbij als getuige van je onberispelijke staat van dienst, De Graaf, en met een verklaring van mijzelf die, laat ik zeggen, iets minder details bevat dan wat er werkelijk is gebeurd de afgelopen dagen.” Ze keek even naar Sophie. „Arnold de Wit heeft vanochtend om negen uur een verklaring afgelegd. Vier uur lang. Hij was op tijd.”
+
+Nieuw: „Dat probleem wordt vandaag opgelost,” zei een stem vanuit de deuropening, en Sanders kwam binnen met haar telefoon al in haar hand, haar gezicht voor het eerst sinds Isaak haar kende ontspannen genoeg om iets te tonen dat op een glimlach leek. „Het opsporingsbevel wordt binnen het uur ingetrokken. Ik heb de officier van justitie persoonlijk gesproken, met Frank erbij als getuige van je onberispelijke staat van dienst, De Graaf, en met een verklaring van mijzelf die, laat ik zeggen, iets minder details bevat dan wat er werkelijk is gebeurd de afgelopen dagen.” Ze keek even naar Sophie. „Arnold de Wit heeft vanochtend om negen uur een verklaring afgelegd. Vier uur lang. Hij was op tijd.”
+
+### wijziging
+
+Oud: Sophie voelde iets in haar borst breken open dat ze de afgelopen dagen strak had dichtgehouden, een spanning die ze niet eens had beseft nog vast te houden, en ze moest haar hand tegen de muur zetten om niet te wankelen onder het gewicht van opluchting dat door haar heen ging. „Dan kunnen we naar huis,” zei ze, en de woorden klonken vreemd in haar mond, alsof ze een taal sprak die ze bijna was verleerd.
+
+Nieuw: Sophie voelde iets in haar borst openbreken dat ze de afgelopen dagen strak had dichtgehouden, een spanning waarvan ze niet eens had beseft dat ze die nog vasthield, en ze moest haar hand tegen de muur zetten om niet te wankelen onder het gewicht van opluchting dat door haar heen ging. „Dan kunnen we naar huis,” zei ze, en de woorden klonken vreemd in haar mond, alsof ze een taal sprak die ze bijna was verleerd.
+
+### wijziging
+
+Oud: Sophie voelde iets in haar borst openbreken dat ze de afgelopen dagen strak had dichtgehouden, een spanning waarvan ze niet eens had beseft dat ze die nog vasthield, en ze moest haar hand tegen de muur zetten om niet te wankelen onder het gewicht van opluchting dat door haar heen ging. „Dan kunnen we naar huis,” zei ze, en de woorden klonken vreemd in haar mond, alsof ze een taal sprak die ze bijna was verleerd.
+
+Nieuw: Sophie voelde iets in haar borst openbreken dat ze de afgelopen dagen strak had dichtgehouden, een spanning waarvan ze niet eens had beseft dat ze die nog vasthield, en ze moest haar hand tegen de muur zetten om niet te wankelen onder het gewicht van de opluchting dat door haar heen ging. „Dan kunnen we naar huis,” zei ze, en de woorden klonken vreemd in haar mond, alsof ze een taal sprak die ze bijna was verleerd.
+
+### wijziging
+
+Oud: Isaak keek de jongen aan met de professionele beoordelingsblik van twintig jaar verhoren afnemen, en zag geen leugen, alleen de oprechte ongemakkelijkheid van iemand die eindelijk iets bekende dat hij te lang had gedragen. „Heb je nog contact met hen?”
+
+Nieuw: Isaak keek de jongen aan met de keurende blik van vijfentwintig jaar politiewerk, en zag geen leugen, alleen de oprechte ongemakkelijkheid van iemand die eindelijk iets bekende dat hij te lang had gedragen. „Heb je nog contact met hen?”
+
+### wijziging
+
+Oud: „Het maakt je een man die een keuze heeft gemaakt toen het erop aankwam,” zei Sophie zacht, „en dat is meer dan de meeste mensen ooit wordt gevraagd te doen.”
+
+Nieuw: „Het maakt je een man die een keuze heeft gemaakt toen het erop aankwam,” zei Sophie zacht, „en dat is meer dan van de meeste mensen ooit wordt gevraagd.”
+
+### wijziging
+
+Oud: Het regende al sinds de middag, een fijne, volhardende Amsterdamse regen die geen haast had en geen einde, en de Brouwersgracht lag erbij als een strook gehamerd tin. Sophie zat in de kajuit met alleen het leeslampje aan. Het water tikte tegen de romp, traag, als een klok die achterliep. Op tafel lag een stapel post die ze niet had geopend, en daarbovenop haar telefoon, die al vijf dagen niet was gegaan op de manier waarop ze wilde dat hij ging.
+
+Nieuw: Het regende al sinds de middag, een fijne, volhardende Amsterdamse regen die geen haast had en geen einde, en de Brouwersgracht lag erbij als een strook gehamerd tin. Sophie zat in de kajuit met alleen het leeslampje aan. Het water tikte tegen de romp, traag, als een klok die achterliep. Op tafel lag een stapel post die ze niet had geopend, en daarbovenop haar telefoon, die in vijf dagen niet één keer was overgegaan met de naam die ze hoopte te zien.
+
+### wijziging
+
+Oud: De gang die eerder donker en dreigend had aangevoeld, verlicht nu door een reeks bouwlampen die het forensisch team had opgehangen, en het effect was vreemd ontluisterend, alsof een plek die een week geleden nog een tombe vol geheimen was geweest, was gereduceerd tot een gewone werkplaats met kabels langs de vloer en genummerde markeringen bij elke vondst. En toch, toen ze de kamer met de honderden namen binnenliepen en Lars zijn zaklamp op de wand richtte, ondanks de bouwlampen die er al hingen, voelde het gewicht van de plek nog precies zo zwaar als de eerste keer.
+
+Nieuw: De gang die eerder donker en dreigend had aangevoeld, werd nu verlicht door een reeks bouwlampen die het forensisch team had opgehangen, en het effect was vreemd ontluisterend, alsof een plek die een week geleden nog een tombe vol geheimen was geweest, was gereduceerd tot een gewone werkplaats met kabels langs de vloer en genummerde markeringen bij elke vondst. En toch, toen ze de kamer met de honderden namen binnenliepen en Lars zijn zaklamp op de wand richtte, ondanks de bouwlampen die er al hingen, voelde het gewicht van de plek nog precies zo zwaar als de eerste keer.
+
+### wijziging
+
+Oud: De gang die eerder donker en dreigend had aangevoeld, werd nu verlicht door een reeks bouwlampen die het forensisch team had opgehangen, en het effect was vreemd ontluisterend, alsof een plek die een week geleden nog een tombe vol geheimen was geweest, was gereduceerd tot een gewone werkplaats met kabels langs de vloer en genummerde markeringen bij elke vondst. En toch, toen ze de kamer met de honderden namen binnenliepen en Lars zijn zaklamp op de wand richtte, ondanks de bouwlampen die er al hingen, voelde het gewicht van de plek nog precies zo zwaar als de eerste keer.
+
+Nieuw: De gang die eerder donker en dreigend had aangevoeld, werd nu verlicht door een reeks bouwlampen die het forensisch team had opgehangen, en het effect was vreemd ontluisterend, alsof een plek die een week geleden nog een tombe vol geheimen was geweest, was gereduceerd tot een gewone werkplaats met kabels langs de vloer en genummerde markeringen bij elke vondst. En toch, toen ze de kamer met de honderden namen binnenliepen en Isaak uit gewoonte zijn zaklamp op de wand richtte, ondanks de bouwlampen die er al hingen, voelde het gewicht van de plek nog precies zo zwaar als de eerste keer.
+
+### wijziging
+
+Oud: Hij liep recht naar de plek waar zijn vaders naam stond, Erik van der Meer, de randen inmiddels een beetje gladder van het licht dat er de afgelopen dagen op had geschenen tijdens het onderzoek, en onder die naam, nog altijd, de lege ruimte die al twaalf jaar op iets wachtte.
+
+Nieuw: Hij liep recht naar de plek waar zijn vaders naam stond, Erik van der Meer, de letters inmiddels schoongeborsteld door het onderzoeksteam, en onder die naam, nog altijd, de lege ruimte die al twaalf jaar op iets wachtte.
+
+### wijziging
+
+Oud: „Ik denk het wel,” zei Lars. „Maar ik wil het hardop zeggen voor ik het doe, om zeker te weten dat ik het meen en niet alleen doe omdat het moment erom vraagt.” Hij zweeg even, zijn blik nog altijd op de lege steen. „Mijn vader werd bewaarder omdat hij geloofde dat sommige waarheden bescherming nodig hadden tegen een wereld die er misbruik van zou maken. Hij had daarin gelijk, denk ik, maar hij vergat iets waar ik de afgelopen dagen pas achter ben gekomen. Bescherming en begraving zijn niet hetzelfde ding, ook al voelen ze vanbinnen soms identiek aan. Mijn vader begroef een waarheid omdat hij niet wist hoe hij haar anders kon beschermen. Ik wil geen bewaarder worden die hetzelfde doet.”
+
+Nieuw: „Ik denk het wel,” zei Lars. „Maar ik wil het hardop zeggen voor ik het doe, om zeker te weten dat ik het meen en niet alleen doe omdat het moment erom vraagt.” Hij zweeg even, zijn blik nog altijd op de lege steen. „Mijn vader werd bewaarder omdat hij geloofde dat sommige waarheden bescherming nodig hadden tegen een wereld die er misbruik van zou maken. Hij had daarin gelijk, denk ik, maar hij vergat iets waar ik de afgelopen dagen pas achter ben gekomen. Bescherming en begraving zijn niet hetzelfde, ook al voelen ze vanbinnen soms identiek aan. Mijn vader begroef een waarheid omdat hij niet wist hoe hij haar anders kon beschermen. Ik wil geen bewaarder worden die hetzelfde doet.”
+
+### wijziging
+
+Oud: „Je bent terug,” zei de directeur, die de studio binnenkwam met een dossiermap tegen zijn borst geklemd en een gezicht dat de afgelopen weken zichtbaar ouder had gemaakt. „Ik wist niet zeker of je dat nog zou willen. Na alles.”
+
+Nieuw: „Je bent terug,” zei de directeur, die de studio binnenkwam met een dossiermap tegen zijn borst geklemd en een gezicht dat in de afgelopen weken zichtbaar ouder was geworden. „Ik wist niet zeker of je dat nog zou willen. Na alles.”
+
+### wijziging
+
+Oud: „Sanders heeft me een versie verteld die, laat ik zeggen, zorgvuldig was geredigeerd,” zei de directeur, terwijl hij tegenover haar ging zitten aan de tafel die ooit vol had gelegen met de eerste beelden van de verborgen symbolen. „Genoeg om te begrijpen dat er iets onder deze verflagen zit dat groter is dan een gewone pentimenti. En genoeg om te begrijpen dat ik daar heel voorzichtig mee moet omgaan, zowel juridisch als binnen het museum zelf.”
+
+Nieuw: „Sanders heeft me een versie verteld die, laat ik zeggen, zorgvuldig was geredigeerd,” zei de directeur, terwijl hij tegenover haar ging zitten aan de tafel die ooit vol had gelegen met de eerste beelden van de verborgen symbolen. „Genoeg om te begrijpen dat er iets onder deze verflagen zit dat groter is dan een gewoon pentimento. En genoeg om te begrijpen dat ik daar heel voorzichtig mee moet omgaan, zowel juridisch als binnen het museum zelf.”
+
+### wijziging
+
+Oud: De directeur stond op, en voor het eerst sinds hij de studio was binnengekomen, glimlachte hij volledig. „Ik zal het voorleggen aan de raad van bestuur, maar ik verwacht geen weerstand. En Sophie,” hij aarzelde bij de deur, „ik wil dat je weet dat je functie hier niet ter discussie staat, ondanks alles wat er in de kranten heeft gestaan. Iedereen die je collega's heeft gesproken de afgelopen weken, weet dat je precies hebt gedaan wat een goede restaurator hoort te doen. Je hebt gekeken naar wat er werkelijk onder de oppervlakte zat, en je bent niet weggelopen toen je het vond.”
+
+Nieuw: De directeur stond op, en voor het eerst sinds hij de studio was binnengekomen, glimlachte hij volledig. „Ik zal het voorleggen aan de raad van bestuur, maar ik verwacht geen weerstand. En Sophie,” hij aarzelde bij de deur, „ik wil dat je weet dat je functie hier niet ter discussie staat, ondanks alles wat er in de kranten heeft gestaan. Iedereen die de afgelopen weken je collega's heeft gesproken, weet dat je precies hebt gedaan wat een goede restaurator hoort te doen. Je hebt gekeken naar wat er werkelijk onder de oppervlakte zat, en je bent niet weggelopen toen je het vond.”
+
+### wijziging
+
+Oud: Lars, die haar was gevolgd de studio in maar tot dan toe op afstand had gebleven, kwam naast haar staan, zijn blik omhoog naar hetzelfde doek dat zijn eigen leven de afgelopen weken had omgekeerd. „Denk je dat hij wist wat het zou betekenen? Rembrandt, bedoel ik. Dat dit ooit zou leiden tot een dode vader, een achtervolging door twee loges, een manuscript dat de geschiedenis had kunnen herschrijven?”
+
+Nieuw: Lars, die haar de studio in was gevolgd maar tot dan toe op afstand had gebleven, kwam naast haar staan, zijn blik omhoog naar hetzelfde doek dat zijn eigen leven de afgelopen weken had omgekeerd. „Denk je dat hij wist wat het zou betekenen? Rembrandt, bedoel ik. Dat dit ooit zou leiden tot een dode vader, een achtervolging door twee loges, een manuscript dat de geschiedenis had kunnen herschrijven?”
+
+### wijziging
+
+Oud: „De twee mensen die verantwoordelijk waren voor de aanval op de boerderij bij Epen zijn geïdentificeerd en aangeklaagd,” zei ze, zonder omwegen. „Poging tot doodslag, illegaal wapenbezit, huisvredebreuk. Een van hen heeft, tegen het advies van zijn eigen advocaat in, een verklaring afgelegd die bevestigt dat Van der Heijden persoonlijk om terughoudendheid had gevraagd en dat het geweld een individuele beslissing was, genomen onder druk van het moment. Dat scheelt hem, juridisch gezien, wat er nog boven zijn hoofd hing.”
+
+Nieuw: „De twee mensen die verantwoordelijk waren voor de aanval op de boerderij bij Epen zijn geïdentificeerd en aangeklaagd,” zei ze, zonder omwegen. „Poging tot doodslag, illegaal wapenbezit, huisvredebreuk. Een van hen heeft, tegen het advies van zijn eigen advocaat in, een verklaring afgelegd die bevestigt dat Van der Heijden persoonlijk om terughoudendheid had gevraagd en dat het geweld een individuele beslissing was, genomen onder druk van het moment. Dat haalt, juridisch gezien, het zwaarste weg van wat er nog boven zijn hoofd hing.”
+
+### wijziging
+
+Oud: Daan, die tot dan toe stil naar zijn koffie had gestaard, schraapte zijn keel. „Ik heb ook nieuws,” zei hij. „Niet zo groot als het jullie, maar voor mij wel.” Hij keek naar Lars. „Ik heb de universiteit gebeld. Ik zet mijn onderzoeksassistentschap voort, als je me nog wilt, tenminste. Maar ik heb ook besloten mijn eigen scriptie te schrijven over de geschiedenis van geheimhouding in wetenschappelijke en religieuze instellingen. Ik dacht, na alles wat ik heb gezien, dat het zonde zou zijn om terug te gaan naar een onderwerp dat me niets meer zegt.”
+
+Nieuw: Daan, die tot dan toe stil naar zijn koffie had gestaard, schraapte zijn keel. „Ik heb ook nieuws,” zei hij. „Niet zo groot als dat van jullie, maar voor mij wel.” Hij keek naar Lars. „Ik heb de universiteit gebeld. Ik zet mijn onderzoeksassistentschap voort, als je me nog wilt, tenminste. Maar ik heb ook besloten mijn eigen scriptie te schrijven over de geschiedenis van geheimhouding in wetenschappelijke en religieuze instellingen. Ik dacht, na alles wat ik heb gezien, dat het zonde zou zijn om terug te gaan naar een onderwerp dat me niets meer zegt.”
+
+### wijziging
+
+Oud: „Dat is precies waarom ik jou als begeleider wil,” zei Daan. „Ik heb genoeg van mensen die beweren objectief te zijn terwijl ze intussen iets begraven. Ik wil iemand die toegeeft dat hij partijdig is, en die me leert hoe ik daar toch eerlijk mee om moet gaan.”
+
+Nieuw: „Dat is precies waarom ik jou als begeleider wil,” zei Daan. „Ik heb genoeg van mensen die beweren objectief te zijn terwijl ze intussen iets begraven. Ik wil iemand die toegeeft dat hij partijdig is, en die me leert hoe ik daar toch eerlijk mee omga.”
+
+### wijziging
+
+Oud: Sanders, die het gesprek met de geoefende aandacht van een vrouw had gevolgd die haar hele carrière had besteed aan het beoordelen van waarheid, knikte tevreden. „Dat is meer verandering dan ik in dertig jaar dienst heb zien ontstaan uit één enkele zaak,” zei ze. „Een geheimhouder die voor de rechter moet verschijnen. Een radicaal die zijn eigen beweging demilitariseert. Een student die zijn scriptieonderwerp verandert. Ik begin te denken dat jullie drieën, met al jullie amateuristische, wanhopige beslissingen van de afgelopen weken, meer hebben bereikt dan twintig jaar officieel politiewerk ooit had kunnen doen.”
+
+Nieuw: Sanders, die het gesprek met de geoefende aandacht van een vrouw had gevolgd die haar hele carrière had besteed aan het beoordelen van waarheid, knikte tevreden. „Dat is meer verandering dan ik in dertig jaar dienst heb zien ontstaan uit één enkele zaak,” zei ze. „Een geheimhouder die voor de rechter moet verschijnen. Een radicaal die zijn eigen beweging demilitariseert. Een student die zijn scriptieonderwerp verandert. Ik begin te denken dat jullie vieren, met al jullie amateuristische, wanhopige beslissingen van de afgelopen weken, meer hebben bereikt dan twintig jaar officieel politiewerk ooit had kunnen doen.”
+
+### wijziging
+
+Oud: Toen ze weg was, bleven de vier van hen nog een tijd zitten bij het raam, uitkijkend over een Amstel die traag voorbijstroomde onder een hemel die voor het eerst in weken volledig blauw was, zonder enige dreiging van regen of mist, en Sophie voelde, terwijl ze naar de mensen om haar heen keek, mensen die drie weken geleden nog vreemden voor elkaar waren geweest en nu iets vormden dat verrassend veel op een familie leek, dat dit misschien wel het echte einde was van het verhaal dat met een infraroodscan in een stille restauratiestudio was begonnen.
+
+Nieuw: Toen ze weg was, bleven ze met z'n vieren nog een tijd zitten bij het raam, uitkijkend over een Amstel die traag voorbijstroomde onder een hemel die voor het eerst in weken volledig blauw was, zonder enige dreiging van regen of mist, en Sophie voelde, terwijl ze naar de mensen om haar heen keek, mensen die drie weken geleden nog vreemden voor elkaar waren geweest en nu iets vormden dat verrassend veel op een familie leek, dat dit misschien wel het echte einde was van het verhaal dat met een infraroodscan in een stille restauratiestudio was begonnen.
+
+### wijziging
+
+Oud: „U bent de rechercheur,” zei ze, zonder verbazing, toen hij zich voorstelde in de kleine zithoek van haar kamer. „Lars heeft over u verteld. Meerdere keren, de afgelopen weken. Ik moet zeggen dat ik nieuwsgierig was wanneer u zelf zou komen.”
+
+Nieuw: „U bent de rechercheur,” zei ze, zonder verbazing, toen hij zich voorstelde in de kleine zithoek van haar kamer. „Lars heeft over u verteld. Meerdere keren, de afgelopen weken. Ik moet zeggen dat ik benieuwd was wanneer u zelf zou komen.”
+
+### wijziging
+
+Oud: „Het spijt me dat het zo lang heeft geduurd,” zei Isaak, en ging zitten op de stoel die ze hem aanwees, zijn handen ineengevouwen op zijn knieën op een manier die hem, tot zijn eigen verbazing, deed denken aan een jongen die bij de directeur was geroepen. „Ik had hier twaalf jaar geleden al moeten zitten, mevrouw Van der Meer. U heeft destijds gebeld. Meerdere keren. Niemand heeft u ooit teruggebeld, en dat had ik moeten doen. Ik werkte destijds aan de zaak.”
+
+Nieuw: „Het spijt me dat het zo lang heeft geduurd,” zei Isaak, en ging zitten op de stoel die ze hem aanwees, zijn handen ineengevouwen op zijn knieën op een manier die hem, tot zijn eigen verbazing, deed denken aan een jongen die bij de directeur was geroepen. „Ik had hier twaalf jaar geleden al moeten zitten, mevrouw Van der Meer. U heeft destijds gebeld. Meerdere keren. Ik werkte toen aan de zaak.”
+
+### wijziging
+
+Oud: „Dat had ik moeten zijn,” zei Isaak. „Uw berichten kwamen bij mij terecht, en ik wist toen al dat het niet klopte. Er waren onregelmatigheden die ik had moeten navolgen, en ik deed het niet, omdat ik nieuw was en bang om mijn carrière te beschadigen door tegen een instructie in te gaan. Ik heb die beslissing twaalf jaar met me meegedragen zonder er iets aan te doen, tot uw zoon me dwong het onder ogen te zien.”
+
+Nieuw: „Dat had ik moeten zijn,” zei Isaak. „Uw berichten kwamen bij mij terecht, en ik wist toen al dat het niet klopte. Er waren onregelmatigheden die ik had moeten uitzoeken, en ik deed het niet, omdat ik nieuw was en bang om mijn carrière te beschadigen door tegen een instructie in te gaan. Ik heb die beslissing twaalf jaar met me meegedragen zonder er iets aan te doen, tot uw zoon me dwong het onder ogen te zien.”
+
+### wijziging
+
+Oud: „Ik heb hem altijd verweten dat hij ons in de steek liet,” zei ze uiteindelijk, haar stem breekbaar maar niet gebroken. „Elke verjaardag die hij miste, elke schoolvoorstelling waar hij niet bij was. Ik dacht dat hij koos voor zijn obsessie boven zijn gezin. Nu hoor ik dat hij stierf omdat hij weigerde weg te kijken van iets dat groter was dan onszelf, en ik weet niet of dat me boos of trots moet maken.”
+
+Nieuw: „Ik heb hem altijd verweten dat hij ons in de steek liet,” zei ze uiteindelijk, haar stem breekbaar maar niet gebroken. „Elke verjaardag die hij miste, elke schoolvoorstelling waar hij niet bij was. Ik dacht dat hij koos voor zijn obsessie boven zijn gezin. Nu hoor ik dat hij stierf omdat hij weigerde weg te kijken van iets dat groter was dan wijzelf, en ik weet niet of dat me boos of trots moet maken.”
+
+### wijziging
+
+Oud: Sophie stond bij het bord met een glas water dat ze niet had aangeraakt, haar zenuwen zichtbaarder dan ze had verwacht voor een gebeurtenis die, vergeleken met alles wat ze de afgelopen maanden had doorstaan, eigenlijk een kleinigheid zou moeten zijn. Lars stond naast haar, in een pak dat, voor het eerst sinds ze hem kende, hem echt paste, en achter hen had zich een groep verzameld die twee maanden geleden nog onmogelijk had geleken: Isaak in een pak dat Dekker voor hem had uitgezocht, met een tevredenheid op zijn gezicht die Sophie niet eerder bij hem had gezien, Piet naast hem met zijn arm eindelijk uit de mitella maar nog altijd voorzichtig bewogen, Daan met een notitieblok waarin hij, tot ieders amusement, al aantekeningen maakte voor zijn scriptie terwijl de plechtigheid nog moest beginnen.
+
+Nieuw: Sophie stond bij het bord met een glas water dat ze niet had aangeraakt, haar zenuwen zichtbaarder dan ze had verwacht voor een gebeurtenis die, vergeleken met alles wat ze de afgelopen maanden had doorstaan, eigenlijk een kleinigheid zou moeten zijn. Lars stond naast haar, in een pak dat, voor het eerst sinds ze hem kende, hem echt paste, en achter hen had zich een groep verzameld die twee maanden geleden nog onmogelijk had geleken: Isaak in een pak dat Dekker voor hem had uitgezocht, met een tevredenheid op zijn gezicht die Sophie niet eerder bij hem had gezien, Piet naast hem met zijn arm eindelijk uit de mitella maar die hij nog altijd voorzichtig bewoog, Daan met een notitieblok waarin hij, tot ieders amusement, al aantekeningen maakte voor zijn scriptie terwijl de plechtigheid nog moest beginnen.
+
+### wijziging
+
+Oud: De directeur hield een korte toespraak, zorgvuldig geformuleerd om de aanwezige pers, die met camera's achteraan stond opgesteld, alles te geven behalve de namen die nog verzegeld lagen, en sprak over het Rijksmuseum als instelling die niet bang was voor de mysteries die zijn eigen collectie nog altijd bevatte, over Rembrandt als een meester die lagen schilderde die pas eeuwen later hun volle betekenis zouden onthullen, en over Sophie de Wit als de restaurator wier scherpzinnigheid en moed een ontdekking mogelijk hadden gemaakt die het museum, voor het eerst in zijn geschiedenis, volledig openbaar maakte.
+
+Nieuw: De directeur hield een korte toespraak, zorgvuldig geformuleerd om de aanwezige pers, die met camera's achteraan stond opgesteld, alles te geven behalve de namen die nog verzegeld lagen, en sprak over het Rijksmuseum als instelling die niet bang was voor de mysteries die zijn eigen collectie nog altijd bevatte, over Rembrandt als een meester die lagen schilderde die pas eeuwen later hun volle betekenis zouden onthullen, en over Sophie de Wit als de restaurator wier scherpzinnigheid en moed een ontdekking mogelijk hadden gemaakt die het museum, voor het eerst in zijn geschiedenis, zelf naar buiten bracht.
+
+### wijziging
+
+Oud: „Ik denk dat we niet alleen moeten samenwerken aan lezingen,” zei ze, en haalde uit haar tas een klein, verweerd boekje dat Lars onmiddellijk herkende, niet zijn vaders notitieboek, maar een nieuw exemplaar, leeg, met een leren band die eruitzag alsof hij speciaal voor dit doel was gemaakt. „Ik dacht dat we zelf konden beginnen met het documenteren van wat we hebben geleerd. Niet voor publicatie. Voor onszelf. Voor wie na ons komt. Zodat de volgende generatie bewaarders, als die er ooit komt, niet vanaf nul hoeft te beginnen zoals wij deden.”
+
+Nieuw: „Ik denk dat we niet alleen moeten samenwerken aan lezingen,” zei ze, en haalde uit haar tas een klein boekje dat Lars onmiddellijk herkende, niet zijn vaders notitieboek, maar een nieuw exemplaar, leeg, met een leren band die eruitzag alsof hij speciaal voor dit doel was gemaakt. „Ik dacht dat we zelf konden beginnen met het documenteren van wat we hebben geleerd. Niet voor publicatie. Voor onszelf. Voor wie na ons komt. Zodat de volgende generatie bewaarders, als die er ooit komt, niet vanaf nul hoeft te beginnen zoals wij deden.”
+
+### wijziging
+
+Oud: Farah's hand was ingepakt in een verse mitella toen ze samen met Bram terugkeerde naar de loods, haar gezicht bleek van pijn die ze weigerde te tonen, en Van der Heijden merkte, voor hij ook maar één woord over de mislukte operatie hoorde, dat hij eerst opgelucht was dat ze allebei nog overeind liepen. Die volgorde van gevoelens, opluchting voor informatie, was iets wat hij zichzelf al twintig jaar probeerde te trainen en nooit helemaal onder de knie had gekregen, een menselijkheid die hij zowel koesterde als wantrouwde in zichzelf.
+
+Nieuw: Farahs arm hing in een verse mitella toen ze samen met Bram terugkeerde naar de loods, haar gezicht bleek van pijn die ze weigerde te tonen, en Van der Heijden merkte, voor hij ook maar één woord over de mislukte operatie hoorde, dat hij eerst opgelucht was dat ze allebei nog overeind liepen. Die volgorde van gevoelens, opluchting voor informatie, was iets wat hij zichzelf al twintig jaar probeerde te trainen en nooit helemaal onder de knie had gekregen, een menselijkheid die hij zowel koesterde als wantrouwde in zichzelf.
+
+### wijziging
+
+Oud: Ze had gezien wat er met Farah's hand was gebeurd, en hoe Farah die avond toch weer naar Den Haag was gegaan, met een verband dat al doorbloedde voor ze de auto in stapte. Ze had Van der Heijden zien knikken toen Farah zei dat het wel ging, en ze had, voor het eerst sinds ze zich twee jaar geleden bij de beweging had aangesloten, een steek van twijfel gevoeld die ze niet meteen had kunnen wegredeneren.
+
+Nieuw: Ze had gezien wat er met Farahs hand was gebeurd, en hoe Farah die avond toch weer naar Den Haag was gegaan, met een verband dat al doorbloedde voor ze de auto in stapte. Ze had Van der Heijden zien knikken toen Farah zei dat het wel ging, en ze had, voor het eerst sinds ze zich twee jaar geleden bij de beweging had aangesloten, een steek van twijfel gevoeld die ze niet meteen had kunnen wegredeneren.
+
+### wijziging
+
+Oud: Twee jaar later wist ze niet meer zo zeker of het iets doen altijd hetzelfde betekende als het juiste doen. Ze dacht aan Farah's mitella, aan de conservator in Den Haag die zich met niets anders dan een sleutelbos tussen twee vreemden en haar eigen depot had gezet. Ze dacht aan de jongen op het scherm, die op geen enkele manier leek op de mensen die Van der Heijden normaal als vijand omschreef, machtige mannen in bibliotheken, stichtingen met geheime agenda's, een systeem dat zichzelf in stand hield door te zwijgen.
+
+Nieuw: Twee jaar later wist ze niet meer zo zeker of het iets doen altijd hetzelfde betekende als het juiste doen. Ze dacht aan Farahs mitella, aan de conservator in Den Haag die zich met niets anders dan een sleutelbos tussen twee vreemden en haar eigen depot had gezet. Ze dacht aan de jongen op het scherm, die op geen enkele manier leek op de mensen die Van der Heijden normaal als vijand omschreef, machtige mannen in bibliotheken, stichtingen met geheime agenda's, een systeem dat zichzelf in stand hield door te zwijgen.
+
+### wijziging
+
+Oud: Ze had er de avond ervoor nog opgewonden over gesproken met Ahmed, de nachtportier bij de personeelsingang, terwijl ze haar pasje langs de scanner haalde, iets over „iets bijzonders” dat ze hoopte te vinden voor de scan donderdag online ging. Hij had beleefd geknikt, zoals hij altijd deed, en ze had er verder niet bij stilgestaan wie er nog meer, ergens in de wandelgangen van het museum, zulke terloopse opmerkingen ter ore zouden komen.
+
+Nieuw: Ze had er de avond ervoor nog opgewonden over gesproken met Ahmed, de nachtportier bij de personeelsingang, terwijl ze haar pasje langs de scanner haalde, iets over „iets bijzonders” dat ze hoopte te vinden voor de scan donderdag online ging. Hij had beleefd geknikt, zoals hij altijd deed, en ze had er verder niet bij stilgestaan bij wie zulke terloopse opmerkingen, ergens in de wandelgangen van het museum, nog meer terecht konden komen.
+
+### wijziging
+
+Oud: Lars van der Meer zat al sinds half zeven aan dezelfde tafel in de leeszaal van het Stadsarchief, op het uur dat de studiezaal alleen openging voor het handvol vaste onderzoekers met een eigen pasje, onder het hoge gewelfde plafond waar het ochtendlicht door glas-in-loodramen viel en in trage strepen over de lange houten tafels bewoog. Om hem heen zaten een handvol andere onderzoekers, gebogen over kaartenkokers en aktes, in een stilte die zo dicht was dat het schuiven van een stoel klonk als een aardverschuiving. Hij kwam hier al twintig jaar, eerst als promovendus, later als hoogleraar die zijn eigen studenten naar precies deze tafel stuurde, en de archivarissen kenden zijn koffievoorkeur beter dan sommige collega's op de universiteit.
+
+Nieuw: Lars van der Meer zat al sinds half zeven aan dezelfde tafel in de leeszaal van het Stadsarchief, op het uur dat de studiezaal alleen openging voor het handvol vaste onderzoekers met een eigen pasje, onder het hoge gewelfde plafond waar het ochtendlicht door glas-in-loodramen viel en in trage strepen over de lange houten tafels bewoog. Om hem heen zaten een paar van hen, gebogen over kaartenkokers en aktes, in een stilte die zo dicht was dat het schuiven van een stoel klonk als een aardverschuiving. Hij kwam hier al twintig jaar, eerst als promovendus, later als hoogleraar die zijn eigen studenten naar precies deze tafel stuurde, en de archivarissen kenden zijn koffievoorkeur beter dan sommige collega's op de universiteit.
+
+### wijziging
+
+Oud: Zij noemden zichzelf het Nieuwe Licht. Waar de anderen geloofden in het bewaren van een geheim, geloofde hun Meester, die die ochtend in een loods aan het IJ op nieuws zat te wachten, in het ontsteken ervan. Zijn mensen kenden hem als iemand die zelden zijn stem verhief en nooit een bevel twee keer gaf. Een van zijn mensen, een jonge vrouw die zich twee jaar geleden bij hem had aangesloten na een studie die ze nooit had afgemaakt, controleerde voor de derde keer een klein apparaat in haar jaszak en probeerde niet te laten merken hoe snel haar hart ging, haar ademhaling zo beheerst als ze hem kon maken in de seconden voor alles zou beginnen.
+
+Nieuw: Zij noemden zichzelf het Nieuwe Licht. Waar de anderen geloofden in het bewaren van een geheim, geloofde hun Meester, die die ochtend in een loods aan het IJ op nieuws zat te wachten, in het ontsteken ervan. Zijn mensen kenden hem als iemand die zelden zijn stem verhief en nooit een bevel twee keer gaf. Een van hen, een jonge vrouw die zich twee jaar geleden bij hem had aangesloten na een studie die ze nooit had afgemaakt, controleerde voor de derde keer een klein apparaat in haar jaszak en probeerde niet te laten merken hoe snel haar hart ging, haar ademhaling zo beheerst als ze hem kon maken in de seconden voor alles zou beginnen.
+
+### wijziging
+
+Oud: Geen van beide groepen wist van de aanwezigheid van de ander. Dat was het probleem met geheimen die te lang hadden standgehouden: iedereen die ze bewaakte, was ervan overtuigd de enige wachter te zijn, en niemand had ooit de moeite genomen te controleren of dat nog klopte. Twee organisaties, gegroeid uit dezelfde wortel bijna vier eeuwen terug, hadden zich zo grondig van elkaar afgesneden dat ze elkaar nu, letterlijk, over hetzelfde grasveld liepen zonder het te weten, twee schaduwen die elkaar kruisten zonder ooit naar boven te kijken.
+
+Nieuw: Geen van beide groepen wist van de aanwezigheid van de ander. Dat was het probleem met geheimen die te lang hadden standgehouden: iedereen die ze bewaakte, was ervan overtuigd de enige wachter te zijn, en niemand had ooit de moeite genomen te controleren of dat nog klopte. Twee organisaties, gegroeid uit dezelfde wortel bijna vier eeuwen terug, hadden zich zo grondig van elkaar afgesneden dat ze nu, letterlijk, over hetzelfde grasveld liepen zonder het te weten, twee schaduwen die elkaar kruisten zonder ooit naar boven te kijken.
+
+### wijziging
+
+Oud: Lars stond in de deuropening, buiten adem, zijn jas nog dichtgeknoopt tegen de regen die eindelijk was begonnen. Hij stelde geen vragen. Hij greep haar arm en trok haar mee, weg van het gevecht, langs de rand van de steiger, terwijl achter hen een van de gemaskerde mannen „Ze ontsnapt met de scan” riep in een stem die geen van beide facties leek toe te behoren, of misschien wel aan allebei.
+
+Nieuw: Lars stond in de deuropening, buiten adem, zijn jas nog dichtgeknoopt tegen de regen die eindelijk was begonnen. Hij stelde geen vragen. Hij greep haar arm en trok haar mee, weg van het gevecht, langs de rand van de steiger, terwijl achter hen een van de gemaskerde mannen „Ze ontsnapt met de scan” riep met een stem die geen van beide facties leek toe te behoren, of misschien wel aan allebei.
+
+### wijziging
+
+Oud: De restauratiestudio was afgezet met tape die te fel geel afstak tegen het gedempte museumlicht. Door het glas zag hij twee forensisch rechercheurs op hun hurken bij een omgevallen steigerpaal, en daarachter, ongeschonden op haar ezel, De Nachtwacht zelf, alsof er niets was gebeurd. Dat op zich was al een raadsel dat hem niet lekker zat. Wie een gevecht op leven en dood uitvocht op een meter van een schilderij van driehonderd miljoen euro, en het niet één keer raakte.
+
+Nieuw: De restauratiestudio was afgezet met tape die te fel geel afstak tegen het gedempte museumlicht. Door het glas zag hij twee forensisch rechercheurs op hun hurken bij een omgevallen steigerpaal, en daarachter, ongeschonden in de glazen kooi van de studio, De Nachtwacht zelf, alsof er niets was gebeurd. Dat op zich was al een raadsel dat hem niet lekker zat. Wie een gevecht op leven en dood uitvocht op een meter van een schilderij van driehonderd miljoen euro, en het niet één keer raakte.
+
+### wijziging
+
+Oud: De directeur van het museum stond bij de balie, grijs in het gezicht, en herhaalde voor de derde keer aan een agent dat hij „geen idee” had wie de twee groepen waren geweest. Isaak liet hem voorlopig met rust. Paniek maakte getuigen onbetrouwbaar, en hij had wel vaker gemerkt dat de tweede of derde verklaring, gegeven als de adrenaline was gezakt, dichter bij de waarheid lag dan de eerste. Hij herkende de blik in de ogen van de man, die van iemand die probeert te berekenen wat een ramp gaat kosten voordat hij zich toestaat te voelen wat er is gebeurd.
+
+Nieuw: De directeur van het museum stond bij de balie, grijs in het gezicht, en herhaalde voor de derde keer tegen een agent dat hij „geen idee” had wie de twee groepen waren geweest. Isaak liet hem voorlopig met rust. Paniek maakte getuigen onbetrouwbaar, en hij had wel vaker gemerkt dat de tweede of derde verklaring, gegeven als de adrenaline was gezakt, dichter bij de waarheid lag dan de eerste. Hij herkende de blik in de ogen van de man, die van iemand die probeert te berekenen wat een ramp gaat kosten voordat hij zich toestaat te voelen wat er is gebeurd.
+
+### wijziging
+
+Oud: Lars stond midden in de kajuit met het air van een man die niet wist of hij mocht gaan zitten. Nat haar plakte tegen zijn voorhoofd. Hij zei de hele weg vanaf het museum niets, keek alleen af en toe achterom, op een manier die haar meer angst aanjoeg dan het schieten zelf.
+
+Nieuw: Lars stond midden in de kajuit met het air van een man die niet wist of hij mocht gaan zitten. Nat haar plakte tegen zijn voorhoofd. Hij had de hele weg vanaf het museum niets gezegd, had alleen af en toe achteromgekeken, op een manier die haar meer angst aanjoeg dan het schieten zelf.
+
+### wijziging
+
+Oud: Lars zei niets terug, en zijn zwijgen deed meer dan verdediging ooit had gekund. Sophie zag, in de manier waarop zijn schouders zakten, dat de vergelijking dieper had geraakt dan ze had bedoeld, en voelde meteen spijt, hoewel ze niet meteen de woorden vond om dat hardop te zeggen. In plaats daarvan boog ze zich weer over de tekening, alsof precisie op papier de precisie kon vervangen die ze net tegenover hem had laten varen.
+
+Nieuw: Lars zei niets terug, en zijn zwijgen deed meer dan verdediging ooit had gekund. Sophie zag, in de manier waarop zijn schouders zakten, dat de vergelijking dieper had geraakt dan ze had bedoeld, en voelde meteen spijt, hoewel ze niet direct de woorden vond om dat hardop te zeggen. In plaats daarvan boog ze zich weer over de tekening, alsof precisie op papier de precisie kon vervangen die ze net tegenover hem had laten varen.
+
+### wijziging
+
+Oud: Het huis aan de Oudezijds Voorburgwal zag er van buiten uit als elk ander zeventiende-eeuws grachtenpand, smal, hoog, een gevel met een simpele klokgevel die niets verried van wat erachter school. Pas binnen, na een nauwe trap die drie verdiepingen omhoogkringelde door wat ooit gewone woonvertrekken waren geweest, opende zich de kerk zelf, een complete, aan het oog onttrokken schuilkerk onder de kap van drie aaneengesloten huizen, met een altaar, een galerij, zelfs een orgel, alles gebouwd voor een gemeenschap die driehonderd jaar geleden niet openlijk mocht bestaan.
+
+Nieuw: Het huis aan de Oudezijds Voorburgwal zag er van buiten uit als elk ander zeventiende-eeuws grachtenpand, smal, hoog, met een eenvoudige klokgevel die niets verried van wat erachter school. Pas binnen, na een nauwe trap die drie verdiepingen omhoogkringelde door wat ooit gewone woonvertrekken waren geweest, opende zich de kerk zelf, een complete, aan het oog onttrokken schuilkerk onder de kap van drie aaneengesloten huizen, met een altaar, een galerij, zelfs een orgel, alles gebouwd voor een gemeenschap die driehonderd jaar geleden niet openlijk mocht bestaan.
+
+### wijziging
+
+Oud: Lars had hier ooit een lezing gegeven over verborgen katholieke gemeenschappen in de Republiek, voor een handvol studenten die meer geïnteresseerd waren in de architecturale truc dan in het geloof zelf, en de conservator, een gepensioneerde historicus die het gebouw nu vrijwel alleen beheerde, had hem een sleutel gegeven voor toekomstig onderzoek die hij nooit had teruggebracht. Vandaag, voor het eerst, was hij blij met zijn eigen nalatigheid.
+
+Nieuw: Lars had hier ooit een lezing gegeven over verborgen katholieke gemeenschappen in de Republiek, voor een handvol studenten die meer geïnteresseerd waren in de architecturale truc dan in het geloof zelf, en de conservator, een gepensioneerde historicus die het gebouw nu vrijwel alleen beheerde, had hem een sleutel gegeven voor toekomstig onderzoek, die hij nooit had teruggebracht. Vandaag, voor het eerst, was hij blij met zijn eigen nalatigheid.
+
+### wijziging
+
+Oud: „Nee,” zei Lars. „Maar ik ken iemand die daar misschien wél naartoe kan zonder dat iemand een vraag stelt.” Hij zweeg even, en de gedachte die volgde beviel hem duidelijk zelf niet. „Al vraagt dat wel dat we teruggaan naar het enige punt waarop we allebei net zijn weggerend.”
+
+Nieuw: „Nee,” zei Lars. „Maar ik ken iemand die daar misschien wél naartoe kan zonder dat iemand een vraag stelt.” Hij zweeg even, en de gedachte die volgde beviel hem duidelijk zelf niet. „Al moeten we daarvoor wel iemand bellen uit de wereld waar we net voor zijn weggerend.”
+
+### wijziging
+
+Oud: Toen herinnerde hij het zich, niet als een naam maar als een gevoel, de manier waarop je je een liedje herinnert voor je de tekst weer weet. Limburg. Een universitair docent, of hoogleraar. Een val, geloof ik, of een instorting. Isaak was destijds net rechercheur geworden in Maastricht, na dertien jaar in uniform, en zou een paar maanden later naar Amsterdam vertrekken, en het dossier was niet eens van hem geweest, hij had er alleen een dag aan meegewerkt voordat het bij een collega terechtkwam en snel werd afgesloten, in een tijd waarin hij nog te onervaren was geweest om te weten wanneer snel ook betekende te snel.
+
+Nieuw: Toen herinnerde hij het zich, niet als een naam maar als een gevoel, de manier waarop je je een liedje herinnert voor je de tekst weer weet. Limburg. Een universitair docent, of hoogleraar. Een val, geloof ik, of een instorting. Isaak was destijds net rechercheur geworden in Maastricht, na dertien jaar in uniform, en zou een paar maanden later naar Amsterdam vertrekken. Het dossier was niet eens van hem geweest. Hij had er alleen een dag aan meegewerkt voordat het bij een collega terechtkwam en snel werd afgesloten, in een tijd waarin hij nog te onervaren was geweest om te weten wanneer snel ook betekende te snel.
+
+### wijziging
+
+Oud: Het kostte hem drie kwartier tussen de dozen om de juiste jaargang te vinden, zijn vingers zwart van het stof, zijn rug pijnlijk van het bukken tussen de onderste planken, en nog eens tien minuten om, met stoffige vingers en een steeds ongeduldiger wordende irritatie naar zichzelf, het juiste mapje te lokaliseren tussen honderden vergelijkbare mapjes, allemaal met dezelfde vergeelde kaft en hetzelfde met de hand geschreven opschrift dat na twintig jaar nauwelijks nog leesbaar was. Toen hij het eindelijk vond, op de bodem van een doos gemerkt Limburg-Zuid, een van de dozen die bij een reorganisatie jaren geleden naar Amsterdam waren verhuisd en nooit meer waren teruggestuurd, viel de naam op het voorblad hem aan alsof hij hem al die tijd had verwacht, en voor een moment stond hij daar gewoon, de map in beide handen, niet direct bereid hem open te slaan.
+
+Nieuw: Het kostte hem drie kwartier tussen de dozen om de juiste jaargang te vinden, zijn vingers zwart van het stof, zijn rug pijnlijk van het bukken tussen de onderste planken, en nog eens tien minuten om, met een steeds ongeduldiger wordende irritatie naar zichzelf, het juiste mapje te lokaliseren tussen honderden vergelijkbare mapjes, allemaal met dezelfde vergeelde kaft en hetzelfde met de hand geschreven opschrift dat na twintig jaar nauwelijks nog leesbaar was. Toen hij het eindelijk vond, op de bodem van een doos gemerkt Limburg-Zuid, een van de dozen die bij een reorganisatie jaren geleden naar Amsterdam waren verhuisd en nooit meer waren teruggestuurd, viel de naam op het voorblad hem aan alsof hij hem al die tijd had verwacht, en voor een moment stond hij daar gewoon, de map in beide handen, niet direct bereid hem open te slaan.
+
+### wijziging
+
+Oud: Het kostte hem drie kwartier tussen de dozen om de juiste jaargang te vinden, zijn vingers zwart van het stof, zijn rug pijnlijk van het bukken tussen de onderste planken, en nog eens tien minuten om, met een steeds ongeduldiger wordende irritatie naar zichzelf, het juiste mapje te lokaliseren tussen honderden vergelijkbare mapjes, allemaal met dezelfde vergeelde kaft en hetzelfde met de hand geschreven opschrift dat na twintig jaar nauwelijks nog leesbaar was. Toen hij het eindelijk vond, op de bodem van een doos gemerkt Limburg-Zuid, een van de dozen die bij een reorganisatie jaren geleden naar Amsterdam waren verhuisd en nooit meer waren teruggestuurd, viel de naam op het voorblad hem aan alsof hij hem al die tijd had verwacht, en voor een moment stond hij daar gewoon, de map in beide handen, niet direct bereid hem open te slaan.
+
+Nieuw: Het kostte hem drie kwartier tussen de dozen om de juiste jaargang te vinden, zijn vingers zwart van het stof, zijn rug pijnlijk van het bukken tussen de onderste planken, en nog eens tien minuten om, met een steeds ongeduldiger wordende irritatie naar zichzelf, het juiste mapje te lokaliseren tussen honderden vergelijkbare mapjes, allemaal met dezelfde vergeelde kaft en hetzelfde met de hand geschreven opschrift dat na twaalf jaar nauwelijks nog leesbaar was. Toen hij het eindelijk vond, op de bodem van een doos gemerkt Limburg-Zuid, een van de dozen die bij een reorganisatie jaren geleden naar Amsterdam waren verhuisd en nooit meer waren teruggestuurd, viel de naam op het voorblad hem aan alsof hij hem al die tijd had verwacht, en voor een moment stond hij daar gewoon, de map in beide handen, niet direct bereid hem open te slaan.
+
+### wijziging
+
+Oud: Toen hing hij op, en bleef zitten met het dossier op zijn schoot, wetend dat hij zojuist een grens had overschreden die officieel nog nergens op papier stond, maar die voor hemzelf al onomkeerbaar aanvoelde. Boven zijn hoofd zoemde het tl-licht onverstoorbaar door, en ergens in het gebouw, drie verdiepingen hoger, ging het gewone politiewerk van de avond gewoon door, onwetend van de kier die hij zojuist in een oud dossier had opengetrokken.
+
+Nieuw: Toen hing hij op, en bleef zitten met het dossier op zijn schoot, wetend dat hij zojuist een grens had overschreden die officieel nog nergens op papier stond, maar die voor hemzelf al onomkeerbaar aanvoelde. Boven zijn hoofd zoemde het tl-licht onverstoorbaar door, en ergens in het gebouw, drie verdiepingen hoger, ging het gewone politiewerk van die dag gewoon door, onwetend van de kier die hij zojuist in een oud dossier had opengetrokken.
+
+### wijziging
+
+Oud: De iemand die Lars kende bleek Daan te zijn, zijn onderzoeksassistent, tweeëntwintig jaar oud en zo verstandig een auto te bezitten in een stad waar de meeste van zijn generatiegenoten dat als een merkwaardige levenskeuze beschouwden. Sophie had hem twee keer ontmoet op universiteitsborrels en zich hem herinnerd als de jongen die te veel vragen stelde tijdens lezingen, altijd net iets te doorwrocht voor het niveau van het college, altijd met een blocnote vol aantekeningen die niemand anders bijhield. Vandaag was dat precies waarom Lars hem had gebeld met een oude prepaidtelefoon die Sophie jaren geleden voor een studiereis naar Florence had gekocht en die sindsdien in dezelfde keukenla op de boot had gelegen, op naam van niemand, de batterij nog net goed voor één gesprek.
+
+Nieuw: De iemand die Lars kende bleek Daan te zijn, zijn onderzoeksassistent, tweeëntwintig jaar oud en eigenwijs genoeg om een auto te bezitten in een stad waar de meeste van zijn generatiegenoten dat als een merkwaardige levenskeuze beschouwden. Sophie had hem twee keer ontmoet op universiteitsborrels en zich hem herinnerd als de jongen die te veel vragen stelde tijdens lezingen, altijd net iets te doorwrocht voor het niveau van het college, altijd met een blocnote vol aantekeningen die niemand anders bijhield. Vandaag was dat precies waarom Lars hem had gebeld met een oude prepaidtelefoon die Sophie jaren geleden voor een studiereis naar Florence had gekocht en die sindsdien in dezelfde keukenla op de boot had gelegen, op naam van niemand, de batterij nog net goed voor één gesprek.
+
+### wijziging
+
+Oud: De iemand die Lars kende bleek Daan te zijn, zijn onderzoeksassistent, tweeëntwintig jaar oud en eigenwijs genoeg om een auto te bezitten in een stad waar de meeste van zijn generatiegenoten dat als een merkwaardige levenskeuze beschouwden. Sophie had hem twee keer ontmoet op universiteitsborrels en zich hem herinnerd als de jongen die te veel vragen stelde tijdens lezingen, altijd net iets te doorwrocht voor het niveau van het college, altijd met een blocnote vol aantekeningen die niemand anders bijhield. Vandaag was dat precies waarom Lars hem had gebeld met een oude prepaidtelefoon die Sophie jaren geleden voor een studiereis naar Florence had gekocht en die sindsdien in dezelfde keukenla op de boot had gelegen, op naam van niemand, de batterij nog net goed voor één gesprek.
+
+Nieuw: De iemand die Lars kende bleek Daan te zijn, zijn onderzoeksassistent, tweeëntwintig jaar oud en eigenwijs genoeg om een auto te bezitten in een stad waar de meeste van zijn generatiegenoten dat als een merkwaardige levenskeuze beschouwden. Sophie had hem twee keer ontmoet op universiteitsborrels en herinnerde zich hem als de jongen die te veel vragen stelde tijdens lezingen, altijd net iets te doorwrocht voor het niveau van het college, altijd met een blocnote vol aantekeningen die niemand anders bijhield. Vandaag was dat precies waarom Lars hem had gebeld met een oude prepaidtelefoon die Sophie jaren geleden voor een studiereis naar Florence had gekocht en die sindsdien in dezelfde keukenla op de boot had gelegen, op naam van niemand, de batterij nog net goed voor één gesprek.
+
+### wijziging
+
+Oud: „Kom niet naar het adres waar je denkt dat ik ben,” had Lars gezegd, zonder verdere uitleg, en Daan had, tot zijn eer, niet gevraagd waarom niet. Er was iets in zijn stem geweest, dacht Lars achteraf, dat meteen had aangevoeld dat dit geen moment was voor nieuwsgierigheid, alleen voor snelheid.
+
+Nieuw: „Kom niet naar het adres waar je denkt dat ik ben,” had Lars gezegd, zonder verdere uitleg, en Daan had, tot zijn eer, niet gevraagd waarom niet. Er moest iets in zijn stem hebben geklonken, dacht Lars achteraf, waaraan Daan meteen had gehoord dat dit geen moment was voor nieuwsgierigheid, alleen voor snelheid.
+
+### wijziging
+
+Oud: Ze reden de garage uit met de radio zacht aan, niet uit interesse maar omdat stilte in de auto voelde alsof er iets moest worden gezegd dat niemand wilde uitspreken. Amsterdam gleed langs hen heen, de ringweg, de laatste flatgebouwen met hun balkons vol fietsen en waslijnen, en toen het vlakke, groene niemandsland tussen de steden dat Sophie zich nooit eerder zo bewust had gerealiseerd te bestaan, ondanks dat ze het al honderd keer had doorkruist op weg naar conferenties waar niemand ooit op haar had gejaagd.
+
+Nieuw: Ze reden de garage uit met de radio zacht aan, niet uit interesse maar omdat stilte in de auto voelde alsof er iets moest worden gezegd dat niemand wilde uitspreken. Amsterdam gleed langs hen heen, de ringweg, de laatste flatgebouwen met hun balkons vol fietsen en waslijnen, en toen het vlakke, groene niemandsland tussen de steden waarvan Sophie zich nooit eerder zo bewust was geweest, hoewel ze het al honderd keer had doorkruist op weg naar conferenties waar niemand ooit op haar had gejaagd.
+
+### wijziging
+
+Oud: Het Mauritshuis was gesloten voor het publiek wanneer Daan hen bij een zijdeur aan de Korte Vijverberg afzette, de gevel van rode baksteen nat glimmend van een lichte motregen die eindelijk was begonnen, maar niet voor professor Ingrid Beelen, hoofdconservator schilderkunst, die Lars al twintig jaar kende van congressen en peer reviews en die hem twee jaar geleden nog had geholpen aan toegang tot een depot voor een artikel over overschilderingen. Hij had haar niet alles verteld aan de telefoon. Alleen dat het dringend was, dat het met zijn vader te maken had, en dat hij haar zou uitleggen waarom zodra hij haar zag. Beelen, die zijn vader ooit persoonlijk had gekend via een gezamenlijk onderzoeksproject in de jaren negentig, had niet lang geaarzeld.
+
+Nieuw: Het Mauritshuis was gesloten voor het publiek toen Daan hen bij een zijdeur aan de Korte Vijverberg afzette, de gevel van rode baksteen nat glimmend van een lichte motregen die eindelijk was begonnen, maar niet voor professor Ingrid Beelen, hoofdconservator schilderkunst, die Lars al twintig jaar kende van congressen en peer reviews en die hem twee jaar geleden nog had geholpen aan toegang tot een depot voor een artikel over overschilderingen. Hij had haar niet alles verteld aan de telefoon. Alleen dat het dringend was, dat het met zijn vader te maken had, en dat hij haar zou uitleggen waarom zodra hij haar zag. Beelen, die zijn vader ooit persoonlijk had gekend via een gezamenlijk onderzoeksproject in de jaren negentig, had niet lang geaarzeld.
+
+### wijziging
+
+Oud: Sophie was er al voor de laatste spot aan was.
+
+Nieuw: Ze stond al voor het doek toen Beelen haar hand van het kastje haalde.
+
+### wijziging
+
+Oud: Beelen aarzelde, keek naar Lars, en knikte toen. „Onder mijn toezicht. En als er ook maar iets beschadigt, kost het je meer dan een telefoontje om het goed te maken.”
+
+Nieuw: Beelen aarzelde, keek naar Lars, en knikte toen. „Onder mijn toezicht. En als er ook maar iets beschadigd raakt, kost het je meer dan een telefoontje om het goed te maken.”
+
+### wijziging
+
+Oud: Reva aarzelde, iets wat ze zelden deed, en Van der Heijden merkte het, zoals hij alles merkte wat van zijn mensen afweek van hun gewone patroon.
+
+Nieuw: Reva aarzelde, iets wat ze zelden deed, en Van der Heijden merkte het, zoals hij alles merkte wat bij zijn mensen afweek van het gewone patroon.
+
+### wijziging
+
+Oud: Ze renden de steeg door, weg van het museum, langs achtertuinen en een klein plein waar een handvol late wandelaars niets leken te merken van wat er zich een straat verderop afspeelde. Daan wachtte met draaiende motor om de hoek van de Korte Vijverberg, en trok op voor Sophie het portier goed dicht had getrokken.
+
+Nieuw: Ze renden de steeg door, weg van het museum, langs achtertuinen en een klein plein waar een handvol late wandelaars niets leken te merken van wat er zich een straat verderop afspeelde. Daan wachtte met draaiende motor om de hoek van de Korte Vijverberg, en reed weg voor Sophie het portier goed dicht had.
+
+### wijziging
+
+Oud: Het schilderij hing losgemaakt van zijn gewone plek, opgetild uit de Eregalerij en overgebracht naar de glazen cocon van de studio, omgeven door steigers, meetapparatuur en het koude witte licht van de spots. Overdag stond er altijd een zacht gezoem van bezoekers achter het glas, een wisselende rij gezichten die haar bij het werk gadesloeg alsof restaureren een voorstelling was in plaats van een ambacht. Nu, in de vroege stilte, waren er alleen het schilderij en zij, en het gevoel, dat ze na twaalf jaar in dit vak nooit helemaal was kwijtgeraakt, dat ze een kamer met een reus binnenging.
+
+Nieuw: Het schilderij hing losgemaakt van zijn gewone plek, opgetild uit de Eregalerij en overgebracht naar de glazen cocon van de studio, omgeven door steigers, meetapparatuur en het koude witte licht van de spots. Overdag stond er altijd een zacht gezoem van bezoekers achter het glas, een wisselende rij gezichten die haar bij het werk gadesloeg alsof restaureren een voorstelling was in plaats van een ambacht. Nu, in de vroege stilte, waren er alleen het schilderij en zij, en het gevoel dat ze na twaalf jaar in dit vak nooit helemaal was kwijtgeraakt, dat ze een kamer met een reus binnenging.
+
+### wijziging
+
+Oud: De rit naar het zuiden verliep grotendeels in stilte, een stilte die Sophie niet onprettig vond na alles wat er die dag al was gebeurd. Ze keek naar de velden die voorbijgleden, naar de lucht die langzaam donkerder werd boven een horizon die met elke kilometer heuvelachtiger werd, en probeerde, voor het eerst sinds ze die ochtend de contrastversterking op de scan had toegepast, werkelijk te bevatten wat ze had gezien: twee schilderijen, bijna vierhonderd jaar oud, die samen een kaart vormden naar een plek die Lars' vader met zijn leven had bewaakt. Het soort besef dat te groot was om in één keer te verwerken, en dat zich daarom in stukjes aan haar opdrong, telkens wanneer de auto over een hobbel in de weg schudde of het licht door de bomen anders viel. Lars zei niets, zijn blik strak op de weg voor hem, maar zijn hand lag de hele rit op het notitieboek in zijn schoot, alsof hij zich ervan wilde verzekeren dat het echt was, dat dit geen koorts was die morgen zou zijn overgewaaid.
+
+Nieuw: De rit naar het zuiden verliep grotendeels in stilte, een stilte die Sophie niet onprettig vond na alles wat er die dag al was gebeurd. Ze keek naar de velden die voorbijgleden, naar de lucht die langzaam donkerder werd boven een horizon die met elke kilometer heuvelachtiger werd, en probeerde, voor het eerst sinds ze die ochtend de contrastversterking op de scan had toegepast, werkelijk te bevatten wat ze had gezien: twee schilderijen, bijna vierhonderd jaar oud, die samen een kaart vormden naar een plek waarvoor Lars' vader met zijn leven had betaald. Het soort besef dat te groot was om in één keer te verwerken, en dat zich daarom in stukjes aan haar opdrong, telkens wanneer de auto over een hobbel in de weg schudde of het licht door de bomen anders viel. Lars zei niets, zijn blik strak op de weg voor hem, maar zijn hand lag de hele rit op het notitieboek in zijn schoot, alsof hij zich ervan wilde verzekeren dat het echt was, dat dit geen koorts was die morgen zou zijn overgewaaid.
+
+### wijziging
+
+Oud: Ze bereikten Maastricht toen de avond al over de stad viel, dat trage, blauwe uur waarin straatlantaarns aangaan voor ze echt nodig zijn en de contouren van gebouwen langzaam hun scherpte verliezen. Daan parkeerde de auto bij een verlaten weg aan de rand van de stad, waar het asfalt overging in een onverhard pad dat de heuvel in liep, en zette de motor uit met een stilte die zwaarder voelde dan het geluid net daarvoor.
+
+Nieuw: Ze bereikten Maastricht toen de avond al over de stad viel, dat trage, blauwe uur waarin straatlantaarns aangaan voor ze echt nodig zijn en de contouren van gebouwen langzaam hun scherpte verliezen. Daan parkeerde de auto bij een verlaten weg aan de rand van de stad, waar het asfalt overging in een onverhard pad dat de heuvel in liep, en zette de motor uit, en de stilte die volgde voelde zwaarder dan het geluid net daarvoor.
+
+### wijziging
+
+Oud: Lars kneep even in zijn schouder, meer dank dan hij op dit moment in woorden kon vatten, en stapte de auto uit de kou in. De lucht hier voelde anders dan in Amsterdam, droger, met een vage minerale geur die hij pas herkende toen hij zich herinnerde dat hij die geur één keer eerder had geroken, als kind, op een van de zeldzame keren dat zijn vader hem had meegenomen naar „het werk”, zoals hij het toen had genoemd, zijn hand stevig om die van zijn vader geklemd terwijl ze langs precies zo'n hek hadden gelopen.
+
+Nieuw: Lars kneep even in zijn schouder, meer dank dan hij op dit moment in woorden kon vatten, en stapte uit de auto, de kou in. De lucht hier voelde anders dan in Amsterdam, droger, met een vage minerale geur die hij pas herkende toen hij zich herinnerde dat hij die geur één keer eerder had geroken, als kind, op een van de zeldzame keren dat zijn vader hem had meegenomen naar „het werk”, zoals hij het toen had genoemd, zijn hand stevig om die van zijn vader geklemd terwijl ze langs precies zo'n hek hadden gelopen.
+
+### wijziging
+
+Oud: Sophie trok haar jas strakker om zich heen en scheen met haar telefoon op het slot, dat na twaalf jaar meer roest dan metaal leek. „Denk je dat dit nog hetzelfde hek is?”
+
+Nieuw: Sophie trok haar jas strakker om zich heen en scheen met een van de zaklampen die Lars onderweg bij een tankstation had gekocht op het slot, dat na twaalf jaar meer roest dan metaal leek. „Denk je dat dit nog hetzelfde hek is?”
+
+### wijziging
+
+Oud: Het hek gaf mee met een kreun die door de stille avond galmde, luider dan Lars had verwacht, en ze stapten een duisternis binnen die dieper leek dan gewone nacht, een duisternis met textuur, met een temperatuur die meteen door hun kleren drong, een kilte die niet zozeer koud als wel oud aanvoelde. Lars had zaklampen gekocht bij een tankstation onderweg, twee stuks, en de lichtbundels vraten kleine cirkels uit het donker zonder de omvang van de ruimte om hen heen ooit echt prijs te geven.
+
+Nieuw: Het hek gaf mee met een kreun die door de stille avond galmde, luider dan Lars had verwacht, en ze stapten een duisternis binnen die dieper leek dan gewone nacht, een duisternis met textuur, met een temperatuur die meteen door hun kleren drong, een kilte die niet zozeer koud als wel oud aanvoelde. De twee lichtbundels vraten kleine cirkels uit het donker zonder de omvang van de ruimte om hen heen ooit echt prijs te geven.
+
+### wijziging
+
+Oud: Binnen was de ruimte kleiner dan hij had verwacht van alle jaren dat hij zich dit moment had voorgesteld zonder het toe te geven, een voorportaal niet groter dan zijn eigen woonkamer, de wanden bedekt met symbolen die zijn zaklamp in reliëf zette. Een cirkel met een middelpunt. Een passer die zich vermengde met iets ouds, iets zonder de rechte, herkenbare lijnen van de latere vrijmetselaarssymboliek, iets organischer, alsof het eerder was gegroeid dan getekend.
+
+Nieuw: Binnen was de ruimte kleiner dan hij zich al die jaren had voorgesteld, al had hij nooit toegegeven dat hij het zich voorstelde, een voorportaal niet groter dan zijn eigen woonkamer, de wanden bedekt met symbolen die zijn zaklamp in reliëf zette. Een cirkel met een middelpunt. Een passer die zich vermengde met iets ouds, iets zonder de rechte, herkenbare lijnen van de latere vrijmetselaarssymboliek, iets organischer, alsof het eerder was gegroeid dan getekend.
+
+### wijziging
+
+Oud: „Hij wist het niet zeker,” zei Lars uiteindelijk, zijn stem schor. „Twintig jaar zoeken, en op het einde wist hij het nog steeds niet zeker of hij gelijk had.”
+
+Nieuw: „Hij wist het niet zeker,” zei Lars uiteindelijk, zijn stem schor. „Twintig jaar zoeken, en op het einde wist hij nog steeds niet zeker of hij gelijk had.”
+
+### wijziging
+
+Oud: De kou van de kamer was inmiddels in Sophies botten gaan zitten op een manier die ze niet meer opmerkte tot ze bewoog, een diepe, klamme kilte die uit de mergel zelf leek te komen, uit steen die al eeuwen niet meer had geweten wat zonlicht was. Ze had geen idee meer hoe laat het was. Haar telefoon lag uit, uit voorzichtigheid, en de enige klok die ze nog hadden was het langzaam kleiner worden van de batterij in Lars' zaklamp, een stille aftelling die geen van beiden hardop had willen benoemen.
+
+Nieuw: De kou van de kamer was inmiddels in Sophies botten gaan zitten op een manier die ze niet meer opmerkte tot ze bewoog, een diepe, klamme kilte die uit de mergel zelf leek te komen, uit steen die al eeuwen niet meer had geweten wat zonlicht was. Ze had geen idee meer hoe laat het was. Haar telefoon lag in een keukenla op de Brouwersgracht, en de enige klok die ze nog hadden was het langzaam kleiner worden van de batterij in Lars' zaklamp, een stille aftelling die geen van beiden hardop had willen benoemen.
+
+### wijziging
+
+Oud: „Het spijt me,” zei Lars, en zijn stem klonk nog schor van de tranen die hij eerder niet had kunnen tegenhouden, zijn ogen roodomrand in het schijnsel van de drie zaklampen die nu door de kamer zwaaiden. „We verloren elk besef van tijd hierbeneden. Ik denk niet dat ik dat kon helpen.”
+
+Nieuw: „Het spijt me,” zei Lars, en zijn stem klonk nog schor van de tranen die hij eerder niet had kunnen tegenhouden, zijn ogen roodomrand in het schijnsel van de drie zaklampen die nu door de kamer zwaaiden. „We verloren elk besef van tijd hierbeneden. Daar kon ik niets aan doen.”
+
+### wijziging
+
+Oud: Daan liet zijn licht over de wanden glijden, over de symbolen die eeuwenlang in het duister hadden gewacht op iemand die ze zou herkennen, over het opengevouwen papiertje dat Sophie inmiddels voorzichtig tussen twee lagen plastic uit haar tas had gelegd om het te beschermen tegen het vocht van haar eigen handen, en zijn mond viel open zonder dat er geluid uit kwam, zijn hele houding die van een jongen die had verwacht een verstopplek te vinden en in plaats daarvan een tombe had betreden.
+
+Nieuw: Daan liet zijn licht over de wanden glijden, over de symbolen die eeuwenlang in het duister hadden gewacht op iemand die ze zou herkennen, over het opengerolde papier dat Sophie inmiddels voorzichtig tussen twee lagen plastic uit haar tas had gelegd om het te beschermen tegen het vocht van haar eigen handen, en zijn mond viel open zonder dat er geluid uit kwam, zijn hele houding die van een jongen die had verwacht een verstopplek te vinden en in plaats daarvan een tombe had betreden.
+
+### wijziging
+
+Oud: Eriks laatste zin bleef door haar hoofd spoken, in zijn eigen handschrift, gehaast en toch precies. Een mechanisme dat werkt volgens de Gulden Snede. Ze had die verhouding duizend keer bestudeerd in haar werk, in de compositie van renaissanceschilderijen, in de architectuur van kerken die ze had helpen restaureren, in elke gulden spiraal die een schilder ooit bewust of onbewust in een doek had verwerkt, maar nooit eerder in een fysiek mechanisme dat ergens open of dicht kon gaan, een verhouding die plotseling niet langer een esthetisch principe was maar een sleutel.
+
+Nieuw: Eriks woorden bleven door haar hoofd spoken, in zijn eigen handschrift, gehaast en toch precies. Een mechanisme dat werkt volgens de Gulden Snede. Ze had die verhouding duizend keer bestudeerd in haar werk, in de compositie van renaissanceschilderijen, in de architectuur van kerken die ze had helpen restaureren, in elke gulden spiraal die een schilder ooit bewust of onbewust in een doek had verwerkt, maar nooit eerder in een fysiek mechanisme dat ergens open of dicht kon gaan, een verhouding die plotseling niet langer een esthetisch principe was maar een sleutel.
+
+### wijziging
+
+Oud: „We hebben een hotel nodig,” zei Daan, die zijn telefoon tevoorschijn haalde en meteen weer wegstopte toen hij zich herinnerde dat geen van hen die avond nog wilde gebruiken. „Een waar niemand naar identiteitsbewijzen vraagt, bij voorkeur, en waar de eigenaar niet de gewoonte heeft het regionale nieuws te volgen.”
+
+Nieuw: „We hebben een hotel nodig,” zei Daan, die zijn telefoon tevoorschijn haalde en meteen weer wegstopte toen hij zich herinnerde dat geen van hen die avond nog een telefoon wilde gebruiken. „Een waar niemand naar identiteitsbewijzen vraagt, bij voorkeur, en waar de eigenaar niet de gewoonte heeft het regionale nieuws te volgen.”
+
+### wijziging
+
+Oud: Hij herinnerde zich de weg vager dan hij had verwacht, twaalf jaar was een lange tijd en hij was destijds maar één dag op de zaak gezet geweest, een kersverse rechercheur die een routineklus kreeg toebedeeld en die nooit had gedacht dat de plek hem zo lang zou blijven achtervolgen. Maar het landschap zelf hielp hem, de karakteristieke glooiing van de heuvel tegen de avondlucht, de contouren die hij zich, tot zijn eigen verbazing, nog herinnerde uit een fotorapport dat hij ooit had doorgebladerd in een kelderarchief dat naar stof en oude inkt rook.
+
+Nieuw: Hij herinnerde zich de weg vager dan hij had verwacht, twaalf jaar was een lange tijd en hij was destijds maar één dag op de zaak gezet geweest, een kersverse rechercheur die een routineklus kreeg toebedeeld en die nooit had gedacht dat de plek hem zo lang zou blijven achtervolgen. Maar het landschap zelf hielp hem, de karakteristieke glooiing van de heuvel tegen de nachtlucht, de contouren die hij zich, tot zijn eigen verbazing, nog herinnerde uit een fotorapport dat hij ooit had doorgebladerd in een kelderarchief dat naar stof en oude inkt rook.
+
+### wijziging
+
+Oud: Hij herinnerde zich de weg vager dan hij had verwacht, twaalf jaar was een lange tijd en hij was destijds maar één dag op de zaak gezet geweest, een kersverse rechercheur die een routineklus kreeg toebedeeld en die nooit had gedacht dat de plek hem zo lang zou blijven achtervolgen. Maar het landschap zelf hielp hem, de karakteristieke glooiing van de heuvel tegen de nachtlucht, de contouren die hij zich, tot zijn eigen verbazing, nog herinnerde uit een fotorapport dat hij ooit had doorgebladerd in een kelderarchief dat naar stof en oude inkt rook.
+
+Nieuw: Hij herinnerde zich de weg vager dan hij had verwacht, twaalf jaar was een lange tijd en hij was destijds maar één dag op de zaak gezet geweest, een kersverse rechercheur die een routineklus kreeg toebedeeld en die nooit had gedacht dat de plek hem zo lang zou blijven achtervolgen. Maar het landschap zelf hielp hem, de karakteristieke glooiing van de heuvel tegen de nachtlucht, de contouren die hij zich, tot zijn eigen verbazing, nog herinnerde van de foto's van het hek in het dossier dat hij die middag had doorgebladerd, in een kelderarchief dat naar stof en oude inkt rook.
+
+### wijziging
+
+Oud: Hij parkeerde zijn auto langs een verlaten weg waar het asfalt overging in onverhard pad, precies zoals in het dossier beschreven, en liep de laatste paar honderd meter te voet, zijn zaklamp nog uit, zijn ogen wennend aan het schemerdonker terwijl de geluiden van de stad achter hem wegstierven en plaatsmaakten voor het geritsel van bladeren en het verre geroep van een uil ergens boven in de heuvel.
+
+Nieuw: Hij parkeerde zijn auto langs een verlaten weg waar het asfalt overging in onverhard pad, precies zoals in het dossier beschreven, en liep de laatste paar honderd meter te voet, zijn zaklamp nog uit, zijn ogen wennend aan het donker terwijl de geluiden van de stad achter hem wegstierven en plaatsmaakten voor het geritsel van bladeren en het verre geroep van een uil ergens boven in de heuvel.
+
+### wijziging
+
+Oud: Het hek was er nog. Roestig, half overwoekerd door bramenstruiken die zich in de loop van twaalf jaar over het metaal hadden geslingerd alsof de natuur zelf had geprobeerd de plek te verbergen. Precies zoals de foto's in het oude dossier het hadden vastgelegd. Maar het slot, dat volgens diezelfde foto's ooit stevig had vastgezeten, hing nu los aan één scharnier, met sporen van recente kracht die niet bij twaalf jaar natuurlijke roestvorming pasten, scherpe, verse breukvlakken die glansden in het licht van zijn telefoon.
+
+Nieuw: Het hek was er nog. Roestig, half overwoekerd door bramenstruiken die zich in de loop van twaalf jaar over het metaal hadden geslingerd alsof de natuur zelf had geprobeerd de plek te verbergen. Precies zoals de foto's in het oude dossier het hadden vastgelegd. Maar het slot, dat volgens diezelfde foto's ooit stevig had vastgezeten, hing nu open, met sporen van recente kracht die niet bij twaalf jaar natuurlijke roestvorming pasten, scherpe, verse breukvlakken die glansden in het licht van zijn telefoon.
+
+### wijziging
+
+Oud: In een auto die honderd meter verderop langs de weg stond geparkeerd, met de lichten uit, zag Broeder Voss op zijn scherm een groen stipje dat zich niet meer bewoog, precies bij het hek dat volgens de veertig jaar oude aantekeningen van zijn Meester toegang gaf tot iets waar zijn Meester al zijn hele leven naar zocht, een stipje dat, hoe klein ook op zijn scherm, meer gewicht droeg dan alles wat hij die dag nog had gedaan.
+
+Nieuw: In een auto die honderd meter verderop langs de weg stond geparkeerd, met de lichten uit, zag Broeder Voss op zijn scherm een groen stipje dat zich niet meer bewoog, precies bij het hek dat volgens de veertig jaar oude aantekeningen van zijn Meester toegang gaf tot iets waar Van Buren al zijn hele leven naar zocht, een stipje dat, hoe klein ook op zijn scherm, meer gewicht droeg dan alles wat hij die dag nog had gedaan.
+
+### wijziging
+
+Oud: Reva bevroor voor een fractie van een seconde langer dan het beeld dat rechtvaardigde, haar blik op het gezicht van de jonge chauffeur, en zei niets over de reden waarom dat gezicht haar bekend voorkwam, van een avond in een achterkamer waar ze zelf ooit met evenveel twijfel als overtuiging had gezeten. Ze schoof het gevoel weg als iets wat later aandacht kon krijgen, en concentreerde zich weer op het scherm.
+
+Nieuw: Reva's blik bleef een fractie van een seconde te lang op het gezicht van de jonge chauffeur hangen. Ze zei niets over de reden waarom dat gezicht haar bekend voorkwam, van een avond in een achterkamer waar ze zelf ooit met evenveel twijfel als overtuiging had gezeten. Ze schoof het gevoel weg als iets wat later aandacht kon krijgen, en concentreerde zich weer op het scherm.
+
+### wijziging
+
+Oud: „Een student,” zei hij. „Of een assistent. Iemand van de universiteit.” Hij richtte zich tot Reva, zijn stem opeens scherper, doelgerichter. „Zoek uit wie er als onderzoeksassistent aan professor Van der Meer is verbonden. En zoek uit wie de conservator van het Mauritshuis is die het risico nam onze mensen tegen te houden. Iemand met dat soort loyaliteit kent hem al lang.”
+
+Nieuw: „Een student,” zei Van der Heijden. „Of een assistent. Iemand van de universiteit.” Hij richtte zich tot Reva, zijn stem opeens scherper, doelgerichter. „Zoek uit wie er als onderzoeksassistent aan professor Van der Meer is verbonden. En zoek uit wie de conservator van het Mauritshuis is die het risico nam onze mensen tegen te houden. Iemand met dat soort loyaliteit kent hem al lang.”
+
+### wijziging
+
+Oud: De loods was stil op de manier waarop industrieterreinen 's nachts stil zijn, niet leeg maar wachtend, met het verre geluid van een kraan die vracht verplaatste aan de andere kant van het havenbekken en het ritmische tikken van regen tegen de golfplaten die al sinds de avond niet was opgehouden. Reva zat alleen bij haar drie schermen, het gezicht van de jonge chauffeur nog altijd bevroren op het middelste scherm, en voelde een onrust die niets met haar werk te maken had.
+
+Nieuw: De loods was stil op de manier waarop industrieterreinen 's nachts stil zijn, niet leeg maar wachtend, met het verre geluid van een kraan die vracht verplaatste aan de andere kant van het havenbekken en het ritmische tikken van de regen op de golfplaten, dat al sinds de avond niet was opgehouden. Reva zat alleen bij haar drie schermen, het gezicht van de jonge chauffeur nog altijd bevroren op het middelste scherm, en voelde een onrust die niets met haar werk te maken had.
+
+### wijziging
+
+Oud: Sophie zat op de rand van het bed in de kamer die zij en Lars deelden, niet uit iets anders dan praktische noodzaak, met de tekeningen van de symbolen uitgespreid op het dekbed en een bord broodjes tussen hen in dat Daan van beneden had gehaald zonder te vragen of iemand honger had. Ze had honger gehad zonder het te beseffen, een vermoeidheid die zich pas nu, in de veiligheid van een afgesloten deur, liet voelen als iets fysieks in plaats van iets waar ze doorheen moest werken. Ze at sneller dan gepast was, en merkte het pas toen ze het laatste stukje brood al in haar mond had.
+
+Nieuw: Sophie zat op de rand van het bed in de kamer die zij en Lars deelden, niet uit iets anders dan praktische noodzaak, met de tekeningen van de symbolen uitgespreid op het dekbed en een bord broodjes tussen hen in dat Daan van beneden had gehaald zonder te vragen of iemand honger had. Ze had honger gehad zonder het te beseffen, net als ze moe was zonder het te merken, een vermoeidheid die zich pas nu, in de veiligheid van een afgesloten deur, liet voelen als iets fysieks in plaats van iets waar ze doorheen moest werken. Ze at sneller dan gepast was, en merkte het pas toen ze het laatste stukje brood al in haar mond had.
+
+### wijziging
+
+Oud: Sophie dacht aan de vrouw met de verbonden hand in het depot van het Mauritshuis, aan de kalme stem die had gezegd we willen alleen praten op een toon die haar meer angst had aangejaagd dan geschreeuw ooit zou kunnen, een stem die haar nog altijd in de oren klonk. Ze dacht ook aan haar vader, aan hoe hij haar ooit had verteld, in een van de weinige momenten dat hij iets persoonlijks had gedeeld, dat een mens uiteindelijk maar twee keuzes had wanneer het noodlot binnendrong: verstoppen, of onder ogen zien. Ze had twaalf jaar voor de eerste optie gekozen, en was nu, tegen haar wil, aan het leren wat de tweede kostte.
+
+Nieuw: Sophie dacht aan de vrouw met de verbonden hand in het depot van het Mauritshuis, aan de kalme stem die had gezegd dat ze alleen wilden praten, op een toon die haar meer angst had aangejaagd dan geschreeuw ooit zou kunnen, een stem die haar nog altijd in de oren klonk. Ze dacht ook aan haar vader, aan hoe hij haar ooit had verteld, in een van de weinige momenten dat hij iets persoonlijks had gedeeld, dat een mens uiteindelijk maar twee keuzes had wanneer het noodlot binnendrong: verstoppen, of onder ogen zien. Ze had twaalf jaar voor de eerste optie gekozen, en was nu, tegen haar wil, aan het leren wat de tweede kostte.
+
+### wijziging
+
+Oud: Ze waren om zeven uur 's ochtends al bij de outdoorwinkel aan de rand van Maastricht, de enige klanten behalve een man die spullen kocht voor een wandelvakantie in de Ardennen en die geen seconde langer naar hen keek dan beleefd was, zijn aandacht volledig bij een stapel wollen sokken die hij aan het uitzoeken was. Lars kocht twee industriële zaklampen, drie paar werkhandschoenen, een breekijzer waarvan hij hoopte dat ze het niet nodig zouden hebben, en een klein setje precisiegereedschap dat de verkoper eigenlijk voor horlogemakers had bedoeld maar dat Sophie, na een korte blik, meteen aan haar lijst toevoegde, haar vingers al bijna instinctief het gewicht van elk instrument beoordelend.
+
+Nieuw: Ze stonden om acht uur, toen de rolluiken omhooggingen, al bij de outdoorwinkel aan de rand van Maastricht, de enige klanten behalve een man die spullen kocht voor een wandelvakantie in de Ardennen en die geen seconde langer naar hen keek dan beleefd was, zijn aandacht volledig bij een stapel wollen sokken die hij aan het uitzoeken was. Lars kocht twee industriële zaklampen, drie paar werkhandschoenen, een breekijzer waarvan hij hoopte dat ze het niet nodig zouden hebben, en een klein setje precisiegereedschap dat de verkoper eigenlijk voor horlogemakers had bedoeld maar dat Sophie, na een korte blik, meteen aan haar lijst toevoegde, haar vingers al bijna instinctief het gewicht van elk instrument beoordelend.
+
+### wijziging
+
+Oud: „Voor het geval het mechanisme fijner is dan een drukpunt alleen,” zei ze, terwijl ze het gereedschap in haar tas liet glijden naast het notitieboek dat ze inmiddels om beurten droegen, alsof het gewicht ervan te veel was voor één paar schouders, een stilzwijgende verdeling van last die zich de afgelopen dagen vanzelf had ingesteld.
+
+Nieuw: „Voor het geval het mechanisme fijner is dan een drukpunt alleen,” zei ze, terwijl ze het gereedschap in haar tas liet glijden naast het notitieboek dat ze inmiddels om beurten droegen, alsof het gewicht ervan te veel was voor één paar schouders, een stilzwijgende verdeling van last die zich sinds gisteren vanzelf had ingesteld.
+
+### wijziging
+
+Oud: Daan deed onwillekeurig een stap terug. „Dat had ik niet verwacht echt te gaan werken,” zei hij, met een stem die zijn eigen woorden leek te wantrouwen, zijn ogen groot in het licht van zijn zaklamp.
+
+Nieuw: Daan deed onwillekeurig een stap terug. „Ik had niet verwacht dat het echt zou werken,” zei hij, met een stem die zijn eigen woorden leek te wantrouwen, zijn ogen groot in het licht van zijn zaklamp.
+
+### wijziging
+
+Oud: Op de wand net binnen de nieuwe gang, in reliëf uitgehakt op een manier die zorgvuldiger was dan alles wat ze tot nu toe hadden gezien, stond een figuur afgebeeld die geen van drieën herkende: een gestalte met uitgestrekte armen, omringd door dezelfde acht punten die op Sophies scan van De Nachtwacht hadden gestaan, met daaronder een inscriptie in een geheimschrift dat geen van drieën kon lezen, Latijnse letters door elkaar met tekens die ze nergens van kenden, de letters scherp en helder alsof de beeldhouwer ze gisteren had gemaakt in plaats van eeuwen geleden.
+
+Nieuw: Op de wand net binnen de nieuwe gang, in reliëf uitgehakt op een manier die zorgvuldiger was dan alles wat ze tot nu toe hadden gezien, stond een figuur afgebeeld die geen van drieën herkende: een gestalte met uitgestrekte armen, omringd door dezelfde acht punten die op Sophies scan van De Nachtwacht hadden gestaan, met daaronder een inscriptie in een geheimschrift dat niemand van hen kon lezen, Latijnse letters door elkaar met tekens die ze nergens van kenden, de letters scherp en helder alsof de beeldhouwer ze gisteren had gemaakt in plaats van eeuwen geleden.
+
+### wijziging
+
+Oud: Weer stilte, langer nu, en toen voetstappen die dichterbij kwamen in plaats van verder weg vluchtten, aarzelend eerst en dan met een vastberadenheid die Isaak, zonder het zelf te willen, meteen respecteerde. Lars van der Meer stapte uit de duisternis van een zijgang, zijn gezicht vuil van mergelstof, zijn ogen roodomrand van iets wat meer was dan vermoeidheid, en achter hem Sophie de Wit, met een jonge man die Isaak niet herkende maar die er half beschermend, half achterdochtig naast haar opstelde, zijn houding die van iemand die klaarstond om te vluchten of te vechten, wat er ook nodig zou blijken.
+
+Nieuw: Weer stilte, langer nu, en toen voetstappen die dichterbij kwamen in plaats van verder weg vluchtten, aarzelend eerst en dan met een vastberadenheid die Isaak, zonder het zelf te willen, meteen respecteerde. Lars van der Meer stapte uit de duisternis van een zijgang, zijn gezicht vuil van mergelstof, zijn ogen roodomrand van iets wat meer was dan vermoeidheid, en achter hem Sophie de Wit, met een jonge man die Isaak niet herkende maar die zich half beschermend, half achterdochtig naast haar opstelde, zijn houding die van iemand die klaarstond om te vluchten of te vechten, wat er ook nodig zou blijken.
+
+### wijziging
+
+Oud: „Kom kijken,” zei hij. „Maar ik waarschuw u. Wat u ziet, kunt u niet ontzien als een gewone kunstroof.”
+
+Nieuw: „Kom kijken,” zei hij. „Maar ik waarschuw u. Wat u ziet, kunt u niet meer afdoen als een gewone kunstroof.”
+
+### wijziging
+
+Oud: „Dat verwachtte ik ook niet meer,” zei Isaak, en liep, voor het eerst in zijn carrière volledig bewust dat hij een grens overstak die hij niet meer terug kon trekken, de duisternis in achter de twee mensen die hij een dag eerder nog met een opsporingsbevel had achtervolgd, zijn dossier nog altijd in zijn hand, nu bijna vergeten.
+
+Nieuw: „Dat verwachtte ik ook niet meer,” zei Isaak, en liep, voor het eerst in zijn carrière volledig bewust dat hij een grens overstak waarvan geen weg terug was, de duisternis in achter de twee mensen die hij een dag eerder nog met een opsporingsbevel had achtervolgd, zijn dossier nog altijd in zijn hand, nu bijna vergeten.
+
+### wijziging
+
+Oud: De gang eindigde na een meter of dertig in een ruimte die groter was dan het voorportaal, met een plafond dat zich hoog genoeg boven hen welfde dat hun lampen het niet volledig konden verlichten, de duisternis daarboven voelde als een aanwezigheid op zich. In het midden stond geen sarcofaag, geen schat, maar een lange stenen tafel, bedekt met een laag stof die eeuwen oud moest zijn, en aan de wanden, van vloer tot plafond, honderden namen, in tientallen verschillende handschriften, over blijkbaar honderden jaren aangebracht, een archief van mensen die niemand van hen kende en die toch, op de een of andere manier, allemaal met elkaar verbonden waren.
+
+Nieuw: De gang eindigde na een meter of dertig in een ruimte die groter was dan het voorportaal, met een plafond dat zich hoog genoeg boven hen welfde dat hun lampen het niet volledig konden verlichten, zodat de duisternis daarboven aanvoelde als een aanwezigheid op zich. In het midden stond geen sarcofaag, geen schat, maar een lange stenen tafel, bedekt met een laag stof die eeuwen oud moest zijn, en aan de wanden, van vloer tot plafond, honderden namen, in tientallen verschillende handschriften, over blijkbaar honderden jaren aangebracht, een archief van mensen die niemand van hen kende en die toch, op de een of andere manier, allemaal met elkaar verbonden waren.
+
+### wijziging
+
+Oud: „Kijk hier,” zei Daan, die zich bij de verste wand had opgesteld, zijn stem hoog van opwinding of angst, Isaak kon het verschil niet meteen horen. Ze liepen naar hem toe en zagen, in de stenen tafel zelf uitgehakt, een naam die recenter was dan de meeste andere, de randen scherper, minder verweerd, zo vers dat het bijna onwerkelijk aanvoelde.
+
+Nieuw: „Kijk hier,” zei Daan, die zich bij de verste wand had opgesteld, zijn stem hoog van opwinding of angst; Isaak kon het verschil niet meteen horen. Ze liepen naar hem toe en zagen, in de stenen tafel zelf uitgehakt, een naam die recenter was dan de meeste andere, de randen scherper, minder verweerd, zo vers dat het bijna onwerkelijk aanvoelde.
+
+### wijziging
+
+Oud: „Een eregalerij,” zei Isaak zacht, „voor iedereen die dicht genoeg bij de waarheid kwam om het te verdienen, of dicht genoeg om ervoor te sterven.” Hij realiseerde, terwijl hij het zei, dat hij voor het eerst in zijn carrière een verklaring gaf die niets met bewijs te maken had en alles met iets wat hij, tegen zijn eigen principes in, was gaan geloven, een overgave aan intuïtie die twintig jaar procedure niet had kunnen uitroeien.
+
+Nieuw: „Een eregalerij,” zei Isaak zacht, „voor iedereen die dicht genoeg bij de waarheid kwam om het te verdienen, of dicht genoeg om ervoor te sterven.” Terwijl hij het zei, besefte hij dat hij voor het eerst in zijn carrière een verklaring gaf die niets met bewijs te maken had en alles met iets wat hij, tegen zijn eigen principes in, was gaan geloven, een overgave aan intuïtie die twintig jaar procedure niet had kunnen uitroeien.
+
+### wijziging
+
+Oud: „Ik kan het niet lezen,” zei ze. „Maar het patroon komt overeen met wat er in de kantlijn van het notitieboek staat. Ik denk dat dit een naam is. De naam van wie hier het meest recent voor stierf, voor Erik. De laatste bewaarder voor hem.”
+
+Nieuw: „Ik kan het niet lezen,” zei ze. „Maar het patroon komt overeen met wat er in de kantlijn van het notitieboek staat. Ik denk dat dit een naam is. Van de bewaarder die hier vóór Erik waakte. De laatste voor hem.”
+
+### wijziging
+
+Oud: Lars staarde naar de man die verantwoordelijk was voor de dood van zijn vader, die nu voor hem stond met het air van iemand die een redelijk voorstel deed, en voelde iets in zichzelf breken dat niet woede was, iets kouder en meer beheerst, een kalmte die hem zelf verontrustte meer dan de woede had gedaan.
+
+Nieuw: Lars staarde naar de man die verantwoordelijk was voor de dood van zijn vader, die nu voor hem stond met het air van iemand die een redelijk voorstel deed, en voelde iets in zichzelf breken dat niet woede was, iets kouder en meer beheerst, een kalmte die hem meer verontrustte dan woede had gedaan.
+
+### wijziging
+
+Oud: Wat Van Buren niet had gezien, omdat hij zijn volledige aandacht op Lars had gericht sinds het moment dat hij de kamer binnenstapte, was dat Isaak, ergens tussen de eerste bekentenis en dit laatste ultimatum, zijn telefoon uit zijn zak had gehaald en, zonder ook maar een blik naar beneden te werpen, de opnamefunctie had gestart, een gewoonte die hij zich twintig jaar geleden had aangeleerd na een verhoor dat zonder opname was verworden tot een welles-nietes dat een schuldige man had vrijgepleit, een les die hij nooit meer had willen herhalen.
+
+Nieuw: Wat Van Buren niet had gezien, omdat hij zijn volledige aandacht op Lars had gericht sinds het moment dat hij de kamer binnenstapte, was dat Isaak, ergens tussen de eerste bekentenis en dit laatste ultimatum, zijn telefoon uit zijn zak had gehaald en, zonder ook maar een blik naar beneden te werpen, de opnamefunctie had gestart, een gewoonte die hij zich twintig jaar geleden had aangeleerd na een verhoor dat zonder opname was verworden tot een welles-nietesspel dat een schuldige man had vrijgepleit, een les die hij nooit meer had willen herhalen.
+
+### wijziging
+
+Oud: Sophie legde een hand op zijn schouder, dezelfde geste die ze eerder die dag bij Lars had gebruikt, en merkte dat het gebaar inmiddels iets vertrouwds had gekregen, iets van een groep die zonder het uit te spreken had besloten voor elkaar te zorgen. „We laten je niet alleen achter,” zei ze. „Wat er ook gebeurt.”
+
+Nieuw: Sophie legde een hand op zijn schouder, zoals ze eerder die dag bij Lars had gedaan, en merkte dat het gebaar inmiddels iets vertrouwds had gekregen, iets van een groep die zonder het uit te spreken had besloten voor elkaar te zorgen. „We laten je niet alleen achter,” zei ze. „Wat er ook gebeurt.”
+
+### wijziging
+
+Oud: Isaak, die met zijn armen over elkaar tegen zijn auto leunde, keek naar de groep met de blik van een man die een tactische situatie beoordeelde, zijn gedachten al vooruitlopend op de vraag hoe hij vier levens tegelijk kon beschermen met de middelen van één man. „We kunnen niet blijven improviseren,” zei hij. „We hebben nu drie dingen die we gisteren niet hadden: een opname van een bekentenis, een fysieke plek die het hele verhaal bevestigt, en een rechercheur die gelooft dat jullie de waarheid spreken. Dat is meer bewijs dan de meeste zaken waar ik ooit een veroordeling mee heb gekregen.”
+
+Nieuw: Isaak, die met zijn armen over elkaar tegen zijn auto leunde, keek naar de groep met de blik van een man die een tactische situatie beoordeelde, zijn gedachten al vooruitlopend op de vraag hoe hij vier levens tegelijk kon beschermen met de middelen van één man. „We kunnen niet blijven improviseren,” zei hij. „We hebben nu drie dingen die we gisteren niet hadden: een opname van een bekentenis, een fysieke plek die het hele verhaal bevestigt, en een rechercheur die gelooft dat jullie de waarheid spreken. Dat is meer bewijs dan in de meeste zaken waarin ik ooit een veroordeling heb gekregen.”
+
+### wijziging
+
+Oud: „Bewijs voor wie,” zei Sophie. „De pers? De officier van justitie? Uw eigen korps, dat u nog steeds als voortvluchtig beschouwt achter twee mensen aan?”
+
+Nieuw: „Bewijs voor wie,” zei Sophie. „De pers? De officier van justitie? Uw eigen korps, dat ons nog altijd als voortvluchtigen beschouwt, en u als de man die ons zonder toestemming achternazit?”
+
+### wijziging
+
+Oud: Lars liet zijn hand van de steen glijden en haalde het notitieboek uit zijn jas, opende het bij de allerlaatste bladzijde, waar de gerafelde rand nog altijd getuigde van wat zijn vader had losgescheurd op de avond dat hij stierf. Hij dacht aan de laatste zin die zijn vader nooit had kunnen afmaken, aan het testament dat geen antwoord had gegeven maar een vraag had doorgegeven, van vader op zoon, over een kloof van twaalf jaar heen.
+
+Nieuw: Lars liet zijn hand van de steen glijden en haalde het notitieboek uit zijn jas en opende het bij de allerlaatste bladzijde, waar de gerafelde rand nog altijd getuigde van wat zijn vader had losgescheurd op de avond dat hij stierf. Hij dacht aan de laatste zin die zijn vader nooit had kunnen afmaken, aan het testament dat geen antwoord had gegeven maar een vraag had doorgegeven, van vader op zoon, over een kloof van twaalf jaar heen.
+
+### wijziging
+
+Oud: „Kan ik jullie ergens mee helpen,” zei hij, zijn stem de neutrale, licht vermoeide toon van een agent die een routinecontrole deed.
+
+Nieuw: „Kan ik jullie ergens mee helpen,” zei hij, op de neutrale, licht vermoeide toon van een agent die een routinecontrole deed.
+
+### wijziging
+
+Oud: De man naast haar zei niets, maar Isaak zag zijn ogen naar het hek glijden, naar de sporen van recente activiteit die, hoe voorzichtig ze ook waren geweest, niet volledig te verbergen waren voor iemand die ernaar zocht, een observatie die niet onopgemerkt bleef bij Isaak zelf.
+
+Nieuw: De man naast haar zei niets, maar Isaak zag zijn ogen naar het hek glijden, naar de sporen van recente activiteit die, hoe voorzichtig ze ook waren geweest, niet volledig te verbergen waren voor iemand die ernaar zocht. Isaak zag het ook.
+
+### wijziging
+
+Oud: Ze aarzelde nog even, wierp een laatste blik op het hek, en liep terug naar de huurauto, gevolgd door de man die tot dan toe geen woord had gezegd. Pas toen de auto de bocht uit het zicht was verdwenen, liet Isaak de lucht ontsnappen die hij niet had gemerkt vast te houden, zijn hart nu pas echt in zijn keel bonzend, en rende naar het hek.
+
+Nieuw: Ze aarzelde nog even, wierp een laatste blik op het hek, en liep terug naar de huurauto, gevolgd door de man die tot dan toe geen woord had gezegd. Pas toen de auto de bocht uit het zicht was verdwenen, liet Isaak de adem ontsnappen waarvan hij niet had gemerkt dat hij die inhield, zijn hart nu pas echt in zijn keel bonzend, en rende naar het hek.
+
+### wijziging
+
+Oud: „Verzamel iedereen die inzetbaar is,” zei hij. „We vertrekken over een uur. En Reva: zoek uit of er in de buurt van die groeve doktoren, hulpdiensten, iets is wat erop wijst dat er onlangs iemand gewond is geraakt of iets ondergronds heeft gemeld. Als de rechercheur daar de wacht hield, was hij niet alleen.”
+
+Nieuw: „Verzamel iedereen die inzetbaar is,” zei hij. „We vertrekken over een uur. En Reva: zoek uit of er bij huisartsen of hulpdiensten in de buurt van die groeve iets is binnengekomen wat erop wijst dat er onlangs iemand gewond is geraakt of iets ondergronds heeft gemeld. Als de rechercheur daar de wacht hield, was hij niet alleen.”
+
+### wijziging
+
+Oud: Hij verbrak de verbinding, en bleef nog even staan voor het scherm, denkend aan een jongen van vijftien jaar geleden die hij zelf ooit was geweest, vol overtuiging dat zijn methode de enige juiste was, en vroeg zich, voor het eerst in lange tijd, hardop af of hij nog wel zeker wist waar de grens lag tussen bescherming en dwang, een twijfel die hij zich, tot voor kort, nooit had toegestaan.
+
+Nieuw: Hij verbrak de verbinding, en bleef nog even staan voor het scherm, denkend aan een jongen van vijftien jaar geleden die hij zelf ooit was geweest, vol overtuiging dat zijn methode de enige juiste was, en vroeg zich, voor het eerst in lange tijd, af of hij nog wel zeker wist waar de grens lag tussen bescherming en dwang, een twijfel die hij zich, tot voor kort, nooit had toegestaan.
+
+### wijziging
+
+Oud: Van der Heijden knikte en keek door de voorruit naar de donkere heuvels, waar ergens achter een bomenrij de zwaailichten van een ambulance opflitsten en weer verdwenen. Hij dacht aan de vrouw die hij twintig jaar geleden had zien sterven aan het zwijgen van een loge, aan de reden waarom hij ooit had gezworen nooit dezelfde fouten te maken als de oudsten die dat zwijgen hadden opgelegd. En hij vroeg zich, voor het eerst in lange tijd, hardop af of een oude boer met een jachtgeweer op zijn eigen erf nu op diezelfde lijst stond, en wie hem daar had gezet.
+
+Nieuw: Van der Heijden knikte en keek door de voorruit naar de donkere heuvels, waar ergens achter een bomenrij de zwaailichten van een ambulance opflitsten en weer verdwenen. Hij dacht aan de vrouw die hij twintig jaar geleden had zien sterven aan het zwijgen van een loge, aan de reden waarom hij ooit had gezworen nooit dezelfde fouten te maken als de oudsten die dat zwijgen hadden opgelegd. En hij vroeg zich af of een oude boer met een jachtgeweer op zijn eigen erf nu op diezelfde lijst stond, en wie hem daar had gezet.
+
+### wijziging
+
+Oud: Door de kier van het gordijn zag Isaak koplampen, twee paar, die met gedoofde lichten de laatste honderd meter van de oprijlaan namen, een manoeuvre die geen enkele onschuldige nachtelijke bezoeker ooit zou uitvoeren, zijn hele lichaam op scherp voor zijn verstand het gevaar volledig had verwerkt.
+
+Nieuw: Door de kier van het gordijn zag Isaak twee donkere vormen, auto's die met gedoofde koplampen de laatste honderd meter van de oprijlaan namen, een manoeuvre die geen enkele onschuldige nachtelijke bezoeker ooit zou uitvoeren, zijn hele lichaam op scherp voor zijn verstand het gevaar volledig had verwerkt.
+
+### wijziging
+
+Oud: Achter hen, gedempt door de dikke muren van de boerderij, hoorden ze Piets stem, luid en geërgerd, precies zoals hij had beloofd, een oude man die klaagde over indringers op zijn erf, en daaronder, onmiskenbaar, een tweede stem die probeerde te kalmeren, te onderhandelen, op een toon die Isaak herkende als iemand die geen geweld zocht maar het ook niet zou schuwen als het nodig werd.
+
+Nieuw: Achter hen, gedempt door de dikke muren van de boerderij, hoorden ze Piets stem, luid en geërgerd, precies zoals hij had beloofd, een oude man die klaagde over indringers op zijn erf, en daaronder, onmiskenbaar, een tweede stem die probeerde te kalmeren, te onderhandelen, op een toon die Isaak herkende als die van iemand die geen geweld zocht maar het ook niet zou schuwen als het nodig werd.
+
+### wijziging
+
+Oud: Isaak wist dat de jongen gelijk had, wist het met het soort zekerheid die twintig jaar dienst hem had bijgebracht over wanneer teruggaan zin had en wanneer het alleen maar meer mensen in gevaar bracht, en toch kostte het hem elke vezel van zijn wilskracht om zich om te draaien en verder te lopen, het donker in, een grens over die hij niet kon zien maar die Piet hem had beloofd dat er was.
+
+Nieuw: Isaak wist dat de jongen gelijk had, wist het met het soort zekerheid die twintig jaar dienst hem had bijgebracht over wanneer teruggaan zin had en wanneer het alleen maar meer mensen in gevaar bracht, en toch kostte het hem elke vezel van zijn wilskracht om zich om te draaien en verder te lopen, het donker in, een grens over die hij niet kon zien maar waarvan Piet had beloofd dat die er was.
+
+### wijziging
+
+Oud: „Dat er een auto onderweg is. Twintig minuten, misschien meer, dit is geen gebied waar de meldkamer veel te doen heeft.” Isaak liet zijn hand door zijn haar gaan, een gebaar dat Sophie inmiddels kende als het teken dat hij zichzelf dwong kalm te blijven klinken terwijl er iets in hem uit elkaar viel. „Ik had anoniem moeten bellen. Ik heb anoniem gebeld. Maar het went niet, weten dat ik daar niet zelf naartoe kan.”
+
+Nieuw: „Dat er een auto onderweg is. Twintig minuten, misschien meer, dit is geen gebied waar de meldkamer veel te doen heeft.” Isaak liet zijn hand door zijn haar gaan, een gebaar dat Sophie inmiddels kende als het teken dat hij zichzelf dwong kalm te blijven klinken terwijl er iets in hem uit elkaar viel. „Ik heb anoniem gebeld. Het moest. Maar het went niet, weten dat ik daar niet zelf naartoe kan.”
+
+### wijziging
+
+Oud: Daan stond een stap bij de anderen vandaan, zijn armen om zichzelf heen geslagen tegen een kou die niets met de temperatuur te maken had, zijn blik strak op het donker gericht in de richting waaruit ze waren gekomen, alsof hij, als hij maar lang genoeg keek, Piet zelf uit de nacht tevoorschijn kon laten komen. Niemand sprak de gedachte hardop uit die door ieder van hen speelde, dat een man van in de zeventig, alleen tegenover wat er ook die auto's had gebracht, weinig kans had gemaakt tegen wat voor hen bedoeld was geweest.
+
+Nieuw: Daan stond een stap bij de anderen vandaan, zijn armen om zichzelf heen geslagen tegen een kou die niets met de temperatuur te maken had, zijn blik strak op het donker gericht in de richting waaruit ze waren gekomen, alsof hij, als hij maar lang genoeg keek, Piet zelf uit de nacht tevoorschijn kon laten komen. Niemand sprak de gedachte hardop uit die door ieder van hen speelde, dat een man van in de zeventig, alleen tegenover wie er ook uit die auto's was gestapt, weinig kans had gemaakt.
+
+### wijziging
+
+Oud: Ze liepen verder landinwaarts, weg van de beek en de grens, tot ze een schuur vonden die aan drie kanten dicht was en aan de vierde open naar een verlaten erf, het soort bouwval dat waarschijnlijk al jaren niet meer werd gebruikt behalve door vee dat er 's winters schuilde. De geur van oud hooi en roest hing er zwaar, en het dak lekte ergens in de verte een langzaam, regelmatig getik dat de enige klok was die ze nog hadden. Ze gingen zitten op balen die harder en kouder aanvoelden dan ze eruitzagen, en niemand stelde voor een vuur te maken.
+
+Nieuw: Ze liepen verder landinwaarts, weg van de beek en de grens, tot ze een schuur vonden die aan drie kanten dicht was en aan de vierde open naar een verlaten erf, het soort bouwval dat waarschijnlijk al jaren niet meer werd gebruikt behalve door vee dat er 's winters schuilde. De geur van oud hooi en roest hing er zwaar, en ergens achterin lekte het dak, een langzaam, regelmatig getik dat de enige klok was die ze nog hadden. Ze gingen zitten op balen die harder en kouder aanvoelden dan ze eruitzagen, en niemand stelde voor een vuur te maken.
+
+### wijziging
+
+Oud: „Ja.” Stilte. Zijn schouders, die Sophie tot dan toe niet had zien zakken, zakten nog verder. „Begrepen. Dank u.” Hij hing op en bleef even zitten met het scherm nog verlicht in zijn hand, en toen hij opkeek waren zijn ogen vochtig op een manier die twintig jaar dienst hem waarschijnlijk had geleerd te verbergen voor collega's, maar niet, blijkbaar, voor mensen die hij in één dag was gaan vertrouwen als familie.
+
+Nieuw: „Ja.” Stilte. Zijn schouders zakten. „Begrepen. Dank u.” Hij hing op en bleef even zitten met het scherm nog verlicht in zijn hand, en toen hij opkeek waren zijn ogen vochtig op een manier die twintig jaar dienst hem waarschijnlijk had geleerd te verbergen voor collega's, maar niet, blijkbaar, voor mensen die hij in één dag was gaan vertrouwen als familie.
+
+### wijziging
+
+Oud: „We kunnen niet blijven wachten tot toeval ons redt,” zei hij. „Piet had geluk. Dat volgende keer niet zo hoeft te gaan. Ik bel Frank vandaag. Niet morgen. Vandaag, zodra het een beetje fatsoenlijk uur is om een oude commissaris wakker te bellen.”
+
+Nieuw: „We kunnen niet blijven wachten tot toeval ons redt,” zei hij. „Piet had geluk. De volgende keer hebben we dat misschien niet. Ik bel Frank vandaag. Niet morgen. Vandaag, zodra het een beetje fatsoenlijk uur is om een oude commissaris wakker te bellen.”
+
+### wijziging
+
+Oud: Ze vonden de instorting na honderd meter, een muur van mergel en steunbalken die de gang volledig blokkeerde, vers genoeg dat er nog stofdeeltjes in de lucht hingen die hun lampen ving als sneeuw in koplampen. Van der Heijden legde zijn hand tegen het puin, voelde de kilte van de steen, en wist, met de zekerheid van een man die zijn hele leven aan geduld had gewijd, dat wat er ook achter deze muur lag, hij het vandaag niet zou zien.
+
+Nieuw: Ze vonden de instorting na honderd meter, een muur van mergel en steunbalken die de gang volledig blokkeerde, vers genoeg dat er nog stofdeeltjes in de lucht hingen die hun lampen vingen als sneeuw in koplampen. Van der Heijden legde zijn hand tegen het puin, voelde de kilte van de steen, en wist, met de zekerheid van een man die zijn hele leven aan geduld had gewijd, dat wat er ook achter deze muur lag, hij het vandaag niet zou zien.
+
+### wijziging
+
+Oud: Isaak kwam naast hem staan en voelde de kilte die hij inmiddels associeerde met ontdekkingen die geen goed nieuws bleken te zijn. De opening leidde naar een kleinere nis, amper groot genoeg voor een mens om rechtop in te staan, en in het midden ervan stond een leeg voetstuk, stof afgetekend in een rechthoekige vorm die duidelijk maakte dat er ooit iets op had gerust, iets dat nu weg was.
+
+Nieuw: Isaak kwam naast hem staan en voelde de kilte die hij inmiddels associeerde met ontdekkingen die geen goed nieuws bleken te zijn. De opening leidde naar een kleinere nis, amper groot genoeg voor een mens om rechtop in te staan, en in het midden ervan stond een leeg voetstuk, in het stof eromheen een rechthoekige vorm afgetekend die duidelijk maakte dat er ooit iets op had gerust, iets dat nu weg was.
+
+### wijziging
+
+Oud: „Hij is altijd wakker geweest, denk ik,” zei Isaak. „Mannen zoals hij slapen niet op de manier waarop de rest van ons dat doet.” Hij bleef even staan voor de deur, zijn hand nog niet op de klopper, en Sophie zag hem ademhalen op de manier van iemand die zichzelf voorbereidde op een grens die hij niet meer terug kon trekken zodra hij hem overstak. „Als dit misgaat,” zei hij, „wil ik dat jullie beiden terugtrekken naar de auto. Wat er ook gebeurt met mij, dit verhaal moet bij Sanders terechtkomen, en zij kan alleen iets doen als een van jullie in leven en vrij blijft om het haar te vertellen.”
+
+Nieuw: „Hij is altijd wakker geweest, denk ik,” zei Isaak. „Mannen zoals hij slapen niet op de manier waarop de rest van ons dat doet.” Hij bleef even staan voor de deur, zijn hand nog niet op de klopper, en Sophie zag hem ademhalen op de manier van iemand die zichzelf voorbereidde op een grens waarvan geen weg terug was zodra hij hem overstak. „Als dit misgaat,” zei hij, „wil ik dat jullie beiden terugtrekken naar de auto. Wat er ook gebeurt met mij, dit verhaal moet bij Sanders terechtkomen, en zij kan alleen iets doen als een van jullie in leven en vrij blijft om het haar te vertellen.”
+
+
 ## v6.1 (12 oktober 2026)
 
 In "Het huis in Den Haag" twee zinnen toegevoegd aan Arnolds verhaal: „Ik heb niet verder gekeken. Ik kwam niet voor wat daar lag.” Dit verklaart waarom Arnold het manuscript in de nis nooit zag.
