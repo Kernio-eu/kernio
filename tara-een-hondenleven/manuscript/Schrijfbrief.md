@@ -82,6 +82,7 @@ Deze toewijzing is vast, zodat er geen dubbels ontstaan.
 | 10 | Dossier 2: het lied (onverklaard; experimenteel bevestigd door de proefpersoon) | |
 | 11 | Labradorwet nr. 31 | |
 | 12 | Labradorwet nr. 11 | |
+| 13 | Dossier 33: water | |
 | 14 | Labradorwet nr. 38 | |
 | 15 | Dossier 18: waarom mensen applaudisseren | |
 | 16 | Dossier 89: de postbode | ja |

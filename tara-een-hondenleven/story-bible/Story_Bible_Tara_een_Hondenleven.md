@@ -1,6 +1,6 @@
 ---
 title: "Tara, een Hondenleven"
-subtitle: "Story bible, versie 6 (12 oktober 2026)"
+subtitle: "Story bible, versie 7 (12 oktober 2026)"
 lang: nl-BE
 ---
 
@@ -339,6 +339,15 @@ Een donkere, warme plek. Er is geen beeld en geen geluid, alleen warmte, een zac
 **Hoofdstuk 11. De Programmering van de Jacht.** *Dogtime, dan meewandelen.* De rode kater van de buurman. Thuis is Mira heilig, buiten is elke kat een spel. Lode ziet in dat hij dat spel zelf heeft aangeleerd toen hij lachte.
 
 **Hoofdstuk 12. Het Terras-Experiment.** Na maanden oefenen met "plaats" ligt Tara op haar kleedje op het volle dorpsplein. Naast hen trekt en blaft een jonge hond. "Geduld. Dat is alles."
+
+**Hoofdstuk 13. Het Water (nieuw in versie 7).** *Dogtime.* Tara op haar sterkst, drie à vier jaar.
+- Plonsjes in het ven en in de Nete; Lode gooit een tak in het water en Tara haalt hem terug.
+- "Zoek een stok": Tara zoekt plichtsbewust, en als er geen stok is, begint ze een jong boompje uit te rukken.
+- Met dorst loopt ze van ver recht naar het water. Water ruikt niet, wat erin leeft wel.
+- Het balletje vindt ze met de neus, als de wind goed zit.
+- Bij Dirk en zijn Mechelaars wordt het een wedstrijd, en de baasjes zijn even fel als de honden.
+- Climax: de zee in het late najaar, op het lege strand tussen Zeebrugge en Blankenberge. Tara trotseert zonder angst de golven om het balletje terug te halen.
+- Rubriek: Dossier 33, water.
 
 **Hoofdstuk 14. Het Etentje.** Bestek, gesprekstechniek, en de wet van het gevallen eten. Na het dessert krijgt Tara het laatste stukje vlees van Lodes bord. Een gast vindt dat "geen goed idee"; Lode legt het principe van de roedel uit. Tara's honger vertekent haar waarneming.
 
