@@ -10,11 +10,11 @@ Het was zomer, een van die zomers waarin de tegels van het terras 's avonds nog 
 
 Ik lag op mijn kleedje en observeerde. Het grootste deel van mijn rapport over die zomer gaat over de boontjes, die ik niet mocht eten en die ik toch heb geproefd, en over een egel die onder de compostbak woonde en zich niet liet ondervragen. Maar dit hoofdstuk gaat niet over de boontjes.
 
-De geur van Lode is de best gedocumenteerde geur in mijn hele onderzoek. Ik ken hem van zijn sokken tot zijn haar. Koffie, altijd koffie. Aftershave, minder dan vroeger, want hij schoor zich niet meer elke dag. Zeep. Aarde onder zijn nagels. Zon op zijn nek, die rook naar warm brood. En sinds een paar jaar, 's morgens, iets van een pilletje dat hij met zijn koffie innam en dat naar krijt en bitter rook. Dat hoorde er nu bij. Ik had het opgenomen in de beschrijving.
+De geur van Lode is de best gedocumenteerde geur in mijn hele onderzoek. Ik ken hem van zijn sokken tot zijn haar. Koffie, altijd koffie. Aftershave, minder dan vroeger, want hij schoor zich niet meer elke dag. Zeep. Aarde onder zijn nagels. Zon op zijn nek, die rook naar warm brood. En sinds een paar jaar, 's morgens, iets van een pilletje dat hij met zijn koffie innam en dat naar krijt en bitter rook. Ik had het opgenomen in de beschrijving.
 
 Op een avond kwam hij uit de tuin, ging op de rand van het terras zitten met een glas water, en ik ging, zoals altijd, zijn rug controleren. Dat doe je met een mens die uit de aarde komt: je controleert wat hij heeft meegebracht. Er zat een mier in zijn marcelleke. Er zat stuifmeel op zijn schouder. En op het linkerschouderblad, net onder de rand van het hemd, op een plek niet groter dan het puntje van mijn neus, zat iets wat niet bij hem hoorde.
 
-Ik moet hier voorzichtig zijn. Ik weet wat ik rook, maar ik weet niet wat het was. Het was zo zwak dat ik het de eerste keer voor een vergissing hield. Het was niet het metalige van de Ring, dat overal tegelijk zit en uit zijn adem en zijn oksels en zijn handen komt. Het was ook niet de geur van iets dat hij had aangeraakt, want het zat niet bovenop de huid. Het kwam van binnenuit, van één plek, en nergens anders. Het rook een beetje zoals een appel in de fruitschaal ruikt op de dag voordat je er een bruine plek op ziet. Een beetje zoet. Een beetje verkeerd. En verder vooral naar Lode, want het zat in hem.
+Ik moet hier voorzichtig zijn. Het was zo zwak dat ik het de eerste keer voor een vergissing hield. Het was niet het metalige van de Ring, dat overal tegelijk zit en uit zijn adem en zijn oksels en zijn handen komt. Het was ook niet de geur van iets dat hij had aangeraakt, want het zat niet bovenop de huid. Het kwam van binnenuit, van één plek, en nergens anders. Het rook een beetje zoals een appel in de fruitschaal ruikt op de dag voordat je er een bruine plek op ziet. Een beetje zoet. Een beetje verkeerd. En verder vooral naar Lode, want het zat in hem.
 
 "Allez, Tara," zei hij, en hij duwde mijn kop weg met zijn elleboog. "Ge kittelt."
 
@@ -30,7 +30,7 @@ Het probleem met deze hypothese was dat ik Lode in tien jaar nog nooit had zien 
 
 ### Experiment
 
-Bij dit experiment wijk ik af van mijn eigen methode. Een goed experiment doe je één keer, en dan kijk je naar het resultaat. Dit experiment heb ik niet één keer gedaan. Ik heb het elke dag gedaan, omdat ik het resultaat niet begreep, en de proefpersoon ook niet, en omdat ik niet anders kon.
+Bij dit experiment wijk ik af van mijn eigen methode. Ik heb het niet één keer gedaan, maar elke dag, omdat ik het resultaat niet begreep, en de proefpersoon ook niet.
 
 De volgende ochtend zong ik met de bal, en Lode vulde de bak, en ik at, en daarna ging ik naar de plek. Hij stond aan het aanrecht met zijn koffie, in zijn kamerjas. Ik duwde mijn neus tegen de badstof, op het linkerschouderblad. Het was er nog. Door de stof heen. Zwak, maar er.
 
@@ -54,7 +54,7 @@ Lode begon het experiment over te nemen, op zijn manier, wat ik als onderzoeker 
 
 Ik rook het door een trui.
 
-"Ze is zot," zei Lode, en hij duwde mijn kop weg, maar zachter dan de eerste keer. Hij duwde nu altijd zachter. Ik denk dat hij het niet meer meende. Ik kwam terug. Hij duwde. Ik kwam terug. Daarna liet hij mij een tijdje.
+"Ze is zot," zei Lode, en hij duwde mijn kop weg, maar zachter dan de eerste keer. Hij duwde nu altijd zachter. Ik kwam terug. Hij duwde. Ik kwam terug. Daarna liet hij mij een tijdje.
 
 Ik was niet de enige die de plek bezocht. Op een middag, na de boontjes, viel Lode in slaap in de zetel, wat hij in die jaren bijna niet meer deed, op zijn zij, met zijn gezicht naar de kamer en zijn rug tegen de leuning. Tussen zijn rug en de kussens bleef een spleet. Mira kwam van de vensterbank, liep over de armleuning en wrong zich in die spleet tot ze tegen zijn rug lag, hoog, op het linkerschouderblad. Ze draaide zich één keer om en bleef liggen. Ze spon.
 
@@ -66,7 +66,7 @@ Ik ben naast de zetel gaan zitten en heb gewacht. Mira lag er nog toen Lode wakk
 
 Ik noteer de plaats van haar poot. De reden noteer ik niet. Die ken ik niet.
 
-Op een nacht deed ik iets wat ik in jaren niet meer gedaan had. Ik liet de rode bal in de mand liggen en ging de trap op. Het waren veertien treden, en bij de negende moest ik even blijven staan. Boven was het donker en het rook er naar wasverzachter, naar Miekes nachtcrème en naar de warme lucht die uit een slaapkamer komt waar twee mensen ademen. De deur stond open. Die staat altijd open. Ik ging niet naar binnen; dat is de regel, en de regel is mij duizend keer rustig gezegd. Ik ging op de drempel liggen, met mijn neus net over de lijn, waar de touwen loper ophoudt en het tapijt van de slaapkamer begint.
+Op een nacht deed ik iets wat ik in jaren niet meer gedaan had. Ik liet de rode bal in de mand liggen en ging de trap op. Het waren veertien treden, en bij de negende moest ik even blijven staan. Boven was het donker en het rook er naar wasverzachter, naar Miekes nachtcrème en naar de warme lucht die uit een slaapkamer komt waar twee mensen ademen. De deur stond open. Die staat altijd open. Ik ging niet naar binnen. Ik ging op de drempel liggen, met mijn neus net over de lijn, waar de touwen loper ophoudt en het tapijt van de slaapkamer begint.
 
 Lode sliep op zijn buik, met het deken tot aan zijn middel. Van op de drempel was het niet te ruiken. Er was te veel kamer tussen. Ik bleef toch liggen.
 
@@ -114,7 +114,7 @@ Ze keek lang. Ik keek mee, al zag ik niets. Ik rook alleen.
 
 "Voor mij," zei Mieke.
 
-Daarna zette ze de film weer aan, en niemand zei nog iets. Lode rook naar koffie en naar het metalige, maar heel weinig. Ik ging liggen tegen zijn voeten.
+Daarna zette ze de film weer aan, en niemand zei nog iets. Lode rook naar koffie, en zijn handen waren een beetje vochtig. Ik ging liggen tegen zijn voeten.
 
 ### Resultaat
 
@@ -142,11 +142,11 @@ Mieke bleef in de deuropening staan. Dan draaide ze zich om naar de gootsteen en
 
 "Dat kan toch niet. Dat is toeval."
 
-"Misschien." Ze draaide de kraan dicht. "Ge zijt in elk geval gegaan."
+"Misschien." Ze draaide de kraan dicht, droogde haar handen af en legde de handdoek op zijn schouder.
 
 ### Conclusie
 
-Ik weet niet wat ik rook. Ik schrijf dat zo nadrukkelijk op omdat het het enige is wat ik er met zekerheid over kan zeggen. Ik rook iets op één plek wat er niet hoorde. Daarna was het weg. Meer weet ik niet. Ik kan niet beweren dat ik iets gevonden heb, want ik wist niet dat ik zocht. Ik ging alleen naar de plek, omdat ze anders rook dan de rest van hem, en ik bleef gaan omdat ze anders bleef ruiken.
+Ik weet niet wat ik rook. Ik rook iets op één plek wat er niet hoorde, en daarna was het weg. Ik kan niet beweren dat ik iets gevonden heb, want ik wist niet dat ik zocht. Ik ging alleen naar de plek omdat ze anders rook dan de rest van hem, en ik bleef gaan omdat ze anders bleef ruiken.
 
 Een onderzoeker die een resultaat heeft maar geen verklaring, heeft volgens mijn eigen regels geen conclusie. Ik zet het toch in deze rubriek, omdat ik geen andere heb.
 

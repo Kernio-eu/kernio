@@ -6,13 +6,13 @@ Waarom verandert een mens van geur, van stem en van gewicht door wat hij uit kle
 
 ### Observatie
 
-Na het getik van het bestek en het stukje vlees uit de vorige notitie werd het laken niet van de tafel gehaald. Het bleef liggen, met de rode vlek van Greet die intussen bruin was geworden aan de randen. De borden gingen naar de keuken, de glazen bleven. Mieke zette koffie. Het huis rook naar chocolade, naar koude saus en naar het hout in de kachel, dat de proefpersoon er net bij had gelegd en dat nog sputterde omdat het niet helemaal droog was.
+Na het getik van het bestek en het stukje vlees uit de vorige notitie werd het laken niet van de tafel gehaald. Het bleef liggen, met de rode vlek van Greet die intussen bruin was geworden aan de randen. De borden gingen naar de keuken, de glazen bleven. Mieke zette koffie. Het huis rook naar chocolade, naar koude saus en naar het hout in de kachel, dat nog sputterde omdat het niet helemaal droog was.
 
 Toen ging de kast open.
 
 Het is een kast in de woonkamer met glazen deurtjes, waar de proefpersoon de flessen bewaart die niet in de keuken mogen staan. Ik ken de geur van die kast als hij dicht is: hout, stof, en daarachter een zweem van iets scherps. Als hij opengaat, wordt het scherpe het belangrijkste in de kamer.
 
-De eerste fles was helder en rook naar graan en naar iets dat in de neus prikte zoals de ontsmetting bij de dierenarts. De proefpersoon schonk kleine glaasjes in, zo klein dat ik me afvroeg waarom mensen niet gewoon één groot nemen. Rik dronk het zijne in één keer en zette het met een klik terug. Daarna kwam er een bruine fles die naar rook en natte turf en verbrand hout rook, alsof iemand een kampvuur in een fles had gestopt. Annemie haalde uit haar tas nog een kleine, gele fles die ze zelf had meegebracht van een vakantie, en die naar citroen rook en naar suiker en naar dezelfde prik als de eerste.
+De eerste fles was helder en rook naar graan en naar iets dat in de neus prikte zoals de ontsmetting bij de dierenarts. De proefpersoon schonk kleine glaasjes in, zo klein dat ik me afvroeg waarom mensen niet gewoon één groot nemen. Rik dronk het zijne in één keer en zette het met een klik terug. Daarna kwam er een bruine fles die naar rook en natte turf en verbrand hout rook, alsof iemand een kampvuur in een fles had gestopt. Annemie haalde uit haar tas nog een gele fles van een vakantie, die naar citroen en suiker rook en naar dezelfde prik als de eerste.
 
 Rik dronk van alle drie. De anderen dronken van één, of van geen. Greet hield haar hand boven haar glas als de fles in de buurt kwam. Paul had zijn lange armen nu voor zich op de tafel gelegd, waar ze niet meer konden hangen.
 
@@ -24,7 +24,7 @@ Dan het lijf. Zijn bewegingen werden groter dan nodig. Als hij naar zijn glas re
 
 Dan pas de stem. Die werd luider, maar niet zoals bij boosheid; er zat geen metaal in. Ze werd breder, met meer lucht en minder randen. Woorden liepen in elkaar over. Hij vertelde het verhaal van de directeur die zijn auto niet terugvond nog een keer, en de anderen lachten nog een keer, maar zachter, en Annemie keek naar haar horloge.
 
-Ik lag in de mand met mijn kin op de pantoffel en volgde het allemaal met grote aandacht. Het is niet dikwijls dat een proefpersoon zo snel verandert, en zo zichtbaar.
+Ik lag in de mand met mijn kin op de pantoffel en volgde het allemaal met grote aandacht.
 
 ### Hypothese
 
@@ -34,7 +34,7 @@ Verder kwam ik niet. Rik stond op.
 
 ### Experiment
 
-Ik moet dit gedeelte schrijven zoals het gebeurde, en niet zoals een experiment hoort te verlopen, want het verliep niet zoals een experiment hoort te verlopen. In de methode die ik in de vorige jaren had ontwikkeld, is er een onderzoeker en is er een proefpersoon. De onderzoeker kijkt. De proefpersoon doet. Die avond werd dat omgedraaid, en ik had er geen kolom voor.
+Ik moet dit gedeelte schrijven zoals het gebeurde, want het verliep niet zoals een experiment hoort te verlopen. In mijn methode is er een onderzoeker en een proefpersoon. De onderzoeker kijkt. De proefpersoon doet. Die avond werd dat omgedraaid, en ik had er geen kolom voor.
 
 Rik ging naar de kast waar ook de muziek staat, een plat zwart ding met knoppen, en drukte op de knoppen tot er iets uitkwam. Het was een oud lied, met een trompet en een man die zong over een vrouw die niet terugkwam. Hij draaide zich om, met zijn armen uit, en keek de kamer rond op zoek naar iemand.
 
@@ -54,13 +54,13 @@ Hij zette een stap naar links. Ik moest mee. Hij zette een stap naar rechts. Ik 
 
 Ik noteer hier wat ik deed, voor zover ik het van binnenuit kon waarnemen. Ik draaide mijn kop weg. Ik likte mijn lippen, twee keer, snel. Ik keek naar de kachel. Rik zag er niets van. Hij lachte en zette nog een stap.
 
-Ergens in mij zat de vraag wat ik hier moest observeren, en er kwam geen antwoord. Ik had geen hypothese, geen meetpunt, geen plek in mijn verslag waar dit kon staan. Ik was alleen een hond met haar poten in de lucht.
+Ik had geen hypothese, geen meetpunt, geen plek in mijn verslag waar dit kon staan. Ik was alleen een hond met haar poten in de lucht.
 
 Toen hoorde ik de stoel van de proefpersoon achteruit schuiven.
 
 "Rik."
 
-Niet hard. Er zat geen metaal in, en ook geen lach. Het was dezelfde stem waarmee hij op het terras "plaats" zei, maar met iets eronder dat zwaarder was.
+Niet hard, en zonder lach. Het was dezelfde stem waarmee hij op het terras "plaats" zei, maar met iets eronder dat zwaarder was.
 
 "Zet haar neer. Ze vindt dat niet plezant."
 
@@ -74,7 +74,7 @@ Het werd stil. De trompet speelde nog. Mieke stond op, ging naar de keuken, en k
 
 Rik dronk niet. Hij hield het glas vast en keek naar mij.
 
-Ik was naar mijn mand gegaan en had me neergelegd, met de pantoffel tussen mijn voorpoten. Ik keek naar hem. Hij keek naar mij. Hij keek lang. Hij keek zoals ik kijk naar een grasveld: niet naar één ding, maar naar alles, om te zien wat er verandert.
+Ik was naar mijn mand gegaan en had me neergelegd, met de pantoffel tussen mijn voorpoten. Hij keek naar mij, lang, zoals ik kijk naar een grasveld: niet naar één ding, maar naar alles, om te zien wat er verandert.
 
 "Gij," zei hij. Zijn stem was nu zacht en ging een beetje scheef. "Gij zit de hele avond naar ons te kijken."
 
@@ -82,9 +82,9 @@ Ik verroerde me niet.
 
 "De hele avond. Ik heb 't gezien. Gij kijkt naar wie wat eet. Gij kijkt naar wie wat zegt. Gij kijkt naar Paul zijn hand." Hij lachte, kort. "Wat zit gij eigenlijk te denken, hè? Wat schrijft gij allemaal op?"
 
-Ik heb in mijn hele onderzoek nooit zo'n vraag gekregen. Een proefpersoon hoort niet te weten dat hij bestudeerd wordt. Dat is de eerste regel. Ik draaide mijn kop weg, likte mijn lippen, en keek naar de kachel. Alle signalen die ik had. Rik bleef kijken.
+Ik heb in mijn hele onderzoek nooit zo'n vraag gekregen. Een proefpersoon hoort niet te weten dat hij bestudeerd wordt. Ik draaide mijn kop weg, likte mijn lippen, en keek naar de kachel. Alle signalen die ik had. Rik bleef kijken.
 
-Ik rook iets nieuws uit hem komen. Zout, maar ander zout dan onder zijn armen. Het kwam uit zijn gezicht. Ik weet niet wat het betekende. Ik weet alleen dat het er was, en dat ik ernaartoe ging, met mijn neus, en mijn kin op zijn knie legde, op de stof van zijn broek die naar de lederen zetels van zijn auto rook.
+Ik rook iets nieuws uit hem komen. Zout, maar ander zout dan onder zijn armen. Het kwam uit zijn gezicht. Ik wist niet wat het betekende. Ik ging ernaartoe, met mijn neus, en legde mijn kin op zijn knie, op de stof van zijn broek die naar de lederen zetels van zijn auto rook.
 
 Hij legde een hand op mijn kop. Zwaar, en een beetje te ver naar voren, over mijn ogen. Ik liet het zo.
 
@@ -100,7 +100,7 @@ Niet een keer, maar veel keren achter elkaar, snel, met haar handpalmen plat teg
 
 Ik stond in de kamer en keek naar al die handen.
 
-Ik heb het geluid van klappen vaker gehoord. Bij het verjaardagsfeest van Sofie. Op het dorpsplein, toen er muziek was. Op de televisie, waar honderden mensen het tegelijk doen. Ik heb het nooit begrepen, en ik begreep het die avond niet beter. Er werd niets uitgedeeld. Rik kreeg geen koekje. Niemand kreeg een koekje. De handen maakten alleen lawaai en gingen dan weer uit elkaar, en de mensen keken blij, alsof het lawaai zelf het koekje was.
+Ik heb het geluid van klappen vaker gehoord. Bij het verjaardagsfeest van Sofie, op het dorpsplein, op de televisie. Ik heb het nooit begrepen, en ik begreep het die avond niet beter. Er werd niets uitgedeeld. Niemand kreeg een koekje. De handen maakten alleen lawaai en gingen dan weer uit elkaar, en de mensen keken blij, alsof het lawaai zelf het koekje was.
 
 Het water van het omgevallen glas trok langzaam in het tapijt. Ik likte er een beetje van op. Het smaakte naar tapijt.
 
@@ -116,7 +116,7 @@ Ik moet hier toegeven dat dit hoofdstuk geen goede wetenschap is. Mijn hypothese
 
 Maar ik heb die avond twee dingen geleerd die ik niet had kunnen leren als het experiment was gelukt.
 
-Het eerste is dat een proefpersoon kan terugkijken. Rik heeft me die avond bekeken zoals ik hem bekeek, en hij zag dingen die ik niet wist dat ik liet zien. Ik kijk naar wie wat eet. Ik kijk naar wie wat zegt. Ik heb het zelf nooit zo opgeschreven, en toch klopt het.
+Het eerste is dat een proefpersoon kan terugkijken. Rik heeft me die avond bekeken zoals ik hem bekeek, en hij zag dingen die ik niet wist dat ik liet zien. Ik heb het zelf nooit zo opgeschreven, en toch klopt het.
 
 Het tweede is dat de proefpersoon niet lachte. Hij stond op en zei een paar woorden, en hij zei ze rustig, en hij ging daarna weer zitten.
 

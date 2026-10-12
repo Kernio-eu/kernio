@@ -50,7 +50,7 @@ Waar het pad laag bij het water komt, stak een tak uit het ijs. Daar gooide ik v
 
 Bram heeft gevraagd of we deze zomer naar zee gaan. Daar liep ze achter het balletje de golven in, tot er alleen nog een kop boven het water was, met het balletje erin, en ze kwam terug met zout tot in haar oren. Ik heb gezegd dat ik het nog niet wist.
 
-Halverwege, waar het pad naar links buigt langs het ven, ben ik rechtdoor gegaan. Ik weet niet waarom. Er was geen reden.
+Halverwege, waar het pad naar links buigt langs het ven, ben ik rechtdoor gegaan. Er was geen reden.
 
 Tussen de dennen was de grond zacht van de naalden. Ze veerden onder mijn voeten. Waar de zon op de stammen kwam, rook het naar hars, zoet en een beetje scherp. Verderop, in een laagte aan de rand van het ven, niet ver van waar het pad naar het water afdaalt, was het zand nat en donker en rook het naar zand en naar ijzer.
 

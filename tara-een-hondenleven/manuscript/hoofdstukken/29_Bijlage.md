@@ -33,7 +33,7 @@ Hieronder volgt een overzicht van de wetten en dossiers die in dit verslag zijn 
 - **Dossier 81.** De kat. Status: de kat werkt niet mee. Eerste meting beantwoord met een mep op de neus van de onderzoeker. *Niet opgenomen.*
 - **Dossier 89.** De postbode. Status: reproduceerbaar gevaar. (hoofdstuk 16)
 - **Dossier 95.** Het bordje in het bos. Status: de proefpersoon kan het lezen en negeert het. De boswachter kan het lezen en wijst ernaar. (hoofdstuk 20)
-- **Dossier 98.** Het bad. Status: ontweken. Onderzoeker bevond zich bij elke poging tot meting onder het bed. *Niet opgenomen.*
+- **Dossier 98.** Het bad. Status: ontweken. Onderzoeker bevond zich bij elke poging tot meting onder de keukentafel. *Niet opgenomen.*
 - **Dossier 103.** De spiegel. Status: een tweede hond die nooit buiten komt. Zeer onbeleefd. (hoofdstuk 18)
 - **Dossier 110.** De neus. Status: meetinstrument defect. (hoofdstuk 25)
 

@@ -110,7 +110,7 @@ De jonge dierenarts legde een papier op een plankje naast het hok. Onderaan ston
 
 Ik bleef erbij, met mijn hand op haar kop, zoals op de tafel die ochtend. Het was stil, en daarna was het op een andere manier stil.
 
-Ik ben nog een tijd blijven staan. De jonge dierenarts ook. Ze zei niets, en ze ging niet weg. Daar ben ik haar dankbaar voor. Dat schrijf ik hier op omdat ik het haar niet gezegd heb.
+Ik ben nog een tijd blijven staan. De jonge dierenarts ook. Ze zei niets, en ze ging niet weg. Ik heb haar daar niet voor bedankt. Daarom schrijf ik het hier op.
 
 De verpleegster van die eerste ochtend bracht me haar halsband. Ze hadden hem afgedaan bij het binnenkomen. Het rood was dof geworden. Ik had dat nooit gezien. Ik heb hem in mijn jaszak gestoken, bij de bal.
 

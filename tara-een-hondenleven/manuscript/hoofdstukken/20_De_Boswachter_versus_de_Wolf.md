@@ -10,17 +10,17 @@ Waarom mag het ene dier in het bos alles en het andere niets?
 
 Wandeltype: dogtime, onderbroken, daarna opnieuw dogtime.
 
-Het begon met een geur die verdween. Jarenlang was de proefpersoon elke ochtend vertrokken in een wolk van aftershave en haast, en elke avond teruggekomen met de Ring in zijn kleren: diesel, warm rubber, koude koffie uit een plastic beker, en daaronder dat scherpe, metalige dat ik in mijn eerste jaar had leren lezen. Op een avond kwam hij thuis met een kartonnen doos en een geur van taart en van veel handen die de zijne hadden geschud. De volgende ochtend ging hij niet weg. De Ring zakte uit zijn jas zoals water uit een vacht, en op een dag rook de kapstok alleen nog naar hem.
+Het begon met een geur die verdween. Jarenlang was de proefpersoon elke ochtend vertrokken in een wolk van aftershave en haast, en elke avond teruggekomen met de Ring in zijn kleren: diesel, warm rubber, koude koffie uit een plastic beker, en daaronder dat scherpe dat ik in mijn eerste jaar had leren lezen. Op een avond kwam hij thuis met een kartonnen doos en een geur van taart en van veel handen die de zijne hadden geschud. De volgende ochtend ging hij niet weg. De Ring zakte uit zijn jas zoals water uit een vacht, en op een dag rook de kapstok alleen nog naar hem.
 
 Mieke noemde het zijn pensioen. Lode noemde het niks.
 
-Ik zong nog altijd. De pantoffel was intussen tot op de zool versleten, en Mieke had hem op een dag weggedaan zonder er iets over te zeggen; sindsdien lag de rode bal in de mand. Zodra zijn linkervoet de bovenste trede raakte, nam ik de bal in mijn bek en ging ik onderaan de trap staan, en het lied kwam vanzelf: hoog en golvend, om de bal heen, wat schorder dan vroeger, alsof er zand in de keel was gekomen. "Ja, ja," zei Lode. "Ik weet het. Gij hebt honger." Dan vulde hij de bak. De hypothese die ik als pup had opgesteld, bleef ongedeerd. Ze is nooit weerlegd.
+Ik zong nog altijd. De pantoffel was intussen tot op de zool versleten, en Mieke had hem op een dag weggedaan zonder er iets over te zeggen; sindsdien lag de rode bal in de mand, en zong ik met de bal, wat schorder dan vroeger. "Ja, ja," zei Lode. "Gij hebt honger." Dan vulde hij de bak.
 
 Wat wel veranderde: na het ontbijt reden we niet meer naar het grasveld achter de kerk, maar naar de heide.
 
-De heide begint waar het asfalt ophoudt en de wereld zacht wordt. Eerst is er een parking van zand, met plassen waarin de lucht lag, en een houten paal met een bordje erop. Dan zijn er de dennen. Onder de dennen ligt een vloer van naalden die verend meegeeft, zodat je bij elke stap een beetje hoger uitkomt dan je verwacht had, en die vloer ruikt naar hars, naar paddenstoelen en naar alles wat er de nacht voordien overheen is gelopen. Het licht valt er in schuine banen tussen de stammen, zoals vroeger in het kot, maar zonder stof en zonder melk. En achter de dennen ligt de heide zelf.
+De heide begint waar het asfalt ophoudt en de wereld zacht wordt. Eerst is er een parking van zand, met plassen waarin de lucht lag, en een houten paal met een bordje erop. Dan zijn er de dennen. Onder de dennen ligt een vloer van naalden die verend meegeeft en naar hars en paddenstoelen ruikt, en naar alles wat er de nacht voordien overheen is gelopen. Het licht valt er in schuine banen tussen de stammen, zoals vroeger in het kot, maar zonder stof en zonder melk. En achter de dennen ligt de heide zelf.
 
-Mensen zeggen dat de heide paars is. In de zomer zeggen ze het tegen elkaar met een stem die ze anders alleen voor baby's gebruiken. Voor mij was ze grijs, een golvend, lichtgrijs vlak tot aan de bomen aan de overkant, maar ze rook naar honing en naar stof, en ze zoemde. Tussen de struiken liepen zandpaadjes, wit en droog aan de bovenkant en koel als je groef, en verderop lag een ven dat naar ijzer en kikkers rook, met riet dat ritselde ook als er geen wind was. In het voorjaar bloeide de brem. De brem was geel. Dat was het enige op de heide dat ook voor mij een kleur had.
+Mensen zeggen dat de heide paars is. In de zomer zeggen ze het tegen elkaar met een stem die ze anders alleen voor baby's gebruiken. Voor mij was ze grijs, een golvend, lichtgrijs vlak tot aan de bomen aan de overkant, maar ze rook naar honing en naar stof, en ze zoemde. Tussen de struiken liepen zandpaadjes, wit en droog aan de bovenkant en koel als je groef, en verderop lag een ven dat naar ijzer en kikkers rook, met riet langs de oever. In het voorjaar bloeide de brem. De brem was geel. Dat was het enige op de heide dat ook voor mij een kleur had.
 
 Bij de houten paal bleef Lode elke keer staan. Hij keek naar het bordje. Dan keek hij naar mij, en dan naar de parking, die meestal leeg was.
 
@@ -36,7 +36,7 @@ Op de heide hurkte ik waar ik wilde. Lode keek dan naar de verte. Hij had een pl
 
 Op het grasveld in de straat, waar de kinderen van de buren voetbalden, was het anders. Daar ging hij door zijn knieën, die kraakten, en raapte hij op wat ik had achtergelaten, met het zakje omgekeerd over zijn hand. Ik noteerde dat niet als tegenstrijdigheid. Ik noteerde het als twee plaatsen.
 
-Het was weer voorjaar, de brem stond geel, toen ik aan de rand van een berkenbosje in het hoge gras iets rook dat stillag. Melk. Jonge vacht. Verder niets: geen angstspoor, geen beweging, geen pad ernaartoe of ervan weg, alsof het er niet was gekomen maar er gewoon begonnen was. Ik stond met één poot omhoog. Ik kende die geur van lang geleden. Lode stond twintig passen verder naar een buizerd te kijken. Hij floot. Ik zette mijn poot neer en ging naar hem toe. Ik heb hem niet gezegd wat er in het gras lag. Ik had er geen woord voor, en hij had er geen neus voor.
+Het was weer voorjaar, de brem stond geel, toen ik aan de rand van een berkenbosje in het hoge gras iets rook dat stillag. Melk. Jonge vacht. Verder niets: geen angstspoor, geen beweging, geen pad ernaartoe of ervan weg, alsof het er niet was gekomen maar er gewoon begonnen was. Ik stond met één poot omhoog. Lode stond twintig passen verder naar een buizerd te kijken. Hij floot. Ik zette mijn poot neer en ging naar hem toe. Ik heb hem niet gezegd wat er in het gras lag. Ik had er geen woord voor, en hij had er geen neus voor.
 
 Iets verder, waar het pad naar het ven afdaalt, lag het spoor.
 
@@ -80,7 +80,7 @@ Lode keek naar mij alsof hij erover moest nadenken. "Ja."
 
 "Ze stond daarnet aan het ven, meneer. Dat is geen naast u."
 
-Onder Lodes koffie begon het, heel licht, het metalige. Ik had het in maanden niet geroken.
+Onder Lodes koffie kwam er iets droogs en heets bij, zoals een motor die te lang heeft gedraaid. Ik had het in maanden niet geroken.
 
 "Een hond moet kunnen lopen," zei hij. "Die mannen die dat beslissen, op hun bureau, die hebben nog nooit een hond gehad. Dat zijn hondenhaters, dat zijn dat."
 
@@ -94,13 +94,13 @@ Het was even stil. Een kikker in het ven zei iets, en niemand antwoordde.
 
 "De wolf heeft geen baas die ik kan aanspreken, meneer. Mag ik uw identiteitskaart eens zien?"
 
-Lode zocht in zijn jaszakken. Hij vond zijn sleutels, het lege zakje, een koekje dat voor mij bedoeld was, en ten slotte zijn portefeuille, in de binnenzak waar hij altijd zat. De boswachter nam het kaartje aan en schreef in een klein boekje met een harde kaft. Hij schreef traag. De pen kraste. Lode spelde zijn naam, en dan nog eens, omdat de man het vroeg.
+Lode zocht in zijn jaszakken. Hij vond zijn sleutels, het lege zakje, een koekje dat voor mij bedoeld was, en ten slotte zijn portefeuille, in de binnenzak waar hij altijd zat. De boswachter schreef traag in een klein boekje met een harde kaft. De pen kraste. Lode spelde zijn naam, en dan nog eens, omdat de man het vroeg.
 
 Toen deed de boswachter iets wat ik niet verwacht had. Hij gaf het kaartje terug, ging op zijn hurken zitten, keek een beetje langs mij heen naar het riet, en hield zijn hand laag, met de rug naar boven. Hij wachtte.
 
 Ik ging ruiken. Twee honden, een oude en een jonge. Koffie. Het grote dier. Een man die niet bang was en niet boos, alleen moe van het lopen achter dingen die niet van hem waren.
 
-Lode zag het. Hij zei niets.
+Lode zag het. Hij liet het zo.
 
 "Zet ze maar aan de lijn, meneer," zei de boswachter, terwijl hij rechtkwam. "En nog een goeie dag."
 
@@ -114,15 +114,15 @@ Lode zag het. Hij zei niets.
 
 Wandeltype: meewandelen.
 
-De klik, in de andere richting. De lijn kort. Lodes been naast mijn schouder. Zijn stappen groot en snel. Het zand hard onder het pad. Geen ven meer. Geen konijn. Alleen zijn adem en het metalige.
+De klik, in de andere richting. De lijn kort. Lodes been naast mijn schouder. Zijn stappen groot en snel. Het zand hard onder het pad. Geen ven meer. Geen konijn. Alleen zijn adem, en het zweet van zijn handpalm dat in het leer van de lijn trok.
 
 "Hondenhaters," zei hij. "Allemaal."
 
 Ik liep naast zijn knie.
 
-"Een hond moet rennen. Dat weet iedereen die ooit een hond gehad heeft." Hij trok niet aan de lijn. Hij trok al jaren niet meer aan de lijn. Hij hield ze alleen vast, harder dan nodig. "De wolf mag hier alles."
+"Een hond moet rennen. Dat weet iedereen die ooit een hond gehad heeft." Hij trok niet aan de lijn. Hij hield ze alleen vast, harder dan nodig. "De wolf mag hier alles."
 
-Ik dacht aan het spoor in het zand, en aan het bordje, en aan de man met de twee honden op zijn broekspijpen, die het grote dier al een heel eind had gevolgd zonder lijn in zijn hand. Ik zocht naar een conclusie en vond er één. Ze was niet volledig, maar ze paste op alles wat ik die ochtend gemeten had.
+Ik dacht aan het spoor in het zand, en aan het bordje, en aan de man met de twee honden op zijn broekspijpen, die het grote dier al een heel eind had gevolgd zonder lijn in zijn hand. Ik zocht naar een conclusie. Ze was niet volledig, maar ze paste op alles wat ik die ochtend gemeten had.
 
 Ze beschermen wat ze vrezen en houden vast wat ze liefhebben.
 
@@ -138,7 +138,7 @@ De klik. Lode rolde de lijn op en stak ze in zijn zak, bij het lege zakje.
 
 De brief kwam toen de brem al uitgebloeid was en er boven het ven muggen hingen in de avond. Mensen zeiden later drie weken. Weken zijn een menselijke eenheid.
 
-Het was een witte envelop. Hij rook naar printerinkt, naar een machine die papier vouwt, naar de handen van de postbode van toen en naar verder niemand. Geen bekende mens. Lode raapte hem op van de deurmat, waar alle geuren eerst landen, en las hem in de gang, nog met zijn schoenen aan.
+Het was een witte envelop. Hij rook naar printerinkt, naar een machine die papier vouwt, naar de handen van de postbode van toen en naar verder niemand. Lode raapte hem op van de deurmat, waar alle geuren eerst landen, en las hem in de gang, nog met zijn schoenen aan.
 
 Daarna rook hij naar de Ring.
 
@@ -162,7 +162,7 @@ Dan nam hij de balpen en vulde het in.
 
 De drie bladzijden lagen nog een tijd op de kast. Later lagen ze in de lade, onder de garantiebewijzen. Ik heb ze er nooit meer uit zien komen.
 
-Deze gebeurtenis staat niet in mijn lijst van fouten van de proefpersoon. Ik heb mijn kop op zijn knie gelegd, zoals op de avonden van de Ring, en hij heeft zijn hand erop gelegd, en het metalige is er langzaam uit gegaan.
+Deze gebeurtenis staat niet in mijn lijst van fouten van de proefpersoon. Ik heb mijn kop op zijn knie gelegd, zoals op de avonden van de Ring, en hij heeft zijn hand erop gelegd, en de Ring is er langzaam uit gegaan, tot hij weer naar koffie rook.
 
 De volgende ochtend zong ik, met de bal. Hij vulde de bak. We reden naar de heide. Aan de houten paal klikte hij de lijn aan, zonder iets te zeggen, en we liepen samen het pad op, door de dennen, tot aan de bocht.
 

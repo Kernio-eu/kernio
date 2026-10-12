@@ -18,7 +18,7 @@ Hij kwam van de bank bij het water, waar hij brood aan de eenden had gegeven, en
 
 "Och," zei hij, "wat ne schone."
 
-Hij kwam recht op mij af. Recht, niet in een boog. Hij stopte pas toen zijn schoenen bijna tegen mijn voorpoten stonden, en toen boog hij zich voorover, helemaal, met zijn bovenlijf over mij heen, zodat zijn schaduw over mijn rug viel en de geur van sigaren van boven op mij neerkwam als regen. Hij bracht zijn gezicht tot vlak boven mijn kop. Hij keek mij recht in de ogen. Hij keek en hij bleef kijken. Zijn hand kwam van boven, langzaam, met de palm naar beneden, naar mijn kop.
+Hij kwam recht op mij af. Recht, niet in een boog. Hij stopte pas toen zijn schoenen bijna tegen mijn voorpoten stonden, en toen boog hij zich voorover, helemaal, met zijn bovenlijf over mij heen, zodat zijn schaduw over mijn rug viel en de geur van sigaren van boven op mij neerkwam als regen. Hij bracht zijn gezicht tot vlak boven mijn kop, keek mij recht in de ogen en bleef kijken. Zijn hand kwam van boven, langzaam, met de palm naar beneden, naar mijn kop.
 
 Ik ben een Labrador. Ik bijt niet. Ik heb nog nooit naar een mens gegromd. Maar alles in mij wist wat dit was. Zo komt een hond op je af die je wil vertellen dat jij kleiner bent.
 
@@ -72,8 +72,6 @@ Lode zei niets. Hij keek ook naar de eenden.
 
 De man knikte, alsof hij wist wat dat betekende. Hij kwam overeind met een hand op zijn knie en een geluid in zijn keel. Toen hij wegging, keek hij nog één keer om, maar niet naar Lode. Naar mij. Kort. Hij keek meteen weer weg.
 
-Hij had het onthouden.
-
 Op de terugweg liep Lode sneller dan anders, met de lijn zo los dat hij in een boog tussen ons hing. Bij de auto stond hij een tijdje met de sleutel in zijn hand en deed hij de deur niet open. Hij keek naar het kasteel.
 
 "Vroeger had ik die mens gelijk gegeven," zei hij. Tegen niemand.
@@ -82,11 +80,11 @@ Daarna opende hij de achterklep. Ik sprong erin, op het dekentje. Het rook naar 
 
 ### Resultaat
 
-De mens kan deze taal leren. Eén mens kan het tenminste. Hij heeft het geleerd zonder dat iemand het hem uitlegde, in een paar jaar, van kijken. En hij kan het doorgeven, aan een andere mens, in één middag bij een vijver.
+De mens kan deze taal leren. Eén mens tenminste, zonder dat iemand het hem uitlegde, in een paar jaar, van kijken. En hij kan het doorgeven, in één middag bij een vijver.
 
 Ik heb daarna verder onderzoek gedaan naar het gapen, omdat het mij sindsdien bezighoudt dat een geeuw twee dingen kan betekenen.
 
-Het tweede experiment liep over een hele winter, 's avonds, bij de houtkachel. Het hout tikte. De zonnerechthoek was al lang van het tapijt verdwenen, en de enige warmte kwam van de kachel aan mijn ene kant en van de pantoffel onder mijn kin. Lode zat in zijn zetel met zijn tablet. Mieke zat tegenover hem met een stapel schriften die naar potlood en kinderhanden roken.
+Het tweede experiment liep over een hele winter, 's avonds, bij de houtkachel. Het hout tikte. De enige warmte kwam van de kachel aan mijn ene kant en van de pantoffel onder mijn kin. Lode zat in zijn zetel met zijn tablet. Mieke zat tegenover hem met een stapel schriften die naar potlood en kinderhanden roken.
 
 Lode geeuwde. Een lange, een met geluid.
 
@@ -94,11 +92,11 @@ Ik geeuwde.
 
 Ik had niet besloten om te geeuwen. Het gebeurde in mijn kaken, van achteren naar voren, zoals een niesbui gebeurt in je neus. Ik keek op. Lode keek naar mij.
 
-"Hebt gij dat gezien?" zei hij tegen Mieke. "Ze doet mij na."
+"Hebt ge dat gezien?" zei hij tegen Mieke. "Ze doet mij na."
 
 "Ze is moe," zei Mieke, zonder op te kijken.
 
-Ik ben toen beginnen te tellen. Lode geeuwt 's avonds gemiddeld vier keer voor hij de trap op gaat, en bij drie daarvan geeuw ik mee. Mieke geeuwt minder, maar bij haar geeuw ik ook. Bram geeuwt op kinderdag na het eten, als hij op de bank met zijn duim in zijn mond ligt en zijn ogen half dichtvallen, en dan geeuw ik ook, al moet ik dan mijn kop optillen om het te zien.
+Ik ben toen beginnen te tellen. Lode geeuwt 's avonds gemiddeld vier keer voor hij de trap op gaat, en bij drie daarvan geeuw ik mee. Mieke geeuwt minder, maar bij haar geeuw ik ook. Bram geeuwt op kinderdag na het eten, als hij op de bank met zijn duim in zijn mond ligt en zijn ogen half dichtvallen, en dan geeuw ik ook.
 
 De postbode geeuwde een keer voor de deur. Ik zag hem door het glas. Ik geeuwde niet.
 
@@ -106,7 +104,7 @@ De man van het brood geeuwde een keer aan de bushalte. Ik geeuwde niet.
 
 Op een feest, toen de tuin vol mensen stond die naar bier en zonnecrème roken, geeuwde een vrouw recht voor mij, met haar hand voor haar mond en haar ogen dicht. Ik keek naar haar. Ik geeuwde niet. Ik ging naar binnen en lag een tijd bij Lodes voeten, en toen hij geeuwde, geeuwde ik mee.
 
-Mira geeuwt ook. Ze doet het op de vensterbank, met haar bek wijd open en alle tanden zichtbaar en haar tong in een krul, en daarna kijkt ze naar buiten alsof het niet gebeurd is. Ik geeuw dan niet. Mira heeft ook nog nooit meegegeeuwd met mij. Ik heb het meermaals getest, liggend bij de vensterbank, zo opvallend als ik kan. Zij kijkt naar buiten.
+Mira geeuwt ook. Ze doet het op de vensterbank, met haar bek wijd open en alle tanden zichtbaar en haar tong in een krul, en daarna kijkt ze naar buiten alsof het niet gebeurd is. Ik geeuw dan niet. Mira heeft ook nog nooit meegegeeuwd met mij. Ik heb het meermaals getest, liggend bij de vensterbank. Zij kijkt naar buiten.
 
 Ook de proefpersoon heeft in die winter een experiment gedaan. Ik vermeld het omdat het, anders dan dat met de pantoffel, mislukte.
 
@@ -132,7 +130,7 @@ Er zijn twee soorten geeuwen. De eerste soort is een woord. Die gebruik ik bij v
 
 De tweede soort is geen woord. Die gebeurt mij. Die komt alleen als een van mijn eigen mensen geeuwt, en dan komt hij van binnen, zonder vragen.
 
-Ik kan ze van binnen niet uit elkaar houden. Ze voelen hetzelfde in mijn kaken. Het verschil zit alleen in wie er tegenover mij zit.
+Van binnen voelen ze hetzelfde in mijn kaken. Het verschil zit alleen in wie er tegenover mij zit.
 
 Toen de man in het park "Is ze moe?" vroeg, had hij voor de helft gelijk. Ik geeuwde. Hij had alleen de verkeerde soort gezien. En Lode, die van mij de andere soort al duizend keer gezien heeft, wist precies welke het was.
 

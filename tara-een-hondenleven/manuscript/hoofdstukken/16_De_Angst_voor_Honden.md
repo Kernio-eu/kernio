@@ -8,13 +8,13 @@ Waarom bepaalt de angst van één mens hoe alle honden moeten lopen?
 
 Wandeltype: dogtime, afgebroken tot meewandelen.
 
-Het was het einde van de zomer, die tijd van het jaar waarin het zand op de wegen achter het dorp 's ochtends nog koel is en tegen de middag al zo warm dat het tussen je kussentjes kruipt en daar blijft zitten tot je thuis op de tegels van de keuken gaat liggen. De varens langs de zandweg begonnen bruin te worden aan de randen. Ze roken naar papier dat te lang in de zon heeft gelegen. Daarachter stonden de dennen, en de dennen roken naar wat ze altijd ruiken: hars, en de naalden van vorig jaar, en ergens diep onder die naalden een muis die dacht dat niemand het wist.
+Het was het einde van de zomer, die tijd van het jaar waarin het zand op de wegen achter het dorp 's ochtends nog koel is en tegen de middag al zo warm dat het tussen je kussentjes kruipt. De varens langs de zandweg begonnen bruin te worden aan de randen. Ze roken naar papier dat te lang in de zon heeft gelegen. Daarachter stonden de dennen, en de dennen roken naar wat ze altijd ruiken: hars, en de naalden van vorig jaar, en ergens diep onder die naalden een muis die dacht dat niemand het wist.
 
 Lode had de lijn losgemaakt bij de slagboom, zoals altijd, en hij had gezegd wat hij altijd zei.
 
 "Allez. Dogtime."
 
-Ik ging. Ik ging eerst naar de paal van de slagboom, waar de herder van de hoeve aan de overkant zijn mening had achtergelaten, en daarna naar de greppel, waar een egel 's nachts langs was gekomen en waar ik even moest blijven staan omdat een egel altijd meer te vertellen heeft dan je verwacht, over regenwormen en over de kruipruimte onder een tuinhuis en over iets zuurs dat ik nooit thuis heb kunnen brengen, en van de greppel ging ik naar een plukje gras waar een reebok met zijn kop tegen had geschuurd, en ik dacht aan de reebok, en aan de vorige keer dat ik hem bijna gezien had, en aan het geluid dat zijn poten hadden gemaakt in de varens, en toen rook ik de bocht.
+Ik ging. Ik ging eerst naar de paal van de slagboom, waar de herder van de hoeve aan de overkant zijn mening had achtergelaten, en daarna naar de greppel, waar een egel 's nachts langs was gekomen en waar ik even moest blijven staan omdat een egel altijd meer te vertellen heeft dan je verwacht, over regenwormen en over de kruipruimte onder een tuinhuis en over iets zuurs dat ik nooit thuis heb kunnen brengen, en van de greppel ging ik naar een plukje gras waar een reebok met zijn kop tegen had geschuurd, en ik dacht aan de reebok en aan het geluid dat zijn poten in de varens hadden gemaakt, en toen rook ik de bocht.
 
 Een bocht ruikt niet, zult u zeggen. Dat is waar. Maar wat achter de bocht komt, komt eerst door de bocht heen, en wat er die ochtend door de bocht kwam, was een mens. Hij rook naar zeep van een ander huis, naar koffie met veel suiker, en naar een plastic zak met brood erin. Vers brood. Het korstje was nog warm geweest toen hij het kocht. Ik weet niet meer of ik toen nog aan de reebok dacht.
 
@@ -30,7 +30,7 @@ Ik bleef staan. Ik keek naar het brood. Ik keek naar de bocht. Ik weet niet of u
 
 Lodes stem kwam van achter mij, en ze was niet boos. Ze was laag en snel. Ik ging. Het brood bleef liggen. Ik noteer dat hier omdat niemand het later heeft vermeld.
 
-Lode klikte de lijn aan mijn halsband. Hij nam hem niet met de lus zoals bij gewoon meewandelen, maar halverwege, zodat er nog maar een armlengte lijn tussen ons hing, en hij legde zijn andere hand op mijn rug. Zijn geur was scherp geworden en metalig, de geur van de Ring na een slechte dag. Maar hij keek niet naar mij. Hij keek naar de bocht.
+Lode klikte de lijn aan mijn halsband. Hij nam hem niet met de lus zoals bij gewoon meewandelen, maar halverwege, zodat er nog maar een armlengte lijn tussen ons hing, en hij legde zijn andere hand op mijn rug. Zijn geur was scherp geworden, de geur van de Ring na een slechte dag. Maar hij keek niet naar mij. Hij keek naar de bocht.
 
 "Ze doet niks!" riep hij. "Meneer! Ze doet niks!"
 
@@ -56,7 +56,7 @@ Het asfalt was al warm. Lode zei niets tot aan de kerk. Bij de kerk zei hij: "Am
 
 Mijn eerste hypothese was dat de man bang was van het brood, en dat hij het had laten vallen om van het brood af te zijn. Ik vermeld deze hypothese uit volledigheid. Ze heeft niet lang standgehouden.
 
-Mijn tweede hypothese was beter. De man had iets gezien wat ik niet zag. Hij had naar mij gekeken, en wat hij gezien had, was niet ik. Want ik had gekwispeld, en mijn oren lagen naar achteren, en ik had mijn bek in de vriendelijkste vorm gezet die er bestaat. Een hond die mij zo zag komen, had mijn achterkant al geroken. Hij zag dus iets anders, iets dat lang voor mij om een bocht was gekomen, en dat zat er nog in.
+Mijn tweede hypothese was beter. De man had naar mij gekeken, en wat hij gezien had, was niet ik. Een hond die mij zo zag komen, had mijn achterkant al geroken. De man zag iets anders, iets dat lang voor mij om een bocht was gekomen, en dat zat er nog in.
 
 Ruiken is niet weten. Ik rook dat hij bang was. Ik rook niet waarom.
 
@@ -74,7 +74,7 @@ Toen ik daarna naar mijn mand ging, lag Mira erin.
 
 Ze lag in het midden, opgerold, met haar kin op mijn pantoffel. De mand rook naar mij, naar het vilt en naar de warmte van de hele middag, en daarbovenop, als een deken over een deken, naar stof en sardines. Ze deed één oog open toen ik aan de rand stond. Daarna deed ze het weer dicht.
 
-Ik heb haar niet weggeduwd. Dat heb ik in al die jaren nooit gedaan. Ik ging op de tegels voor de kachel liggen, op een poot afstand van de mand, met mijn kop zo dat ik de pantoffel kon zien. De tegels waren koel, want de kachel brandde in die tijd van het jaar nog niet, en ze roken naar de zeep waarmee Mieke 's morgens had gedweild.
+Ik heb haar niet weggeduwd. Ik ging op de tegels voor de kachel liggen, op een poot afstand van de mand, met mijn kop zo dat ik de pantoffel kon zien. De tegels waren koel en roken naar de zeep waarmee Mieke had gedweild.
 
 "Ge laat u doen door een kat van vier kilo," zei Lode vanuit de zetel.
 
@@ -90,7 +90,7 @@ Ik heb ze geteld. Lode maakte de lijn niet meer los bij de slagboom. Hij liep de
 
 De lijn is een vreemd instrument. Het ene uiteinde zit aan mij, het andere aan Lode, en wat er aan het ene uiteinde gebeurt, komt aan het andere toe voor het een woord heeft. Ik voelde in die zeventien wandelingen de angst van een man die ik één keer had geroken, door Lodes hand, door het leer, tot in mijn halsband. Lode was niet bang van mij. Lode was bang van die man zijn angst. En ik liep aan de korte lijn, en de herder van de hoeve liep los op zijn erf, en de reebok liep waar hij wou. Het is mij nooit duidelijk geworden waarom dat zo verdeeld was.
 
-Ik ontwierp intussen een experiment van mijn eigen. Want ik had de man opnieuw geroken. Hij woonde niet ver. Zijn zeep en zijn suikerkoffie kwamen soms langs de lantaarnpaal bij de bushalte, en één keer op de deurmat van de bakker, waar alle geuren van het dorp elkaar ontmoeten en waar je met wat geduld kunt aflezen wie al brood heeft gehaald.
+Ik ontwierp intussen een experiment van mijn eigen. Want ik had de man opnieuw geroken. Hij woonde niet ver. Zijn zeep en zijn suikerkoffie kwamen soms langs de lantaarnpaal bij de bushalte, en één keer op de deurmat van de bakker, waar alle geuren van het dorp elkaar ontmoeten.
 
 De achttiende wandeling was een gewone meewandeling door het dorp, naar de bakker. En voor de bakker, op het voetpad, stond hij. Met een zak. Hij zag ons. Zijn geur ging omhoog als de vorige keer, en Lode zijn hand trok de lijn in, en zo stonden we daar: drie geuren die elkaar aankeken.
 
@@ -102,7 +102,7 @@ Lode keek naar mij. Ik voelde het aan de lijn, die even helemaal slap hing.
 
 "Gaat ge maar, meneer," zei Lode. "Ze blijft liggen."
 
-De man ging. Hij ging met zijn rug tegen de etalage van de bakker, zo ver van mij als het voetpad toeliet, en zijn jas schuurde over het glas. Ik keek naar de plek van de duif. Toen hij voorbij was, rook ik dat zijn geur iets was gezakt. Niet veel. Een beetje. Zoals water in een emmer waar je één kopje uit schept.
+De man ging. Hij ging met zijn rug tegen de etalage van de bakker, zo ver van mij als het voetpad toeliet, en zijn jas schuurde over het glas. Ik keek naar de plek van de duif. Toen hij voorbij was, rook ik dat zijn geur iets was gezakt. Niet veel. Zoals water in een emmer waar je één kopje uit schept.
 
 De drieëntwintigste wandeling: hetzelfde voetpad. Ik ging liggen voor hij er was. Hij liep weer langs de etalage, maar zijn jas raakte het glas niet meer.
 
@@ -118,7 +118,7 @@ De eenendertigste wandeling: hij bleef op twee lengtes van mij staan. Hij keek n
 
 "Ik heb niks tegen honden," zei de man. Hij keek naar de duif die ik aankeek. "Ik heb er alleen nooit één gekend."
 
-Ruiken is niet weten. Maar het was de eerste zin van hem die niet naar de wachtkamer rook.
+Het was de eerste zin van hem die niet naar de wachtkamer rook.
 
 ### Resultaat
 
@@ -126,13 +126,13 @@ De man rent niet meer. Hij loopt nog altijd langs de etalage, en zijn geur stijg
 
 Lode heeft de lijn op de zandweg weer losgemaakt. Het duurde een seizoen. De varens waren intussen helemaal bruin geworden en daarna plat, en er lag ijs in de karresporen, en op een ochtend klikte hij bij de slagboom de lijn los en zei: "Allez." Hij zei niet: "Dogtime." Dat zei hij pas de keer daarna.
 
-Sindsdien kijkt hij om elke bocht voor ik er ben. Dat deed hij vroeger niet. Hij roept mij ook terug voor de bocht, en dan gaan we er samen om, en pas als de weg erachter alleen naar dennen ruikt, mag ik verder. Ik heb dit niet aangeleerd gekregen met woorden. Ik heb het aangeleerd gekregen met een armlengte lijn.
+Sindsdien kijkt hij om elke bocht voor ik er ben. Dat deed hij vroeger niet. Hij roept mij ook terug voor de bocht, en dan gaan we er samen om, en pas als de weg erachter alleen naar dennen ruikt, mag ik verder. Ik heb dat niet met woorden geleerd, maar met een armlengte lijn.
 
 ### Conclusie
 
-De angst van één mens is groter dan één mens. Hij gaat over in de hand die de lijn vasthoudt, en van de hand in het leer, en van het leer in de hond, en van die hond in de hond die achter haar komt. Ik begrijp dat niet helemaal. Ik ben de vriendelijkste vorm die mijn gezicht kan aannemen, en toch was ik voor iemand die ochtend het ergste wat er om een bocht kan komen.
+De angst van één mens is groter dan één mens. Hij gaat over in de hand die de lijn vasthoudt, en van de hand in de hond, en van die hond in de hond die achter haar komt. Ik had de vriendelijkste vorm aangenomen die mijn gezicht kent, en toch was ik voor iemand die ochtend het ergste wat er om een bocht kan komen.
 
-Ik kan een angst niet wegruiken. Ik heb het geprobeerd. Wat ik wel kan, is liggen. Plat, op warme stenen, met mijn ogen op de plek waar een duif heeft gezeten. Een angst die je ruimte geeft, wordt niet kleiner. Maar hij leert dat hij niet hoeft te rennen.
+Ik kan een angst niet wegruiken. Ik heb het geprobeerd. Wat ik wel kan, is liggen. Een angst die je ruimte geeft, wordt niet kleiner. Maar hij leert dat hij niet hoeft te rennen.
 
 De ochtend na de eenendertigste wandeling zong ik bij het ontbijt met de pantoffel in mijn bek, zoals altijd. Lode bleef op de onderste trede staan en luisterde tot het eind. Dat doet hij niet altijd. Ik noteer het zonder interpretatie.
 

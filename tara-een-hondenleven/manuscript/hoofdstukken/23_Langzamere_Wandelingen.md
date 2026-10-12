@@ -12,7 +12,7 @@ Mieke zei dat mijn snuit wit werd. Ik heb dat niet zelf kunnen vaststellen. Wit 
 
 De ochtenden werden stijf. Ik werd wakker in mijn mand naast de houtkachel, met mijn kin op de rode bal, en mijn achterpoten waren de eersten die niet wakker werden. Ik moest ze overtuigen. Eerst de voorpoten strekken, dan de rug rond maken, dan een ogenblik wachten, en dan pas, als de rest van het lijf erover had nagedacht, opstaan. Vroeger stond ik in één beweging. Ik herinner me die beweging nog, zoals je een geur herinnert van een plek waar je niet meer komt.
 
-Het lied ging niet verloren. Het kwam alleen eerder dan mijn benen. Zodra zijn linkervoet de bovenste trede raakte, had ik de bal al in mijn bek, en het gejodel begon nog terwijl ik lag, schor en golvend, en ik kwam overeind tijdens het zingen, zodat het lied een beetje meeging met het opstaan, hoger op het einde. Lode zei dat het klonk als een oude deur. Hij zei het met een stem waarin geen klacht zat. Daarna vulde hij de bak.
+Het lied ging niet verloren. Het kwam alleen eerder dan mijn benen: ik begon nog liggend, met de bal in mijn bek, en kwam overeind tijdens het zingen. Lode zei dat het klonk als een oude deur, met een stem waarin geen klacht zat.
 
 De trap was een berg geworden. Ik heb hem in mijn notities zo genoteerd, als landschap, omdat hij zich zo gedroeg. Veertien treden, en elk een beetje hoger dan in de jaren daarvoor. Ik ging hem niet vaak meer op. Maar soms, als Lode boven langer bleef dan zijn geur beloofde, ging ik toch, met de bal, om hem te halen, en op een ochtend bleef ik halverwege staan, op de zevende trede, die piept. Mijn achterpoten wilden niet verder. Mijn voorpoten stonden al op de achtste. Ik keek naar boven, naar hoeveel er nog kwamen. Ik stond daar, met de bal, half boven en half beneden, en ik wist niet hoe ik terug moest.
 
@@ -32,7 +32,7 @@ Wat ook veranderde, was de klik.
 
 Hij klikte de lijn los, zoals altijd, aan de paal. "Allez. Dogtime." En ik bleef naast hem lopen. Niet omdat het moest. Omdat zijn been daar was en mijn heup ook, en omdat het pad van de parking tot aan de bocht er vroeger in drie sprongen was geweest en nu in veertig stappen, en die veertig stappen waren de zijne en de mijne tegelijk.
 
-Hij liep trager. Of ik liep trager en hij paste zich aan. Ik heb dat nooit kunnen vaststellen. Als ik bleef staan om te ruiken, bleef hij staan. Als hij bleef staan om naar een buizerd te kijken, bleef ik staan. Hij had de lijn soms nog aan, als er mensen waren, maar ze hing dan in een grote boog tussen zijn hand en mijn halsband, slap, en raakte bijna het zand. Het maakte geen verschil meer.
+Hij liep trager. Of ik liep trager en hij paste zich aan. Ik heb dat nooit kunnen vaststellen. Als ik bleef staan om te ruiken, bleef hij staan. Als hij bleef staan om naar een buizerd te kijken, bleef ik staan. Hij had de lijn soms nog aan, als er mensen waren, maar ze hing dan in een grote boog tussen zijn hand en mijn halsband, slap, en raakte bijna het zand.
 
 Op een ochtend kwam de boswachter ons tegemoet. Dezelfde man, nog altijd met twee honden op zijn broekspijpen, al rook ik nu dat de oude er niet meer bij was. Er was een nieuwe, een heel jonge. Lode had de lijn aan, die keer. Ze hing in haar boog.
 
@@ -54,7 +54,7 @@ Mijn hypothese was dat het verschil er nog was, maar dat mijn meetinstrumenten h
 
 Om de hypothese te toetsen, heb ik op een middag in de late herfst een eigen route gekozen. Ik ging van het pad af, zoals vroeger, de heide in, tussen de struiken, die bruin waren en nat en naar honing rook die er niet meer was. Ik ging naar het ven. Ik ging naar de plek waar ik ooit het grote spoor had gevonden. Ik ging door het zand, met mijn neus omlaag, en las wat er die nacht was gebeurd: een ree, twee konijnen, een man met een fiets, en verder niets wat ik niet kende.
 
-Lode volgde. Hij volgde mij niet zoals een baas die zijn hond terug moet halen. Hij liep gewoon mee, op mijn tempo, van het pad af, zijn schoenen in het natte zand. Hij keek naar de grond, waar ik naar keek. Een keer bleef hij staan bij een plek waar ik ook was blijven staan, en ik zag dat zijn neus bewoog. Dat had ik hem nooit eerder zien doen. Ik heb het genoteerd met een vraagteken.
+Lode volgde. Hij liep gewoon mee, op mijn tempo, van het pad af, zijn schoenen in het natte zand. Hij keek naar de grond, waar ik naar keek. Een keer bleef hij staan bij een plek waar ik ook was blijven staan, en ik zag dat zijn neus bewoog. Dat had ik hem nooit eerder zien doen. Ik heb het genoteerd met een vraagteken.
 
 Op de terugweg liep ik naast zijn been, en hij liep op mijn tempo, zonder lijn.
 
@@ -66,7 +66,7 @@ Lode zei het woord niet meer. Ik weet niet wanneer hij ermee opgehouden was. Ik 
 
 Er waren ook andere metingen die niet meer klopten.
 
-De geur-klok, die ik in mijn eerste jaren had leren lezen en in mijn volwassen jaren tot op een sprong nauwkeurig kon gebruiken, begon te haperen. In de gang landt elke geur eerst op de deurmat, en ze verbleekt daar in een vast ritme, zodat ik vroeger aan de dunte van Miekes handcrème kon voelen wanneer haar auto in de straat zou komen. Nu stond ik soms te vroeg aan de deur. Ik lag er dan lang, met mijn neus tegen de kier, en er kwam niemand, en Lode zei vanuit de keuken: "Ze is naar de markt, Tara. Dat duurt nog." Op andere dagen stond ik te laat op. Dan was Mieke al binnen en stond ze in de gang haar jas uit te doen, en kwam ik pas aangelopen als ze al op weg was naar de keuken, en dan keek ze naar mij met een gezicht dat ik niet kon lezen, en ging ze op haar hurken zitten.
+De geur-klok, die ik in mijn eerste jaren had leren lezen en in mijn volwassen jaren tot op een sprong nauwkeurig kon gebruiken, begon te haperen. In de gang landt elke geur eerst op de deurmat, en ze verbleekt daar in een vast ritme, zodat ik vroeger aan de dunte van Miekes handcrème kon voelen wanneer haar auto in de straat zou komen. Nu stond ik soms te vroeg aan de deur. Ik lag er dan lang, met mijn neus tegen de kier, en er kwam niemand, en Lode zei vanuit de keuken: "Ze is naar de markt, Tara. Dat duurt nog." Op andere dagen stond ik te laat op. Dan stond Mieke al in de gang haar jas uit te doen voor ik er was, en dan keek ze naar mij met een gezicht dat ik niet kon lezen, en ging ze op haar hurken zitten.
 
 Eén keer lag ik aan de verkeerde kant van de deur. Niet aan de kant waar hij opengaat, maar aan de andere kant, waar de scharnieren zitten. Ik lag daar met mijn neus tegen het hout en wachtte, en toen Lode thuiskwam, ging de deur open en raakte mij niet, en hij stapte binnen en zag mij daar liggen, met mijn neus naar de muur.
 
@@ -74,9 +74,9 @@ Eén keer lag ik aan de verkeerde kant van de deur. Niet aan de kant waar hij op
 
 Mira zat boven op de kast. Ze keek naar mij, dan naar de deur, dan weer naar mij, en ging liggen.
 
-Ik begreep het zelf niet. Ik heb er lang over nagedacht, en ik begrijp het nog altijd niet. De deur was dezelfde deur als altijd.
+Ik begrijp het nog altijd niet. De deur was dezelfde deur als altijd.
 
-En er was het park achter Sofies huis, langs de Nete, met de populieren die ritselen zonder wind. Daar had ik, op een zomerdag jaren eerder, onder alle namen van alle honden van Herentals, aan de voet van de derde struik het spoor van mijn zusje gevonden. Ze rook naar hooi, en onder het hooi naar melk. Ik was toen lang blijven staan, en Lode had gefloten, twee keer, niet harder.
+En er was het park achter Sofies huis, langs de Nete, waar ik jaren eerder aan de voet van de derde struik het spoor van mijn zusje had gevonden: hooi, en onder het hooi melk.
 
 Ik ging ernaartoe, die herfst, toen we bij Sofie waren. De populieren waren er nog, en de rij struiken. Ik telde ze met mijn neus tot aan de derde, en snuffelde aan de voet, aan de kant van het water en aan de andere kant. Er waren honden geweest. Veel honden. Een teckel, een bange herder, iets met lange oren. Geen hooi.
 
@@ -85,8 +85,6 @@ Ik bleef staan. Langer dan anders. Lode stond naast mij met de lijn in zijn hand
 ### Conclusie
 
 De hypothese is niet bevestigd. Het verschil tussen meewandelen en dogtime is niet onzichtbaar geworden voor mijn instrumenten. Het is gewoon weg. Er is nu één soort wandelen, met twee oude lijven op dezelfde snelheid, en het heeft geen naam. Lode heeft er ook geen voor bedacht.
-
-Dat het grootste deel van een leven in twee soorten kan bestaan, en dat die twee soorten op het einde vanzelf samenvallen zonder dat iemand het beslist, is een bevinding die ik niet had verwacht. Ik noteer ze zonder commentaar.
 
 's Avonds nam ik de rode bal mee naar de mand. Hij was niet rood meer, zei Mieke. Hij was roze geworden van het bijten en het zand en de jaren. Voor mij was hij nooit rood geweest. Hij rook nog wel helemaal naar mij.
 
