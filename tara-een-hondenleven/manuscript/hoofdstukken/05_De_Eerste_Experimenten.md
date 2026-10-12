@@ -88,7 +88,7 @@ De hand ging open.
 
 "Braaf," zei Mieke, zacht. "Goed zo."
 
-Ze deed het nog eens. Ik krabde sneller. Ze deed het een derde keer, en zei "Poot", en mijn poot lag al op haar hand voor het woord helemaal uit was.
+Ze deed het nog eens. Ik krabde sneller. Ze deed het een derde keer, en zei "Poot," en mijn poot lag al op haar hand voor het woord helemaal uit was.
 
 Ze keek over haar schouder naar Lode.
 
@@ -184,7 +184,7 @@ Ik heb overwogen om op een ochtend niet te zingen. Gewoon om te zien wat er dan 
 
 Het deksel van de trommel gaat open als ik zit. Niet altijd, maar vaak genoeg voor een regel.
 
-Het woord poot betekent: leg je poot op de hand. Het werkt alleen als het zacht gezegd wordt, door iemand die op de grond zit. Hard gezegd, door iemand op een stoel, betekent het niets. Dan betekent het: ga achter de tafelpoot zitten.
+Het woord *poot* betekent: leg je poot op de hand. Het werkt alleen als het zacht gezegd wordt, door iemand die op de grond zit. Hard gezegd, door iemand op een stoel, betekent het niets. Dan betekent het: ga achter de tafelpoot zitten.
 
 Gras is koekje, maar alleen als je echt moet.
 

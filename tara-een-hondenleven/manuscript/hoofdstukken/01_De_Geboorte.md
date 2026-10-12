@@ -1,3 +1,5 @@
+# Deel I. De Pioniersjaren: Verwondering
+
 # Hoofdstuk 1. De Geboorte
 
 In het begin was de wereld een buik, en de buik was niet van mij.
@@ -44,7 +46,7 @@ Het zusje dat naar hooi rook, werd ook sterker. Ze lag nog altijd links van mij.
 
 Toen begonnen mijn ogen te jeuken.
 
-Het begon in de hoeken. Een trek, een kriebel, iets wat er eerder niet was. Ik wreef mijn kop tegen het stro, en tegen het zusje, en tegen de buik, en het hielp niet. Het zat van binnen. Het voelde alsof iets zich losmaakte dat lang aan elkaar had vastgezeten. Ik kneep, en ik wreef, en ik sliep, en als ik wakker werd jeukte het nog.
+Het begon in de hoeken. Een trek, een kriebel, iets wat er eerder niet was. Ik wreef mijn kop tegen het stro, en tegen het zusje, en tegen de buik, en het hielp niet. Het zat vanbinnen. Het voelde alsof iets zich losmaakte dat lang aan elkaar had vastgezeten. Ik kneep, en ik wreef, en ik sliep, en als ik wakker werd jeukte het nog.
 
 En dan, op een moment dat ik niet kan aanwijzen, omdat er nog niets was om het aan af te meten, ging er een spleet open.
 

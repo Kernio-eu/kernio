@@ -28,7 +28,7 @@ Erin lag iets bruins en papperigs, dat naar melk rook maar ook naar iets droogs 
 
 "Allez. Eten."
 
-Negen pups liepen tegelijk naar de schaal. Zes stonden erin. Twee lagen erin, en een van die twee likte het van de rug van een ander. Ik at, en ik at het snelst, en toen de schaal leeg was likte ik de randen, en toen de randen leeg waren likte ik de oren van mijn broers. Het zusje dat naar hooi rook, stond aan de rand en at wat er over de rand gemorst was. Ze was niet traag. Ze was gewoon niet gehaast. Dat is een verschil dat ik zelf nooit heb kunnen maken.
+Negen pups liepen tegelijk naar de schaal. Zes stonden erin. Twee lagen erin, en een van die twee likte het van de rug van een ander. Ik at, en ik at het snelst, en toen de schaal leeg was, likte ik de randen, en toen de randen leeg waren, likte ik de oren van mijn broers. Het zusje dat naar hooi rook, stond aan de rand en at wat er over de rand gemorst was. Ze was niet traag. Ze was gewoon niet gehaast. Dat is een verschil dat ik zelf nooit heb kunnen maken.
 
 De vrouw lachte, met haar handen op haar knieën.
 

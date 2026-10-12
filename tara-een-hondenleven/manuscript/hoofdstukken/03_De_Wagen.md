@@ -30,7 +30,7 @@ Hij knikte, keek weer op het papiertje en bewoog zijn lippen. "Zindelijk?"
 
 De vrouw lachte, kort. "Ze zijn acht weken, meneer."
 
-"Ja. Nee. Natuurlijk." Hij vouwde het papiertje dicht en weer open. Het scherpe werd sterker. "Ik moet eigenlijk gaan wandelen, ziet ge. Van de dokter. Elke dag een half uur, zegt hij, of hij ziet mij terug met mijn bloeddruk. En mijn vrouw zegt: neem een hond, dan moet ge wel."
+"Ja. Nee. Natuurlijk." Hij vouwde het papiertje dicht en weer open. Het scherpe werd sterker. "Ik moet eigenlijk gaan wandelen, ziet ge. Van de dokter. Elke dag een halfuur, zegt hij, of hij ziet mij terug met mijn bloeddruk. En mijn vrouw zegt: neem een hond, dan moet ge wel."
 
 "Dan moet ge wel," zei de vrouw. "Dat klopt."
 
@@ -92,7 +92,7 @@ De auto was grijs en lang, met achteraan een grote ruimte zonder zetels. Hij leg
 
 Hij stapte in, zat een tijdje met zijn handen op het stuur, en draaide toen aan iets. De auto begon te trillen.
 
-De trilling kwam door de bodem en de stoel en het dekentje tot in mijn buik, en van daar in mijn tanden. Het was alsof de auto een hart had dat veel te snel ging. Ik ging plat liggen, met het strootje nog in mijn bek, en hield me met mijn nagels aan het dekentje vast.
+De trilling kwam door de bodem en de stoel en het dekentje tot in mijn buik, en vandaar in mijn tanden. Het was alsof de auto een hart had dat veel te snel ging. Ik ging plat liggen, met het strootje nog in mijn bek, en hield me met mijn nagels aan het dekentje vast.
 
 Hij draaide het raampje een stukje open. Niet veel. Een kier, zoals in de planken van het kot.
 
