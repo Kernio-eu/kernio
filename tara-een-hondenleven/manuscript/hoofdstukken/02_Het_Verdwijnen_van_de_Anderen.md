@@ -34,7 +34,7 @@ De vrouw lachte, met haar handen op haar knieën.
 
 "Die daar," zei ze tegen niemand. "Die gaat nooit honger lijden."
 
-De moeder was niet weg. Dat wil ik hier vastleggen, omdat het belangrijk is.
+De moeder was niet weg. Dat wil ik hier vastleggen.
 
 Ze was aan de andere kant van de wand. Ik rook haar door de planken. Als ik met mijn neus in de kier onderaan de muur ging liggen, waar de wind binnenkwam en een smalle streep koude lucht over de vloer trok, kwam ze er in flarden door: melk en droog stro, en ook de geur van haar adem, haar natte vacht na de regen, de bak waaruit ze dronk. Soms hoorde ik haar nagels over een stenen vloer tikken. Soms hoorde ik haar zuchten, zoals ze vroeger zuchtte als ze bij ons ging liggen. Dan bleef ik bij de kier liggen tot mijn neus koud werd.
 

@@ -58,7 +58,7 @@ De hoek. Lode bleef staan.
 
 Hij hijgde.
 
-Ik had dat nog niet gemerkt, op de stoep, omdat ik altijd voor hem uit liep. Nu ik naast zijn been liep, hoorde ik het. Al bij de tweede lantaarnpaal ging zijn adem kort en hoog, zoals de mijne na het rennen, maar Lode had niet gerend. Hij legde zijn hand op zijn zij. Zijn geur veranderde: zweet onder de aftershave, warm en zout.
+Nu ik naast zijn been liep, hoorde ik het: al bij de tweede lantaarnpaal ging zijn adem kort en hoog, zoals de mijne na het rennen, maar Lode had niet gerend. Hij legde zijn hand op zijn zij. Zijn geur veranderde: zweet onder de aftershave, warm en zout.
 
 "Die dokter," zei hij tegen de lucht. "Die dokter van niks."
 
@@ -76,7 +76,7 @@ Ik heb gezocht naar dat iets. Ik heb het niet gevonden. Ik wilde eten, slapen, r
 
 Het experiment duurde een herfst. De proefpersoon voerde het uit; ik was het materiaal.
 
-Hij ging eerst door elke deur. Als ik toch eerst was, omdat een deur voor mij gewoon een opening is waar de wereld achter begint, zette hij zijn been ervoor of trok hij mij terug. Bij het eten zette hij mijn bak niet meer neer als ik zong; hij zette hem op het aanrecht, at eerst zijn boterham aan de tafel, staande, met grote happen en zijn rug naar mij toe, en zette de bak daarna pas op de grond. Ik zong toch. Ik had zijn sok in mijn bek en ik zong, en hij at zijn boterham, en ik zong verder tot hij klaar was. Dat deel van het experiment heeft hij na een week stilletjes laten vallen. Een boterham eten met een jodelende hond achter je rug is moeilijker dan het in een boek staat.
+Hij ging eerst door elke deur. Als ik toch eerst was, omdat een deur voor mij gewoon een opening is waar de wereld achter begint, zette hij zijn been ervoor of trok hij mij terug. Bij het eten zette hij mijn bak niet meer neer als ik zong; hij zette hem op het aanrecht, at eerst zijn boterham aan de tafel, staande, met grote happen en zijn rug naar mij toe, en zette de bak daarna pas op de grond. Ik zong toch, met zijn sok in mijn bek, tot hij klaar was. Dat deel van het experiment heeft hij na een week stilletjes laten vallen. Een boterham eten met een jodelende hond achter je rug is moeilijker dan het in een boek staat.
 
 Het staren hield hij langer vol. Hij ging voor mij staan, groot, en keek. Ik keek weg, ik likte mijn lippen, ik gaapte. Hij noteerde dat als gewonnen. Ik weet nu dat ik iets anders zei. Ik zei: ik ben geen gevaar, kijk niet zo. Maar hij las een boek van een Amerikaan, en ik had geen boek.
 
@@ -106,7 +106,7 @@ Ik ging zitten. Niemand had het gevraagd. Ik deed het omdat zitten de koekjestro
 
 Op dogtime, op de zandweg, had ik hem nooit horen hijgen. Daar bleef hij staan wanneer ik bleef staan, en dat was vaak, omdat er in de berm altijd iets te lezen was. Hij kon dan uitblazen zonder dat het uitblazen heette. Op de stoep, met de lijn om zijn hand, liep hij op zijn eigen tempo, en zijn eigen tempo was te snel voor hem.
 
-Dat noteer ik als bijkomende observatie. Volgens Mieke heeft de proefpersoon een hond genomen om te wandelen. Het boek met de wolf zegt daar niets over.
+Volgens Mieke heeft de proefpersoon een hond genomen om te wandelen. Het boek met de wolf zegt daar niets over.
 
 En dan was er de krant.
 
@@ -130,11 +130,9 @@ Daarna werd ik stil.
 
 Ik deed alles nog. Ik at, ik sliep, ik zong elke ochtend met iets in mijn bek, maar korter. Ik ging minder naar de gang om te meten. Ik lag meer in de mand. En ik schrok van papier. Niet alleen van de krant: van elk papier. Van de zak van de bakker die Mieke op het aanrecht legde. Van de klep van de brievenbus. Van de schriften, als Mieke een bladzijde omdraaide.
 
-Mieke merkte dat eerder dan Lode. Op een avond, aan de keukentafel, sloeg ze een schrift open en ik kromp ineen bij de kachel. Ze keek naar mij, over haar bril. Ze zei niets. Ze legde haar hand plat op de stapel en draaide de volgende bladzijde om met twee vingers, traag, zodat het papier niet ritselde maar zuchtte. En de volgende ook. De hele stapel. Het duurde die avond veel langer dan anders. Ze at haar appel niet op.
+Mieke merkte dat eerder dan Lode. Op een avond, aan de keukentafel, sloeg ze een schrift open en ik kromp ineen bij de kachel. Ze keek naar mij, over haar bril. Ze legde haar hand plat op de stapel en draaide de volgende bladzijde om met twee vingers, traag, zodat het papier niet ritselde maar zuchtte. En de volgende ook. De hele stapel. Het duurde die avond veel langer dan anders. Ze at haar appel niet op.
 
 Ik ben toen dichterbij gaan liggen. Niet bij Lode, die in de zetel zat met zijn boek. Bij haar voeten, onder de tafel, waar het naar krijt rook.
-
-De rust in dat huis kwam niet van de leider. Ze kwam van de vrouw met de rode balpen.
 
 ### Resultaat
 
@@ -142,9 +140,9 @@ Op een ochtend, toen de herfst al naar natte bladeren en houtvuur rook, kwam Lod
 
 Het papier ritselde.
 
-Ik dook weg. Ik dacht er niet over na; mijn lijf deed het voor mij. Ik lag ineens plat tegen de muur achter de deur van de keuken, mijn oren tegen mijn kop, mijn staart onder mijn buik, en ik keek naar de krant in zijn handen.
+Ik dook weg voor ik het wist. Ik lag ineens plat tegen de muur achter de deur van de keuken, mijn oren tegen mijn kop, mijn staart onder mijn buik, en ik keek naar de krant in zijn handen.
 
-Hij wilde alleen lezen. Dat weet ik nu. Er was niets gebeurd. Er lag niets op het tapijt.
+Hij wilde alleen lezen. Er lag niets op het tapijt.
 
 Lode keek over de krant naar mij. Lang. Niet zoals in het boek. Anders.
 
@@ -166,7 +164,7 @@ Het boek met de wolf op de kaft heb ik nooit meer gezien. Een paar dagen later r
 
 Het experiment van de proefpersoon is mislukt. Het onderwerp is niet gegroeid in gehoorzaamheid. Het is alleen gekrompen.
 
-De onderzoeker noteert dit met opluchting. Ze noteert ook dat de proefpersoon al bij de tweede lantaarnpaal hijgt, dat hij dat aan een dokter wijt, en dat hij sinds die ochtend een ander soort zwijgen heeft. Of dat een nieuw experiment is, valt nog niet uit te maken. Er wordt verder geobserveerd.
+De onderzoeker noteert dit met opluchting. Ze noteert ook dat de proefpersoon al bij de tweede lantaarnpaal hijgt, dat hij dat aan een dokter wijt, en dat hij sinds die ochtend een ander soort zwijgen heeft. Er wordt verder geobserveerd.
 
 Die avond nam Lode de lijn van de kapstok en ging hij eerst door de voordeur, zoals het boek het wilde. Ik bleef op de mat zitten, zoals ik geleerd had, en wachtte op de ruk. Die kwam niet. Hij keek ook niet om. De lijn hing tussen ons in, een beetje slap, en hij liet hem zo.
 

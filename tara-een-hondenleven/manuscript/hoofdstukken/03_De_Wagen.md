@@ -30,7 +30,7 @@ Hij knikte, keek weer op het papiertje en bewoog zijn lippen. "Zindelijk?"
 
 De vrouw lachte, kort. "Ze zijn acht weken, meneer."
 
-"Ja. Nee. Natuurlijk." Hij vouwde het papiertje dicht en weer open. Het scherpe, metalige werd sterker. "Ik moet eigenlijk gaan wandelen, ziet ge. Van de dokter. Elke dag een half uur, zegt hij, of hij ziet mij terug met mijn bloeddruk. En mijn vrouw zegt: neem een hond, dan moet ge wel."
+"Ja. Nee. Natuurlijk." Hij vouwde het papiertje dicht en weer open. Het scherpe werd sterker. "Ik moet eigenlijk gaan wandelen, ziet ge. Van de dokter. Elke dag een half uur, zegt hij, of hij ziet mij terug met mijn bloeddruk. En mijn vrouw zegt: neem een hond, dan moet ge wel."
 
 "Dan moet ge wel," zei de vrouw. "Dat klopt."
 
@@ -56,7 +56,7 @@ De vrouw kwam overeind van de deurpost.
 
 Hij zei niets. Toen deed hij iets wat ik bij mensen pas later zou leren waarderen: hij boog niet. Hij ging door zijn knieën, langzaam, met een kraakje in het ene, tot zijn gezicht niet meer ver boven mij hing maar recht voor mij. Zijn broek kwam in het stro terecht. Hij merkte het niet.
 
-Het scherpe, metalige rook ik nog. Maar er kwam iets anders bovenop, iets warms en zoutigs dat ik nog niet kende, en het metalige werd dunner.
+Het scherpe rook ik nog. Maar er kwam iets anders bovenop, iets warms en zoutigs dat ik nog niet kende, en het scherpe werd dunner.
 
 Ik zong verder. Ik kon niet anders.
 
@@ -108,7 +108,7 @@ Hij keek opzij. Zijn rechterhand kwam van het stuur, landde op mijn rug en bleef
 
 "Ik ging er een uitkiezen," zei hij.
 
-Er was niemand anders in de auto. Hij zei het tegen de voorruit.
+Hij zei het tegen de voorruit.
 
 "Zij heeft mij gekozen," zei hij toen.
 

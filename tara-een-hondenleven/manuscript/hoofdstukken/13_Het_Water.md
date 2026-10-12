@@ -10,7 +10,7 @@ Wandeltype: dogtime.
 
 Het ven lag achter het dennenbos, aan het eind van de zandweg, en ik rook het lang voor ik het zag: eerst het ijzer, koel en roestig, dan de kikkers, dan het riet en de modder aan de rand, zwart en zoet en vol dingen die ooit hadden geleefd, en onder de dennen werd het zand koeler en veerden de naalden onder mijn poten, en tussen de stammen speelde een licht dat beweeglijk was en zilver, alsof iemand achter de bomen met een spiegel stond, en ik versnelde, en achter mij riep de proefpersoon iets wat ik niet hoefde te verstaan.
 
-Ik was toen ongeveer drie. Die zomer was ik op mijn sterkst, en mijn lijf wilde vooral één ding.
+Ik was toen ongeveer drie, en die zomer op mijn sterkst.
 
 Ik ging het water in zoals je in een mand gaat, zonder te kijken of het mag. De kou rond mijn poten, dan rond mijn buik, dan het moment waarop de bodem verdwijnt en je lijf licht wordt en je poten vanzelf beginnen te trappelen.
 
@@ -78,7 +78,7 @@ Wandeltype: geen wandeling. Een wedstrijd.
 
 Op een namiddag in de nazomer reden we voorbij Westerlo naar een huis met een lange weide die afliep naar de Nete. Ik rook het huis voor de motor stilviel: twee honden die alles hadden gemarkeerd tot aan de brievenbus, en daaronder sigaretten en pepermunt. Die combinatie had jaren eerder in een boek met een wolf op de kaft gezeten.
 
-Dirk stond in de deur, met een grijze baard die rook naar de sigaret die hij net had uitgetrapt. Achter hem kwamen de Mechelaars naar buiten, niet zoals honden komen, maar samen, in één beweging, geel als ik maar korter van haar, met zwarte koppen en oren die rechtop stonden alsof iemand ze had vastgezet.
+Dirk stond in de deur, met een grijze baard die rook naar de sigaret die hij net had uitgetrapt. Achter hem kwamen de Mechelaars naar buiten, niet zoals honden komen, maar samen, in één beweging, korter van haar dan ik, met zwarte koppen en oren die rechtop stonden alsof iemand ze had vastgezet.
 
 "Rex. Zara. Zit," zei Dirk, en hij knipte met zijn vingers.
 
@@ -106,7 +106,7 @@ Daarna begon het eigenlijke experiment, en het werd niet door de honden uitgevoe
 
 "Mag dat niet?"
 
-Dirk gooide verder. De Mechelaars wonnen. De proefpersoon gooide nog verder, in het riet. Ik won. Ik kan niet tellen, maar ik hoor wanneer een getal groter wordt, en voor wie. De mannen trokken hun jas uit en hingen ze over de afsluiting. Hun geur veranderde: warm en zuur, met een scherpe rand, bij allebei dezelfde. Ik had ze geroken aan Rex en Zara, op het moment dat de bal opsteeg. Ik kan niet ruiken wat het is. Ik kan ruiken dat de honden en de baasjes op dat moment hetzelfde roken.
+Dirk gooide verder. De Mechelaars wonnen. De proefpersoon gooide nog verder, in het riet. Ik won. Ik kan niet tellen, maar ik hoor wanneer een getal groter wordt, en voor wie. De mannen trokken hun jas uit en hingen ze over de afsluiting. Hun geur veranderde: warm en zuur, met een scherpe rand, bij allebei dezelfde. Ik had die geur geroken aan Rex en Zara, op het moment dat de bal opsteeg.
 
 "Wie hem eerst heeft," zei Dirk.
 
@@ -148,7 +148,7 @@ Wandeltype: dogtime, zonder dat het woord viel.
 
 "Daar ginder is Zeebrugge," zei de proefpersoon op de dijk, en hij wees naar kranen. "En daar Blankenberge. En hier is 't van u."
 
-De dijk was breed en grijs, met gebouwen die hun rolluiken dicht hadden en naar vochtige terrasstoelen en oud frietvet roken. Onderaan de trap lag het zand, en het was leeg. Ver weg een man in een lange jas met een hond die rondjes liep. Meeuwen die tegen de wind in hingen zonder te vliegen. Volgens de mensen was de zee blauw. Voor mij was ze grijs, en de lucht ook, en waar ze elkaar raakten was er geen lijn, alleen een plek waar het grijs donkerder werd. Wat wit was, was schuim.
+De dijk was breed en grijs, met gebouwen die hun rolluiken dicht hadden en naar vochtige terrasstoelen en oud frietvet roken. Onderaan de trap lag het zand, en het was leeg. Meeuwen die tegen de wind in hingen zonder te vliegen. Volgens de mensen was de zee blauw. Voor mij was ze grijs, en de lucht ook, en waar ze elkaar raakten was er geen lijn, alleen een plek waar het grijs donkerder werd. Wat wit was, was schuim.
 
 De proefpersoon klikte de lijn los.
 
@@ -162,7 +162,7 @@ Uit zijn jaszak haalde de proefpersoon een balletje dat ik nog niet kende. Het w
 
 Ik ging.
 
-De eerste golf kwam tot aan mijn borst en sloeg over mijn kop. Zout in mijn neus, in mijn ogen, in mijn bek. Ik kwam boven. De stip was er nog. De tweede golf tilde mij op en zette mij neer, en de bodem was weg, en ik zwom. Het ven laat je met rust. De zee duwt, ze trekt aan je achterpoten, ze tilt je op en laat je vallen, en de kou in je vacht maakt je adem korter. De stip boven op een golf, dan niets, dan de stip weer, dichterbij. Ik had hem. Toen hielp de zee, voor het eerst: een golf nam mij in de rug en schoof mij naar het strand, zo snel dat ik op het zand stond voor mijn poten wisten dat er zand was.
+De eerste golf kwam tot aan mijn borst en sloeg over mijn kop. Zout in mijn neus, in mijn ogen, in mijn bek. Ik kwam boven. De stip was er nog. De tweede golf tilde mij op en zette mij neer, en de bodem was weg, en ik zwom. Het ven laat je met rust. De zee duwt, ze trekt aan je achterpoten, ze tilt je op en laat je vallen. De stip boven op een golf, dan niets, dan de stip weer, dichterbij. Ik had hem. Toen hielp de zee, voor het eerst: een golf nam mij in de rug en schoof mij naar het strand, zo snel dat ik op het zand stond voor mijn poten wisten dat er zand was.
 
 De proefpersoon stond in het water, met zijn broekspijpen tot aan zijn knieën opgerold en zijn schoenen in zijn hand, en zijn schenen waren wit en rood van de kou. Een golf die verder kwam dan de andere liep tot boven zijn opgerolde pijpen. Hij zei iets wat ik hier niet opschrijf. Toen lachte hij.
 
@@ -172,15 +172,13 @@ Bij een van de keren terug had ik dorst, en daar lag meer water dan ik ooit had 
 
 Ze had de hele tijd bovenaan gestaan, met haar sjaal tot aan haar neus en een handdoek die ze bij elke terugkeer openhield zoals je een deur openhoudt. Ik liep er telkens langs. Op het einde ving ze mij en wreef mij droog met lange harde halen.
 
-"Gij zijt nen echte zeehond, gij," zei ze.
+"Ge zijt nen echte zeehond, gij," zei ze.
 
 In de auto werd het dekentje nat en zanderig onder mij. Alles rook naar zee. De proefpersoon zette zijn raampje op een kier en Mieke zette de verwarming hoger.
 
 "Die gaat stinken tot aan Kerstmis," zei ze.
 
 "Da's geen stinken," zei de proefpersoon. "Da's de zee." Zijn broek was nat tot boven zijn knieën, en er lag zand op de pedalen.
-
-Ik sliep voor we de grote weg op reden. Toen ik wakker werd, rook het door de kier weer naar dennen.
 
 ### Resultaat
 
@@ -194,7 +192,7 @@ Aan zee werd die verwerping weer onzeker. Daar was een geel balletje dat ik kon 
 
 Water ruikt naar niets, zegt de proefpersoon. Hij heeft gelijk over het water. Hij vergist zich alleen in wat ik zoek.
 
-Die avond nam ik de pantoffel mee naar de mand en sliep met mijn kin erop, mijn vacht nog stijf van het zout. De volgende ochtend, toen ik de linkervoet op de bovenste trede hoorde, nam ik hem in mijn bek en zong. De pantoffel smaakte naar zee.
+Die avond nam ik de pantoffel mee naar de mand en sliep met mijn kin erop, mijn vacht nog stijf van het zout. De volgende ochtend zong ik met een pantoffel die naar zee smaakte.
 
 > **Onderzoeksdossier 33**
 > Onderwerp: water.

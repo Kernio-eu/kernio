@@ -20,7 +20,7 @@ De proefpersoon zat boven mij op een metalen stoel, met een glas donker bier voo
 
 ### Hypothese
 
-Mijn hypothese was eenvoudig, en ik had ze al lang voor dit experiment, zonder dat ik ze had opgeschreven.
+Mijn hypothese was eenvoudig.
 
 Wie loopt, ruikt wat op zijn weg ligt. Wie ligt, ruikt alles wat langskomt.
 
@@ -30,7 +30,7 @@ Er was één probleem met deze hypothese. Ik ben een Labrador. Liggen terwijl er
 
 ### Experiment
 
-Het experiment duurde niet een middag. Het duurde maanden, en het werd niet door mij opgezet, maar door de proefpersoon. Ik geef het hier in de volgorde waarin het gebeurde.
+Het experiment duurde niet een middag. Het duurde maanden, en het werd niet door mij opgezet, maar door de proefpersoon.
 
 Het begon thuis, in de woonkamer, in het seizoen waarin de kachel nog brandde. De proefpersoon kwam op een avond thuis met een kleedje onder zijn arm: grijs, plat, met een rubberen onderkant die naar fabriek rook. Hij legde het naast de bank. Hij zei: "Plaats." Ik keek naar hem. Ik keek naar het kleedje. Ik ging naar de mand.
 
@@ -38,7 +38,7 @@ Hij haalde me niet terug. Hij ging naar de keuken, deed de koekjestrommel open o
 
 Ik ging op het kleedje staan. Ik at het koekje. "Plaats," zei hij, en hij zei het zacht, als iemand die een geheim vertelt.
 
-Zo ging het elke avond. Eerst stond ik op het kleedje. Dan zat ik op het kleedje. Dan lag ik op het kleedje, en kwam het koekje pas als ik bleef liggen. Dan bleef ik liggen terwijl hij naar de keuken liep, en dan terwijl hij de deur opendeed, en dan terwijl Mira over de rugleuning van de bank liep, wat het moeilijkste was, omdat zij van alle bewegingen in huis de interessantste maakt. Sommige avonden ging het. Sommige avonden niet, en dan zei hij niets en begon hij gewoon opnieuw, zonder het metalige, met zijn hand in de zak met de koekjes. Ik merkte dat hij geduld aan het oefenen was. Ik vermoed dat hij het ook merkte. Er waren avonden dat ik hem hoorde zuchten, en dan begon hij toch opnieuw.
+Zo ging het elke avond. Eerst stond ik op het kleedje. Dan zat ik op het kleedje. Dan lag ik op het kleedje, en kwam het koekje pas als ik bleef liggen. Dan bleef ik liggen terwijl hij naar de keuken liep, en dan terwijl hij de deur opendeed, en dan terwijl Mira over de rugleuning van de bank liep, wat het moeilijkste was, omdat zij van alle bewegingen in huis de interessantste maakt. Sommige avonden ging het. Sommige avonden niet, en dan begon hij gewoon opnieuw, zonder te roepen, met zijn hand in de zak met de koekjes.
 
 Toen het lichter werd en de kachel niet meer brandde, nam hij het kleedje mee naar buiten.
 
@@ -56,7 +56,7 @@ Zo gingen we vaker. Elke keer een beetje later op de ochtend. Eerst met lege sto
 
 Er was één ochtend waarop alles misging. Het had geregend, de kasseien glommen en roken naar ijzer, en over het plein kwam een vrouw met een kooi vol jonge konijnen van de markt, die achter hun tralies op en neer schoten en naar wortelloof en angst roken. Ik stond op. Ik stond niet alleen op; ik ging. De lijn schoot strak, de tafel schoof, de koffie van de proefpersoon liep over het schoteltje en over zijn broek. De vrouw met de konijnen keek om en liep sneller.
 
-Ik wachtte op het metalige. Het kwam niet. Hij veegde zijn broek af met een papieren servetje, keek een tijd naar de lege plek waar de konijnen waren geweest, en legde het kleedje recht.
+Ik wachtte op de scherpe geur en de stem die omhooggaat. Ze kwamen niet. Hij veegde zijn broek af met een papieren servetje, keek een tijd naar de lege plek waar de konijnen waren geweest, en legde het kleedje recht.
 
 "Plaats," zei hij.
 
@@ -76,7 +76,7 @@ Aan de tafel naast ons, de dichtstbijzijnde, liet een meisje een frietje vallen.
 
 Ik wil hier zo nauwkeurig mogelijk noteren wat er in mijn lijf gebeurde. Mijn neus ging omhoog. Mijn voorpoten spanden zich. Mijn achterlijf maakte zich klaar. Alles in mij wist waar het frietje lag en hoeveel stappen het was, namelijk één.
 
-De voet van de proefpersoon bewoog niet. Hij zei niets. Hij keek niet eens naar mij. Hij keek naar het plein.
+De voet van de proefpersoon bewoog niet. Hij keek niet eens naar mij. Hij keek naar het plein.
 
 Ik bleef liggen.
 
@@ -110,7 +110,7 @@ Ik heb die middag op het kleedje, zonder één stap te zetten, de volgende dinge
 
 Ik wist van al die dingen af omdat ik bleef liggen en de wind liet werken. Bruno, die het hele plein afliep tot zijn lijn op was, wist van geen enkel ervan. Hij wist van de duiven en van het ijsje. Dat was alles.
 
-Ik moet ook iets anders noteren, omdat het in deze rubriek thuishoort. De proefpersoon heeft in zijn leven met mij veel woorden gebruikt. Hij heeft er geroepen, gedreigd, herhaald. Op het plein zei hij er twee. Geduld. Dat is alles. Ik weet niet zeker of hij geloofde dat het zo simpel was. Ik weet wel dat hij die zes maanden niet één keer zijn stem heeft verheven, en dat hij elke avond opnieuw is begonnen, en dat hij soms zuchtte en dan toch weer hurkte bij het kleedje.
+De proefpersoon heeft in zijn leven met mij veel woorden gebruikt. Hij heeft er geroepen, gedreigd, herhaald. Op het plein had hij er maar een paar nodig. Ik weet niet zeker of hij geloofde dat het zo simpel was. Ik weet wel dat hij die zes maanden niet één keer zijn stem heeft verheven, en dat hij elke avond opnieuw is begonnen, en dat hij soms zuchtte en dan toch weer hurkte bij het kleedje.
 
 Toen we vertrokken, rolde hij het kleedje op en stak het onder zijn arm. Hij liep langs de tafel van Bruno. Bruno sprong naar me toe tot het einde van zijn lijn, met zijn krullen en zijn lange poten en zijn gezicht vol plezier. Ik snoof aan zijn neus. Hij rook naar shampoo, naar duiven, naar vandaag.
 

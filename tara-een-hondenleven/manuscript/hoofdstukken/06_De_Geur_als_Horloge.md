@@ -6,19 +6,19 @@ Hoe lang duurt *weg*? En waaraan kan een hond ruiken dat het bijna voorbij is?
 
 ### Observatie
 
-De dag begon op de trap. Ik hoorde boven het bed kraken, daarna het geschuifel van een man die met zijn voeten naar zijn sloffen zoekt, en tegen de tijd dat zijn linkervoet de bovenste trede raakte, had ik al iets in mijn bek. Die zomer was dat meestal een sok. Ik zong. De etensbak werd gevuld. Dat deel van het onderzoek liep vanzelf, en ik kom er hier niet op terug.
+De dag begon op de trap. Ik hoorde boven het bed kraken, daarna het geschuifel van een man die met zijn voeten naar zijn sloffen zoekt, en tegen de tijd dat zijn linkervoet de bovenste trede raakte, had ik al iets in mijn bek. Die zomer was dat meestal een sok. Ik zong. De etensbak werd gevuld. Dat deel van het onderzoek liep vanzelf.
 
 Daarna ging hij weg.
 
-Weg begon in de gang. Hij trok zijn jas van de kapstok, waarbij de lijn meeschommelde en met de karabijnhaak tegen de muur tikte. Hij zocht zijn sleutels op drie plaatsen waar ze niet lagen en vond ze op de vierde, in de zak van de jas die hij al aanhad. Hij zei "Braaf zijn, gij" tegen mij en "Tot vanavond" tegen Mieke. Dan viel de voordeur dicht, sloeg de grijze auto aan op de oprit, en zakte het geluid van de motor de straat uit tot alleen de koelkast nog zoemde.
+Weg begon in de gang. Hij trok zijn jas van de kapstok, waarbij de lijn meeschommelde en met de karabijnhaak tegen de muur tikte. Hij zocht zijn sleutels op alle plaatsen waar ze niet lagen en vond ze ten slotte in de zak van de jas die hij al aanhad. Hij zei "Braaf zijn, gij" tegen mij en "Tot vanavond" tegen Mieke. Dan viel de voordeur dicht, sloeg de grijze auto aan op de oprit, en zakte het geluid van de motor de straat uit tot alleen de koelkast nog zoemde.
 
-Maar hij was niet helemaal weg. Dat was mijn eerste vaststelling, en alles wat volgt rust erop.
+Maar hij was niet helemaal weg. Dat was mijn eerste vaststelling.
 
 Op de deurmat lag hij nog, in de vochtige afdruk van zijn schoenen: koffie, schoensmeer, en het natte gras van de oprit. Aan de kapstok hing hij nog, in de mouw van de andere jas. In de lucht van de gang dreef een wolk aftershave, zoet en scherp tegelijk, die zich traag over de tegels liet zakken. Wie daar meteen na het dichtvallen van de deur haar neus in stak, kon hem bijna aanraken.
 
 Dan begon het vervagen.
 
-Na mijn eerste slaap was de aftershave van de lucht naar de mat gezakt en dunner geworden, zoals een stem die door een muur komt. Na het drinken was hij nog dunner. Ondertussen deed het licht in de woonkamer iets wat ik pas later in verband bracht. Door het grote raam viel een rechthoek zon op het tapijt, warm en geel, met stofjes erin die traag ronddraaiden, en die rechthoek kroop. Hij begon bij de houtkachel en schoof over het tapijt naar de bank. Wie er middenin ging liggen, voelde de warmte onder zich weglopen, tot je met je kop in de zon lag en met je achterwerk in de schaduw. Ik ben er vaak achteraan geschoven. Mira ook, maar zij lag altijd al aan het goede eind als ik aankwam.
+Na mijn eerste slaap was de aftershave van de lucht naar de mat gezakt en dunner geworden, zoals een stem die door een muur komt. Na het drinken was hij nog dunner. Ondertussen deed het licht in de woonkamer iets wat ik pas later in verband bracht. Door het grote raam viel een warme rechthoek zon op het tapijt, en die rechthoek kroop, van de houtkachel naar de bank. Ik ben er vaak achteraan geschoven. Mira ook, maar zij lag altijd al aan het goede eind als ik aankwam.
 
 Mieke was die zomer thuis. Ze rook naar handcrème en appels; het krijt aan haar was bijna weg, wat mij toen niets zei. Ze vouwde de was op aan de keukentafel en praatte tegen mij alsof ik een collega was.
 
@@ -56,15 +56,13 @@ Die namiddag nam hij de lijn van de kapstok, maar hij sloeg niet af naar de gras
 
 "Allez," zei hij. "Dit is geen meewandelen, hé. Dit is dogtime."
 
-Ik weet niet of hij het woord die dag uitvond of het al een tijdje bij zich droeg. Ik weet alleen dat het die avond aan tafel al een regel was.
+Die avond aan tafel was het al een regel.
 
-"Er zijn twee soorten wandelen," zei hij tegen Mieke, met zijn vork in de lucht. "Meewandelen is voor mij. Aan de lijn, naast mijn been, tot aan de hoek en terug. Dat is geen dogtime. En dan is er dogtime. Los, en ze doet haar ding."
+"Er zijn twee soorten wandelen," zei hij tegen Mieke, met zijn vork in de lucht. "Meewandelen: aan de lijn, naast mijn been, tot aan de hoek en terug. Dat is geen dogtime. En dogtime: los, en ze doet haar ding."
 
 "Gij en uw woorden," zei Mieke.
 
 "Twee kolommen," zei Lode. "Dan klopt het."
-
-Hij was boekhouder. Hij had van de wandeling een balans gemaakt.
 
 Maar die eerste keer op de zandweg wist ik nog niets van kolommen. Ik wist dat er geen trek meer aan mijn nek zat, en dat de wereld ineens in alle richtingen tegelijk openging. Het zand was warm en mul en bleef tussen mijn tenen zitten, de dennen aan de bosrand gaven een geur van hars af die in de hitte bijna zichtbaar werd, en in de berm stond het gras hoog genoeg om erin te verdwijnen, zodat ik erin verdween, en in dat gras stond alles geschreven wat er de voorbije dagen langs die weg was gegaan: een reu met lange poten die zijn poot hoger had geheven dan nodig was, wat iets zegt over een reu; een teef van verderop die naar iets rook wat ik nog niet begreep maar waar ik lang bij bleef staan; een egel, of de nacht van een egel; een kind met een ijsje, aardbei, dat een stuk van het hoorntje had laten vallen, dat ik vond en dat geen bericht meer was maar een maaltijd; een fietser met een lekke band en een slecht humeur; en onder dat alles, oud en ver, de vos, die hier blijkbaar al langer woonde dan iedereen.
 
@@ -72,7 +70,7 @@ Achter mij hoorde ik Lode zeggen: "Ze zit weer op haar Facebook."
 
 "Gelijk Sofie," zei hij erachteraan, tegen niemand.
 
-Ik weet niet wat Facebook is. Ik leid uit de context af dat het iets is waar je met je neus heel lang in blijft hangen terwijl iemand anders staat te wachten. Dat klopt dan.
+Ik weet niet wat Facebook is. Ik leid uit de context af dat het iets is waar je met je neus heel lang in blijft hangen terwijl iemand anders staat te wachten.
 
 Die week kwam Lode thuis met een plastic zak uit de dierenwinkel, die naar rubber rook en naar zaagsel en naar honderd andere honden die de winkel hadden bezocht. Uit de zak haalde hij een bal. Hij hield hem voor mijn neus en kneep erin. De bal piepte niet. Hij rook naar fabriek, en naar de hand van Lode, en heel licht naar zijn koffie, omdat hij de bal in de auto naast zijn beker had gelegd.
 
@@ -94,7 +92,7 @@ Thuis zei Mieke, zonder op te kijken van het boekje over pups dat ze aan het lez
 
 "Voor de baasjes."
 
-Lode keek naar de bal in zijn hand en zei niets. De bal bleef rood. Hij kocht geen andere.
+Lode keek naar de bal in zijn hand. De bal bleef rood. Hij kocht geen andere.
 
 ### Hypothese
 
@@ -104,7 +102,7 @@ De geur van de proefpersoon in de gang is een klok. Hoe dunner de geur, hoe dich
 
 Ik herhaalde de meting vele dagen. Elke keer dat de deur dichtviel, ging ik in de gang staan en nam een eerste staal: volle aftershave, natte mat, verse koffie. Daarna ging ik terug na elke slaap, na elk drinken, en na elke keer dat Mira langs de gang liep, wat de meting telkens verstoorde met stof en sardines.
 
-Het werkte, een beetje. De dagen waarop ik bij de deur ging zitten toen de geur bijna op was, werden de dagen waarop ik iets minder lang zat. Mijn achterpoten sliepen minder vaak in. Ik leerde dat de laatste resten niet op de mat lagen maar in de hoek achter de deur, waar de tocht niet kwam, en dat ik daar moest meten en niet in het midden van de gang.
+Het werkte, een beetje. De dagen waarop ik bij de deur ging zitten toen de geur bijna op was, werden de dagen waarop ik iets minder lang zat. Ik leerde dat de laatste resten niet op de mat lagen maar in de hoek achter de deur, waar de tocht niet kwam, en dat ik daar moest meten en niet in het midden van de gang.
 
 Toen kwam de dag van de tweede jas.
 
@@ -112,9 +110,9 @@ Het regende 's ochtends, en Lode trok de dikke jas aan in plaats van de dunne, e
 
 Ik besloot dat hij nog maar pas vertrokken was. Na de volgende slaap was hij nog altijd maar pas vertrokken. Ik ging liggen bij de kachel en wachtte op dun. Dun kwam niet. Ik viel in slaap met mijn kin op het dekentje uit de auto.
 
-Ik werd wakker van zijn hand op mijn kop. Het was donker buiten, de kachel tikte, en hij rook naar regen en diesel.
+Ik werd wakker van zijn hand op mijn kop. Het was donker buiten, de regen tikte tegen het raam, en hij rook naar natte wol en diesel.
 
-"Gij wordt een echte waakhond, gij," zei hij.
+"Ge wordt een echte waakhond, gij," zei hij.
 
 ### Resultaat
 
@@ -126,7 +124,7 @@ De proefpersoon heeft daarnaast, zonder dat hem iets gevraagd werd, een indeling
 
 Tijd is een geur die dunner wordt. Wie de tijd wil kennen, moet de geur kennen van wat ze mist.
 
-Die avond, toen het huis stil was en de kachel uit, nam ik het dekentje uit de auto tussen mijn tanden en sleepte het naar de mand. Het rook bijna niet meer naar het kot. Het rook naar mij, en een beetje naar de wagen, en een beetje naar de hand die het elke avond rechttrok als ik het scheef had gelegd. De rode bal lag in de gang, in het mandje bij de kapstok. Ik ging er nog eens naartoe, rook eraan, en liet hem liggen. Hij was nog niet van mij.
+Die avond, toen het huis stil was, nam ik het dekentje uit de auto tussen mijn tanden en sleepte het naar de mand. Het rook bijna niet meer naar het kot. Het rook naar mij, en een beetje naar de wagen, en een beetje naar de hand die het elke avond rechttrok als ik het scheef had gelegd. De rode bal lag in de gang, in het mandje bij de kapstok. Ik ging er nog eens naartoe, rook eraan, en liet hem liggen. Hij was nog niet van mij.
 
 > **Onderzoeksdossier 7**
 > Onderwerp: de rode bal.

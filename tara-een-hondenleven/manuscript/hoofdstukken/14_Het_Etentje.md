@@ -22,13 +22,11 @@ De proefpersoon zei: "Tara, plaats." Ik ging terug naar de mand. Zo was de regel
 
 ### Hypothese
 
-Ik had over dit soort avonden al een paar vaste vaststellingen gedaan, die ik hier eerst samenvat voor ik tot de eigenlijke hypothese kom.
+Over dit soort avonden had ik al een paar vaste vaststellingen gedaan.
 
 **Over het bestek.** Mensen eten niet met hun mond, zoals elk redelijk wezen, maar met kleine metalen werktuigen. Die werktuigen maken geluid, en het geluid volgt een vast patroon. Eerst is er gerinkel, veel en kort: dat is het begin, als iedereen tegelijk prikt. Dan komt er een schrapend geluid, mes over porselein: dat is het vlees. Dan wordt het stiller, met lange pauzes, omdat er gepraat wordt. Tot slot komt er een klein, helder getik van metaal dat op een bord wordt neergelegd, met het mes en de vork naast elkaar. Dat is het einde. Ik kan aan het bestek horen hoe ver een maaltijd is zonder ernaar te kijken.
 
-**Over de gesprekstechniek.** Mensen praten terwijl ze eten. Dat is inefficiënt, want je kunt niet goed ruiken wat je eet als je mond openstaat voor woorden. Maar het heeft één groot voordeel voor de onderzoeker: wie praat, beweegt met zijn handen, en wie met zijn handen beweegt, houdt zijn vork niet stil. Elk verhaal aan tafel is een kans. Hoe spannender het verhaal, hoe groter de kans.
-
-**Over de wet van het gevallen eten.** Wat de vloer raakt, behoort de vloer toe. De vloer behoort mij toe. Dat is geen theorie maar een natuurwet, die door de mensen zelf in een zwakke vorm erkend wordt; ze zeggen dat iets wat valt nog gegeten mag worden als het "maar heel kort" op de grond lag. Ik ben het met die regel eens, maar ik vind de termijn te lang. Ik doe het korter.
+**Over de wet van het gevallen eten.** Wat de vloer raakt, behoort de vloer toe. De vloer behoort mij toe. Dat is een natuurwet, die de mensen zelf in een zwakke vorm erkennen: ze zeggen dat iets wat valt nog gegeten mag worden als het "maar heel kort" op de grond lag. Ik ben het met die regel eens, maar ik vind de termijn te lang. Ik doe het korter.
 
 Mijn eigenlijke hypothese die avond ging over Paul.
 
@@ -42,7 +40,7 @@ Ik moet er eerlijk bij zeggen dat ik op dat moment al lang niets meer had gegete
 
 Bij het voorgerecht deed ik niets. Het was soep, en soep valt niet, ze druppelt alleen, en wat druppelt, landt op het laken.
 
-Bij het hoofdgerecht begon het schrapen. De proefpersoon sneed het vlees aan het buffet, met zijn rug naar de tafel, en ik zag hoe hij het eerste stuk, het mooiste uit het midden, op zijn eigen bord legde. Daarna sneed hij voor de anderen. Annemie zei iets over de saus. Rik vertelde een verhaal over een directeur bij de firma die ooit zijn eigen auto niet meer had teruggevonden op de parking, en hij vertelde het met zijn vork in de lucht, en met elke zin ging de vork verder omhoog. Ik hield die vork scherp in de gaten. Er viel niets van. Rik is een man die zijn vork vasthoudt zoals de proefpersoon zijn sleutels: hij verliest hem nooit, hij weet alleen soms niet meer waar hij hem heeft neergelegd.
+Bij het hoofdgerecht begon het schrapen. De proefpersoon sneed het vlees aan het buffet, met zijn rug naar de tafel, en ik zag hoe hij het eerste stuk, het mooiste uit het midden, op zijn eigen bord legde. Daarna sneed hij voor de anderen. Annemie zei iets over de saus. Rik vertelde een verhaal over een directeur bij de firma die ooit zijn eigen auto niet meer had teruggevonden op de parking, en hij vertelde het met zijn vork in de lucht, en met elke zin ging de vork verder omhoog. Ik hield die vork scherp in de gaten. Er viel niets van.
 
 Pauls hand hing naast zijn stoel.
 
@@ -56,7 +54,7 @@ Paul sprong op alsof hij in de kachel had gegrepen. Zijn knie ging tegen de tafe
 
 Ik ging terug. Achter mij hoorde ik Paul zeggen dat het niet erg was, dat hij gewoon geschrokken was, dat hij zijn hand altijd zo liet hangen, al sinds hij klein was, dat zijn moeder er ook altijd iets van zei. In die hand had niets gezeten. Ik had geen bewijs gevonden van één korstje, één velletje, één vezel vlees. Alleen hand.
 
-Ik lag in de mand en maakte de rekening op. Ik had die avond, in de tijd tussen de soep en mijn opstaan, veertien bewegingen van Pauls hand genoteerd als pogingen tot voederen. Achteraf bekeken was het iets anders: een man die met zijn vingers trommelde terwijl hij luisterde naar een verhaal over een directeur. Mijn honger had bij elke beweging gezegd: nu. En ik had geluisterd naar mijn honger in plaats van naar mijn neus.
+Ik lag in de mand en maakte de rekening op. Ik had die avond, in de tijd tussen de soep en mijn opstaan, elke beweging van Pauls hand genoteerd als een poging tot voederen. Achteraf bekeken was het iets anders: een man die met zijn vingers trommelde terwijl hij luisterde naar een verhaal over een directeur. Mijn honger had bij elke beweging gezegd: nu. En ik had geluisterd naar mijn honger in plaats van naar mijn neus.
 
 Ik schrijf dit op als een fout van de onderzoeker. Ik weet niet zeker of ik dezelfde fout de volgende keer niet opnieuw zou maken.
 
@@ -72,7 +70,7 @@ Het dessert was chocolademousse, in kleine glazen kommetjes, met een lepel die b
 
 Op dat moment stond de proefpersoon op met zijn bord.
 
-Ik had zijn bord de hele avond gevolgd, en daar moet ik iets bij opmerken wat ik toen anders uitlegde. Aan de rand, ver van de saus, had al die tijd een stukje vlees gelegen. Een stukje van het mooiste stuk uit het midden, dat ik hem helemaal in het begin had zien snijden. Hij had rond dat stukje gegeten. Hij had het met zijn mes van de saus weggeschoven toen de saus te dichtbij kwam. Ik had dat gezien, en mijn honger had het genoteerd als een vergissing: een stuk dat hij vergeten was en dat dus straks in de keuken in de vuilnisbak zou verdwijnen, wat de grootste verspilling zou zijn die dit huis ooit had gekend.
+Ik had zijn bord de hele avond gevolgd. Aan de rand, ver van de saus, had al die tijd een stukje vlees gelegen. Een stukje van het mooiste stuk uit het midden, dat ik hem helemaal in het begin had zien snijden. Hij had rond dat stukje gegeten. Hij had het met zijn mes van de saus weggeschoven toen de saus te dichtbij kwam. Ik had dat gezien, en mijn honger had het genoteerd als een vergissing: een stuk dat hij vergeten was en dat dus straks in de keuken in de vuilnisbak zou verdwijnen, wat de grootste verspilling zou zijn die dit huis ooit had gekend.
 
 Hij liep niet naar de keuken. Hij liep naar mijn mand en hurkte erbij. Zijn knieën kraakten. Hij nam het stukje tussen duim en wijsvinger en hield het voor mijn neus.
 
@@ -94,9 +92,9 @@ De proefpersoon antwoordde niet. Hij stond op, met een hand op zijn knie, en zet
 
 Ik moet hier twee conclusies noteren, en ze staan niet helemaal goed naast elkaar.
 
-De eerste is een conclusie over mezelf. Mijn honger is een meetinstrument dat altijd aan staat en altijd te hoog uitslaat. Hij zag een hand en maakte er een voederbeurt van. Hij zag een stukje vlees op een bord en maakte er een vergissing van. Twee keer die avond had ik het fout, en twee keer had ik het fout in dezelfde richting. Een goede onderzoeker kent de afwijking van haar eigen instrument. Ik ken ze. Ik kan er alleen niets aan veranderen.
+De eerste is een conclusie over mezelf. Mijn honger is een meetinstrument dat altijd aan staat en altijd te hoog uitslaat. Hij zag een hand en maakte er een voederbeurt van. Hij zag een stukje vlees op een bord en maakte er een vergissing van. Een goede onderzoeker kent de afwijking van haar eigen instrument. Ik ken ze. Ik kan er alleen niets aan veranderen.
 
-De tweede is een conclusie over de proefpersoon. Hij had dat stukje bewaard vanaf de eerste snee. Hij had het afgeschermd tegen de saus, waar ui in zat. Hij had het niet uit zijn hand laten vallen onder de tafel, zoals een kind doet, of zoals ik dacht dat Paul deed. Hij had het gegeven na het eten, op zijn hurken, voor iedereen te zien, met zijn knieën die kraakten.
+De tweede gaat over de proefpersoon. Hij had dat stukje bewaard vanaf de eerste snee en het afgeschermd tegen de saus, waar ui in zat. Hij liet het niet onder de tafel vallen, zoals ik dacht dat Paul deed. Hij gaf het na het eten, op zijn hurken, voor iedereen te zien.
 
 Toen ik nog klein was, at ik wanneer de bak gevuld werd, en de proefpersoon at aan tafel, en die twee dingen hadden niets met elkaar te maken. Sinds die avond is het anders gegaan. Elke avond, als het bestek op het bord werd gelegd met dat kleine heldere getik, kwam hij naar mijn mand met een stukje van zijn bord. Elke avond. Ik heb nooit gebedeld aan tafel. Ik heb gewacht op het getik.
 

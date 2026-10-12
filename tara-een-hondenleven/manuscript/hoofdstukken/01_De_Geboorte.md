@@ -12,7 +12,7 @@ De eerste geur was melk. Ze kwam uit de buik, uit een warme plek die ik vond doo
 
 Onder de melk lag een tweede geur, droog en licht en een beetje stoffig: stro. Niet het stro waarop ik lag, al rook dat ook naar stro. Dit stro zat in de vacht van de buik, in de poten die naast me lagen, in de adem die over mijn rug ging. Melk en droog stro. Die twee samen waren zij. Ik had geen woord voor haar. Ik had voor niets een woord. Maar als ik van haar wegrolde en de melk en het stro dunner werden, wist mijn lijf dat het de verkeerde kant op ging. Dan begon ik te kruipen, met mijn kop laag en mijn achterpoten die duwden terwijl mijn voorpoten nog niet goed meewilden, tot de geur weer dik werd en de warmte weer van twee kanten kwam.
 
-Ze likte ons. Een grote, natte, ruwe tong ging over mijn buik en over mijn achterwerk, schoof me een eind mee over het stro en liet me dan los. Na de tong was ik koud op de natte plekken, tot de warmte me weer droogde. Ik begreep niet waarom dat moest. Ik begreep niets. Ik liet het gebeuren, zoals je regen laat gebeuren.
+Ze likte ons. Een grote, natte, ruwe tong ging over mijn buik en over mijn achterwerk, schoof me een eind mee over het stro en liet me dan los. Na de tong was ik koud op de natte plekken, tot de warmte me weer droogde. Ik begreep niet waarom dat moest. Ik liet het gebeuren, zoals je regen laat gebeuren.
 
 Want ik was niet alleen.
 
@@ -20,7 +20,7 @@ Er waren anderen. Hoeveel wist ik niet; tellen kon ik nog niet, en het is altijd
 
 Later heb ik geleerd dat we met negen waren. Acht nestgenoten, en ik. Maar in het begin waren we geen negen. We waren één warme hoop, met achttien ogen die dichtzaten en zesendertig poten die nergens naartoe gingen. Er was geen ik. Er was een wij. Als de hoop bewoog, bewoog ik mee. Als de hoop sliep, sliep ik. Als één van ons begon te zoeken, begonnen de anderen ook, en dan schoof de hele hoop naar de buik als deeg dat over de rand van een tafel loopt.
 
-Toch had elk van ons een eigen geur. Dat was het eerste verschil dat ik leerde maken, en het was een verschil van de neus.
+Toch had elk van ons een eigen geur. Dat was het eerste verschil dat ik leerde maken.
 
 De meesten roken naar melk en naar ons, want we roken allemaal een beetje naar elkaar. Eén rook zuur, naar de plek waar we niet hoorden te liggen. Eén rook naar natte steen, zelfs als hij droog was. Eén rook vooral naar zichzelf, sterk en zout, en die lag altijd bovenop. Maar er was er ook één die naar hooi rook. Niet naar stro, dat dor is en dun, maar naar hooi: zwaarder, groener, met iets van een weide erin. Zij lag meestal aan mijn linkerkant. Als ik wakker werd en mijn neus lag tegen hooi, dan wist ik dat ik goed lag. Ze duwde minder dan de anderen. Ze schoof een beetje op als ik kwam. Ik weet niet of dat vriendelijkheid was of luiheid. Bij pups is dat moeilijk uit elkaar te houden. Bij volwassen honden ook.
 

@@ -10,7 +10,7 @@ Mensen geloven dat een hond weet wat ze misdaan heeft, omdat ze het aan haar gez
 
 Het was de tijd van het jaar waarin de houtkachel weer elke avond tikte en de tuin 's morgens naar natte bladeren en koude aarde rook. Het licht kwam laat en ging vroeg. De proefpersoon vertrok in het donker en kwam in het donker terug, en tussen die twee donkers lag een lange, lege dag die ik had leren meten aan het verschuiven van zijn geur in de gang.
 
-Die geur begon elke ochtend sterk. Koffie, aftershave, de natte wol van zijn jas. Tegen de middag was de aftershave weg en hing alleen de koffie nog in de kapstok. Tegen de tijd dat de zonnerechthoek over het tapijt naar de bank was geschoven en daar verdween, was ook de koffie bijna op, en dan kwam hij. Zo was het altijd geweest. Ik had er een klok van gemaakt, en de klok liep goed.
+Die geur begon elke ochtend sterk: koffie, aftershave, de natte wol van zijn jas. Tegen de tijd dat de zonnerechthoek van de bank verdween, was ook de koffie bijna op, en dan kwam hij. Ik had er een klok van gemaakt, en de klok liep goed.
 
 Die dag liep hij niet goed. De zonnerechthoek was al lang van de bank gegleden. Mieke was thuisgekomen, had naar krijt en appels geroken, had iets gekookt, had naar de telefoon gekeken en "file" gezegd tegen niemand. Het werd donker in de woonkamer. De koffie in de gang was niet meer te ruiken. Het was alsof de proefpersoon nooit had bestaan, behalve op één plek.
 
@@ -28,7 +28,7 @@ Hij aaide me niet. Hij hing zijn jas aan de kapstok, naast de lijn, en zei "goei
 
 Hij bleef staan bij de kachel.
 
-Eerst rook ik het. Het metalige werd sterker, alsof iemand een lepel in zijn zak had verwarmd. Dan zag ik zijn lichaam: de schouders die omhoog gingen, de kin die naar voren kwam, één hand die openging en weer dichtging. En dan pas kwamen de woorden.
+Eerst rook ik het. Er kwam zweet bij, nat en zout, uit zijn handpalmen, en het scherpe werd dikker, als koffie in een beker die nooit wordt uitgespoeld. Dan zag ik zijn lichaam: de schouders die omhoog gingen, de kin die naar voren kwam, één hand die openging en weer dichtging. En dan pas kwamen de woorden.
 
 "Tara! Wat hebt gij nu weer..."
 
@@ -42,19 +42,19 @@ De proefpersoon keek naar mij. Ik keek naar de vloer. Zo bleven we een tijd.
 
 Toen boog hij door zijn knieën. Niet zoals iemand die iets van de grond raapt, maar langzamer, met een kreun in zijn rug. Hij ging zitten. Op de vloer, naast de mand, tussen de plukjes vilt, met zijn rug tegen de bank en zijn benen gestrekt naar de kachel. Zijn sokken waren nat van de regen en roken naar de auto.
 
-Hij zei niets. Hij legde zijn hand open op het tapijt, een eindje van mijn neus. Niet op mij. Naast mij.
+Hij legde zijn hand open op het tapijt, een eindje van mijn neus. Niet op mij. Naast mij.
 
-Het metalige zakte. Niet in één keer, maar zoals warm water afkoelt: ik merkte het pas toen het al weg was. Na een tijd schoof ik mijn neus naar zijn hand. Hij rook naar het stuur van de auto, naar uitlaatgas, naar zichzelf.
+Het scherpe zakte. Niet in één keer, maar zoals warm water afkoelt: ik merkte het pas toen het al weg was. Na een tijd schoof ik mijn neus naar zijn hand. Hij rook naar het stuur van de auto, naar uitlaatgas, naar zichzelf.
 
-"Allez," zei hij zacht. "Ik was ook te laat, hè."
+"Allez," zei hij zacht. "Ik was ook te laat, hé."
 
-Mieke kwam in de deuropening staan. Ze keek naar hem, op de vloer, en naar de plukjes, en naar mij. Ze zei niets. Ze ging terug naar de keuken, en ik hoorde de pollepel weer bewegen.
+Mieke kwam in de deuropening staan. Ze keek naar hem, op de vloer, en naar de plukjes, en naar mij. Ze ging terug naar de keuken, en ik hoorde de pollepel weer bewegen.
 
 ### Hypothese
 
 Ik heb lang over die avond nagedacht, in de mand, met mijn kin op wat er van de pantoffel over was.
 
-De mensen noemen het een schuldig gezicht. Ze zeggen: kijk, ze weet het. Ze weet wat ze gedaan heeft. Ik moet als onderzoeker eerlijk zijn over wat ik waarnam, ook als het mezelf betreft.
+De mensen noemen het een schuldig gezicht. Ze zeggen: kijk, ze weet het. Ze weet wat ze gedaan heeft.
 
 Ten eerste. De pantoffel was al lang kapot toen mijn gezicht wegdraaide. Het vilt in mijn mond was al droog. Als mijn gezicht over de pantoffel ging, dan had het zich moeten wegdraaien terwijl ik kauwde, of toen ik klaar was, of toen ik ging slapen. Dat deed het niet. Ik sliep goed.
 
@@ -62,7 +62,7 @@ Ten tweede. Mijn kop draaide weg op het moment dat zijn schouders omhooggingen e
 
 Ten derde. Ik zeg niet dat ik niets voelde. Er was iets, laag in mijn buik, iets wat ik niet kende van andere avonden. Maar wat het was, kan ik niet benoemen, en of het met vilt te maken had of met zijn stem, kan ik niet uit elkaar halen. Ruiken is niet weten, ook niet bij jezelf.
 
-Mijn hypothese was daarom deze: het gezicht dat de mensen schuldig noemen, is een antwoord. Het is geen bekentenis over wat er gebeurd is. Het is een antwoord op wat er nu gebeurt, op de schouders en de kin en het metaal. De mens maakt de vraag, en dan leest hij in het antwoord wat hij al dacht.
+Mijn hypothese was daarom deze: het gezicht dat de mensen schuldig noemen, is een antwoord. Het is geen bekentenis over wat er gebeurd is. Het is een antwoord op wat er nu gebeurt, op de schouders en de kin en de geur. De mens maakt de vraag, en dan leest hij in het antwoord wat hij al dacht.
 
 Ik schreef ook een tweede hypothese op, kleiner, die ik niet kon bewijzen. De proefpersoon had dat ook gezien. Daarom was hij gaan zitten.
 
@@ -78,7 +78,7 @@ Ik stond op. Ik had iets nodig voor mijn mond, en de linkerpantoffel was niet me
 
 Ik ging aan de voet van de trap staan, met de pantoffel in mijn bek, en ik zong.
 
-Ik moet het lied hier niet beschrijven; het staat al in de eerdere verslagen. Het kwam zoals altijd: hoog, golvend, vanuit een plek in mijn keel die ik zelf niet kan aanwijzen. Mijn achterlijf ging mee. De zevende trede piepte. De proefpersoon verscheen in de gang, in zijn badjas, met zijn haar plat aan één kant.
+Het kwam zoals altijd: hoog, golvend, vanuit een plek in mijn keel die ik zelf niet kan aanwijzen. Mijn achterlijf ging mee. De zevende trede piepte. De proefpersoon verscheen in de gang, in zijn badjas, met zijn haar plat aan één kant.
 
 Hij bleef staan op de onderste trede. Hij keek naar mij, en naar de rechterpantoffel. Iets in zijn gezicht veranderde, iets in de hoeken van zijn mond. Hij boog zich voorover, nam de pantoffel vast bij de hiel en trok hem zacht uit mijn bek.
 
@@ -104,11 +104,7 @@ Toen lachte hij. Niet het lachen dat ik van feestjes ken, met veel lucht en wein
 
 "Ze kan het niet zonder," zei hij. "Ze moet iets in haar muil hebben. Al die tijd."
 
-"Dat had ik u kunnen zeggen," zei Mieke.
-
-"Waarom hebt ge 't dan niet gezegd?"
-
-"Ge hebt 't nooit gevraagd."
+Mieke kwam naar beneden tot op de zevende trede, die piepte, en ging daar zitten, met haar ochtendjas over haar knieën. Ze keek mee.
 
 Hij veegde zijn ogen af met de mouw van zijn badjas. Toen stond hij op, liep naar de keuken en vulde de etensbak. Ik volgde hem, met de pantoffel, en zong tot de bak op de grond stond. Daarna had ik mijn mond voor iets anders nodig.
 
@@ -118,13 +114,13 @@ Het resultaat van het experiment van de proefpersoon was eenduidig, herhaalbaar 
 
 Het lied is afhankelijk van een voorwerp in de mond. Zonder voorwerp stopt het. Met voorwerp begint het. De zangeres heeft daar zelf niets over te zeggen.
 
-Ik was daar niet blij mee. Ik had tot dan toe aangenomen dat het lied van mij was, zoals mijn neus van mij is en mijn honger. Nu bleek dat iemand anders het aan en uit kon zetten met een pantoffel. Het was alsof iemand mijn staart had laten kwispelen door op een knop te duwen.
+Ik was daar niet blij mee. Ik had tot dan toe aangenomen dat het lied van mij was, zoals mijn neus van mij is en mijn honger. Nu bleek dat iemand anders het aan en uit kon zetten met een pantoffel.
 
-Maar ik moet als onderzoeker ook dit noteren. De proefpersoon had in de jaren daarvoor veel proeven op mij gedaan. Hij had geroepen tot ik niets meer begreep. Hij had aan de lijn getrokken. Hij had een krant opgerold. Al die proeven waren mislukt, en ik had ze met opluchting zien mislukken. Deze proef was anders. Hij had niets van me gevraagd. Hij had alleen gekeken wat er gebeurde als hij iets veranderde, en dan had hij het nog eens gedaan om zeker te zijn. Dat is de methode. Dat is precies de methode.
+Maar ik noteer ook dit. De proefpersoon had eerder veel proeven op mij gedaan: roepen tot ik niets meer begreep, trekken aan de lijn, een opgerolde krant. Ze waren allemaal mislukt, en ik had ze met opluchting zien mislukken. Deze proef was anders. Hij had niets van me gevraagd. Hij had alleen gekeken wat er gebeurde als hij iets veranderde, en dan had hij het nog eens gedaan om zeker te zijn. Dat is precies de methode.
 
-Die avond, toen het licht in de woonkamer uitging en de kachel nog tikte, ging ik naar de bank en nam de rechterpantoffel mee naar de mand. Het dekentje uit de auto lag daar al jaren, en het rook al lang niet meer naar het kot, alleen nog naar wasverzachter en naar mij. Ik schoof het met mijn poten naar de rand. Ik legde de pantoffel in het midden en mijn kin erop.
+Die avond, toen het licht in de woonkamer uitging en de kachel nog tikte, ging ik naar de bank en nam de rechterpantoffel mee naar de mand. Het dekentje uit de auto lag daar al een hele tijd, en het rook al lang niet meer naar het kot, alleen nog naar wasverzachter en naar mij. Ik schoof het met mijn poten naar de rand. Ik legde de pantoffel in het midden en mijn kin erop.
 
-De proefpersoon stond in de deuropening, met zijn hand al aan de lichtknop. Hij zag het. Hij zei niets.
+De proefpersoon stond in de deuropening, met zijn hand al aan de lichtknop. Hij zag het. Hij deed het licht uit.
 
 Twee avonden later stond er een nieuw paar onder de bank. Grijs dit keer, met een stevigere zool, en nog met een kartonnetje erin dat naar de winkel rook. Hij trok het kartonnetje eruit, trok de pantoffels aan en ging met zijn tablet in de zetel zitten. Over de oude rechter heeft hij nooit meer iets gezegd. Hij lag in mijn mand, en daar bleef hij.
 
@@ -132,7 +128,7 @@ Twee avonden later stond er een nieuw paar onder de bank. Grijs dit keer, met ee
 
 Het schuldige gezicht is geen bewijs. Het is een spiegel waar de mens zijn eigen schouders in ziet.
 
-Maar een spiegel kan ook iets terugsturen. De proefpersoon zag die avond mijn weggedraaide kop, en in plaats van harder te roepen, ging hij zitten. Ik weet niet wat hij in mijn gezicht zag. Ik weet wel wat ik in het zijne zag, de volgende ochtend op de trap, toen het lied stopte en weer begon.
+Maar een spiegel kan ook iets terugsturen. Ik weet niet wat de proefpersoon die avond in mijn gezicht zag. Ik weet wel wat ik in het zijne zag, de volgende ochtend op de trap, toen het lied stopte en weer begon.
 
 Ik heb nog lang geprobeerd om het lied zelf te verklaren. Dat is me nooit gelukt. De proefpersoon heeft één ding ontdekt dat ik over mezelf niet wist, en hij deed het in zijn badjas, in drie keer, met een pantoffel.
 

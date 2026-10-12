@@ -16,15 +16,15 @@ Ik legde mijn neus tegen haar buik. Sofie lachte en duwde mijn kop weg.
 
 "Ze weet niks," zei Lode. "Ze ruikt iets."
 
-Hij had gelijk. Ruiken is niet weten. Ik rook dat er iets in Sofie veranderde. Wat, dat wist ik niet, en ik heb het ook niet geraden. Ik heb wel genoteerd dat Lode in die maanden een houten hekwerk in elkaar zette in de woonkamer, naast de kachel, op mijn kant, met een zakje schroeven en een papier met tekeningen dat hij drie keer omkeerde. Het hekwerk rook naar nieuw hout en naar de fabriek, en er lag een dun matras in dat naar plastic rook. Ik heb er een nacht in geslapen. Daarna niet meer, want Mieke vond me er de volgende ochtend in en zei "Nee, schat, dat is niet voor u," zo vriendelijk dat ik het meteen geloofde.
+Hij had gelijk. Ik rook dat er iets in Sofie veranderde, meer niet. Ik heb wel genoteerd dat Lode in die maanden een houten hekwerk in elkaar zette in de woonkamer, naast de kachel, op mijn kant, met een zakje schroeven en een papier met tekeningen dat hij drie keer omkeerde. Het hekwerk rook naar nieuw hout en naar de fabriek, en er lag een dun matras in dat naar plastic rook. Ik heb er een nacht in geslapen. Daarna niet meer, want Mieke vond me er de volgende ochtend in en zei "Nee, schat, dat is niet voor u," zo vriendelijk dat ik het meteen geloofde.
 
-En Mieke zoog. Dat moet ik ook noteren, want het hoort bij de gegevens. In de weken voor het pakje haalde ze de stofzuiger vaker uit het berghok dan in de twee jaren daarvoor bij elkaar. De stofzuiger is een lang, laag dier met een snuit op een stok, dat met een brul ontwaakt en alles opeet wat op de grond ligt, ook wat van mij is: haren, kruimels, het zand van de zandweg. Ik had er sinds mijn eerste weken een vaste procedure voor. Bij de eerste brul ging ik naar de tuin, en als de tuindeur dicht was, ging ik onder de keukentafel, achter de stoelpoten, waar de snuit niet bij kon.
+En Mieke zoog. Dat hoort ook bij de gegevens. In de weken voor het pakje haalde ze de stofzuiger vaker uit het berghok dan in al de tijd daarvoor bij elkaar. De stofzuiger is een lang, laag dier met een snuit op een stok, dat met een brul ontwaakt en alles opeet wat op de grond ligt, ook wat van mij is: haren, kruimels, het zand van de zandweg. Ik had er sinds mijn eerste weken een vaste procedure voor. Bij de eerste brul ging ik naar de tuin, en als de tuindeur dicht was, ging ik onder de keukentafel, achter de stoelpoten, waar de snuit niet bij kon.
 
 Het nieuws kwam op een ochtend. Ik hoorde Lode op de trap, ik had zijn sok in mijn bek, en ik zong. Lode vulde de bak met zijn telefoon tegen zijn oor geklemd, en de brokken liepen over de rand op de tegels. "Ja," zei hij. "Ja. Hoeveel? Allez. Allez, jong." Hij legde de telefoon op het aanrecht en bleef staan met de maatbeker in zijn hand. Mieke kwam de trap af in haar ochtendjas, half lopend. Ze rook naar slaap en naar iets wat haastig was. Ze sloegen hun armen om elkaar heen, midden in de keuken, over mij heen, en ik at de gemorste brokken op, een voor een, omdat niemand anders het deed.
 
 Een paar slapen later kwam de dag.
 
-Het was voorjaar, de appelboom stond in het wit, en de kachel was al weken uit; het huis rook naar open ramen en naar gemaaid gras van de buren. Ik hoorde een auto de straat in komen die ik kende: een kleine blauwe. Sofies auto. Ik kende hem nog niet aan zijn geluid, wel aan zijn kleur, want blauw is een van de weinige kleuren die ik echt zie, en die auto was zo blauw als de lucht op een goeie dag. Hij draaide de oprit op en bleef staan achter de grijze.
+Het was voorjaar, de appelboom stond in het wit, en de kachel was al weken uit; het huis rook naar open ramen en naar gemaaid gras van de buren. Ik hoorde een auto de straat in komen die ik kende: een kleine blauwe. Sofies auto. Ik kende hem nog niet aan zijn geluid, wel aan zijn kleur, want blauw is een van de weinige kleuren die ik echt zie. Hij draaide de oprit op en bleef staan achter de grijze.
 
 Sofie stapte uit, traag, met een hand aan het portier. Jonas stapte aan de andere kant uit en ging achterin iets losmaken. Toen hij zich weer oprichtte, droeg hij een mand met een hengsel, van grijze stof en hard plastic, zoals je een emmer water draagt die niet mag morsen.
 
@@ -56,9 +56,9 @@ Ik kende dat geluid. Niet van mensen. Van het kot. Het was het hoge, dunne piepe
 
 Ik keek naar Lode.
 
-Lode zei niets. Sofie stond op en nam het pakje uit de mand, en het piepen werd zachter tegen haar borst en hield op.
+Lode bewoog niet. Sofie stond op en nam het pakje uit de mand, en het piepen werd zachter tegen haar borst en hield op.
 
-Ik ging liggen. Naast de mand, met mijn rug tegen het hekwerk en mijn kin op mijn voorpoten, zo dat ik tussen de mand en de rest van de kamer lag. Ik heb niet nagedacht over waar ik ging liggen. Ik lag daar gewoon.
+Ik ging liggen. Naast de mand, met mijn rug tegen het hekwerk en mijn kin op mijn voorpoten, zo dat ik tussen de mand en de rest van de kamer lag. Ik heb niet nagedacht over waar ik ging liggen.
 
 ### Hypothese
 
@@ -102,7 +102,7 @@ Het werd stil in de kamer. In het hekwerk bewoog het pakje een arm en sliep verd
 
 "Allez," zei Mieke. Ze keek naar mij, en naar de stofzuiger, en weer naar mij. "Ik doe dat wel als hij weg is."
 
-Lode stond in de keukendeur met een kop koffie. Hij had het gezien. Hij zei niets tegen mij, maar hij zei tegen Mieke: "Die heeft haar roedel gevonden, hé."
+Lode stond in de keukendeur met een kop koffie. Hij had het gezien. Tegen Mieke zei hij: "Die heeft haar roedel gevonden, hé."
 
 Die avond, toen de blauwe auto weg was, ging ik zoals altijd het dekentje uit de auto halen. Het lag niet bij de kapstok, waar ik het had achtergelaten. Het lag in het hekwerk, opgevouwen, op het matras. Ik had het er zelf in gelegd, die middag, toen het pakje sliep, en ik was het vergeten. Het rook nu naar melk. Ik nam het mee naar mijn mand en sliep er met mijn kin op.
 

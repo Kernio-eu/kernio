@@ -18,11 +18,11 @@ En een derde deel kwam uit de trommel op de tweede plank.
 
 De trommel was rond en had een deksel dat klemde. Als Mieke het opentrok, maakte het een kort, hol geluid, zoals een kurk, en dan kwam er een golf van boter en suiker en iets geroosterds de keuken in, die zich over de koele tegels uitspreidde en tot onder de bank in de woonkamer kwam. Ik heb die golf gevoeld door de tuindeur heen, met mijn kop in een mollenhoop. Het deksel klemde, maar het klemde niet genoeg.
 
-Wat ik niet wist, was waarom het deksel openging. Ik ging eronder staan, ik ging eronder liggen, ik zette mijn voorpoten tegen de kast en strekte me. Het deksel bleef dicht. Dan ging Mieke er zonder enige aanleiding naartoe en ging het open. Ik kon er geen lijn in vinden.
+Wat ik niet wist, was waarom het deksel openging. Ik ging eronder staan, ik ging eronder liggen, ik zette mijn voorpoten tegen de kast en strekte me. Het deksel bleef dicht. Dan ging Mieke er zonder enige aanleiding naartoe en ging het open.
 
 Het huis was in die tijd warm. De zon kwam 's middags door het grote raam in de woonkamer en legde een gele rechthoek op het tapijt, en die rechthoek schoof traag naar de bank, en ik schoof mee, en tegen de tijd dat hij tegen de poten van de bank klom, lag ik er ook tegen. De tuin was lang en smal, met een appelboom halverwege en gras dat naar de buren rook en naar mollen. Mieke was elke dag thuis. Ze had vakantie, zei ze tegen de telefoon, en de telefoon leek dat goed te vinden.
 
-Lode was er de eerste dagen ook. Daarna verdween hij elke ochtend in de grijze wagen en kwam hij terug als de zonnerechthoek van de bank af was gegleden. Hij rook dan naar koffie die te lang in een kan had gestaan, naar de wagen, en naar iets scherps en metaligs dat hij uit Antwerpen meebracht en dat pas na het eten wat wegtrok.
+Lode was er de eerste dagen ook. Daarna verdween hij elke ochtend in de grijze wagen en kwam hij terug als de zonnerechthoek van de bank af was gegleden. Hij rook dan naar koffie die te lang in een kan had gestaan, naar de wagen, en naar iets scherps in zijn handpalmen dat hij uit Antwerpen meebracht en dat pas na het eten wat wegtrok.
 
 Zo rook hij ook de eerste keer dat hij mij iets probeerde te leren.
 
@@ -40,7 +40,7 @@ Ik hoorde hem. Ik begreep alleen niet wat het geluid met het meertje te maken ha
 
 "Gij gaat haar neus nergens in duwen," zei Mieke, en ze veegde.
 
-Daarna droeg Mieke me naar buiten. Elke keer als ik wakker werd. Elke keer als ik gegeten had. Elke keer als ik met mijn neus aan de grond in een kringetje begon te draaien, wat ik blijkbaar deed zonder het zelf te weten. Ze droeg me door de tuindeur, zette me in het gras bij de appelboom, en wachtte. Ze stond daar met haar armen over elkaar, in de zon, en zei niets. Als ik dan plaste, zei ze, met een stem die heel hoog en heel blij was: "Goed zo, Tara! Goed zo!" En er kwam een stukje koekje uit haar hand.
+Daarna droeg Mieke me naar buiten. Elke keer als ik wakker werd. Elke keer als ik gegeten had. Elke keer als ik met mijn neus aan de grond in een kringetje begon te draaien, wat ik blijkbaar deed zonder het zelf te weten. Ze droeg me door de tuindeur, zette me in het gras bij de appelboom, en wachtte. Ze stond daar met haar armen over elkaar, in de zon. Als ik dan plaste, zei ze, met een stem die heel hoog en heel blij was: "Goed zo, Tara! Goed zo!" En er kwam een stukje koekje uit haar hand.
 
 Ik begreep het snel. Gras was koekje.
 
@@ -48,7 +48,7 @@ Ik ben een tijd naar het gras gegaan zonder te moeten, en heb daar met een ernst
 
 Dan kwam POOT.
 
-Lode zat op een keukenstoel. Zijn das hing los, zijn hemd was gekreukt aan de buik, en het metalige zat nog in zijn handen. Hij stak een van die handen naar mij uit, met de palm naar boven.
+Lode zat op een keukenstoel. Zijn das hing los, zijn hemd was gekreukt aan de buik, en het scherpe van Antwerpen zat nog in zijn handen. Hij stak een van die handen naar mij uit, met de palm naar boven.
 
 "Poot."
 
@@ -64,7 +64,7 @@ Ik ging liggen. Ik rolde op mijn rug, met mijn buik naar boven en mijn vier pote
 
 "Nee. POOT. Ge geeft mij uw POOT." Hij tikte met twee vingers tegen mijn voorpoot, harder dan nodig. "POOT!"
 
-Hoe harder hij het zei, hoe minder het betekende. Het woord werd groter en groter tot het alleen nog geluid was, een harde klap van een woord, en dan ging ik vanzelf een beetje achteruit. Tot achter de tafelpoot. Het metalige was sterker geworden, en er zat nu ook iets zuurs bij.
+Hoe harder hij het zei, hoe minder het betekende. Het woord werd groter en groter tot het alleen nog geluid was, een harde klap van een woord, en dan ging ik vanzelf een beetje achteruit. Tot achter de tafelpoot. Zijn handen roken nu naar zweet, en er zat ook iets zuurs bij.
 
 "Op 't hof," zei Lode, "leerde den hond dat in één dag."
 
@@ -72,7 +72,7 @@ Mieke stond aan het aanrecht. Ze draaide zich niet eens om.
 
 "Bij u op 't hof zat den hond aan de ketting, Lode. Die moest geen poot geven."
 
-Lode zei niets. Hij keek naar zijn hand, die nog altijd uitgestoken in de lucht hing, en liet hem zakken.
+Lode keek naar zijn hand, die nog altijd uitgestoken in de lucht hing, en liet hem zakken.
 
 Toen deed Mieke de trommel open.
 
@@ -146,11 +146,11 @@ Hij deed de bench open, keek naar zijn knieën, en ging met een kreun op de gron
 
 Ik gaf het. Ik had het die middag geleerd, en het zat nog vers in mijn poot.
 
-De hand ging open. Hij zei niets, eerst. Toen zei hij, nog zachter: "Goe zo."
+De hand ging open. Eerst bleef het stil. Toen zei hij, nog zachter: "Goe zo."
 
 Hij keek weer naar de trap.
 
-We deden het nog eens. En nog eens. Bij de vierde keer zei hij "Goe zo, Tara," en zijn stem was een stem die ik nog niet van hem kende. Het metalige was helemaal weg. Er bleef koffie over, en slaap, en iets warms dat ik ook in het kot had geroken, toen hij door zijn knieën ging.
+We deden het nog eens. En nog eens. Bij de vierde keer zei hij "Goe zo, Tara," en zijn stem was een stem die ik nog niet van hem kende. Het scherpe was helemaal weg. Er bleef koffie over, en slaap, en iets warms dat ik ook in het kot had geroken, toen hij door zijn knieën ging.
 
 Daarna at hij zelf een koekje, staande boven het aanrecht, met zijn hand eronder voor de kruimels. Hij drukte het deksel aan met zijn duim en deed het licht uit.
 
@@ -188,7 +188,7 @@ Het woord poot betekent: leg je poot op de hand. Het werkt alleen als het zacht 
 
 Gras is koekje, maar alleen als je echt moet.
 
-De bak wordt gevuld als ik zing. Elke ochtend. Zonder uitzondering. De man komt de trap af, ik zing, de bak wordt gevuld.
+De bak wordt gevuld als ik zing. Elke ochtend. Zonder uitzondering.
 
 Er zijn weinig dingen in de wereld waar ik zo zeker van ben geweest.
 
@@ -196,7 +196,7 @@ Er zijn weinig dingen in de wereld waar ik zo zeker van ben geweest.
 
 Het eten komt uit de zak, uit de trommel en van de tafel. Het komt eruit als je zit, als je poot geeft, als je in het gras plast en als je zingt. Het komt er niet uit als je eronder staat te wachten. Wachten is geen methode.
 
-De man is luider dan de vrouw. Hij leert ook, maar trager, en vooral 's nachts. Ik weet niet waarom hij 's nachts oefent en overdag roept. Ruiken kan ik alleen dat hij 's nachts anders ruikt.
+De man is luider dan de vrouw. Hij leert ook, maar trager, en vooral 's nachts. Ruiken kan ik alleen dat hij 's nachts anders ruikt.
 
 Er was nog een aantekening die ik in die tijd wilde maken, maar ik kreeg haar niet rond. Ze ging over die eerste nacht. Over een hand die door de spijlen kwam en daar bleef liggen tot het licht werd. Er zat geen koekje in die hand. Er kwam geen eten uit, en er werd niets mee gevraagd, en de man wist de volgende ochtend zelf niet waarom ze daar lag. Ik begreep die hand niet. Ik had er toch mijn kin op gelegd.
 

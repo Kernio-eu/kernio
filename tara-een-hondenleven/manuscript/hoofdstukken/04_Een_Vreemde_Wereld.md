@@ -12,7 +12,7 @@ Toen kwam zij uit de keuken.
 
 Handcrème. Dat was het eerste, een vette, zachte, zoete geur die van haar handen kwam en vóór haar uit liep. Daaronder krijt, droog en fijn, zoals stof van een steen. En appels. Niet één appel, maar de geur van iemand die er elke dag een at, tot in haar adem. Ze ging meteen op haar knieën op de tegels, en ze praatte tegen me alsof ik al lang had gevraagd waar ik was.
 
-"Dag, schatje. Gij zijt hier nu thuis, weet ge dat? Dit is de gang. Daar is de keuken, en daarachter de tuin, die is helemaal voor u. Heeft hij u onderweg iets gegeven? Niks, zeker?"
+"Dag, schatje. Ge zijt hier nu thuis, weet ge dat? Dit is de gang. Daar is de keuken, en daarachter de tuin, die is helemaal voor u. Heeft hij u onderweg iets gegeven? Niks, zeker?"
 
 "Ze heeft gezongen, Mieke," zei Lode, boven ons.
 
@@ -76,7 +76,7 @@ Ik draaide mijn kop naar haar.
 
 "Zie," zei ze.
 
-Lode zei niets. Maar later die avond, toen Mieke boven was, hoorde ik hem in de keuken, half tegen zichzelf. "Tara," zei hij. Nog altijd te hard. Maar minder.
+Lode keek naar zijn bord. Maar later die avond, toen Mieke boven was, hoorde ik hem in de keuken, half tegen zichzelf. "Tara," zei hij. Nog altijd te hard. Maar minder.
 
 Zo werd het geluid van mij. Het kwam die avond nog vaak terug, en altijd met iets erbij: een hand, een blik naar beneden, een stukje van iets dat van de tafel viel en waar niemand naar keek. Tegen de tijd dat het donker werd, draaide ik mijn kop al om voor het geluid helemaal uit was. Het was het eerste woord dat geen ding was, maar ik.
 
