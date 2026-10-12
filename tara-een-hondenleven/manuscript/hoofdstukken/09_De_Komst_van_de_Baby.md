@@ -128,4 +128,4 @@ Het pakje heet Bram. Dat weet ik omdat iedereen het tegen hem zegt, en hij er no
 > Onderwerp: de stofzuiger.
 > Status: levensgevaarlijk.
 > Aanbeveling: vanop veilige afstand blijven observeren. Uitzondering: als er een pakje ligt. Dan geen afstand.
-> *Opmerking van de kat: lag tijdens het incident boven op de boekenkast. Is niet van de boekenkast gekomen. Ging die avond in de lege draagmand liggen.*
+> *Opmerking van de kat: lag tijdens het incident boven op de boekenkast. Is niet van de boekenkast gekomen. Ging na het incident in de lege draagmand liggen.*

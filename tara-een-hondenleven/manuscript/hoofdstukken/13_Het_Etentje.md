@@ -32,7 +32,7 @@ Ik had over dit soort avonden al een paar vaste vaststellingen gedaan, die ik hi
 
 Mijn eigenlijke hypothese die avond ging over Paul.
 
-Hij zat aan de kant van de tafel die het dichtst bij mijn mand stond, en zijn lange linkerarm hing, terwijl hij at, naast zijn stoel naar beneden. Die hand rook naar vlees. Hij bewoog af en toe, met kleine schokjes, alsof hij iets tussen zijn vingers had. Ik kende het patroon. Zo hangt de hand van Bram op kinderdag over de rand van zijn kinderstoel, als hij een korstje van zijn boterham voor mij heeft bewaard en wacht tot zijn grootmoeder niet kijkt.
+Hij zat aan de kant van de tafel die het dichtst bij mijn mand stond, en zijn lange linkerarm hing, terwijl hij at, naast zijn stoel naar beneden. Die hand rook naar vlees. Hij bewoog af en toe, met kleine schokjes, alsof hij iets tussen zijn vingers had. Ik kende het patroon. Zo hangt de hand van Bram op kinderdag over de rand van zijn kinderstoel, met een korstje van zijn boterham erin, tot het korstje valt.
 
 Hypothese: Paul voert mij heimelijk.
 

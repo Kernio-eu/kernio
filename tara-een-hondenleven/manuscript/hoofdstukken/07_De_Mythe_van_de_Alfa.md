@@ -58,7 +58,7 @@ De hoek. Lode bleef staan.
 
 Hij hijgde.
 
-Ik had dat nog niet gemerkt, op de stoep, omdat ik altijd voor hem uit liep. Nu ik naast zijn been liep, hoorde ik het. Na tien minuten ging zijn adem kort en hoog, zoals de mijne na het rennen, maar Lode had niet gerend. Hij legde zijn hand op zijn zij. Zijn geur veranderde: zweet onder de aftershave, warm en zout.
+Ik had dat nog niet gemerkt, op de stoep, omdat ik altijd voor hem uit liep. Nu ik naast zijn been liep, hoorde ik het. Al bij de tweede lantaarnpaal ging zijn adem kort en hoog, zoals de mijne na het rennen, maar Lode had niet gerend. Hij legde zijn hand op zijn zij. Zijn geur veranderde: zweet onder de aftershave, warm en zout.
 
 "Die dokter," zei hij tegen de lucht. "Die dokter van niks."
 
@@ -166,9 +166,9 @@ Het boek met de wolf op de kaft heb ik nooit meer gezien. Een paar dagen later r
 
 Het experiment van de proefpersoon is mislukt. Het onderwerp is niet gegroeid in gehoorzaamheid. Het is alleen gekrompen.
 
-De onderzoeker noteert dit met opluchting. Ze noteert ook dat de proefpersoon na tien minuten wandelen hijgt, dat hij dat aan een dokter wijt, en dat hij sinds die ochtend een ander soort zwijgen heeft. Of dat een nieuw experiment is, valt nog niet uit te maken. Er wordt verder geobserveerd.
+De onderzoeker noteert dit met opluchting. Ze noteert ook dat de proefpersoon al bij de tweede lantaarnpaal hijgt, dat hij dat aan een dokter wijt, en dat hij sinds die ochtend een ander soort zwijgen heeft. Of dat een nieuw experiment is, valt nog niet uit te maken. Er wordt verder geobserveerd.
 
-Die avond hield Lode de voordeur open. Ik bleef zitten op de mat, zoals ik geleerd had, en wachtte op de ruk. Hij wachtte ook. Toen knikte hij naar buiten, en ik ging eerst, en de lijn hing slap tussen ons in.
+Die avond nam Lode de lijn van de kapstok en ging hij eerst door de voordeur, zoals het boek het wilde. Ik bleef op de mat zitten, zoals ik geleerd had, en wachtte op de ruk. Die kwam niet. Hij keek ook niet om. De lijn hing tussen ons in, een beetje slap, en hij liet hem zo.
 
 > **Onderzoeksdossier 26**
 > Onderwerp: de krant.

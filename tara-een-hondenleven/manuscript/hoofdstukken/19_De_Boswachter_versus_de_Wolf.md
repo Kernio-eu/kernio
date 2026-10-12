@@ -14,7 +14,7 @@ Het begon met een geur die verdween. Jarenlang was de proefpersoon elke ochtend 
 
 Mieke noemde het zijn pensioen. Lode noemde het niks.
 
-Ik zong nog altijd. Zodra de bovenste trede kraakte, nam ik de rode bal uit de mand en ging ik onderaan de trap staan, en het lied kwam vanzelf: hoog en golvend, om de bal heen, wat schorder dan vroeger, alsof er zand in de keel was gekomen. "Ja, ja," zei Lode. "Ik weet het. Gij hebt honger." Dan vulde hij de bak. De hypothese die ik als pup had opgesteld, bleef ongedeerd. Ze is nooit weerlegd.
+Ik zong nog altijd. De pantoffel was intussen tot op de zool versleten, en Mieke had hem op een dag weggedaan zonder er iets over te zeggen; sindsdien lag de rode bal in de mand. Zodra zijn linkervoet de bovenste trede raakte, nam ik de bal in mijn bek en ging ik onderaan de trap staan, en het lied kwam vanzelf: hoog en golvend, om de bal heen, wat schorder dan vroeger, alsof er zand in de keel was gekomen. "Ja, ja," zei Lode. "Ik weet het. Gij hebt honger." Dan vulde hij de bak. De hypothese die ik als pup had opgesteld, bleef ongedeerd. Ze is nooit weerlegd.
 
 Wat wel veranderde: na het ontbijt reden we niet meer naar het grasveld achter de kerk, maar naar de heide.
 

@@ -54,11 +54,11 @@ De man keek naar Lode, toen naar mij, toen weer naar Lode. Ik rook dat hij twijf
 
 "Ik ook," zei Lode.
 
-De man zakte door zijn knieën. Het ging niet snel. Zijn knieën kraakten zoals de trap thuis op de derde trede. Hij zat nu half naast mij, op dezelfde hoogte, en hij keek naar de eenden. Hij stak zijn hand uit, laag, met de rug naar mij toe, en liet hem daar hangen.
+De man zakte door zijn knieën. Het ging niet snel. Zijn knieën kraakten, zoals die van Lode. Hij zat nu half naast mij, op dezelfde hoogte, en hij keek naar de eenden. Hij stak zijn hand uit, laag, met de rug naar mij toe, en liet hem daar hangen.
 
 Ik wachtte. Ik keek naar zijn hand en niet naar zijn gezicht. Toen strekte ik mijn nek.
 
-Zijn hand rook naar oud brood en sigaren, en onder de sigaren, in de vouwen van zijn knokkels, naar de hond uit zijn jas. Ik heb lang gesnuffeld. Langer dan beleefd is. Het was een herder geweest, denk ik, met een vacht die vet werd in de regen, en hij moest al lang weg zijn, want de geur zat alleen nog in de plaatsen waar een hand niet goed gewassen wordt. Ruiken is niet weten. Maar ik wist wel dat de man die geur niet meer kon ruiken, en dat hij hem toch nog bij zich droeg.
+Zijn hand rook naar oud brood en sigaren, en onder de sigaren, in de vouwen van zijn knokkels, naar de hond uit zijn jas. Ik heb lang gesnuffeld. Langer dan beleefd is. Het was een herder geweest, denk ik, met een vacht die vet werd in de regen, en hij moest al lang weg zijn, want de geur zat alleen nog in de plaatsen waar een hand niet goed gewassen wordt. Hoe lang al, kon ik niet ruiken. Ik wist wel dat de man die geur niet meer kon ruiken, en dat hij hem toch nog bij zich droeg.
 
 Ik legde mijn kop in zijn hand. Niet op, in.
 
@@ -78,7 +78,7 @@ Op de terugweg liep Lode sneller dan anders, met de lijn zo los dat hij in een b
 
 "Vroeger had ik die mens gelijk gegeven," zei hij. Tegen niemand.
 
-Daarna opende hij de achterklep. Ik sprong erin. Het dekentje rook naar mij en naar de heide van gisteren.
+Daarna opende hij de achterklep. Ik sprong erin. Daar lag het dekentje uit de auto weer, sinds de pantoffel zijn plaats in mijn mand had ingenomen. Het rook naar mij en naar de heide van gisteren.
 
 ### Resultaat
 
@@ -86,7 +86,7 @@ De mens kan deze taal leren. Eén mens kan het tenminste. Hij heeft het geleerd 
 
 Ik heb daarna verder onderzoek gedaan naar het gapen, omdat het mij sindsdien bezighoudt dat een geeuw twee dingen kan betekenen.
 
-Het tweede experiment liep over een hele winter, 's avonds, bij de houtkachel. Het hout tikte. De zonnerechthoek was al lang van het tapijt verdwenen, en de enige warmte kwam van de kachel aan mijn ene kant en van de pantoffel onder mijn kin. Lode zat in zijn zetel met het platte lichte ding dat niet ritselt. Mieke zat tegenover hem met een stapel schriften die naar potlood en kinderhanden roken.
+Het tweede experiment liep over een hele winter, 's avonds, bij de houtkachel. Het hout tikte. De zonnerechthoek was al lang van het tapijt verdwenen, en de enige warmte kwam van de kachel aan mijn ene kant en van de pantoffel onder mijn kin. Lode zat in zijn zetel met zijn tablet. Mieke zat tegenover hem met een stapel schriften die naar potlood en kinderhanden roken.
 
 Lode geeuwde. Een lange, een met geluid.
 

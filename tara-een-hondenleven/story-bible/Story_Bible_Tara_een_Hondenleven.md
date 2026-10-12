@@ -1,6 +1,6 @@
 ---
 title: "Tara, een Hondenleven"
-subtitle: "Story bible, versie 5 (12 oktober 2026)"
+subtitle: "Story bible, versie 6 (12 oktober 2026)"
 lang: nl-BE
 ---
 
@@ -619,7 +619,7 @@ Vastgelegd door de auteur: de namen (Lode, Mieke, Mira, Sofie, Jonas, Bram, Lott
 
 Nog open:
 
-1. **De optionele nuance** van het reekalfje in hoofdstuk 19.
+Het reekalfje staat in hoofdstuk 19 en is daarmee ook vastgelegd.
 
 Vastgelegd in versie 5: het dorp is Heultje (Westerlo), de GAS-boete bedraagt 250 euro, en het boek opent met een motto van Kafka (sectie 20).
 
@@ -667,3 +667,182 @@ Het is de vraag waar Kafka's onderzoekende hond zijn leven aan wijdt. Voor Tara 
 - Het dorp is Heultje (Westerlo).
 - De GAS-boete bedraagt 250 euro en komt van de gemeente Westerlo.
 - Het motto van Kafka is vastgelegd.
+
+# 21. Vaste feiten uit de eerste versie van het manuscript
+
+Deze feiten zijn bij het schrijven van de eerste versie ontstaan en gelden nu als vast. De dierenarts in het dorp is een man; de chirurgijn van de specialistische kliniek is een vrouw. Labradorwet 47 luidt: "Wandel elke dag, in elk weer, ook als je stijf bent. Op den duur vergeet je waarom je ooit begonnen bent. Dat is het goede moment om door te gaan."
+
+## De fokker en het nest (hoofdstuk 1 tot 3)
+
+- De fokster is een grote vrouw met laarzen tot aan de knieën en haar haar in een elastiekje. Ze heeft een lage, hese stem, zegt "Allez, mannekes" en fokt al twintig jaar.
+- Haar jas hangt aan een spijker in het kot. In het kot staat ook een kruiwagen met een lekke band.
+- De moeder is zwart; de pups zijn (bijna allemaal) geel.
+- Nestgenoten met een eigen geur:
+  - een pup met donkere oortjes, die naar natte steen ruikt en door een gezin met een jongetje wordt opgehaald;
+  - een sterke pup die altijd bovenop ligt en "onder de arm als een brood" wordt meegenomen;
+  - een pup die zuur ruikt en in een kartonnen doos met gaten vertrekt.
+- Een dierenarts met een koffertje zet de chip, zittend op een omgekeerde emmer.
+
+## Bij de komst (hoofdstuk 3 en 4)
+
+- Lode komt met een papiertje vol vragen. Hij vraagt naar heupen en ellebogen ("getest").
+- Het strootje uit hoofdstuk 3 ligt daarna lang op de vensterbank naast de voordeur.
+- Op 't hof "heetten ze allemaal Bobby". Lodes vader gebruikte de opgerolde krant ("Zo deed mijn vader dat").
+- Mira's eerste mep is zonder nagels.
+- De bench staat de eerste nacht in de keuken, naast de koelkast.
+
+## Het dekentje
+
+- Het dekentje uit de auto ligt van hoofdstuk 4 tot 10 in de bench en daarna in de mand.
+- Zodra de pantoffel zijn plaats inneemt, ligt het weer achterin de auto (hoofdstuk 16, 24, 25 en 26).
+- Aan het einde ruikt het naar Tara (hoofdstuk 26).
+
+## De rode bal
+
+- Gekocht in de dierenwinkel. Hij piept niet.
+- Eerst ligt hij in een mandje bij de kapstok (hoofdstuk 6 en 8).
+- Vanaf Deel III ligt hij in de mand (de overgang staat in hoofdstuk 19).
+- Hij is roze geworden (hoofdstuk 22).
+- Met Kerstmis krijgt Tara van Bram een blauwe bal, die ze niet mee naar de mand neemt (dossier 72).
+
+## De pantoffels
+
+- Lodes eerste pantoffels zijn van bruin vilt. Tara vernielt de linker en slaapt met de rechter.
+- Lode koopt een nieuw, grijs paar.
+- De oude rechterpantoffel slijt helemaal op en wordt door Mieke weggedaan (nieuw in hoofdstuk 19).
+
+## Lezen en schrijven
+
+- Sinds hoofdstuk 7 leest Lode op een tablet, voor Tara "het platte lichte ding".
+- Hoofdstuk 26 en de epiloog schrijft Lode in een schrift.
+
+## Mensen rond Lode
+
+- **Dirk:** een collega van Lode in Antwerpen. Hij leent hem het boek over de alfa (met een wolf op de kaft, van "een Amerikaan") en heeft twee Mechelaars. In hoofdstuk 8 wordt hij ontslagen; Lode zelf niet.
+- **Een oude man met pet:** zit op de bank bij het grasveld aan het fietspad en voert de duiven (hoofdstuk 7).
+- **Jef:** de buurman met de rode kater. De kater is twaalf jaar (hoofdstuk 11). Jef draagt een overall en heeft een schuur. Achteraan in Lodes tuin staat een houten schutting.
+
+## Huis, tuin en dagelijkse gewoontes
+
+- In de tuin staan een appelboom en groentebakken met Miekes tomaten. Na zijn pensioen heeft Lode achteraan, bij de compostbak, tomaten en boontjes (hoofdstuk 21).
+- De zandweg achter de laatste huizen loopt tussen weiden en een maïsveld naar het dennenbos en een ven. Er staat een paal met een verroest bordje; daar gaat de lijn los.
+- In hoofdstuk 15 gaat de lijn los bij een slagboom. Er is een herder van de hoeve aan de overkant, en er is een beekweg.
+- Het kleedje voor "plaats" is grijs, met een rubberen onderkant. Lode oefent zes maanden, eerst thuis en dan op het lege terras.
+- Er is een kast met glazen deurtjes voor sterke drank, en een muziekinstallatie in de woonkamer.
+- In de gang, naast de kapstok, hangt een spiegel (dossier 103).
+- Onder de garantiebewijzen in de lade van het dressoir liggen het verweerschrift en de papieren.
+- Lode neemt sinds Deel III elke ochtend een pilletje. Tara krijgt een gewrichtspilletje in een blokje kaas.
+- Lode zit vanaf Deel III bijna altijd op de grond, met zijn rug tegen de zetel. Mieke legt er een kussen.
+
+## Het dorp en de omgeving
+
+- Op het dorpsplein van Heultje staan een café, een frituur aan de overkant, de kerk en een bakker. De uitbater van het café draagt een voorschoot en zet ongevraagd een koffie neer.
+- Bruno is een jonge krullenhond aan een lijn op het terras (hoofdstuk 12).
+- In de straat achter de kerk woont een reu achter een zwarte ijzeren poort (hoofdstuk 17).
+- Er is een grasveld achter de kerk; daar leerde Sofie fietsen, "met roepen" (hoofdstuk 23).
+
+## Gasten op het etentje (hoofdstuk 13 en 14)
+
+- **Rik:** een oude collega van de firma in Antwerpen. Hij ruikt naar lederen autozetels, oude sigaren en een te zoet parfum, en vertelt het verhaal van de directeur die zijn auto niet meer vond. Bij het afscheid zegt hij "Merci, juffrouw".
+- **Annemie:** Riks vrouw. Ze heeft thuis een kleine hond en brengt likeur mee van vakantie.
+- **Greet:** een collega van Mieke op school. Zij vindt het stukje vlees aan tafel "geen goed idee".
+- **Paul:** Greets man, mager en stil, met lange armen.
+
+## De man met het brood en de postbodes (hoofdstuk 15)
+
+- De man met het brood is bang voor honden. Na eenendertig wandelingen zegt hij "Dag, Tara".
+- De eerste postbode rook naar sigaretten en natte fietsbanden, de tweede naar nieuwe schoenen en pepermunt. Een derde wordt verwacht (dossier 89).
+
+## Het park in Westerlo (hoofdstuk 16)
+
+- Het kasteelpark in Westerlo heeft een vijver. Lode haalt er een papier met een stempel.
+- De vreemde man heeft vroeger een Mechelse herder gehad, aan de ketting achter het huis.
+
+## Sofie en Jonas
+
+- Sofie rijdt een kleine blauwe auto, later met een rammelend schildje onder de motor dat Jonas al jaren zou vastzetten.
+- Achter Sofies huis in Herentals ligt een park langs de Nete, met populieren. Aan de derde struik vindt Tara het spoor van het zusje (hoofdstuk 18), en later niet meer (hoofdstuk 22).
+- Het zusje heeft zelf pups gehad (hoofdstuk 18).
+- De hond van Jonas' ouders sliep op hun bed; ze probeerden het af te leren met een waterpistool.
+
+## De kleinkinderen
+
+- **Draagmanden:** Brams draagmand is grijs (hoofdstuk 9), die van Lotte blauw (hoofdstuk 17).
+- **Brams konijn:** een stoffen konijn met één oor. Tara bewaakt ook dat.
+- **Lode op woensdag:** Lode vraagt zijn woensdagnamiddagen vrij zodra Bram er is.
+- **Bram:**
+  - voetbalt tegen de garagepoort en eet chips paprika;
+  - heeft een rapport rekenen van 55 op 100 en oefent met Lode met koekjes;
+  - schrijft voor school "ze heeft mij gekozen" in zijn schrift (hoofdstuk 23).
+- **Lotte:**
+  - zet Tara haarspeldjes op en noemt haar een "Labrador-prinses";
+  - leert fietsen met Lode (hoofdstuk 23).
+
+## De slaapkamer (hoofdstuk 18 en 21)
+
+- Op de overloop ligt een loper van grof touw.
+- De slaapkamerdeur wordt opengehouden door een deurstopper: een zandzakje in de vorm van een kat.
+- Op de drempel ligt een houten lat.
+- Sofies oude kamer staat vol dozen en een strijkplank.
+- Tijdens een onweersnacht zit Lode op de overloop met zijn rug tegen de muur.
+
+## De heide en de boswachter
+
+- De heide heeft:
+  - een parking van zand met een houten paal en een bordje;
+  - een zandheuvel met kromme dennen voorbij het ven;
+  - brem, die voor Tara geel is;
+  - een oude den met een kromme voet, waar Tara altijd bleef staan (epiloog).
+- De boswachter draagt groen en heeft twee eigen honden, een oude en een jonge. In hoofdstuk 22 is de oude weg en is er een nieuwe jonge. Hij noteert in een boekje met een harde kaft.
+- Het reekalfje uit de open keuze is gebruikt in hoofdstuk 19 (Tara ruikt het, Lode niet). Open keuze 1 in sectie 17 van de bible kan dus dicht.
+
+## Lodes gezondheid
+
+- De plek op Lodes rug zit op zijn linkerschouderblad. In de tuin draagt hij een marcelleke.
+- Mieke stuurt hem naar de dokter met "Voor mij". Het is iets kleins op de huid, en het is weggenomen.
+- Bij zijn controle is zijn bloeddruk 130 op 80 ("Ik heb een hond").
+
+## Mieke later
+
+- Mieke is in Deel III met pensioen ("al een tijd niet meer voor een klas").
+- Ze rijdt zelf met de auto, onder meer naar de markt.
+
+## Nieuws
+
+- In Deel III hebben de wolven in de Kempen vijf jongen gekregen (Lode leest het voor).
+
+## De dierenartsen en de kliniek
+
+- De dierenarts in het dorp is een man.
+- De chirurgijn is een vrouw met kalme handen. Zij stelt ook de diagnose in hoofdstuk 24.
+- De jonge dierenarts op de intensieve zorg is een vrouw, met haar haar in een elastiek en een pen in haar borstzakje.
+- Er is een verpleegster die de bal uit Tara's mond neemt en later de halsband brengt.
+- De datum van de operatie hangt als papiertje met een rode cirkel op de koelkast.
+
+## Het einde
+
+- Hoofdstuk 26: Lode geeft Tara om acht uur af. De chirurgijn belt om tien over elf. Mira ligt de hele dag in de mand.
+- Epiloog:
+  - het is vijf weken later;
+  - Lode wordt wakker om tien voor zeven;
+  - de halsband zit in zijn rechterjaszak;
+  - Miekes wollen deken ligt gewassen en gevouwen in de mand;
+  - de etensbak staat gewassen onder het aanrecht.
+
+## Rubrieken
+
+- **Labradorwet nr. 47** (hoofdstuk 23): "Wandel elke dag, in elk weer, ook als je stijf bent. Op den duur vergeet je waarom je ooit begonnen bent. Dat is het goede moment om door te gaan."
+- **Nieuwe of aangevulde dossierteksten** voor de bijlage:
+  - dossier 2 ("drie keer, voor het ontbijt");
+  - dossier 41, Deel I ("Uitzondering: als er een pakje ligt");
+  - dossier 41, Deel III ("Het gevaar is overgegaan");
+  - dossier 64 (de testgroepen);
+  - dossier 72 (de blauwe bal);
+  - dossier 103 (de spiegel met de pantoffel);
+  - dossier 110.
+
+## Ritme en vaste uitdrukkingen
+
+- **De trap:** veertien treden, de zevende piept, Lode zet zijn linkervoet eerst. Dit staat in de schrijfbrief, nog niet in de bible.
+- **"Kinderdag":** herkenbaar aan Sofies auto op de oprit, in de middag. Lode komt dan vroeger thuis.
+- **"Ik had werk":** Tara's antwoord als Mieke zegt dat ze gerust mag gaan liggen (hoofdstuk 6 en 8).

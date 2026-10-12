@@ -28,7 +28,7 @@ Ik ben een onderzoeker. Ik weet hoe een experiment werkt. Ik dacht dat ik er een
 
 De proefopzet lag voor de hand: binnengaan als niemand keek.
 
-Elke ochtend vertrok Lode naar de stad. Het ging altijd op dezelfde manier. Hij dronk zijn koffie staande, zocht zijn sleutels, vond ze in de zak van de jas die hij de dag ervoor had gedragen, of ik vond ze voor hem, onder de krant die geen krant meer was maar een plat ding op de tafel. Hij trok zijn schoenen aan op de deurmat. Dan ging hij op zijn hurken zitten.
+Elke ochtend vertrok Lode naar de stad. Het ging altijd op dezelfde manier. Hij dronk zijn koffie staande, zocht zijn sleutels, vond ze in de zak van de jas die hij de dag ervoor had gedragen, of ik vond ze voor hem, onder zijn tablet op de tafel. Hij trok zijn schoenen aan op de deurmat. Dan ging hij op zijn hurken zitten.
 
 Dat hurken was niet altijd zo geweest. Vroeger ging hij gewoon weg. De deur ging dicht, de auto startte, de geur van uitlaatgas kwam onder de deur door, en ik bleef achter op de deurmat zonder te weten of het voor even was of voor altijd. Ik wist het niet, omdat niemand het mij gezegd had.
 

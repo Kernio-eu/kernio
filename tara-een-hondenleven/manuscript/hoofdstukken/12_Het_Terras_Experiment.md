@@ -54,9 +54,9 @@ De man met het voorschoot keek ernaar. Toen zette hij zonder iets te vragen een 
 
 Zo gingen we vaker. Elke keer een beetje later op de ochtend. Eerst met lege stoelen. Dan met één tafel waar twee oude mannen zaten met een krant, waar ik even naar keek, en weer weg. Dan met drie tafels. Dan met de kelner die langs liep met een plateau. Elke keer lag ik op het kleedje, en elke keer kwam er een koekje, en sommige keren kwam het niet omdat ik was opgestaan, en dan legde hij het kleedje gewoon opnieuw recht, en zei het woord nog eens.
 
-Er was één ochtend waarop alles misging. Het had geregend, de kasseien glommen en roken naar ijzer, en over het plein kwam een vrouw met een bak vol kippen uit de markt, levende kippen, die achter hun tralies klokten en naar graan en angst roken. Ik stond op. Ik stond niet alleen op; ik ging. De lijn schoot strak, de tafel schoof, de koffie van de proefpersoon liep over het schoteltje en over zijn broek. De vrouw met de kippen keek om en liep sneller.
+Er was één ochtend waarop alles misging. Het had geregend, de kasseien glommen en roken naar ijzer, en over het plein kwam een vrouw met een kooi vol jonge konijnen van de markt, die achter hun tralies op en neer schoten en naar wortelloof en angst roken. Ik stond op. Ik stond niet alleen op; ik ging. De lijn schoot strak, de tafel schoof, de koffie van de proefpersoon liep over het schoteltje en over zijn broek. De vrouw met de konijnen keek om en liep sneller.
 
-Ik wachtte op het metalige. Het kwam niet. Hij veegde zijn broek af met een papieren servetje, keek een tijd naar de lege plek waar de kippen waren geweest, en legde het kleedje recht.
+Ik wachtte op het metalige. Het kwam niet. Hij veegde zijn broek af met een papieren servetje, keek een tijd naar de lege plek waar de konijnen waren geweest, en legde het kleedje recht.
 
 "Plaats," zei hij.
 

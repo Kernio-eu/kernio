@@ -20,7 +20,7 @@ Ik at het niet.
 
 Hij nam het niet terug. Hij bleef nog even op zijn hurken zitten, met het lege bord in zijn hand. Daarna stond hij op. Het stukje bleef liggen, klein en donker naast mijn neus, en ik heb het de hele avond niet geroken.
 
-Mira kwam van de bank. Ze liep één keer om de mand heen, langzaam, met haar staart recht omhoog, zoals ze om alles heen loopt wat ze nog niet vertrouwt. Daarna stapte ze over de rand. Ze draaide zich twee keer om op de deken en ging tegen mijn buik liggen. In twaalf jaar had ze dat niet gedaan. Ze had naast mij gelegen, boven mij op de vensterbank, tegenover mij aan de andere kant van de kachel, maar nooit tegen mij aan. Ze spon. Ik rook geen stof en geen sardines. Ik voelde de trilling door de deken in mijn ribben komen, en dat ze warm was.
+Mira kwam van de bank. Ze liep één keer om de mand heen, langzaam, met haar staart recht omhoog, zoals ze om een nieuwe doos heen loopt. Daarna stapte ze over de rand. Ze draaide zich twee keer om op de deken en ging tegen mijn buik liggen. In twaalf jaar had ze dat niet gedaan. Ze had naast mij gelegen, boven mij op de vensterbank, tegenover mij aan de andere kant van de kachel, maar nooit tegen mij aan. Ze spon. Ik rook geen stof en geen sardines. Ik voelde de trilling door de deken in mijn ribben komen, en dat ze warm was.
 
 Mieke zag het. Ze zette haar kopje neer en nam het niet meer op.
 
@@ -63,9 +63,9 @@ Daarna bleef hij nog wat zitten.
 
 In de gang nam hij de lijn van de kapstok. Hij klikte hem aan mijn rode halsband, zoals elke ochtend, en hield hem kort, op de maat van zijn been, al trok ik niet. Meewandelen, van de deur naar de auto. Ik weet niet hoeveel stappen dat zijn. Tellen is altijd een zwak punt gebleven. Ik weet wel na welke stap het portier opengaat.
 
-In de auto lag het dekentje achterin. De motor trilde door de bodem in mijn buik. Door de kier van het raampje kwam koude lucht, en de lucht was koud, en verder niets. Lode reed zonder radio. Bij elke bocht keek hij in het spiegeltje, naar mij.
+In de auto lag het dekentje achterin. De motor trilde door de bodem in mijn buik. Door de kier van het raampje kwam alleen koude lucht. Lode reed zonder radio. Bij elke bocht keek hij in het spiegeltje, naar mij.
 
-De parking stond vol auto's met een bench achterin. De glazen deur ging vanzelf open. In de wachtzaal stonden plastic stoelen tegen de muur, en op een ervan zat een man met een kleine hond die beefde van zijn neus tot zijn staart. Op een tafeltje lag een krant. Vroeger had ik dat papier horen ritselen voor ik het zag, en mijn kop gebogen zonder te weten waarom. Lode keek naar de krant. Hij raakte hem niet aan. Zijn knie ging op en neer.
+De parking was dezelfde. De glazen deur ging weer vanzelf open. In de wachtzaal stonden plastic stoelen tegen de muur, en op een ervan zat een man met een kleine hond die beefde van zijn neus tot zijn staart. Op een tafeltje lag een krant. Vroeger had ik dat papier horen ritselen voor ik het zag, en mijn kop gebogen zonder te weten waarom. Lode keek naar de krant. Hij raakte hem niet aan. Zijn knie ging op en neer.
 
 Iemand riep mijn naam. Het was een stem die mijn naam niet kende en hem toch goed uitsprak.
 
@@ -87,11 +87,11 @@ Een prik.
 
 De laatste geuren liepen weg als water uit een bak die omvalt. Eerst de ontsmetting, dan het kleefband, dan de verpleegster. Koffie bleef het langst.
 
-Het is donker. Het donker heeft geen kanten.
+Het is donker. Dit donker heeft geen kanten.
 
 Er is warmte. Ik hoef er niet naartoe te kruipen.
 
-Tegen mijn flank ligt iets zachts dat drukt. Als ik inadem, duwt het een beetje terug. Als ik uitadem, volgt het me.
+Tegen mijn flank ligt iets zachts dat drukt. Als ik inadem, duwt de druk een beetje terug. Als ik uitadem, volgt ze me.
 
 Ik zie niets. Ik hoor niets.
 
@@ -103,7 +103,7 @@ Ik leg mijn neus erin.
 
 Er is geen honger.
 
-Ver weg, helemaal aan de rand van wat een neus nog kan, een draad. Koffie.
+Ergens, heel ver, helemaal aan de rand van wat een neus nog kan, een draad. Koffie.
 
 En een hand.
 

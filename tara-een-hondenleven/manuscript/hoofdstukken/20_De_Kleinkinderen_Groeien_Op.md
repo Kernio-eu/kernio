@@ -6,7 +6,7 @@ Waar gaat een geur naartoe wanneer een kind groter wordt?
 
 ### Observatie
 
-Kinderdag begint met een auto op de oprit. Ik hoor hem al in de straat, want hij heeft een eigen geluid: een rammelend schildje onder de motor dat Jonas al jaren zou gaan vastzetten. Dan het grind. Dan twee portieren die bijna tegelijk opengaan en een derde dat later komt, dat van Sofie, want zij moet eerst nog iets zoeken op de achterbank.
+Kinderdag begint met een auto op de oprit, nog altijd de kleine blauwe van Sofie. Ik hoor hem al in de straat, want hij heeft intussen een eigen geluid: een rammelend schildje onder de motor dat Jonas al jaren zou gaan vastzetten. Dan het grind. Dan twee portieren die bijna tegelijk opengaan en een derde dat later komt, dat van Sofie, want zij moet eerst nog iets zoeken op de achterbank.
 
 Vroeger kwam uit die auto een draagmand. Ik herinner me hoe ze rook: naar melk, naar zeep en naar een wollen dekentje dat te warm was voor het seizoen. Ik heb er naast gelegen zoals je naast een nest ligt, zonder hypothese. Later kwam er een tweede draagmand bij, en toen bewaakte ik er twee, wat ik in mijn rapport heb genoteerd als een verdubbeling van het werk zonder verdubbeling van de koekjes.
 
@@ -14,7 +14,7 @@ Nu kwam er geen draagmand meer uit die auto. Er kwamen voeten uit.
 
 Bram sprong. Hij wachtte niet tot de auto stilstond, al riep Sofie elke keer dat hij moest wachten. Hij rook naar voetbalschoenen: leer dat nat was geworden en weer was opgedroogd, de rubberen noppen met slijk ertussen, gemaaid gras van een ander dorp, en het zweet van voeten die te lang in die schoenen hadden gezeten. Daarboven chips. Paprika, altijd paprika, met het zout nog op zijn vingers. Hij was zo groot geworden dat zijn knie op de hoogte van mijn kop kwam, en dan op de hoogte van mijn rug, en op een kinderdag merkte ik dat ik naar zijn hand moest opkijken als hij mij een koekje gaf.
 
-Lotte kwam altijd als laatste uit de auto, achterwaarts, omdat ze haar knuffel niet kon vinden. Ze rook naar zand. Niet het zand van de heide, dat wit en koel is en naar hars ruikt, maar zand dat in een bak had gelegen, met plastic schepjes erin en de geur van veel kinderhanden en een beetje kattenpis. En snoep. Lotte rook altijd naar snoep, ook als Sofie zei dat ze er geen had gekregen. Suiker met iets roze erin, en het gele plakkerige van aardbeienspekken die geen aardbeien hebben gezien.
+Lotte kwam altijd als laatste uit de auto, achterwaarts, omdat ze haar knuffel niet kon vinden. Ze rook zoals Bram vroeger rook: naar zand. Niet het zand van de heide, dat wit en koel is en naar hars ruikt, maar zand dat in een bak had gelegen, met plastic schepjes erin en de geur van veel kinderhanden en een beetje kattenpis. En snoep. Lotte rook altijd naar snoep, ook als Sofie zei dat ze er geen had gekregen. Suiker met iets roze erin, en het gele plakkerige van aardbeienspekken die geen aardbeien hebben gezien.
 
 Ik ging ze tegemoet tot aan de deur. Dat deed ik al zolang er kinderdagen waren, en ik deed het nog altijd. Alleen het rennen was ik ergens verloren. Ik liep. Snel, maar ik liep.
 
@@ -38,7 +38,7 @@ Bram dacht daar een tijd over na, tussen twee schoten, en schoot dan naast. Hij 
 
 Op een kinderdag in het najaar rook Bram niet alleen naar voetbalschoenen en chips. Er zat iets zuurs onder. Ik kende het van Lode, van de jaren van de Ring, maar bij Bram was het jonger en dunner, minder metaal en meer citroen. Het was het sterkst bij zijn boekentas, die in de gang stond, onder de kapstok, naast de lijn.
 
-Mijn hypothese: de angst zat in de boekentas. Als ik de boekentas onderzocht, zou ik de bron vinden.
+Mijn hypothese: het zuur zat in de boekentas. Als ik de boekentas onderzocht, zou ik de bron vinden.
 
 ### Experiment
 
@@ -72,7 +72,7 @@ Lode las. Hij las lang, langer dan nodig was voor één bladzijde. Ik rook hem. 
 
 "Ja."
 
-"Weet ge wat ik had, voor rekenen, in het vierde leerjaar?"
+"Weet ge wat ik had, voor rekenen, in het tweede leerjaar?"
 
 Bram schudde zijn hoofd.
 
@@ -106,7 +106,7 @@ Na het rekenen ging Bram weer tegen de garagepoort schieten, en Lotte liep achte
 
 Een harde trap van Bram. De bal stuitte tegen de rand van de poort, sprong over het tuinpad, en rolde door de opening van het hekje de oprit af, naar de straat. Lotte ging erachter. Ze was klein en snel en keek alleen naar de bal.
 
-Ik stond al. Ik weet niet meer hoe ik van het kleedje tot aan het hekje ben gekomen; mijn achterpoten deden het die dag niet graag. Ik weet alleen dat ik in de opening stond toen Lotte er was, en dat ze tegen mijn flank botste en ging zitten op het grind. Op straat reed een auto voorbij, niet snel, met een man achter het stuur die naar een plat licht ding in zijn hand keek. De bal rolde tegen de overkant van de stoep en bleef liggen.
+Ik stond al. Ik weet niet meer hoe ik van het kleedje tot aan het hekje ben gekomen; mijn achterpoten deden het die dag niet graag. Ik weet alleen dat ik in de opening stond toen Lotte er was, en dat ze tegen mijn flank botste en ging zitten op het grind. Op straat reed een auto voorbij, niet snel, met een man achter het stuur die naar de telefoon in zijn hand keek. De bal rolde tegen de overkant van de stoep en bleef liggen.
 
 Lotte begon te huilen, meer van het grind dan van de rest. Ze rook naar zand en snoep en schrik.
 

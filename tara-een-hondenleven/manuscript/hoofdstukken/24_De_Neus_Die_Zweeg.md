@@ -10,11 +10,11 @@ Dat was de eerste vraag. Er kwam geen tweede. Dat had ik moeten opmerken.
 
 Het begon in de herfst, toen de tuin naar natte bladeren en paddenstoelen rook en de kachel voor het eerst weer aanging. Ik niesde op de deurmat, waar alle geuren eerst landen. Eén keer. Dat was niets bijzonders. Een neus die de hele dag werkt, moet af en toe leeg. Ik had het honderden keren gedaan, na stof, na peper, na het flesje dat Sofie in haar hals spuit.
 
-Daarna niesde ik in reeksen. Drie keer, vier keer, vijf keer na elkaar, tot mijn kop bij elke keer tegen de tegels tikte. De proefpersoon keek op van zijn platte lichte ding.
+Daarna niesde ik in reeksen. Drie keer, vier keer, vijf keer na elkaar, tot mijn kop bij elke keer tegen de tegels tikte. De proefpersoon keek op van zijn tablet.
 
 "Gezondheid," zei hij.
 
-Bij de vijfde keer zei hij niets meer. Hij legde het ding weg, met het scherm naar beneden.
+Bij de vijfde keer zei hij niets meer. Hij legde het weg, met het scherm naar beneden.
 
 Uit mijn linkerneusgat kwam slijm. Alleen links. Ik likte het weg en het kwam terug, dik en geel. Later zat er bloed bij. Een rode draad op het kussen van de mand, 's morgens, op de plek waar mijn kin had gelegen. Mieke waste het kussen. Ze waste het een week later weer.
 
@@ -32,7 +32,7 @@ Lotte, die naar zand en snoep ruikt, zei niets. Ze ging naast de mand op de gron
 
 Op een nacht kwam een reeks die niet ophield. Ik niesde tot ik rechtop in de mand zat en niet meer wist of ik ademde of niesde. De kachel was uit en de kamer was koud. Boven kraakte het bed. Daarna de trap, linkervoet eerst, veertien treden, de zevende die piept, en dan Lode in zijn pyjama in de deur, zonder licht.
 
-Hij zei niets. Hij ging op de grond zitten naast de mand, op de koude vloer, met zijn rug tegen de bank, en legde zijn hand op mijn rug tot de reeks voorbij was. Daarna bleef de hand liggen. Ik weet niet hoe lang hij daar gezeten heeft. Toen ik wakker werd, was het licht, en lag er een deken over zijn benen die Mieke daar moest hebben gelegd.
+Hij zei niets. Hij knielde naast de mand, op de koude vloer, en legde zijn hand op mijn rug tot de reeks voorbij was. Daarna bleef de hand nog liggen. Ik sliep in voor hij weer naar boven ging.
 
 Mieke zei op een avond dat mijn neus aan de rand lichter werd. Ik kan mijn eigen neus niet zien. Ik heb hem altijd alleen gebruikt. Lode ging op zijn hurken zitten, streek met zijn duim heel licht langs de rand van mijn neus, en keek daarna lang naar zijn duim.
 
@@ -44,7 +44,7 @@ Op het grasveld langs het fietspad maakte Lode de lijn los. Het was een grijze o
 
 "Allez," zei hij. "Dogtime."
 
-Ik liep naar de eerste paal. Twaalf jaar lang had die paal elke ochtend iets te zeggen gehad: de herder van verderop die zijn poot te hoog hief, een teef die loops was, de rode kater die erlangs was geslopen en dacht dat niemand het wist, en onder alles de dunne lagen van gisteren en eergisteren, die ik las zoals mensen de krant lazen toen ze dat nog op papier deden. Ik zette mijn neus tegen de paal. Ik wachtte. Het ijzer was koud en nat. Het was een paal.
+Ik liep naar de eerste paal. Twaalf jaar lang had die paal elke ochtend iets te zeggen gehad: de herder van verderop die zijn poot te hoog hief, een teef die loops was, de rode kater die er laag langs was geslopen, en onder alles de dunne lagen van gisteren en eergisteren, die ik las zoals mensen de krant lazen toen ze dat nog op papier deden. Ik zette mijn neus tegen de paal. Ik wachtte. Het ijzer was koud en nat. Het was een paal.
 
 Ik liep verder, van de paal naar de struik, van de struik naar het putdeksel waar altijd iets ligt dat een mens niet ziet, en bij elke plek zette ik mijn neus in het gras en wachtte, zoals je aan een deur wacht waarvan je zeker weet dat er iemand achter woont, en het gras was nat en koud en groen voor de mensen en grijs voor mij, en verder was het niets.
 

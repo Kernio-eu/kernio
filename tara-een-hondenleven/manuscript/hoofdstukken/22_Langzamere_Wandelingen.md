@@ -12,7 +12,7 @@ Mieke zei dat mijn snuit wit werd. Ik heb dat niet zelf kunnen vaststellen. Wit 
 
 De ochtenden werden stijf. Ik werd wakker in mijn mand naast de houtkachel, met mijn kin op de rode bal, en mijn achterpoten waren de eersten die niet wakker werden. Ik moest ze overtuigen. Eerst de voorpoten strekken, dan de rug rond maken, dan een ogenblik wachten, en dan pas, als de rest van het lijf erover had nagedacht, opstaan. Vroeger stond ik in één beweging. Ik herinner me die beweging nog, zoals je een geur herinnert van een plek waar je niet meer komt.
 
-Het lied ging niet verloren. Het kwam alleen eerder dan mijn benen. Zodra de bovenste trede kraakte, had ik de bal al in mijn bek, en het gejodel begon nog terwijl ik lag, schor en golvend, en ik kwam overeind tijdens het zingen, zodat het lied een beetje meeging met het opstaan, hoger op het einde. Lode zei dat het klonk als een oude deur. Hij zei het met een stem waarin geen klacht zat. Daarna vulde hij de bak.
+Het lied ging niet verloren. Het kwam alleen eerder dan mijn benen. Zodra zijn linkervoet de bovenste trede raakte, had ik de bal al in mijn bek, en het gejodel begon nog terwijl ik lag, schor en golvend, en ik kwam overeind tijdens het zingen, zodat het lied een beetje meeging met het opstaan, hoger op het einde. Lode zei dat het klonk als een oude deur. Hij zei het met een stem waarin geen klacht zat. Daarna vulde hij de bak.
 
 De trap was een berg geworden. Ik heb hem in mijn notities zo genoteerd, als landschap, omdat hij zich zo gedroeg. Veertien treden, en elk een beetje hoger dan in de jaren daarvoor. Ik ging hem niet vaak meer op. Maar soms, als Lode boven langer bleef dan zijn geur beloofde, ging ik toch, met de bal, om hem te halen, en op een ochtend bleef ik halverwege staan, op de zevende trede, die piept. Mijn achterpoten wilden niet verder. Mijn voorpoten stonden al op de achtste. Ik keek naar boven, naar hoeveel er nog kwamen. Ik stond daar, met de bal, half boven en half beneden, en ik wist niet hoe ik terug moest.
 
@@ -20,7 +20,7 @@ Lode kwam de trap af in zijn kamerjas. Hij zag mij staan. Hij zei niets. Hij gin
 
 "Ge moet die berg niet meer op, ouwe," zei hij. "Ik kom wel af."
 
-Kort daarna reden we naar de dierenarts in het dorp, waar de vloer van de wachtkamer nog altijd naar de angst van honderd honden rook, al ruikt een oude hond die angst met meer begrip dan een jonge. De dierenarts boog mijn achterpoten, één voor één, langzaam, en luisterde naar wat ze zeiden. Ik kreeg pilletjes. Iets voor de gewrichten, zei ze.
+Kort daarna reden we naar de dierenarts in het dorp, waar de vloer van de wachtkamer nog altijd naar de angst van honderd honden rook, al ruikt een oude hond die angst met meer begrip dan een jonge. De dierenarts boog mijn achterpoten, één voor één, langzaam, en luisterde naar wat ze zeiden. Ik kreeg pilletjes. Iets voor de gewrichten, zei hij.
 
 Vanaf dan namen Lode en ik elke ochtend allebei een pilletje. Het zijne rook naar krijt en bitter en ging naar binnen met koffie. Het mijne rook ongeveer hetzelfde en zat in een blokje kaas. Ik vond dat ik het betere systeem had. Lode zei, terwijl hij het blokje voor mijn neus hield: "Twee oude mannekes aan de pillen," en Mieke zei vanuit de keuken dat ik een vrouw was, en hij zei: "Dat weet ik, Mieke. Dat weet ik al tien jaar."
 
@@ -34,7 +34,7 @@ Hij klikte de lijn los, zoals altijd, aan de paal. "Allez. Dogtime." En ik bleef
 
 Hij liep trager. Of ik liep trager en hij paste zich aan. Ik heb dat nooit kunnen vaststellen. Als ik bleef staan om te ruiken, bleef hij staan. Als hij bleef staan om naar een buizerd te kijken, bleef ik staan. Hij had de lijn soms nog aan, als er mensen waren, maar ze hing dan in een grote boog tussen zijn hand en mijn halsband, slap, en raakte bijna het zand. Het maakte geen verschil meer.
 
-Op een ochtend kwam de boswachter ons tegemoet. Dezelfde man, met dezelfde twee honden op zijn broekspijpen, al rook ik nu dat de oude er niet meer bij was. Er was een nieuwe, een heel jonge. Lode had de lijn aan, die keer. Ze hing in haar boog.
+Op een ochtend kwam de boswachter ons tegemoet. Dezelfde man, nog altijd met twee honden op zijn broekspijpen, al rook ik nu dat de oude er niet meer bij was. Er was een nieuwe, een heel jonge. Lode had de lijn aan, die keer. Ze hing in haar boog.
 
 "Goeiemorgen, meneer."
 

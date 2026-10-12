@@ -82,7 +82,7 @@ De chirurgijn keek naar de jonge dierenarts. Die knikte.
 
 "Dat kan," zei de chirurgijn.
 
-Die nacht ben ik naar beneden gegaan. Ik weet niet hoe laat. De kachel was uit. Ik ben op de grond gaan zitten naast de mand, met mijn rug tegen de bank. Mira lag erin. Ze ging er niet uit. Ik ben blijven zitten tot het licht werd. Mieke heeft een deken over mijn benen gelegd. Ik heb haar niet horen komen.
+Die nacht ben ik naar beneden gegaan. Ik weet niet hoe laat. De kachel was uit. Ik ben op de grond gaan zitten naast de mand, waar ik de avond voor de operatie ook had gezeten. Mira lag erin. Ze ging er niet uit. Ik ben blijven zitten tot het licht werd. Mieke heeft een deken over mijn benen gelegd. Ik heb haar niet horen komen.
 
 Observatie, het tweede bezoek.
 

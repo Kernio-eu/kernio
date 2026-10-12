@@ -44,7 +44,7 @@ Nu ging het andersom. Lode liep de heuvel op met korte, gelijke stappen, zonder 
 
 "Ga maar," zei ik niet.
 
-Hij wachtte. Hij keek niet naar de lucht of naar het uitzicht of naar zijn horloge, dat hij sinds zijn pensioen nog draagt maar nooit meer gebruikt. Hij keek naar mij, en hij wachtte zo lang als het duurde, en toen ik boven was, legde hij zijn hand op mijn kop. Hij hijgde niet. Ik hijgde.
+Hij wachtte. Hij keek niet naar de lucht of naar het uitzicht of naar zijn horloge, waar hij vroeger op keek als ik ergens bleef staan. Hij keek naar mij, en hij wachtte zo lang als het duurde, en toen ik boven was, legde hij zijn hand op mijn kop. Hij hijgde niet. Ik hijgde.
 
 ### Hypothese
 
@@ -102,7 +102,7 @@ Lode leerde Lotte een koekje geven. Ze stond voor mij met het koekje boven haar 
 
 Lode stond op de heide stil en snoof. Hij deed zijn hoofd een beetje omhoog en trok de lucht naar binnen door zijn neus, zoals hij vroeger alleen bij de bakker deed. "Ruikt ge dat?" zei hij tegen mij. "Het gaat regenen." Ik had het al een hele tijd geroken. Het ging regenen. Ik heb dat genoteerd als zijn eerste juiste meting.
 
-Lode las op zijn platte lichte ding, 's morgens bij de koffie, waar hij vroeger de krant las. Soms las hij mij iets voor. Meestal over honden, want dat was het enige waarvan hij dacht dat het mij interesseerde, en hij had gelijk, al begreep ik er niets van. Op een ochtend las hij iets voor over de wolven in de Kempen. Ze hadden jongen gekregen, op een plek die niet genoemd werd. "Vijf," zei hij. "Ze hebben er vijf, Tara." Hij keek naar mij over zijn leesbril. "Die mogen daar alles." Hij zei het niet zoals hij het vroeger op de heide had gezegd. Hij zei het zoals Mieke "amai" zegt over een baby in de wagen van de buren.
+Lode las op zijn tablet, 's morgens bij de koffie, waar hij vroeger de krant las. Soms las hij mij iets voor. Meestal over honden, want dat was het enige waarvan hij dacht dat het mij interesseerde, en hij had gelijk, al begreep ik er niets van. Op een ochtend las hij iets voor over de wolven in de Kempen. Ze hadden jongen gekregen, op een plek die niet genoemd werd. "Vijf," zei hij. "Ze hebben er vijf, Tara." Hij keek naar mij over zijn leesbril. "Die mogen daar alles." Hij zei het niet zoals hij het vroeger op de heide had gezegd. Hij zei het zoals Mieke "amai" zegt over een baby in de wagen van de buren.
 
 In de gang hangt een spiegel waar ik in mijn jonge jaren een dossier over heb aangelegd: een tweede hond die nooit buiten komt, naar niets ruikt, en op een avond ook een Lode had. Op een ochtend stonden Lode en ik ervoor, toen hij zijn jas aantrok en ik wachtte op de lijn. De hond in de spiegel was grijs geworden rond haar snuit. De man naast haar ook, rond zijn kin. Ze stonden even stil als wij. Ik heb niet geblaft. Ik ben ermee opgehouden, ik weet niet wanneer.
 

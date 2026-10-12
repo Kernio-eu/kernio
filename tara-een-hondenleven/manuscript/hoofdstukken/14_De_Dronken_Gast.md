@@ -52,7 +52,7 @@ Ik kwam omhoog. Mijn achterpoten bleven op het tapijt staan, mijn voorpoten hing
 
 Hij zette een stap naar links. Ik moest mee. Hij zette een stap naar rechts. Ik moest mee. Mijn nagels krasten over het tapijt.
 
-Ik noteer hier wat ik deed, voor zover ik het van binnenuit kon waarnemen. Ik draaide mijn kop weg. Ik likte mijn lippen, twee keer, snel. Ik keek naar de kachel. Ik geeuwde, wat ik niet had gepland, met mijn mond wijd open en een klein piepje op het einde. Al die dingen zeggen bij honden: ik ben geen gevaar, en het mag nu ophouden. Rik verstond geen van die dingen. Hij zag me geeuwen en lachte. "Ze is moe! Ze is al moe van één dansje!"
+Ik noteer hier wat ik deed, voor zover ik het van binnenuit kon waarnemen. Ik draaide mijn kop weg. Ik likte mijn lippen, twee keer, snel. Ik keek naar de kachel. Rik zag er niets van. Hij lachte en zette nog een stap.
 
 Ergens in mij zat de vraag wat ik hier moest observeren, en er kwam geen antwoord. Ik had geen hypothese, geen meetpunt, geen plek in mijn verslag waar dit kon staan. Ik was alleen een hond met haar poten in de lucht.
 
@@ -84,8 +84,6 @@ Ik verroerde me niet.
 
 Ik heb in mijn hele onderzoek nooit zo'n vraag gekregen. Een proefpersoon hoort niet te weten dat hij bestudeerd wordt. Dat is de eerste regel. Ik draaide mijn kop weg, likte mijn lippen, en keek naar de kachel. Alle signalen die ik had. Rik bleef kijken.
 
-"Wij hadden vroeger ook nen hond," zei hij toen, tegen mij, of tegen de kachel. "Thuis, bij ons pa. Een zwarte. Die lag aan de ketting achter de garage." Hij zweeg. "Ik heb daar nooit naast gezeten. Op de grond. Nooit één keer."
-
 Ik rook iets nieuws uit hem komen. Zout, maar ander zout dan onder zijn armen. Het kwam uit zijn gezicht. Ik weet niet wat het betekende. Ik weet alleen dat het er was, en dat ik ernaartoe ging, met mijn neus, en mijn kin op zijn knie legde, op de stof van zijn broek die naar de lederen zetels van zijn auto rook.
 
 Hij legde een hand op mijn kop. Zwaar, en een beetje te ver naar voren, over mijn ogen. Ik liet het zo.
@@ -106,7 +104,7 @@ Ik heb het geluid van klappen vaker gehoord. Bij het verjaardagsfeest van Sofie.
 
 Het water van het omgevallen glas trok langzaam in het tapijt. Ik likte er een beetje van op. Het smaakte naar tapijt.
 
-Later, toen de koffie op was en de kachel was teruggevallen tot een oranje gloed, gingen ze weg. Annemie had de autosleutels in haar hand voor ze haar jas aanhad. In de gang, bij de deurmat waarop alle geuren eerst landen, bleef Rik nog staan. Hij boog zich naar me toe, dit keer niet over me heen maar door zijn knieën, langzaam, met een hand op de muur.
+Later, toen de koffie op was en de kachel was teruggevallen tot een oranje gloed, gingen ze weg. Annemie had de autosleutels in haar hand voor ze haar jas aanhad. In de gang, bij de deurmat, bleef Rik nog staan. Hij boog zich naar me toe, dit keer niet over me heen maar door zijn knieën, langzaam, met een hand op de muur.
 
 "Merci, juffrouw," zei hij.
 

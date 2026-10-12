@@ -56,7 +56,7 @@ Ik rook het door een trui.
 
 "Ze is zot," zei Lode, en hij duwde mijn kop weg, maar zachter dan de eerste keer. Hij duwde nu altijd zachter. Ik denk dat hij het niet meer meende. Ik kwam terug. Hij duwde. Ik kwam terug. Daarna liet hij mij een tijdje.
 
-Op een nacht deed ik iets wat ik in jaren niet meer gedaan had. Ik liet de rode bal in de mand liggen en ging de trap op. Het waren veertien treden, en bij de negende moest ik even blijven staan. Boven was het donker en het rook er naar wasverzachter, naar Miekes nachtcrème en naar de warme lucht die uit een slaapkamer komt waar twee mensen ademen. De deur stond open. Die staat altijd open. Ik ging niet naar binnen; dat is de regel, en de regel is mij duizend keer rustig gezegd. Ik ging op de drempel liggen, met mijn neus net over de lijn, waar de vloer van de gang ophoudt en de vloer van de slaapkamer begint.
+Op een nacht deed ik iets wat ik in jaren niet meer gedaan had. Ik liet de rode bal in de mand liggen en ging de trap op. Het waren veertien treden, en bij de negende moest ik even blijven staan. Boven was het donker en het rook er naar wasverzachter, naar Miekes nachtcrème en naar de warme lucht die uit een slaapkamer komt waar twee mensen ademen. De deur stond open. Die staat altijd open. Ik ging niet naar binnen; dat is de regel, en de regel is mij duizend keer rustig gezegd. Ik ging op de drempel liggen, met mijn neus net over de lijn, waar de touwen loper ophoudt en het tapijt van de slaapkamer begint.
 
 Lode sliep op zijn buik, met het deken tot aan zijn middel. Van op de drempel was het niet te ruiken. Er was te veel kamer tussen. Ik bleef toch liggen.
 
@@ -148,7 +148,7 @@ Lode heeft het verhaal later vaak verteld. Aan Sofie, aan Jonas, aan de bakker, 
 
 "Op aanwijzing van de hond."
 
-Die avond kreeg ik aan tafel het laatste stukje van zijn bord, zoals elke avond. Het was niet groter dan anders. Ik heb het gemeten.
+Die avond kreeg ik na het eten het laatste stukje van zijn bord, zoals elke avond. Het was niet groter dan anders. Ik heb het gemeten.
 
 Ik ga nog altijd soms naar de plek. Niet elke dag meer. Op een avond, als hij op de grond zit met zijn rug tegen de zetel, leg ik mijn neus op zijn linkerschouderblad, en hij duwt mij niet weg. Er is daar alleen nog Lode: koffie, zeep, zon op zijn nek. En heel ver onder hem, in mij, die andere geur, de zoete, verkeerde, die ik niet meer ruik maar ook niet kwijt ben.
 

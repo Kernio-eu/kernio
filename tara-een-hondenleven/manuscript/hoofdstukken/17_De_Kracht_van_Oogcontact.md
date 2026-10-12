@@ -60,7 +60,7 @@ Toen kwam de geboorte.
 
 Het was herfst. Ik was ongeveer zes, al kende ik mijn eigen leeftijd toen alleen aan het feit dat de trap nog niets voorstelde. Sofies auto stond op de oprit op een ochtend die geen kinderdag was, en toch rook de gang naar kinderdag, en naar melk. Ik kende die melk. Ik had hem al eens geroken, jaren eerder, toen Bram in een draagmand de gang binnenkwam en ik de wacht hield omdat ik niet wist wat ik anders moest doen.
 
-Het pakje heette Lotte. Ze lag in een nieuwe draagmand, een grijze, met een deken die naar wasverzachter en naar Sofie rook, en ze rook zelf naar melk en naar de binnenkant van iets dat nog niet lang buiten is. Haar handen bewogen. Ze maakte geluidjes als een duif op de goot.
+Het pakje heette Lotte. Ze lag in een nieuwe draagmand, een blauwe, met een deken die naar wasverzachter en naar Sofie rook, en ze rook zelf naar melk en naar de binnenkant van iets dat nog niet lang buiten is. Haar handen bewogen. Ze maakte geluidjes als een duif op de goot.
 
 Sofie zette de draagmand op de grond van de woonkamer, bij de kachel, op veilige afstand, en Lode ging op zijn hurken zitten.
 
@@ -72,7 +72,7 @@ Ik rook. Ik deed het van onderaf, met mijn nek gestrekt, zoals bij de man in het
 
 "Ze gaat weer de wacht houden," zei Mieke.
 
-Bram had dit allemaal bekeken vanop de trap, met zijn duim in zijn mond. Toen ging hij weg. Hij kwam terug van de zolder, waar ik nooit kom omdat de trap daar te steil is en naar stof en oude kerstballen ruikt, en hij sleepte iets achter zich aan. Het was zijn eigen oude draagmand, de blauwe, die Mieke voor kinderdag had bewaard. Hij trok hem over de drempel van de woonkamer. Hij zette hem naast die van Lotte. Hij legde er zijn konijn in, het stoffen konijn met één oor, dat naar zijn speeksel en naar zandbak rook.
+Bram had dit allemaal bekeken vanop de trap, met zijn duim in zijn mond. Toen ging hij weg. Hij kwam terug van de zolder, waar ik nooit kom omdat de trap daar te steil is en naar stof en oude kerstballen ruikt, en hij sleepte iets achter zich aan. Het was zijn eigen oude draagmand, de grijze, die Mieke voor kinderdag had bewaard. Hij trok hem over de drempel van de woonkamer. Hij zette hem naast die van Lotte. Hij legde er zijn konijn in, het stoffen konijn met één oor, dat naar zijn speeksel en naar zandbak rook.
 
 Toen keek hij mij aan, met de onderzoekende blik.
 
@@ -80,13 +80,13 @@ Toen keek hij mij aan, met de onderzoekende blik.
 
 "Natuurlijk," zei Lode, zonder te lachen. "Ze heeft er twee nu."
 
-Vanaf die herfst stonden er op kinderdag twee draagmanden bij de kachel. Een grijze met een kind erin, en een blauwe met een konijn. Ik heb ze allebei bewaakt. Ik heb geen verschil gemaakt. Bram controleerde dat.
+Vanaf die herfst stonden er op kinderdag twee draagmanden bij de kachel. Een blauwe met een kind erin, en een grijze met een konijn. Ik heb ze allebei bewaakt. Ik heb geen verschil gemaakt. Bram controleerde dat.
 
 Sofie was die eerste keren moe. Ze zei het niet. Ze zei: "Alles goed, mama, echt." Ze rook naar zure melk op haar trui en naar te weinig slaap, een geur die op koude koffie lijkt maar dan zachter, en daaronder naar iets scherps dat ik van Lode ken. Ik ging naast haar zitten op de bank, wat ik niet mag, en legde mijn kop op haar knie. Ze zei niet dat ik eraf moest. Na een tijd begon haar hand over mijn oor te gaan.
 
 En toen deed ik de meting die ik eigenlijk niet zocht.
 
-Lode zat op de grond naast de grijze draagmand, met zijn rug tegen de bank. Lotte was wakker. Ze lag op haar rug met haar armpjes omhoog, en ze keek, zoals pasgeboren mensen kijken, naar een punt dat niet helemaal Lode was en ook niet helemaal ernaast. Lode keek naar haar. Lang. Zijn ogen werden breder aan de onderkant. Zijn mond deed niets. Hij knipperde traag.
+Lode zat op de grond naast de blauwe draagmand, met zijn benen gekruist. Lotte was wakker. Ze lag op haar rug met haar armpjes omhoog, en ze keek, zoals pasgeboren mensen kijken, naar een punt dat niet helemaal Lode was en ook niet helemaal ernaast. Lode keek naar haar. Lang. Zijn ogen werden breder aan de onderkant. Zijn mond deed niets. Hij knipperde traag.
 
 Ik kende die blik. Ik had hem de hele winter gemeten.
 
