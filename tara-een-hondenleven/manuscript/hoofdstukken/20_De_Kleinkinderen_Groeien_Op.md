@@ -28,6 +28,12 @@ Lotte kwam dan naast mij zitten met een doosje haarspeldjes.
 
 Ik heb in die periode op kinderdag vaak een roze speldje op mijn linkeroor gedragen, en een geel op mijn rechter. Het gele kon ik zien. Lotte zei dat ik nu een prinses was. Ik heb dat niet kunnen verifiëren.
 
+"Ze is geen prinses," zei Bram vanaf de garagepoort, zonder op te houden met schieten. "Ze is een Labrador."
+
+"Een Labrador-prinses," zei Lotte.
+
+Bram dacht daar een tijd over na, tussen twee schoten, en schoot dan naast. Hij heeft het niet meer tegengesproken. Ik heb het ook niet gedaan. Er zat een koekje in Lottes jaszak, en ik wist dat.
+
 ### Hypothese
 
 Op een kinderdag in het najaar rook Bram niet alleen naar voetbalschoenen en chips. Er zat iets zuurs onder. Ik kende het van Lode, van de jaren van de Ring, maar bij Bram was het jonger en dunner, minder metaal en meer citroen. Het was het sterkst bij zijn boekentas, die in de gang stond, onder de kapstok, naast de lijn.
