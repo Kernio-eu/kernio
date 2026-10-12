@@ -64,7 +64,7 @@ Ik nam de pantoffel en ging de trap op. Ik weet niet waarom ik hem meenam. Ik gi
 
 Ik ging liggen, met de pantoffel tussen mijn poten en mijn neus over de lat. Ik beefde. Ik ging niet binnen.
 
-Lode werd wakker. Ik hoorde zijn ademhaling veranderen, en toen ging het bed. Hij nam het dekentje dat over de stoel hing, stapte over mij heen de overloop op, en ging zitten. Met zijn rug tegen de muur. Op de touwen loper. In zijn pyjama.
+Lode werd wakker. Ik hoorde zijn ademhaling veranderen, en toen kraakte het bed. Hij nam de deken die over de stoel hing, stapte over mij heen de overloop op, en ging zitten. Met zijn rug tegen de muur. Op de touwen loper. In zijn pyjama.
 
 Hij legde zijn hand op mijn flank.
 

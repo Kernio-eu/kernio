@@ -960,3 +960,23 @@ Op basis van drie externe beoordelingen, met toestemming van de auteur, zijn dez
 - "Metalig" en "Hij zei niets" worden uitgedund.
 - Het lied wordt na hoofdstuk 10 korter vermeld.
 - "Ge" en "gij" worden consequent gebruikt.
+
+# 24. Versie 9: titel en publicatie
+
+**Titel**
+- De definitieve titel is *Zij koos mij*, met als ondertitel *Het geheime onderzoeksrapport van een Labrador*. De auteur heeft die gekozen.
+- *Tara, een Hondenleven* is de werktitel. Die viel af, omdat "een hondenleven" in het Nederlands ook "een ellendig leven" betekent.
+
+**Afgerond**
+- Een correctorsronde over het hele boek, met 50 correcties.
+- Het KDP-binnenwerk van 6 x 9 inch: ongeveer 215 bladzijden, met titelpagina, colofon, motto, inhoudsopgave en paginanummers.
+- Een EPUB.
+- De publicatieteksten: achterflap, KDP-beschrijving, trefwoorden, categorieën en een coverbriefing.
+
+Alles staat in de map publicatie/.
+
+**Nog door de auteur te bevestigen of te regelen**
+- De auteursnaam. Voorlopig staat er Patrik Verstraelen, overgenomen van het vorige boek.
+- Een ISBN.
+- De cover.
+- Eventueel een opdracht.
