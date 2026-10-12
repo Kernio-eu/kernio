@@ -65,14 +65,14 @@ Het boek mikt op **200 bladzijden in het formaat 6 x 9 inch** (het gangbare form
 | Proloog | 1 | 600 | 600 | 3 |
 | Deel I, pup (zuiver verhalend) | 1 tot 4 | 1.500 | 6.000 | 23 |
 | Deel I, onderzoeker | 5 tot 9 | 2.200 | 11.000 | 41 |
-| Deel II | 10 tot 18 | 2.200 | 19.800 | 73 |
-| Deel III | 19 tot 24 | 2.000 | 12.000 | 45 |
-| Het einde | 25 en 26 | 1.800 | 3.600 | 14 |
+| Deel II | 10 tot 19 | 2.200 | 22.000 | 81 |
+| Deel III | 20 tot 25 | 2.000 | 12.000 | 45 |
+| Het einde | 26 en 27 | 1.800 | 3.600 | 14 |
 | Epiloog | 1 | 800 | 800 | 4 |
 | Bijlage en nawoord | | | 1.200 | 6 |
-| **Totaal** | 26 hoofdstukken | | **ongeveer 55.000** | **ongeveer 209** |
+| **Totaal** | 27 hoofdstukken | | **ongeveer 55.000** | **ongeveer 209** |
 
-De marge ligt tussen 180 en 220 bladzijden. Het einde (hoofdstuk 25 en 26) is bewust kort. Verdriet leest beter in weinig woorden.
+De marge ligt tussen 180 en 220 bladzijden. Het einde (hoofdstuk 26 en 27) is bewust kort. Verdriet leest beter in weinig woorden.
 
 # 3. De stem van Tara: schrijfregels
 
@@ -86,7 +86,7 @@ De marge ligt tussen 180 en 220 bladzijden. Het einde (hoofdstuk 25 en 26) is be
 
 **Regel 5: Droge wetenschap, warme conclusie.**
 
-**Regel 6: Strikte chronologie.** De enige uitzondering is de proloog, die in de laatste mist speelt (zie hoofdstuk 25).
+**Regel 6: Strikte chronologie.** De enige uitzondering is de proloog, die in de laatste mist speelt (zie hoofdstuk 26).
 
 **Regel 7: De pup wordt pas later onderzoeker.** De omslag in hoofdstuk 5 wordt nooit aangekondigd. De lezer ziet het gebeuren.
 
@@ -105,7 +105,7 @@ Elke wandelscène krijgt een van de twee labels. Zie sectie 13.
 
 **Regel 12: Ruiken is niet weten.** Tara ruikt dat er iets verandert, niet wát iemand voelt of waarom.
 
-**Regel 13 (nieuw): De ene uitzondering op het perspectief.** Het hele boek wordt door Tara verteld, op één hoofdstuk na. Hoofdstuk 26 is het enige deel in Lodes stem, omdat Tara het niet meer kan vertellen. Het staat in het boek als *Laatste observatie, genoteerd door de proefpersoon*. Lode gebruikt daarin, zonder het te merken, de methode die Tara hem leerde: hij kijkt, hij ruikt, hij wacht op een reactie.
+**Regel 13 (nieuw): De ene uitzondering op het perspectief.** Het hele boek wordt door Tara verteld, op één hoofdstuk na. Hoofdstuk 27 is het enige deel in Lodes stem, omdat Tara het niet meer kan vertellen. Het staat in het boek als *Laatste observatie, genoteerd door de proefpersoon*. Lode gebruikt daarin, zonder het te merken, de methode die Tara hem leerde: hij kijkt, hij ruikt, hij wacht op een reactie.
 
 **Regel 14 (nieuw): Lodes ontwikkeling wordt getoond, niet uitgelegd.** Lode houdt geen preken over liefde en geduld. De lezer ziet het aan zijn handen: de opgerolde krant die hij weggooit, de stem die zachter wordt, de man die op de grond gaat zitten in plaats van boven de hond uit te torenen. Zijn overtuigingen mag hij wel hardop zeggen, in zijn eigen woorden. Tara noteert ze als uitspraken van de proefpersoon, en ze kloppen niet altijd met wat hij die dag doet.
 
@@ -129,11 +129,11 @@ Daarna volgt om en om een Labradorwet of een Onderzoeksdossier.
 | 5. De Eerste Experimenten | Het schema ontstaat nog maar, half en onhandig | Tara leert onderzoeken |
 | 7. De Mythe van de Alfa | Het experiment wordt op Tara uitgevoerd, door Lode | De proefpersoon doet zelf proeven, en ze mislukken |
 | 9. De Komst van de Baby | Geen hypothese, alleen de wacht houden | Sommige dingen vallen buiten de methode |
-| 14. De Dronken Gast | Het experiment loopt vast | De onderzoeker wordt onderzocht |
-| 21. De Plek op Zijn Rug | Hetzelfde experiment, dag na dag herhaald | De neus weet wat woorden niet zeggen |
-| 24. De Neus Die Zweeg | Het meetinstrument zelf valt uit | De onderzoeker verliest haar wereld |
-| 25. De Laatste Avond | Alleen nog observatie, geen hypothese | Er is niets meer te bewijzen |
-| 26. Laatste Observatie | Een andere onderzoeker | Het rapport wordt overgenomen |
+| 15. De Dronken Gast | Het experiment loopt vast | De onderzoeker wordt onderzocht |
+| 22. De Plek op Zijn Rug | Hetzelfde experiment, dag na dag herhaald | De neus weet wat woorden niet zeggen |
+| 25. De Neus Die Zweeg | Het meetinstrument zelf valt uit | De onderzoeker verliest haar wereld |
+| 26. De Laatste Avond | Alleen nog observatie, geen hypothese | Er is niets meer te bewijzen |
+| 27. Laatste Observatie | Een andere onderzoeker | Het rapport wordt overgenomen |
 
 # 5. Personages
 
@@ -167,12 +167,12 @@ Een gele Labrador-teef, één van negen pups. Ze komt op 8 weken bij Lode en wor
 | 7 | Strengheid mislukt | Hij leest over "de alfa" en probeert het: aan de lijn rukken, streng staren, de opgerolde krant. Tara wordt stil en schrikt van elk ritselend papier. Op een ochtend ziet hij haar wegduiken voor de krant die hij gewoon wil lezen. Hij zegt niets, gooit de krant in de vuilnisbak en leest die dag niet. |
 | 10 | Hij betrapt zichzelf, en hij ontdekt het lied | Hij vindt de kapotte pantoffel en begint te roepen. Midden in de zin stopt hij, ziet haar weggedraaide kop, en gaat naast haar op de grond zitten. De volgende ochtend zingt ze, met de andere pantoffel in haar bek. Hij neemt de pantoffel af; het lied stopt. Hij geeft hem terug; het lied begint weer. Hij doet het drie keer, en lacht. Het eerste experiment van de proefpersoon dat lukt. |
 | 12 | Geduld beloond | Maandenlang heeft hij "plaats" geoefend, eerst thuis, dan op een leeg terras. Nu ligt Tara rustig op haar kleedje op het volle dorpsplein. Hij zegt tegen de man aan het volgende tafeltje: "Geduld. Dat is alles." |
-| 13 | Zijn roedelfilosofie | Na het eten krijgt Tara het laatste stukje vlees van zijn bord. "De leider eet eerst het beste stuk. Maar hij deelt. Dat is een roedel." |
-| 16 | Tara's pleitbezorger | Een vreemde buigt over Tara heen en staart haar aan. Nu is het Lode die zegt: "Niet over haar heen hangen, ga op uw hurken zitten, kijk een beetje weg. Laat haar eerst ruiken." |
-| 18 | Vertrouwen zonder deur | De slaapkamer is verboden terrein, maar de deur gaat nooit dicht. Hij heeft het haar duizend keer rustig gezegd. |
-| 19 | Zijn eigen regels | Lijnplicht en poepzakjes; zie hieronder. |
-| 23 | De spiegel | Hij wandelt al tien jaar elke dag, in alle weer. Zijn bloeddruk is goed. Hij weet niet meer precies waarom hij ooit een hond nam. |
-| 26 | De zwaarste les | Liefde betekent ook loslaten, en hij moet die beslissing alleen nemen, zonder zekerheid. |
+| 14 | Zijn roedelfilosofie | Na het eten krijgt Tara het laatste stukje vlees van zijn bord. "De leider eet eerst het beste stuk. Maar hij deelt. Dat is een roedel." |
+| 17 | Tara's pleitbezorger | Een vreemde buigt over Tara heen en staart haar aan. Nu is het Lode die zegt: "Niet over haar heen hangen, ga op uw hurken zitten, kijk een beetje weg. Laat haar eerst ruiken." |
+| 19 | Vertrouwen zonder deur | De slaapkamer is verboden terrein, maar de deur gaat nooit dicht. Hij heeft het haar duizend keer rustig gezegd. |
+| 20 | Zijn eigen regels | Lijnplicht en poepzakjes; zie hieronder. |
+| 24 | De spiegel | Hij wandelt al tien jaar elke dag, in alle weer. Zijn bloeddruk is goed. Hij weet niet meer precies waarom hij ooit een hond nam. |
+| 27 | De zwaarste les | Liefde betekent ook loslaten, en hij moet die beslissing alleen nemen, zonder zekerheid. |
 
 **Zijn overtuigingen,** in zijn eigen woorden:
 
@@ -182,7 +182,7 @@ Een gele Labrador-teef, één van negen pups. Ze komt op 8 weken bij Lode en wor
 - "Er zijn twee soorten wandelen. Meewandelen is voor mij, dat is geen dogtime. En dan is er dogtime: los, en ze doet haar ding."
 - "De eerste nacht slaapt ge bij uw pup."
 
-**Lijnplicht en poepzakjes.** Lode neemt het niet zo nauw met de lijnplicht. Volgens hem worden die regels gemaakt door hondenhaters die niet begrijpen dat een hond beweging nodig heeft. Met poepzakjes is het hetzelfde: op de stoep en op het grasveld waar kinderen spelen ruimt hij op, maar "in de natuur toch niet; daar is het natuur". Dat is een karaktertrek, geen les van het boek. Tara noteert het als feit over haar proefpersoon. Hoofdstuk 19 brengt de botsing met de boswachter (zie sectie 9).
+**Lijnplicht en poepzakjes.** Lode neemt het niet zo nauw met de lijnplicht. Volgens hem worden die regels gemaakt door hondenhaters die niet begrijpen dat een hond beweging nodig heeft. Met poepzakjes is het hetzelfde: op de stoep en op het grasveld waar kinderen spelen ruimt hij op, maar "in de natuur toch niet; daar is het natuur". Dat is een karaktertrek, geen les van het boek. Tara noteert het als feit over haar proefpersoon. Hoofdstuk 20 brengt de botsing met de boswachter (zie sectie 9).
 
 **Geur:** koffie, krantinkt, aftershave, en bij stress iets scherps en metalig. In de laatste jaren ook iets van medicijnen.
 
@@ -234,36 +234,36 @@ Bram wordt geboren wanneer Tara ongeveer twee is, Lotte wanneer ze ongeveer zes 
 | 2 tot 12 maanden | 55 tot 56 | Eerste experimenten; Lode leert geduld; de krant | 5 tot 7 |
 | 1 jaar | 56 | De chemische leugendetector | 8 |
 | ongeveer 2 jaar | 57 | Bram wordt geboren | 9 |
-| 2 tot 7 jaar | 57 tot 62 | Deel II; Lotte wordt geboren rond 6 jaar | 10 tot 18 |
-| ongeveer 8 jaar | 63 | Lode met pensioen; de heide, de wolf, de boswachter | 19 |
-| 9 tot 10 jaar | 64 tot 65 | De kleinkinderen groeien op; de plek op Lodes rug | 20, 21 |
-| 10 tot 11 jaar | 65 tot 66 | Langzamere wandelingen; de spiegel | 22, 23 |
-| ongeveer 11,5 jaar, herfst | 66 | Neusuitvloeiing, niezen, bloedneus; diagnose: schimmel in de neus | 24 |
-| ongeveer 12 jaar, winter | 67 | Laatste avond thuis; operatie; hartstilstand; twee bezoeken; inslapen | 25, 26 |
+| 2 tot 7 jaar | 57 tot 62 | Deel II; Lotte wordt geboren rond 6 jaar | 10 tot 19 |
+| ongeveer 8 jaar | 63 | Lode met pensioen; de heide, de wolf, de boswachter | 20 |
+| 9 tot 10 jaar | 64 tot 65 | De kleinkinderen groeien op; de plek op Lodes rug | 21, 22 |
+| 10 tot 11 jaar | 65 tot 66 | Langzamere wandelingen; de spiegel | 23, 24 |
+| ongeveer 11,5 jaar, herfst | 66 | Neusuitvloeiing, niezen, bloedneus; diagnose: schimmel in de neus | 25 |
+| ongeveer 12 jaar, winter | 67 | Laatste avond thuis; operatie; hartstilstand; twee bezoeken; inslapen | 26, 27 |
 | enkele weken later | 67 | Lode wandelt alleen | Epiloog |
 
 # 7. Doorlopende draden
 
 | Draad | Geplant | Terugkeer | Afsluiting |
 |---|---|---|---|
-| De geur van de moeder | Hoofdstuk 1 | Hoofdstuk 2: de lege plek | Proloog en hoofdstuk 25: de geur komt terug in de mist |
-| Zintuigen in het nest: blind, doof, alleen warmte en geur | Hoofdstuk 1 | | Hoofdstuk 25: in de mist na de operatie is er weer alleen warmte, aanraking en één geur. Het leven eindigt zoals het begon. |
-| De eerste nacht op de keukenvloer | Hoofdstuk 4: Lodes hand door de spijlen | Lodes principe in Deel II | Hoofdstuk 26: bij het tweede bezoek legt Lode zijn hand door de spijlen van het hok op de intensieve zorg, net als die eerste nacht |
+| De geur van de moeder | Hoofdstuk 1 | Hoofdstuk 2: de lege plek | Proloog en hoofdstuk 26: de geur komt terug in de mist |
+| Zintuigen in het nest: blind, doof, alleen warmte en geur | Hoofdstuk 1 | | Hoofdstuk 26: in de mist na de operatie is er weer alleen warmte, aanraking en één geur. Het leven eindigt zoals het begon. |
+| De eerste nacht op de keukenvloer | Hoofdstuk 4: Lodes hand door de spijlen | Lodes principe in Deel II | Hoofdstuk 27: bij het tweede bezoek legt Lode zijn hand door de spijlen van het hok op de intensieve zorg, net als die eerste nacht |
 | Het zusje dat naar hooi ruikt | Hoofdstuk 2 | Deel II: haar spoor, dogtime in een ander park | Deel III: het spoor is er niet meer |
-| De geur-klok | Hoofdstuk 6: onnauwkeurig | Deel II: precies | Hoofdstuk 22: de klok loopt achter. Hoofdstuk 24: zonder neus is er geen klok meer |
-| De chemische leugendetector | Hoofdstuk 8 | Hoofdstuk 17 en 18 | Hoofdstuk 21: Tara ruikt een ziekte bij Lode. Hoofdstuk 24: haar eigen ziekte zit precies in dat instrument |
-| De opgerolde krant | Hoofdstuk 7: de krant in de vuilnisbak | Lode leest voortaan de krant op zijn tablet; Tara noteert dat papier niet meer ritselt | Hoofdstuk 26: in de wachtzaal van de kliniek ligt een krant; Lode raakt hem niet aan |
-| Delen aan tafel | Hoofdstuk 13: het laatste stukje van zijn bord | Elke avond | Hoofdstuk 25: Tara wil niet meer eten; Lode legt het stukje toch naast haar neus |
-| De dokter en het wandelen | Hoofdstuk 3 | Hoofdstuk 7 | Hoofdstuk 23: "Ik heb hem leren wandelen." Epiloog: hij blijft wandelen, alleen |
+| De geur-klok | Hoofdstuk 6: onnauwkeurig | Deel II: precies | Hoofdstuk 23: de klok loopt achter. Hoofdstuk 25: zonder neus is er geen klok meer |
+| De chemische leugendetector | Hoofdstuk 8 | Hoofdstuk 18 en 19 | Hoofdstuk 22: Tara ruikt een ziekte bij Lode. Hoofdstuk 25: haar eigen ziekte zit precies in dat instrument |
+| De opgerolde krant | Hoofdstuk 7: de krant in de vuilnisbak | Lode leest voortaan de krant op zijn tablet; Tara noteert dat papier niet meer ritselt | Hoofdstuk 27: in de wachtzaal van de kliniek ligt een krant; Lode raakt hem niet aan |
+| Delen aan tafel | Hoofdstuk 14: het laatste stukje van zijn bord | Elke avond | Hoofdstuk 26: Tara wil niet meer eten; Lode legt het stukje toch naast haar neus |
+| De dokter en het wandelen | Hoofdstuk 3 | Hoofdstuk 7 | Hoofdstuk 24: "Ik heb hem leren wandelen." Epiloog: hij blijft wandelen, alleen |
 | Meewandelen en dogtime | Hoofdstuk 6: Lode bedenkt het woord | Doorlopend | Epiloog: Lode loopt alleen van het pad af, de heide in. Voor het eerst neemt hij zelf dogtime |
-| De halsband en de lijn | Hoofdstuk 3: de nieuwe rode halsband | Aan de kapstok, elke dag | Hoofdstuk 26: de halsband zit in zijn jaszak als hij naar buiten komt. Epiloog: de lijn hangt nog aan de kapstok |
-| Mira | Hoofdstuk 4: de mep | Hoofdstuk 11 | Hoofdstuk 25: Mira slaapt de laatste avond tegen Tara aan. Epiloog: Mira ligt in de lege mand |
-| Het liedje | Hoofdstuk 3: Tara kiest Lode door te kwispelen en te zingen, met een strootje in de bek | Hoofdstuk 5: elke ochtend bij het ontbijt. Hoofdstuk 10: Lode ontdekt dat het lied stopt zonder iets in haar mond. Dossier 2 blijft onverklaard. | Hoofdstuk 25: de ochtend van de operatie moet ze nuchter blijven en krijgt ze geen eten. Ze zingt toch, zacht, met de rode bal in haar bek. In de kliniek neemt een verpleegkundige de bal uit haar mond, en het lied stopt. Epiloog: Lode wordt elke ochtend wakker op het uur van het lied |
-| Iets mee naar bed | Hoofdstuk 4: het dekentje uit de auto | Deel II: Lodes pantoffel. Deel III: de rode bal | Hoofdstuk 25: de laatste avond neemt ze de bal nog mee naar de mand. Hoofdstuk 26: Lode legt de bal bij haar snuit in het hok; ze neemt hem niet. Epiloog: de bal ligt in de lege mand, met Mira ernaast |
-| De rode bal | Hoofdstuk 6 | Deel II: haar bedgenoot | Hoofdstuk 26: de bal komt mee naar huis in Lodes jaszak, samen met de halsband. Epiloog: terug in de mand |
-| De koffie in Lodes geur | Hoofdstuk 4 | Doorlopend | Hoofdstuk 25: in de mist is dat de enige geur die nog doorkomt |
+| De halsband en de lijn | Hoofdstuk 3: de nieuwe rode halsband | Aan de kapstok, elke dag | Hoofdstuk 27: de halsband zit in zijn jaszak als hij naar buiten komt. Epiloog: de lijn hangt nog aan de kapstok |
+| Mira | Hoofdstuk 4: de mep | Hoofdstuk 11 | Hoofdstuk 26: Mira slaapt de laatste avond tegen Tara aan. Epiloog: Mira ligt in de lege mand |
+| Het liedje | Hoofdstuk 3: Tara kiest Lode door te kwispelen en te zingen, met een strootje in de bek | Hoofdstuk 5: elke ochtend bij het ontbijt. Hoofdstuk 10: Lode ontdekt dat het lied stopt zonder iets in haar mond. Dossier 2 blijft onverklaard. | Hoofdstuk 26: de ochtend van de operatie moet ze nuchter blijven en krijgt ze geen eten. Ze zingt toch, zacht, met de rode bal in haar bek. In de kliniek neemt een verpleegkundige de bal uit haar mond, en het lied stopt. Epiloog: Lode wordt elke ochtend wakker op het uur van het lied |
+| Iets mee naar bed | Hoofdstuk 4: het dekentje uit de auto | Deel II: Lodes pantoffel. Deel III: de rode bal | Hoofdstuk 26: de laatste avond neemt ze de bal nog mee naar de mand. Hoofdstuk 27: Lode legt de bal bij haar snuit in het hok; ze neemt hem niet. Epiloog: de bal ligt in de lege mand, met Mira ernaast |
+| De rode bal | Hoofdstuk 6 | Deel II: haar bedgenoot | Hoofdstuk 27: de bal komt mee naar huis in Lodes jaszak, samen met de halsband. Epiloog: terug in de mand |
+| De koffie in Lodes geur | Hoofdstuk 4 | Doorlopend | Hoofdstuk 26: in de mist is dat de enige geur die nog doorkomt |
 | Dossier 41: de stofzuiger | Deel I | Deel II | Deel III: Tara blijft liggen; Lode veegt met de hand |
-| Labradorwet 52 | Hoofdstuk 5 | | Hoofdstuk 25: de laatste notitie die Tara nog maakt |
+| Labradorwet 52 | Hoofdstuk 5 | | Hoofdstuk 26: de laatste notitie die Tara nog maakt |
 
 # 8. Plaatsbijbel
 
@@ -284,23 +284,23 @@ Het verhaal speelt in Heultje, een dorp in de Antwerpse Kempen dat bij Westerlo 
 
 **Het dorpsplein en het terras (hoofdstuk 12).** Warme kasseien, duiven, frieten, bier en koffie. Het kleedje onder de tafel.
 
-**De heide en het bos (hoofdstuk 19, 22, epiloog).** Dennennaalden die veren onder de poten, hars, zand, en vennen die naar ijzer en kikkers ruiken. De heide is paars voor mensen en grijs voor Tara; voor haar ruikt ze naar honing en stof. Hier is het dogtime, ook al staat er een bordje.
+**De heide en het bos (hoofdstuk 20, 23, epiloog).** Dennennaalden die veren onder de poten, hars, zand, en vennen die naar ijzer en kikkers ruiken. De heide is paars voor mensen en grijs voor Tara; voor haar ruikt ze naar honing en stof. Hier is het dogtime, ook al staat er een bordje.
 
 **De dierenarts in het dorp.** Een koude metalen tafel, ontsmettingsmiddel dat in de neus brandt, en de angstgeur van honderd honden in de vloer van de wachtkamer.
 
-**De specialistische dierenkliniek (hoofdstuk 25 en 26).** Een groot, licht gebouw aan een steenweg, met een parking vol auto's met een bench achterin.
+**De specialistische dierenkliniek (hoofdstuk 26 en 27).** Een groot, licht gebouw aan een steenweg, met een parking vol auto's met een bench achterin.
 - **Binnen:** een glazen schuifdeur, een balie, een wachtzaal met plastic stoelen en een krant die niemand leest.
 - **Achter de deuren:** het piepen van monitoren, het zoemen van een tondeuse en het droge, koude licht van tl-lampen.
 - **De intensieve zorg:** een ruimte met hokken van roestvrij staal, een warmtedeken, een infuuspomp die af en toe tikt, en een kleine geschoren plek op Tara's voorpoot met een catheter en wit kleefband.
 - **De geur** van ontsmetting, warm metaal, angst en van tientallen andere dieren. Lode ruikt die geur zelf ook, voor het eerst. Tara heeft hem leren ruiken.
 
-**De houtkachel in de laatste winter (hoofdstuk 25).** Ze tikt bij het opwarmen. Oranje, bewegend licht, de geur van eik en as, en de wollen deken die Mieke over de mand legt.
+**De houtkachel in de laatste winter (hoofdstuk 26).** Ze tikt bij het opwarmen. Oranje, bewegend licht, de geur van eik en as, en de wollen deken die Mieke over de mand legt.
 
 # 9. Hoofdstukindeling
 
 ## Proloog. Een Herinnering Ontwaakt
 
-Een donkere, warme plek. Er is geen beeld en geen geluid, alleen warmte, een zachte druk tegen de flank, en een geur van melk en droog stro. De lezer denkt aan een nest. Pas in hoofdstuk 25 blijkt waar dit is: de mist na de operatie. Tara's hele leven komt van daaruit nog één keer terug. (Ongeveer 600 woorden, kort en zintuiglijk, in de tegenwoordige tijd.)
+Een donkere, warme plek. Er is geen beeld en geen geluid, alleen warmte, een zachte druk tegen de flank, en een geur van melk en droog stro. De lezer denkt aan een nest. Pas in hoofdstuk 26 blijkt waar dit is: de mist na de operatie. Tara's hele leven komt van daaruit nog één keer terug. (Ongeveer 600 woorden, kort en zintuiglijk, in de tegenwoordige tijd.)
 
 ## Deel I: De Pioniersjaren. Verwondering (de pup)
 
@@ -340,21 +340,21 @@ Een donkere, warme plek. Er is geen beeld en geen geluid, alleen warmte, een zac
 
 **Hoofdstuk 12. Het Terras-Experiment.** Na maanden oefenen met "plaats" ligt Tara op haar kleedje op het volle dorpsplein. Naast hen trekt en blaft een jonge hond. "Geduld. Dat is alles."
 
-**Hoofdstuk 13. Het Etentje.** Bestek, gesprekstechniek, en de wet van het gevallen eten. Na het dessert krijgt Tara het laatste stukje vlees van Lodes bord. Een gast vindt dat "geen goed idee"; Lode legt het principe van de roedel uit. Tara's honger vertekent haar waarneming.
+**Hoofdstuk 14. Het Etentje.** Bestek, gesprekstechniek, en de wet van het gevallen eten. Na het dessert krijgt Tara het laatste stukje vlees van Lodes bord. Een gast vindt dat "geen goed idee"; Lode legt het principe van de roedel uit. Tara's honger vertekent haar waarneming.
 
-**Hoofdstuk 14. De Dronken Gast.** Dezelfde avond. De gast wil Tara leren dansen. Het schema loopt vast.
+**Hoofdstuk 15. De Dronken Gast.** Dezelfde avond. De gast wil Tara leren dansen. Het schema loopt vast.
 
-**Hoofdstuk 15. De Angst voor Honden.** *Dogtime, afgebroken tot meewandelen.* Een voorbijganger schreeuwt en rent weg; Lode kort de lijn in.
+**Hoofdstuk 16. De Angst voor Honden.** *Dogtime, afgebroken tot meewandelen.* Een voorbijganger schreeuwt en rent weg; Lode kort de lijn in.
 
-**Hoofdstuk 16. Kalmerende Signalen.** De vreemde man in het park. Tara wendt haar blik af en geeuwt. Dit keer is het Lode die de man rustig uitlegt hoe je een hond benadert. Een bijkomend dossier: mee-gapen met Lode.
+**Hoofdstuk 17. Kalmerende Signalen.** De vreemde man in het park. Tara wendt haar blik af en geeuwt. Dit keer is het Lode die de man rustig uitlegt hoe je een hond benadert. Een bijkomend dossier: mee-gapen met Lode.
 
-**Hoofdstuk 17. De Kracht van Oogcontact.** Een boze tegenover een liefdevolle blik. Lotte wordt geboren; Tara bewaakt nu twee draagmanden.
+**Hoofdstuk 18. De Kracht van Oogcontact.** Een boze tegenover een liefdevolle blik. Lotte wordt geboren; Tara bewaakt nu twee draagmanden.
 
-**Hoofdstuk 18. De Liefdesband.** De slaapkamer zonder deur. Geduld en vertrouwen.
+**Hoofdstuk 19. De Liefdesband.** De slaapkamer zonder deur. Geduld en vertrouwen.
 
 ## Deel III: De Grote Synthese. Wijsheid (de oude hond)
 
-**Hoofdstuk 19. De Boswachter versus de Wolf.** *Dogtime, onderbroken.* Lode is met pensioen; elke ochtend gaan ze naar de heide.
+**Hoofdstuk 20. De Boswachter versus de Wolf.** *Dogtime, onderbroken.* Lode is met pensioen; elke ochtend gaan ze naar de heide.
 - Tara loopt los, ondanks het bordje. Lode neemt geen poepzakje mee, "want dit is natuur".
 - Tara ruikt het verse spoor van iets groots en wilds: de wolf, die sinds 2018 terug is in de Kempen en strikt beschermd wordt.
 - Een boswachter houdt hen tegen, wijst op het bord, en vraagt Lodes identiteitskaart. Hij noteert alles in een boekje.
@@ -363,21 +363,21 @@ Een donkere, warme plek. Er is geen beeld en geen geluid, alleen warmte, een zac
 - Lode moppert over hondenhaters die niet weten dat een hond moet rennen. "De wolf mag hier alles, en zij moet aan een touw."
 - Tara velt geen oordeel, ook niet over Lode. Haar conclusie: "Ze beschermen wat ze vrezen en houden vast wat ze liefhebben." Lode zwijgt even. Daarna doet hij de lijn los zodra de boswachter om de hoek is.
 
-**Hoofdstuk 20. De Kleinkinderen Groeien Op.** Bram ruikt naar voetbalschoenen, Lotte naar zand en snoep. Tara verschuift van speelmaat naar stille bewaker.
+**Hoofdstuk 21. De Kleinkinderen Groeien Op.** Bram ruikt naar voetbalschoenen, Lotte naar zand en snoep. Tara verschuift van speelmaat naar stille bewaker.
 
-**Hoofdstuk 21. De Plek op Zijn Rug.** Tara snuffelt dag na dag aan één plek op Lodes rug. Mieke stuurt hem naar de dokter. Het is iets kleins op de huid, op tijd gevonden.
+**Hoofdstuk 22. De Plek op Zijn Rug.** Tara snuffelt dag na dag aan één plek op Lodes rug. Mieke stuurt hem naar de dokter. Het is iets kleins op de huid, op tijd gevonden.
 
-**Hoofdstuk 22. Langzamere Wandelingen.** Formeel meewandelen, maar zonder haast; het verschil met dogtime vervaagt. De trap is een berg. De geur-klok hapert. Het spoor van het zusje is weg.
+**Hoofdstuk 23. Langzamere Wandelingen.** Formeel meewandelen, maar zonder haast; het verschil met dogtime vervaagt. De trap is een berg. De geur-klok hapert. Het spoor van het zusje is weg.
 
-**Hoofdstuk 23. De Hond als Spiegel.** Lode wandelt al tien jaar elke dag. Tara heeft hem leren wandelen, en geduld, en op de grond zitten. Ze zegt het niet; de lezer ziet het.
+**Hoofdstuk 24. De Hond als Spiegel.** Lode wandelt al tien jaar elke dag. Tara heeft hem leren wandelen, en geduld, en op de grond zitten. Ze zegt het niet; de lezer ziet het.
 
-**Hoofdstuk 24. De Neus Die Zweeg.** Een herfst. Tara niest, eerst af en toe, dan in reeksen. Uit één neusgat komt slijm, later wat bloed. Haar neus doet pijn als iemand ernaar wijst. Het zwart van haar neus wordt aan de rand lichter.
+**Hoofdstuk 25. De Neus Die Zweeg.** Een herfst. Tara niest, eerst af en toe, dan in reeksen. Uit één neusgat komt slijm, later wat bloed. Haar neus doet pijn als iemand ernaar wijst. Het zwart van haar neus wordt aan de rand lichter.
 - **Het ergste is wat ze níet meer ruikt.** Het grasveld wordt stil, de gang vertelt geen tijd meer, en de koekjestrommel is gewoon een trommel.
 - **Voor het eerst valt Tara's methode weg.** Ze kan geen onderzoeksvraag meer stellen, want haar meetinstrument zwijgt. De lezer voelt dat aan wat er ontbreekt.
 - **De diagnose.** De dierenarts in het dorp verwijst door. In de kliniek kijkt men onder narcose in de neus en vindt een schimmel: nasale aspergillose. Er is een behandeling nodig, met opnieuw een narcose, waarbij de schimmel uit de neus wordt geschraapt en er een middel tegen de schimmel in wordt gebracht (zie sectie 10).
 - **Lode** vraagt de dierenarts drie keer hetzelfde, telkens met andere woorden.
 
-**Hoofdstuk 25. De Laatste Avond.**
+**Hoofdstuk 26. De Laatste Avond.**
 
 *De avond:*
 - Thuis bij de houtkachel. Tara eet niet. Lode legt het laatste stukje van zijn bord toch naast haar neus, en laat het liggen.
@@ -397,9 +397,9 @@ Een donkere, warme plek. Er is geen beeld en geen geluid, alleen warmte, een zac
 - En heel ver weg, één geur die nog doorkomt: koffie, en een hand.
 - Tara verbindt niets meer en concludeert niets. Ze is weer zoals in hoofdstuk 1.
 
-De hartstilstand wordt hier niet beschreven. Tara merkt er niets van. De lezer leert het pas in hoofdstuk 26.
+De hartstilstand wordt hier niet beschreven. Tara merkt er niets van. De lezer leert het pas in hoofdstuk 27.
 
-**Hoofdstuk 26. Laatste Observatie, Genoteerd door de Proefpersoon.** Het enige hoofdstuk in Lodes stem, in een sobere, korte ik-vorm. Hij schrijft het als een verslag, omdat zij dat altijd deed. Zijn zinnen zijn gewone Vlaamse zinnen, zonder grote woorden. Zie sectie 11 voor de uitwerking.
+**Hoofdstuk 27. Laatste Observatie, Genoteerd door de Proefpersoon.** Het enige hoofdstuk in Lodes stem, in een sobere, korte ik-vorm. Hij schrijft het als een verslag, omdat zij dat altijd deed. Zijn zinnen zijn gewone Vlaamse zinnen, zonder grote woorden. Zie sectie 11 voor de uitwerking.
 
 1. **Het telefoontje.** Tijdens de operatie kreeg Tara een hartstilstand. De chirurgijn heeft lang gereanimeerd en haar hart klopt weer. "Maar we weten niet hoe lang haar hersenen zonder zuurstof zijn geweest."
 2. **Het eerste bezoek.** Het hok van roestvrij staal, de warmtedeken, het tikken van de pomp. Tara ademt, maar ze is er niet. Lode zegt haar naam. Hij denkt dat haar oor beweegt, één keer, of haar neus. Hij weet het niet zeker. Hij schrijft het op als observatie, met een vraagteken.
@@ -412,7 +412,7 @@ De twijfel zal niet weggaan: was het te vroeg, had ze hem toch gehoord, had hij 
 
 ## Epiloog. De Herinnering Sluit Zich
 
-Enkele weken later, in Lodes stem, in dezelfde sobere toon als hoofdstuk 26.
+Enkele weken later, in Lodes stem, in dezelfde sobere toon als hoofdstuk 27.
 - Elke ochtend wordt Lode wakker op het uur van het lied. Hij blijft liggen en luistert. Het is stil in de keuken.
 - Hij gaat de trap af. Hij telt de treden niet meer, maar hij weet dat zij ze telde.
 - De rode bal ligt in de lege mand. Mira ligt ernaast. De lijn hangt aan de kapstok.
@@ -431,20 +431,20 @@ Alle Onderzoeksdossiers met nummer, onderwerp en status, met de grap over de spr
 **Nasale aspergillose (schimmel in de neus).**
 - **Klachten:** langdurige neusuitvloeiing met slijm of etter, niezen, pijn aan de neus, soms een bloedneus, en een neusspiegel die zijn kleur verliest of zweert. In ernstige gevallen komen er tranende ogen bij en eten de honden minder.
 - **Behandeling:** onder narcose. De schimmelplaques worden via een kijkoperatie uit de neus en het voorhoofdsholte verwijderd, en daarna wordt er een middel tegen de schimmel (clotrimazol) ingebracht. Vaak is er meer dan één behandeling nodig. Schimmelmiddelen alleen via de mond werken nauwelijks.
-- **Toepassing:** het verloop in hoofdstuk 24 en 25 klopt daarmee. Hoe ver de behandeling gaat, is aan de auteur.
+- **Toepassing:** het verloop in hoofdstuk 25 en 26 klopt daarmee. Hoe ver de behandeling gaat, is aan de auteur.
 - **Bronnen:** [RVC-studie, 436 honden](https://rvc-repository.worktribe.com/output/2228729/treatment-outcomes-in-sinonasal-aspergillosis-in-dogs-in-the-united-kingdom-436-cases-2011-2021); [JAAHA, casusreeks](https://jaaha.kglmeridian.com/view/journals/aaha/54/2/article-p103.xml)
 
 **Hartstilstand tijdens narcose.**
 - **Overleving:** honden die tijdens een narcose een hartstilstand krijgen, hebben de beste overlevingskans van alle patiënten met een hartstilstand. Toch overleeft maar een minderheid tot ze naar huis mag.
 - **Hersenschade:** een hart dat weer klopt, zegt niets zeker over de hersenen. Na langdurige reanimatie komen ernstige neurologische letsels voor. Er zijn beschreven gevallen van honden die na een geslaagde reanimatie in coma bleven, en van een hond die weken later werd ingeslapen door blijvende hersenschade.
-- **Toepassing:** het scenario van hoofdstuk 26 is medisch geloofwaardig.
+- **Toepassing:** het scenario van hoofdstuk 27 is medisch geloofwaardig.
 - **Bronnen:** [VIN: morbiditeit na hartstilstand](https://vin.com/doc/?id=8172938); [WSU: reanimatie op de operatietafel](https://news.wsu.edu/news/2022/05/12/wsu-veterinarians-bring-dog-back-to-life/); [University of Arizona: neurologische uitkomst](https://experts.arizona.edu/en/publications/neurologic-outcome-following-successful-cardiopulmonary-resuscita/)
 
 **Lijnplicht in Vlaanderen.**
 - **De regel:** volgens het Agentschap Natuur en Bos moeten honden in bossen en natuurgebieden altijd aan de leiband. Loslopen mag alleen in de aangeduide hondenzones (meer dan 40 in Vlaanderen).
 - **Boete:** een hond in het openbaar laten loslopen kan een GAS-boete tot 250 euro opleveren.
 - **De reden:** het ANB wijst vooral op de lente, wanneer bodembroeders en reekalfjes kwetsbaar zijn.
-- **Toepassing:** dit is de feitelijke achtergrond van hoofdstuk 19. Het boek neemt geen standpunt in; het is Lodes mening tegen het bordje van de boswachter. Als de auteur een kleine nuance wil zonder te preken: Tara kan in het hoge gras de geur van een reekalfje ruiken, waar Lode niets van merkt.
+- **Toepassing:** dit is de feitelijke achtergrond van hoofdstuk 20. Het boek neemt geen standpunt in; het is Lodes mening tegen het bordje van de boswachter. Als de auteur een kleine nuance wil zonder te preken: Tara kan in het hoge gras de geur van een reekalfje ruiken, waar Lode niets van merkt.
 - **Bronnen:** [ANB: honden aan de leiband](https://natuurenbos.be/sites/default/files/2024-03/honden_aan_de_leiband_2024.pdf); [VRT NWS](https://www.vrt.be/vrtnws/nl/2020/11/23/waar-op-letten-als-baasje-en-als-sporter/)
 
 **Iets in de bek dragen en zingen.** Retrievers zijn gefokt om wild zacht in de bek te dragen ("soft mouth"). Veel Labradors begroeten hun mens met een speeltje of een ander voorwerp in de mond, vaak met gejank of "gezang" van opwinding. Eigenaren belonen dat onbewust door er blij op te reageren. Tara's liedje is dus echt hondengedrag, geen verzinsel. Bronnen: [Honolulu Advertiser, met dierengedragsdeskundige Nicholas Dodman](https://the.honoluluadvertiser.com/article/2006/May/09/il/FP605090309.html); [Wamiz](https://wamiz.co.uk/dog/advice/35628/why-dogs-show-off-toys-you-get-home).
@@ -492,8 +492,8 @@ Elke claim valt in een van drie categorieën:
 | Eigen mens ruiken | Lodes geur blijft het langst | Bewezen (fMRI) |
 | Ziekte ruiken | De plek op Lodes rug | Onderzocht, voorlopig |
 | Nasale aspergillose | Tara's einde | Bestaande aandoening, behandeling onder narcose |
-| Hartstilstand en hersenschade | Hoofdstuk 26 | Medisch realistisch |
-| Lijnplicht | Hoofdstuk 19 | Feitelijk juist; Lodes mening is de zijne |
+| Hartstilstand en hersenschade | Hoofdstuk 27 | Medisch realistisch |
+| Lijnplicht | Hoofdstuk 20 | Feitelijk juist; Lodes mening is de zijne |
 
 # 11. Het einde schrijven: aanpak
 
@@ -503,8 +503,8 @@ Het einde is het moeilijkste en belangrijkste deel van het boek. Deze afspraken 
 2. **Tara's methode in Lodes handen.** Hij noteert wat hij ziet, met vraagtekens: "Oor bewoog, mogelijk. Neus, mogelijk." De lezer begrijpt dat hij twaalf jaar heeft geleerd zo te kijken, en dat het nu niet genoeg is.
 3. **De twijfel blijft staan.** Het boek oordeelt niet of de beslissing juist was. Lode doet het zelf ook niet. Hij leeft ermee.
 4. **De dierenartsen blijven menselijk.** De chirurgijn heeft voor Tara gevochten. De jonge dierenarts op de intensieve zorg is voorzichtig en vriendelijk. Lodes vermoeden over de injectie is zijn vermoeden, niet de waarheid van het boek.
-5. **Kort.** Hoofdstuk 25 en 26 samen zijn hoogstens 3.600 woorden. Witregels en korte alinea's doen het werk.
-6. **De epiloog** staat in Lodes stem, als voortzetting van hoofdstuk 26. Het ontbrekende lied draagt de epiloog: het verdriet zit in de stilte op het uur waarop zij altijd zong.
+5. **Kort.** Hoofdstuk 26 en 27 samen zijn hoogstens 3.600 woorden. Witregels en korte alinea's doen het werk.
+6. **De epiloog** staat in Lodes stem, als voortzetting van hoofdstuk 27. Het ontbrekende lied draagt de epiloog: het verdriet zit in de stilte op het uur waarop zij altijd zong.
 
 ## Voorbeeld van de toon (richting, geen definitieve tekst)
 
@@ -554,7 +554,7 @@ Hoogstens zes in het hele boek, en altijd gedrag, nooit gedachten.
 - **Looptijd:** twaalf jaar.
 - **Proefpersonen:** vier volwassen mensen, twee kinderen, één kat en drie postbodes.
 - **Wandelingen:** ongeveer negenduizend, waarvan een groot deel dogtime.
-- **Slotsom:** nog steeds geen sluitende verklaring gevonden. De studie wordt afgesloten door de proefpersoon (hoofdstuk 26).
+- **Slotsom:** nog steeds geen sluitende verklaring gevonden. De studie wordt afgesloten door de proefpersoon (hoofdstuk 27).
 
 # 13. Wandelingen per hoofdstuk
 
@@ -564,11 +564,11 @@ Hoogstens zes in het hele boek, en altijd gedrag, nooit gedachten.
 | 7. De Mythe van de Alfa | Meewandelen | Korte lijn, rukken, korte zinnen |
 | 11. De Programmering van de Jacht | Dogtime, dan meewandelen | De rode kater |
 | 12. Het Terras-Experiment | Stilstand | Dogtime voor de neus alleen |
-| 15. De Angst voor Honden | Dogtime, dan meewandelen | De lijn uit angst voor een ander |
+| 16. De Angst voor Honden | Dogtime, dan meewandelen | De lijn uit angst voor een ander |
 | Deel II, het spoor van het zusje | Dogtime | Lange zinnen |
-| 19. De Boswachter versus de Wolf | Dogtime, onderbroken, dan weer dogtime | Lode doet de lijn weer los |
-| 22. Langzamere Wandelingen | Vermenging | Meewandelen zonder haast |
-| 24. De Neus Die Zweeg | Dogtime zonder geur | Tara loopt los, maar het grasveld zwijgt. Lode merkt dat ze niet meer snuffelt. |
+| 20. De Boswachter versus de Wolf | Dogtime, onderbroken, dan weer dogtime | Lode doet de lijn weer los |
+| 23. Langzamere Wandelingen | Vermenging | Meewandelen zonder haast |
+| 25. De Neus Die Zweeg | Dogtime zonder geur | Tara loopt los, maar het grasveld zwijgt. Lode merkt dat ze niet meer snuffelt. |
 | Epiloog | Lodes eigen dogtime | Lode alleen, van het pad af |
 
 # 14. Vormgeving en illustraties
@@ -578,7 +578,7 @@ Hoogstens zes in het hele boek, en altijd gedrag, nooit gedachten.
 - Pseudowetenschappelijke schema's en een geurkaart in de bijlage.
 - Lijntekeningen van Tara, vooral in blauw en geel, de kleuren die zij zelf ziet.
 - Een rij pootafdrukken die per Deel grijzer wordt.
-- **Hoofdstuk 26 krijgt een andere vormgeving:** geen pootafdruk maar een gewoon, gelinieerd blad, alsof Lode het in een schrift heeft geschreven.
+- **Hoofdstuk 27 krijgt een andere vormgeving:** geen pootafdruk maar een gewoon, gelinieerd blad, alsof Lode het in een schrift heeft geschreven.
 
 # 15. Wat we bewust niet gebruiken
 
@@ -619,7 +619,7 @@ Vastgelegd door de auteur: de namen (Lode, Mieke, Mira, Sofie, Jonas, Bram, Lott
 
 Nog open:
 
-Het reekalfje staat in hoofdstuk 19 en is daarmee ook vastgelegd.
+Het reekalfje staat in hoofdstuk 20 en is daarmee ook vastgelegd.
 
 Vastgelegd in versie 5: het dorp is Heultje (Westerlo), de GAS-boete bedraagt 250 euro, en het boek opent met een motto van Kafka (sectie 20).
 
@@ -628,15 +628,15 @@ Vastgelegd in versie 5: het dorp is Heultje (Westerlo), de GAS-boete bedraagt 25
 1. **Lode** heeft een achtergrond (boerderij, hond aan de ketting, de opgerolde krant) en een ontwikkeling van strengheid naar geduld en liefde, uitgewerkt per hoofdstuk.
 2. **Lodes overtuigingen** zijn in het verhaal verweven: de eerste nacht, inleven in een roedeldier, delen aan tafel.
 3. **De wandelmodi** heten nu met Lodes woorden *meewandelen* en *dogtime*.
-4. **Lijnplicht en poepzakjes** zijn een karaktertrek van Lode. Hoofdstuk 19 is herschreven, met de feiten van het ANB als achtergrond.
+4. **Lijnplicht en poepzakjes** zijn een karaktertrek van Lode. Hoofdstuk 20 is herschreven, met de feiten van het ANB als achtergrond.
 5. **De minimumleeftijd van pups is 8 weken;** de tijdlijn is aangepast.
 6. **Een nieuw einde:**
-   - hoofdstuk 24 *De Neus Die Zweeg* (nasale aspergillose);
-   - hoofdstuk 25 *De Laatste Avond* (de avond, de operatie, de mist);
-   - hoofdstuk 26 *Laatste Observatie, Genoteerd door de Proefpersoon* (de hartstilstand, twee bezoeken, de beslissing).
+   - hoofdstuk 25 *De Neus Die Zweeg* (nasale aspergillose);
+   - hoofdstuk 26 *De Laatste Avond* (de avond, de operatie, de mist);
+   - hoofdstuk 27 *Laatste Observatie, Genoteerd door de Proefpersoon* (de hartstilstand, twee bezoeken, de beslissing).
 
    Het boek telt nu 26 hoofdstukken.
-7. **De proloog** speelt niet meer bij de haard, maar in de mist na de operatie. De lezer ontdekt dat pas in hoofdstuk 25.
+7. **De proloog** speelt niet meer bij de haard, maar in de mist na de operatie. De lezer ontdekt dat pas in hoofdstuk 26.
 8. **Nieuwe schrijfregels 13 en 14:** de ene uitzondering op het perspectief, en Lodes ontwikkeling tonen.
 9. **Sectie 11 legt vast hoe het einde geschreven wordt,** met een voorbeeldfragment.
 10. **Een vast paginabudget:** 200 bladzijden van 6 x 9 inch, ongeveer 55.000 woorden.
@@ -646,7 +646,7 @@ Vastgelegd in versie 5: het dorp is Heultje (Westerlo), de GAS-boete bedraagt 25
 # 19. Wijzigingen in versie 4
 
 1. **Tara kiest Lode bij de fokker** door te kwispelen en te zingen (hoofdstuk 3). Lode ziet dat pas later.
-2. **Het liedje** is een doorlopende draad: elke ochtend bij het ontbijt, alleen met iets in haar mond, ontdekt door Lode in hoofdstuk 10, en voor het laatst gezongen op de ochtend van de operatie (hoofdstuk 25).
+2. **Het liedje** is een doorlopende draad: elke ochtend bij het ontbijt, alleen met iets in haar mond, ontdekt door Lode in hoofdstuk 10, en voor het laatst gezongen op de ochtend van de operatie (hoofdstuk 26).
 3. **Elke avond neemt Tara iets mee naar haar mand:** het dekentje, de pantoffel, de rode bal.
 4. **Nieuwe rubrieken:** Labradorwet 1 en de dossiers 2 en 58.
 5. **De epiloog staat definitief in Lodes stem** en draait om het ontbrekende ochtendlied. De rode bal komt mee naar huis in plaats van in het gras te liggen.
@@ -694,27 +694,27 @@ Deze feiten zijn bij het schrijven van de eerste versie ontstaan en gelden nu al
 ## Het dekentje
 
 - Het dekentje uit de auto ligt van hoofdstuk 4 tot 10 in de bench en daarna in de mand.
-- Zodra de pantoffel zijn plaats inneemt, ligt het weer achterin de auto (hoofdstuk 16, 24, 25 en 26).
-- Aan het einde ruikt het naar Tara (hoofdstuk 26).
+- Zodra de pantoffel zijn plaats inneemt, ligt het weer achterin de auto (hoofdstuk 17, 25, 26 en 27).
+- Aan het einde ruikt het naar Tara (hoofdstuk 27).
 
 ## De rode bal
 
 - Gekocht in de dierenwinkel. Hij piept niet.
 - Eerst ligt hij in een mandje bij de kapstok (hoofdstuk 6 en 8).
-- Vanaf Deel III ligt hij in de mand (de overgang staat in hoofdstuk 19).
-- Hij is roze geworden (hoofdstuk 22).
+- Vanaf Deel III ligt hij in de mand (de overgang staat in hoofdstuk 20).
+- Hij is roze geworden (hoofdstuk 23).
 - Met Kerstmis krijgt Tara van Bram een blauwe bal, die ze niet mee naar de mand neemt (dossier 72).
 
 ## De pantoffels
 
 - Lodes eerste pantoffels zijn van bruin vilt. Tara vernielt de linker en slaapt met de rechter.
 - Lode koopt een nieuw, grijs paar.
-- De oude rechterpantoffel slijt helemaal op en wordt door Mieke weggedaan (nieuw in hoofdstuk 19).
+- De oude rechterpantoffel slijt helemaal op en wordt door Mieke weggedaan (nieuw in hoofdstuk 20).
 
 ## Lezen en schrijven
 
 - Sinds hoofdstuk 7 leest Lode op een tablet, voor Tara "het platte lichte ding".
-- Hoofdstuk 26 en de epiloog schrijft Lode in een schrift.
+- Hoofdstuk 27 en de epiloog schrijft Lode in een schrift.
 
 ## Mensen rond Lode
 
@@ -724,9 +724,9 @@ Deze feiten zijn bij het schrijven van de eerste versie ontstaan en gelden nu al
 
 ## Huis, tuin en dagelijkse gewoontes
 
-- In de tuin staan een appelboom en groentebakken met Miekes tomaten. Na zijn pensioen heeft Lode achteraan, bij de compostbak, tomaten en boontjes (hoofdstuk 21).
+- In de tuin staan een appelboom en groentebakken met Miekes tomaten. Na zijn pensioen heeft Lode achteraan, bij de compostbak, tomaten en boontjes (hoofdstuk 22).
 - De zandweg achter de laatste huizen loopt tussen weiden en een maïsveld naar het dennenbos en een ven. Er staat een paal met een verroest bordje; daar gaat de lijn los.
-- In hoofdstuk 15 gaat de lijn los bij een slagboom. Er is een herder van de hoeve aan de overkant, en er is een beekweg.
+- In hoofdstuk 16 gaat de lijn los bij een slagboom. Er is een herder van de hoeve aan de overkant, en er is een beekweg.
 - Het kleedje voor "plaats" is grijs, met een rubberen onderkant. Lode oefent zes maanden, eerst thuis en dan op het lege terras.
 - Er is een kast met glazen deurtjes voor sterke drank, en een muziekinstallatie in de woonkamer.
 - In de gang, naast de kapstok, hangt een spiegel (dossier 103).
@@ -738,22 +738,22 @@ Deze feiten zijn bij het schrijven van de eerste versie ontstaan en gelden nu al
 
 - Op het dorpsplein van Heultje staan een café, een frituur aan de overkant, de kerk en een bakker. De uitbater van het café draagt een voorschoot en zet ongevraagd een koffie neer.
 - Bruno is een jonge krullenhond aan een lijn op het terras (hoofdstuk 12).
-- In de straat achter de kerk woont een reu achter een zwarte ijzeren poort (hoofdstuk 17).
-- Er is een grasveld achter de kerk; daar leerde Sofie fietsen, "met roepen" (hoofdstuk 23).
+- In de straat achter de kerk woont een reu achter een zwarte ijzeren poort (hoofdstuk 18).
+- Er is een grasveld achter de kerk; daar leerde Sofie fietsen, "met roepen" (hoofdstuk 24).
 
-## Gasten op het etentje (hoofdstuk 13 en 14)
+## Gasten op het etentje (hoofdstuk 14 en 15)
 
 - **Rik:** een oude collega van de firma in Antwerpen. Hij ruikt naar lederen autozetels, oude sigaren en een te zoet parfum, en vertelt het verhaal van de directeur die zijn auto niet meer vond. Bij het afscheid zegt hij "Merci, juffrouw".
 - **Annemie:** Riks vrouw. Ze heeft thuis een kleine hond en brengt likeur mee van vakantie.
 - **Greet:** een collega van Mieke op school. Zij vindt het stukje vlees aan tafel "geen goed idee".
 - **Paul:** Greets man, mager en stil, met lange armen.
 
-## De man met het brood en de postbodes (hoofdstuk 15)
+## De man met het brood en de postbodes (hoofdstuk 16)
 
 - De man met het brood is bang voor honden. Na eenendertig wandelingen zegt hij "Dag, Tara".
 - De eerste postbode rook naar sigaretten en natte fietsbanden, de tweede naar nieuwe schoenen en pepermunt. Een derde wordt verwacht (dossier 89).
 
-## Het park in Westerlo (hoofdstuk 16)
+## Het park in Westerlo (hoofdstuk 17)
 
 - Het kasteelpark in Westerlo heeft een vijver. Lode haalt er een papier met een stempel.
 - De vreemde man heeft vroeger een Mechelse herder gehad, aan de ketting achter het huis.
@@ -761,24 +761,24 @@ Deze feiten zijn bij het schrijven van de eerste versie ontstaan en gelden nu al
 ## Sofie en Jonas
 
 - Sofie rijdt een kleine blauwe auto, later met een rammelend schildje onder de motor dat Jonas al jaren zou vastzetten.
-- Achter Sofies huis in Herentals ligt een park langs de Nete, met populieren. Aan de derde struik vindt Tara het spoor van het zusje (hoofdstuk 18), en later niet meer (hoofdstuk 22).
-- Het zusje heeft zelf pups gehad (hoofdstuk 18).
+- Achter Sofies huis in Herentals ligt een park langs de Nete, met populieren. Aan de derde struik vindt Tara het spoor van het zusje (hoofdstuk 19), en later niet meer (hoofdstuk 23).
+- Het zusje heeft zelf pups gehad (hoofdstuk 19).
 - De hond van Jonas' ouders sliep op hun bed; ze probeerden het af te leren met een waterpistool.
 
 ## De kleinkinderen
 
-- **Draagmanden:** Brams draagmand is grijs (hoofdstuk 9), die van Lotte blauw (hoofdstuk 17).
+- **Draagmanden:** Brams draagmand is grijs (hoofdstuk 9), die van Lotte blauw (hoofdstuk 18).
 - **Brams konijn:** een stoffen konijn met één oor. Tara bewaakt ook dat.
 - **Lode op woensdag:** Lode vraagt zijn woensdagnamiddagen vrij zodra Bram er is.
 - **Bram:**
   - voetbalt tegen de garagepoort en eet chips paprika;
   - heeft een rapport rekenen van 55 op 100 en oefent met Lode met koekjes;
-  - schrijft voor school "ze heeft mij gekozen" in zijn schrift (hoofdstuk 23).
+  - schrijft voor school "ze heeft mij gekozen" in zijn schrift (hoofdstuk 24).
 - **Lotte:**
   - zet Tara haarspeldjes op en noemt haar een "Labrador-prinses";
-  - leert fietsen met Lode (hoofdstuk 23).
+  - leert fietsen met Lode (hoofdstuk 24).
 
-## De slaapkamer (hoofdstuk 18 en 21)
+## De slaapkamer (hoofdstuk 19 en 22)
 
 - Op de overloop ligt een loper van grof touw.
 - De slaapkamerdeur wordt opengehouden door een deurstopper: een zandzakje in de vorm van een kat.
@@ -793,8 +793,8 @@ Deze feiten zijn bij het schrijven van de eerste versie ontstaan en gelden nu al
   - een zandheuvel met kromme dennen voorbij het ven;
   - brem, die voor Tara geel is;
   - een oude den met een kromme voet, waar Tara altijd bleef staan (epiloog).
-- De boswachter draagt groen en heeft twee eigen honden, een oude en een jonge. In hoofdstuk 22 is de oude weg en is er een nieuwe jonge. Hij noteert in een boekje met een harde kaft.
-- Het reekalfje uit de open keuze is gebruikt in hoofdstuk 19 (Tara ruikt het, Lode niet). Open keuze 1 in sectie 17 van de bible kan dus dicht.
+- De boswachter draagt groen en heeft twee eigen honden, een oude en een jonge. In hoofdstuk 23 is de oude weg en is er een nieuwe jonge. Hij noteert in een boekje met een harde kaft.
+- Het reekalfje uit de open keuze is gebruikt in hoofdstuk 20 (Tara ruikt het, Lode niet). Open keuze 1 in sectie 17 van de bible kan dus dicht.
 
 ## Lodes gezondheid
 
@@ -814,14 +814,14 @@ Deze feiten zijn bij het schrijven van de eerste versie ontstaan en gelden nu al
 ## De dierenartsen en de kliniek
 
 - De dierenarts in het dorp is een man.
-- De chirurgijn is een vrouw met kalme handen. Zij stelt ook de diagnose in hoofdstuk 24.
+- De chirurgijn is een vrouw met kalme handen. Zij stelt ook de diagnose in hoofdstuk 25.
 - De jonge dierenarts op de intensieve zorg is een vrouw, met haar haar in een elastiek en een pen in haar borstzakje.
 - Er is een verpleegster die de bal uit Tara's mond neemt en later de halsband brengt.
 - De datum van de operatie hangt als papiertje met een rode cirkel op de koelkast.
 
 ## Het einde
 
-- Hoofdstuk 26: Lode geeft Tara om acht uur af. De chirurgijn belt om tien over elf. Mira ligt de hele dag in de mand.
+- Hoofdstuk 27: Lode geeft Tara om acht uur af. De chirurgijn belt om tien over elf. Mira ligt de hele dag in de mand.
 - Epiloog:
   - het is vijf weken later;
   - Lode wordt wakker om tien voor zeven;
@@ -831,7 +831,7 @@ Deze feiten zijn bij het schrijven van de eerste versie ontstaan en gelden nu al
 
 ## Rubrieken
 
-- **Labradorwet nr. 47** (hoofdstuk 23): "Wandel elke dag, in elk weer, ook als je stijf bent. Op den duur vergeet je waarom je ooit begonnen bent. Dat is het goede moment om door te gaan."
+- **Labradorwet nr. 47** (hoofdstuk 24): "Wandel elke dag, in elk weer, ook als je stijf bent. Op den duur vergeet je waarom je ooit begonnen bent. Dat is het goede moment om door te gaan."
 - **Nieuwe of aangevulde dossierteksten** voor de bijlage:
   - dossier 2 ("drie keer, voor het ontbijt");
   - dossier 41, Deel I ("Uitzondering: als er een pakje ligt");

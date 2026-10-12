@@ -1,4 +1,4 @@
-# Hoofdstuk 13. Het Etentje
+# Hoofdstuk 14. Het Etentje
 
 ### Onderzoeksvraag
 

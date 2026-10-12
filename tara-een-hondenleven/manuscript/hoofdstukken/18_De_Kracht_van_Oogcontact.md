@@ -1,4 +1,4 @@
-# Hoofdstuk 17. De Kracht van Oogcontact
+# Hoofdstuk 18. De Kracht van Oogcontact
 
 ### Onderzoeksvraag
 

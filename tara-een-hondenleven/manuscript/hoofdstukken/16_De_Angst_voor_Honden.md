@@ -1,4 +1,4 @@
-# Hoofdstuk 15. De Angst voor Honden
+# Hoofdstuk 16. De Angst voor Honden
 
 ### Onderzoeksvraag
 

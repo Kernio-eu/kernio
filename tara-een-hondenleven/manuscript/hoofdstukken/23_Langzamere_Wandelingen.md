@@ -1,4 +1,4 @@
-# Hoofdstuk 22. Langzamere Wandelingen
+# Hoofdstuk 23. Langzamere Wandelingen
 
 ### Onderzoeksvraag
 

@@ -15,8 +15,8 @@ Deze brief is bindend voor iedere schrijver. Bij twijfel geldt eerst de story bi
 - **Taal:** Nederlands met een lichte Vlaamse kleur. In dialogen spreken de mensen Vlaams: "ge", "gij", "uw", "allez", "amai", "nen", "goesting", "seffens". Tara's eigen verteltekst is verzorgd Nederlands met een paar Vlaamse woorden ("kot", "vanop", "stoep" of "voetpad"). Overdrijf de dialectwoorden niet.
 - **Perspectief:** ik-vorm, Tara, in de verleden tijd. Ze kijkt terug op haar leven, maar zonder vooruit te verraden wat er komt.
 - **Uitzonderingen op perspectief en tijd:**
-  - de proloog en de mistfragmenten in hoofdstuk 25 staan in de tegenwoordige tijd;
-  - hoofdstuk 26 en de epiloog staan in Lodes ik-stem.
+  - de proloog en de mistfragmenten in hoofdstuk 26 staan in de tegenwoordige tijd;
+  - hoofdstuk 27 en de epiloog staan in Lodes ik-stem.
 - **Toon:** droog, nieuwsgierig, warm. De humor zit in het contrast tussen Tara's wetenschappelijke ernst en de gewone werkelijkheid. Tara legt nooit een grap uit en benoemt nooit een emotie die de lezer al ziet.
 - **Zintuiglijke volgorde:** eerst geur, dan lichaam en beweging, dan pas woorden. Woorden zijn het minst betrouwbaar.
 - **Geen klokuren en geen weekdagen** in Tara's tekst. Tijd is licht, geurverval, honger en ritme. Woensdag is "kinderdag", herkenbaar aan Sofies auto op de oprit. Mensen mogen in dialogen wel uren en dagen noemen; Tara begrijpt die niet.
@@ -63,9 +63,9 @@ Elke wandelscène is ofwel *meewandelen* (aan de lijn, Lodes tempo, korte strakk
 |---|---|
 | Proloog | 500 tot 700 |
 | Hoofdstuk 1 tot 4 | 1.400 tot 1.700 per hoofdstuk |
-| Hoofdstuk 5 tot 23 | 2.000 tot 2.400 per hoofdstuk |
-| Hoofdstuk 24 | ongeveer 2.000 |
-| Hoofdstuk 25 en 26 | 1.500 tot 2.000 per hoofdstuk |
+| Hoofdstuk 5 tot 24 | 2.000 tot 2.400 per hoofdstuk |
+| Hoofdstuk 25 | ongeveer 2.000 |
+| Hoofdstuk 26 en 27 | 1.500 tot 2.000 per hoofdstuk |
 | Epiloog | 600 tot 900 |
 
 ## 6. Rubrieken per hoofdstuk
@@ -82,19 +82,19 @@ Deze toewijzing is vast, zodat er geen dubbels ontstaan.
 | 10 | Dossier 2: het lied (onverklaard; experimenteel bevestigd door de proefpersoon) | |
 | 11 | Labradorwet nr. 31 | |
 | 12 | Labradorwet nr. 11 | |
-| 13 | Labradorwet nr. 38 | |
-| 14 | Dossier 18: waarom mensen applaudisseren | |
-| 15 | Dossier 89: de postbode | ja |
-| 16 | Dossier 64: gapen | |
-| 17 | Dossier 103: de spiegel | |
-| 18 | Labradorwet nr. 45 | |
-| 19 | Dossier 95: het bordje (in het hoofdstuk) en Dossier 58: de brief van de gemeente (aan het eind) | ja, bij 58 |
-| 20 | Dossier 72: Kerstmis (met de kleinkinderen) | |
-| 21 | Labradorwet nr. 22 | |
-| 22 | Dossier 41 (Deel III-versie: Tara blijft liggen; Lode veegt met de hand) | ja |
-| 23 | Een nieuwe Labradorwet, nr. 47, zelf te formuleren, over wandelen en ouder worden | |
-| 24 | Dossier 110: de neus. Status: meetinstrument defect. Kort, bijna leeg. | ja |
-| 25 | Labradorwet nr. 52, als Tara's laatste notitie, midden in het hoofdstuk | |
+| 14 | Labradorwet nr. 38 | |
+| 15 | Dossier 18: waarom mensen applaudisseren | |
+| 16 | Dossier 89: de postbode | ja |
+| 17 | Dossier 64: gapen | |
+| 18 | Dossier 103: de spiegel | |
+| 19 | Labradorwet nr. 45 | |
+| 20 | Dossier 95: het bordje (in het hoofdstuk) en Dossier 58: de brief van de gemeente (aan het eind) | ja, bij 58 |
+| 21 | Dossier 72: Kerstmis (met de kleinkinderen) | |
+| 22 | Labradorwet nr. 22 | |
+| 23 | Dossier 41 (Deel III-versie: Tara blijft liggen; Lode veegt met de hand) | ja |
+| 24 | Een nieuwe Labradorwet, nr. 47, zelf te formuleren, over wandelen en ouder worden | |
+| 25 | Dossier 110: de neus. Status: meetinstrument defect. Kort, bijna leeg. | ja |
+| 26 | Labradorwet nr. 52, als Tara's laatste notitie, midden in het hoofdstuk | |
 | 26 en epiloog | geen rubriek | |
 
 ## 7. Vaste feiten (niet afwijken)

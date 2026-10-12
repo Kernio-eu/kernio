@@ -1,4 +1,4 @@
-# Hoofdstuk 14. De Dronken Gast
+# Hoofdstuk 15. De Dronken Gast
 
 ### Onderzoeksvraag
 

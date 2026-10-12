@@ -1,4 +1,4 @@
-# Hoofdstuk 25. De Laatste Avond
+# Hoofdstuk 26. De Laatste Avond
 
 ### Observatie
 

@@ -1,4 +1,4 @@
-# Hoofdstuk 16. Kalmerende Signalen
+# Hoofdstuk 17. Kalmerende Signalen
 
 ### Onderzoeksvraag
 

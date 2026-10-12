@@ -1,4 +1,4 @@
-# Hoofdstuk 23. De Hond als Spiegel
+# Hoofdstuk 24. De Hond als Spiegel
 
 ### Onderzoeksvraag
 

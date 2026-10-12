@@ -1,6 +1,6 @@
 # Deel III. De Grote Synthese: Wijsheid
 
-# Hoofdstuk 19. De Boswachter versus de Wolf
+# Hoofdstuk 20. De Boswachter versus de Wolf
 
 ### Onderzoeksvraag
 

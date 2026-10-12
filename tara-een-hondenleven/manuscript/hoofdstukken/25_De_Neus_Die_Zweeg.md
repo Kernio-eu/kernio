@@ -1,4 +1,4 @@
-# Hoofdstuk 24. De Neus Die Zweeg
+# Hoofdstuk 25. De Neus Die Zweeg
 
 ### Onderzoeksvraag
 

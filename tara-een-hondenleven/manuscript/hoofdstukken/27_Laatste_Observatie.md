@@ -1,4 +1,4 @@
-# Hoofdstuk 26. Laatste Observatie, Genoteerd door de Proefpersoon
+# Hoofdstuk 27. Laatste Observatie, Genoteerd door de Proefpersoon
 
 Ze keek altijd alsof ze iets bijhield. Twaalf jaar lang, vanuit haar mand, vanop haar kleedje, vanonder de tafel. Ik weet niet wat. Ik schrijf dit daarom op zoals ik denk dat zij het zou doen. Wat ik gezien heb. Wat ik niet zeker weet, krijgt een vraagteken.
 

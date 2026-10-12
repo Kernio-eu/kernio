@@ -1,4 +1,4 @@
-# Hoofdstuk 21. De Plek op Zijn Rug
+# Hoofdstuk 22. De Plek op Zijn Rug
 
 ### Onderzoeksvraag
 
