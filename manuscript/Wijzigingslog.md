@@ -1,0 +1,54 @@
+# Wijzigingslog
+
+## v3 (12 oktober 2026): proloog herschreven
+
+Basis: Manuscript_De_Schaduw_van_de_Nachtwacht_KDP_2.docx (onveranderd bewaard in deze map).
+
+Vervangen: de 18 oude prologparagrafen (van "De Sint-Pietersberg is geen berg..." tot en met "Toen deed hij de steen dicht...") door 40 nieuwe. De koppen "PROLOOG" en "Sint-Pietersberg, Zuid-Limburg. Twaalf jaar geleden." bleven staan.
+
+Wat de nieuwe proloog vastlegt:
+- Lars is 30 bij de dood van zijn vader (was 14).
+- De stem in de grot is een oudere collega uit Leiden (later: Arnold de Wit, Sophies vader), niet bij naam genoemd.
+- Erik schrijft zijn brief ter plekke en verstopt hem in een waterdicht luciferskokertje.
+- Erik valt in een ventilatieschacht, leeft nog, de bezoeker belooft hulp, er komt niemand.
+- De kaart verdwijnt; het notitieboek komt via de politie terug (de la van de moeder vervalt).
+
+Let op: de inhoudsopgave in Word bijwerken (rechtsklik, Veld bijwerken); het boek is ongeveer twee bladzijden langer.
+
+## Oude prologtekst (ter referentie)
+
+De Sint-Pietersberg is geen berg zoals de meeste mensen zich een berg voorstellen. Het is een lage, brede heuvel van mergelsteen aan de rand van Maastricht, uitgehold door achthonderd jaar mijnbouw tot een doolhof van gangen dat niemand ooit volledig in kaart heeft gebracht, ook de gemeente niet die er officieel toezicht op hield. Bouwsteen voor de stadsmuren in de Middeleeuwen. Schuilplaats voor De Nachtwacht zelf tijdens de laatste oorlog, toen het schilderij een paar jaar in een van deze gangen had gehangen, opgerold, wachtend tot het weer veilig was. Onder de heuvel was het altijd nacht en altijd negen graden, zomer en winter, en dat wist Erik van der Meer beter dan wie ook, want hij was hier al twintig jaar aan het zoeken.
+
+Hij was om elf uur die avond binnengekomen via een ingang die op geen enkele toeristenkaart stond, een roestig hekwerk achter een bramenstruik dat hij twee decennia geleden voor het eerst had opengebroken en sindsdien elk jaar had teruggevonden. Zijn vrouw dacht dat hij in Maastricht overnachtte voor een lezing. Zijn zoon, veertien jaar oud en op dat moment vermoedelijk allang in slaap in een huis honderdvijftig kilometer verderop, wist niets van deze avond en zou er nooit iets van te weten komen op de manier die zijn vader zich had voorgesteld. Erik had die middag nog naar hem gezwaaid vanaf de oprit, met de rugzak al over zijn schouder, en Lars had geroepen: „Waarom hou je toch zoveel van oude stenen, papa?” Erik had geen goed antwoord gehad. Hij had er nooit een goed antwoord op gehad, niet voor zijn vrouw, niet voor collega's aan de universiteit die zijn obsessie eerst grappig en later ongemakkelijk waren gaan vinden.
+
+Hij was in de eerste jaren nog met studenten gekomen, jonge historici die dachten dat een middag in de mergelgrotten een aardig uitstapje was bij hun studie, en die algauw afhaakten zodra ze merkten dat professor Van der Meer geen middag bedoelde maar hele weekenden, hele vakanties, elke vrije dag die de universiteit hem gunde. Uiteindelijk was hij alleen overgebleven, wat hem niet had gestoord. Een geheim dat je met te veel mensen deelt, had hij ooit tegen zijn vrouw gezegd, half grappend, is geen geheim meer maar een uitnodiging.
+
+De mergel ademde kou uit, ook in augustus. Erik voelde het door zijn jas heen, een vochtige kilte die zich vastzette in zijn schouders terwijl hij zich bukte onder een lage doorgang die hij drie jaar geleden voor het eerst had ontdekt en die sindsdien, meter voor meter, steeds verder de berg in had geleid. Zijn zaklamp veegde over wanden die eeuwen geleden met de hand waren uitgehakt, elke groef van de mergelblokken nog zichtbaar in het zachte gesteente, alsof de mijnwerkers gisteren waren vertrokken in plaats van generaties terug. Op sommige plekken stonden nog namen in de wand gekrast, jaartallen uit de negentiende eeuw, een enkele keer een gedicht, sporen van mensen die hier ooit hadden gewerkt of zich hadden verstopt en die niemand meer kon navragen wat ze precies hadden bedoeld.
+
+Achter hem droop water van het plafond in een traag, onregelmatig ritme. Ergens verderop, veel verder dan een stem normaal zou dragen in deze doolhof van gangen, meende hij voetstappen te horen. Misschien verbeeldde hij het zich. In de mergelgrotten deed geluid rare dingen, kaatste het terug van muren die er niet leken te zijn, verdween het in zijkamers die zijn eigen handgetekende kaart, na twintig jaar nog altijd onvolledig, niet vermeldde. Hij bleef even staan, luisterde, en liep verder toen het geluid niet terugkeerde.
+
+Hij had die kaart trouwens niet meer nodig, niet vanavond. Twintig jaar had hij naar deze plek gezocht, in archieven in Den Haag en Amsterdam, in de kantlijnen van zeventiende-eeuwse notarisakten die niemand anders de moeite had genomen te ontcijferen, in een schilderij dat iedereen al driehonderd jaar bekeek zonder ooit echt te zien. Vanavond, voor het eerst, had de rekening geklopt: een reeks metingen vanaf een kapel bij Cadier en Keer, gecombineerd met een hoek uit een gravure die hij drie maanden geleden in een Brusselse archiefkelder had gevonden, hadden hem hier gebracht, naar een muur die niet toevallig aanvoelde als een deur. Zijn hand trilde toen hij de contouren voelde, niet van de kou.
+
+Zijn hele volwassen leven had hij mensen horen zeggen dat obsessie en toewijding twee namen waren voor hetzelfde ding, en dat het verschil alleen zichtbaar werd op het moment dat je gelijk kreeg of ongelijk. Nu, met zijn handpalm plat tegen koude steen, wist hij voor het eerst zeker aan welke kant van die grens hij stond. Het gaf geen triomf. Het gaf alleen een soort stille, zware helderheid, alsof twintig jaar vragen zich eindelijk hadden gesetteld in één enkele zekerheid die groter was dan hijzelf.
+
+Hij zette zijn rugzak af en haalde er een dun schrift uit, zijn werkboekje, waarin hij twintig jaar aan metingen, hypotheses en doodlopende sporen had bijgehouden, in een handschrift dat steeds kleiner was geworden naarmate de bladzijden opraakten en hij nieuwe niet had willen kopen, uit een soort bijgeloof dat het boekje zelf een deel van het onderzoek was en niet vervangen mocht worden. Op de laatste beschreven bladzijde had hij die middag, voor hij vertrok, drie regels geschreven die hij nu nog eens overlas bij het licht van zijn zaklamp. Als ik gelijk heb en dit werkelijk vind, beslis ik ter plekke of de wereld eraan toe is. Niet eerder. Hij scheurde de bladzijde er voorzichtig uit langs de perforatierand, vouwde hem twee keer dubbel, en stak hem in de binnenzak van zijn overhemd, tegen zijn borst, waar hij zou blijven tot hij een besluit had genomen. De rest van het schrift, twintig jaar aan aantekeningen die hem hier hadden gebracht maar niets van wat hij vanavond zou vinden, liet hij in de rugzak zitten.
+
+De voetstappen waren geen inbeelding meer. Ze kwamen dichterbij, doelgericht, niet het schuifelende tempo van een verdwaalde toerist die zich had losgemaakt van een gegidste tour. Erik deed zijn zaklamp uit.
+
+In het volledige donker hoorde hij zijn eigen hart, veel te luid, en het ademen van iemand die niet hij was, ergens achter de bocht die hij net had genomen. Zijn vingers vonden een inkeping in de mergel op borsthoogte, de vorm die hij twintig jaar geleden voor het eerst had herkend op een verweerde gravure in een kloosterbibliotheek bij Luik, een gravure waarvan de conservator hem nooit had willen vertellen waar die precies vandaan kwam. Hij duwde. Steen schraapte tegen steen, een geluid als een lange, uitgerekte zucht, en een opening ter grootte van een deur gaf de duisternis erachter vrij, kouder nog dan de gang waarin hij stond.
+
+Achter hem, dichtbij nu, een stem, kalm, bijna vriendelijk, het soort stem dat geoefend was in het kalmeren van mensen vlak voordat er iets onherstelbaars gebeurde. „Professor. U hoeft niet verder te gaan. Geef ons gewoon wat u gevonden heeft, en u loopt hier vanavond nog naar buiten.”
+
+Erik kende die toon. Hij had hem eerder gehoord, jaren geleden, van een oudere collega die hem had gewaarschuwd nooit met de verkeerde mensen te praten over wat hij zocht, zonder ooit te willen zeggen wie die verkeerde mensen waren. Nu wist hij het, of wist hij tenminste dat er iets bestond om te weten. Hij ging verder.
+
+Binnen de opening was de ruimte kleiner dan hij had verwacht, een soort voorportaal, de wanden bedekt met symbolen die hij herkende en symbolen die hij niet herkende, een cirkel met een middelpunt, een passer die zich vermengde met iets ouds, iets wat aan het gilde voorafging waarvan hij twintig jaar had aangenomen dat het de bron was. Er was geen tijd om het te bestuderen, geen tijd om ook maar één van de vragen te beantwoorden die zich in zijn hoofd opstapelden sneller dan hij ze kon vormen. De stem was nu bij de opening.
+
+Wat er daarna gebeurde zou nooit in een politierapport terechtkomen dat klopte met wat er werkelijk was gebeurd. Er zou een instorting worden genoemd, een ongelukkige val, een hobbyist die zich niet aan de waarschuwingsborden had gehouden en die, alleen en te ver van de gebaande paden, geen hulp had kunnen roepen. Er zou een uitvaart zijn met te veel witte lelies en te weinig antwoorden, en een zoon van dertig die op de eerste rij zou zitten met een gezicht van steen, wachtend op uitleg die niemand hem zou geven, terwijl zijn moeder naast hem thuis een la in het bureau van haar man leegruimde en er een gehavend, onvolledig notitieboekje in aantrof, met de laatste beschreven bladzijde er ruw uitgescheurd, iets waar niemand toen enige betekenis aan hechtte.
+
+Lars zou die dag, in een zwart pak dat hem niet paste omdat niemand had gedacht aan de tijd om er een te laten vermaken, naast zijn moeder staan en naar een kist kijken die volgens de begrafenisondernemer beter dicht kon blijven, en zich pas jaren later afvragen waarom niemand van de politie ooit met hem had willen praten over de precieze plek waar zijn vader was gevonden, alsof die vraag zelf al ongepast was.
+
+Maar hier, in het donker onder de Sint-Pietersberg, deed Erik van der Meer nog één ding voordat de stem en de voetstappen hem bereikten. Hij haalde de dubbelgevouwen bladzijde uit zijn borstzak, de enige bladzijde die er werkelijk toe deed, en liet hem niet in zijn jas zitten. Hij liet hem vallen in een smalle spleet naast de deur, diep genoeg dat geen enkele hand zonder de juiste maat en de juiste vasthoudendheid hem ooit zou kunnen bereiken, waar hij zou blijven liggen, twaalf jaar of langer, wachtend op iemand die wist waar hij moest zoeken.
+
+Iemand die zijn ogen had. En zijn koppigheid.
+
+Toen deed hij de steen dicht, en draaide zich om, naar de stem, met lege handen en een schrift zonder zijn laatste bladzijde, en de rust van een man die al had beslist wat hij nooit meer zou terugnemen.
