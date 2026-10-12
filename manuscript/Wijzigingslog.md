@@ -1,5 +1,9 @@
 # Wijzigingslog
 
+## v6.1 (12 oktober 2026)
+
+In "Het huis in Den Haag" twee zinnen toegevoegd aan Arnolds verhaal: „Ik heb niet verder gekeken. Ik kwam niet voor wat daar lag.” Dit verklaart waarom Arnold het manuscript in de nis nooit zag.
+
 ## v6 (12 oktober 2026): controle van de verhaallijn
 
 Basis: v5. Volledige herlezing; 87 alinea-wijzigingen. Zie de story bible, secties 6 tot en met 8, voor de vastgestelde tijdlijn en de regels die hieruit volgen.
