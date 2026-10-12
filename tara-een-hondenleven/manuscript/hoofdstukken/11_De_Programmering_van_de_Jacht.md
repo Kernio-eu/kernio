@@ -56,7 +56,7 @@ Het experiment heb ik niet hoeven op te zetten. De katten deden het voor mij.
 
 Achteraan in onze tuin, voorbij het gras en de groentebakken waarin Mieke tomaten kweekt die ik niet mag eten, staat een schutting van houten planken. Aan de ene kant van die schutting is het onze tuin. Aan de andere kant is het de tuin van de buurman. En bovenop die schutting is het van niemand, of van de katten.
 
-Op een middag, toen de zon laag over de groentebakken scheen en de planken warm rook naar hars en oud vernis, zat Mira bovenop die schutting. Ze lag op haar zij, met één poot naar beneden hangend aan onze kant, en haar ogen half dicht. Ik stond in het gras en keek naar haar. Ik voelde niets in mijn poten. Geen enkele spier wilde gaan. Ik snoof aan een tomatenplant, keek nog eens, en ging liggen.
+Op een middag, toen de zon laag over de groentebakken scheen en de planken warm roken naar hars en oud vernis, zat Mira bovenop die schutting. Ze lag op haar zij, met één poot naar beneden hangend aan onze kant, en haar ogen half dicht. Ik stond in het gras en keek naar haar. Ik voelde niets in mijn poten. Geen enkele spier wilde gaan. Ik snoof aan een tomatenplant, keek nog eens, en ging liggen.
 
 Een paar dagen later, op dezelfde plank, op dezelfde hoogte, in hetzelfde licht: de kater.
 
@@ -112,7 +112,7 @@ Deur. Mat. Haak.
 
 ### Resultaat
 
-Die avond hoorde ik hen praten in de keuken, terwijl ik in de mand lag met mijn kin op de pantoffel en de kachel nog wat na tikte.
+Die avond hoorde ik hen praten in de keuken, terwijl ik in de mand lag met mijn kin op de pantoffel en de kachel nog wat natikte.
 
 "Ik heb 't haar zelf geleerd," zei de proefpersoon. "Toen ze klein was. Ik stond erbij te lachen. Ik vond dat plezant."
 
@@ -120,7 +120,7 @@ Die avond hoorde ik hen praten in de keuken, terwijl ik in de mand lag met mijn 
 
 "Ge zou denken dat ge een hond opvoedt met wat ge zegt." Hij schoof een stoel achteruit. "Ge voedt ze op met wat ge doet. Met waar ge om lacht."
 
-Ik rook haar handcrème bewegen; ze legde een hand op de zijne, of op de tafel naast de zijne, dat kon ik van daar niet uitmaken.
+Ik rook haar handcrème bewegen; ze legde een hand op de zijne, of op de tafel naast de zijne, dat kon ik vandaar niet uitmaken.
 
 Ik noteer hier een voorbehoud. Ik ben een Labrador. Mijn soort is gemaakt om dingen te zoeken en zacht in de bek terug te brengen, en wat ik achter de kater deed, was een spel dat ophield bij de poort. In het dorp woont een magere grijze windhond die bij elke haas in de wei begint te trillen. Bij hem gaat het programma dieper dan een lach. Ik weet alleen dat de lach bij mij iets heeft aangezet wat er misschien al lag, en dat het er daarna niet meer uit wilde.
 

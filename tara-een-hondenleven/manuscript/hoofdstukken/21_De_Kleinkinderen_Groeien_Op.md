@@ -22,7 +22,7 @@ In de woonkamer begon dan het programma. Mieke zette de appelsap op tafel. Lode 
 
 Toen Lotte nog kroop, zat Mira op de vensterbank. Toen Lotte begon te lopen, zat ze op de kast. Sinds Lotte op een stoel kon klimmen, zat ze op de bovenste plank van de boekenkast, tussen de fotokaders, met haar staart over de rand, en daar kwam ze pas af als Sofies auto het grind weer had verlaten.
 
-Vroeger speelde ik met Bram op het tapijt. Hij trok aan mijn oren en ik liet het toe. Hij rolde over mij heen en ik rolde mee. Hij gooide de rode bal in de tuin en ik bracht hem terug, en hij gooide hem weer, en dat konden we zolang volhouden tot een van ons in slaap viel, meestal hij. Nu schoot hij de voetbal tegen de garagepoort, zo hard dat de poort na elk schot nog even zoemde. De eerste keren liep ik erachteraan. Na een tijd ging ik op mijn kleedje op het terras liggen en keek ik.
+Vroeger speelde ik met Bram op het tapijt. Hij trok aan mijn oren en ik liet het toe. Hij rolde over mij heen en ik rolde mee. Hij gooide de rode bal in de tuin en ik bracht hem terug, en hij gooide hem weer, en dat konden we zo lang volhouden tot een van ons in slaap viel, meestal hij. Nu schoot hij de voetbal tegen de garagepoort, zo hard dat de poort na elk schot nog even zoemde. De eerste keren liep ik erachteraan. Na een tijd ging ik op mijn kleedje op het terras liggen en keek ik.
 
 Lotte kwam dan naast mij zitten met een doosje haarspeldjes.
 
@@ -112,7 +112,7 @@ Bram keek naar de kapstokplank. Lode volgde zijn blik. Hij nam de boekentas, rit
 
 "Rekenen," zei Bram. "Ge moet niet kwaad zijn."
 
-Lode las, langer dan nodig was voor één bladzijde. Ik rook hem. Er kwam niets scherps, alleen koffie en aftershave en iets warms dat ik geen naam kan geven.
+Lode las, langer dan nodig was voor één bladzijde. Ik rook hem. Er kwam niets scherps, alleen koffie en aftershave en iets warms waaraan ik geen naam kan geven.
 
 "Vijfenvijftig," zei hij. "Op honderd."
 

@@ -154,7 +154,7 @@ Ik heb geen verklaring gevonden voor het wandelen van de proefpersoon. De oorspr
 
 Ik weet niet waar hij dat geleerd heeft.
 
-Op een late namiddag in de herfst stonden we samen op de top van de zandheuvel. Ik was als laatste boven gekomen, en hij had gewacht. Het licht lag laag over de heide, die bruin werd aan de randen en voor hem nog een beetje paars was en voor mij grijs, en er kwam een wind over het ven die naar ijzer en kikkers rook en naar de dennen achter ons. Lode stond met zijn handen in zijn zakken. Ik stond tegen zijn been. Hij deed zijn hoofd een beetje omhoog en snoof.
+Op een late namiddag in de herfst stonden we samen op de top van de zandheuvel. Ik was als laatste bovengekomen, en hij had gewacht. Het licht lag laag over de heide, die bruin werd aan de randen en voor hem nog een beetje paars was en voor mij grijs, en er kwam een wind over het ven die naar ijzer en kikkers rook en naar de dennen achter ons. Lode stond met zijn handen in zijn zakken. Ik stond tegen zijn been. Hij deed zijn hoofd een beetje omhoog en snoof.
 
 "Hars," zei hij.
 

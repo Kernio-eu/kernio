@@ -18,7 +18,7 @@ Ik zong nog altijd. De pantoffel was intussen tot op de zool versleten, en Mieke
 
 Wat wel veranderde: na het ontbijt reden we niet meer naar het grasveld achter de kerk, maar naar de heide.
 
-De heide begint waar het asfalt ophoudt en de wereld zacht wordt. Eerst is er een parking van zand, met plassen waarin de lucht lag, en een houten paal met een bordje erop. Dan zijn er de dennen. Onder de dennen ligt een vloer van naalden die verend meegeeft en naar hars en paddenstoelen ruikt, en naar alles wat er de nacht voordien overheen is gelopen. Het licht valt er in schuine banen tussen de stammen, zoals vroeger in het kot, maar zonder stof en zonder melk. En achter de dennen ligt de heide zelf.
+De heide begint waar het asfalt ophoudt en de wereld zacht wordt. Eerst is er een parking van zand, met plassen waarin de lucht ligt, en een houten paal met een bordje erop. Dan zijn er de dennen. Onder de dennen ligt een vloer van naalden die verend meegeeft en naar hars en paddenstoelen ruikt, en naar alles wat er de nacht voordien overheen is gelopen. Het licht valt er in schuine banen tussen de stammen, zoals vroeger in het kot, maar zonder stof en zonder melk. En achter de dennen ligt de heide zelf.
 
 Mensen zeggen dat de heide paars is. In de zomer zeggen ze het tegen elkaar met een stem die ze anders alleen voor baby's gebruiken. Voor mij was ze grijs, een golvend vlak tot aan de bomen aan de overkant, maar ze rook naar honing en naar stof, en ze zoemde. Tussen de struiken liepen zandpaadjes, wit en droog aan de bovenkant en koel als je groef, en verderop lag een ven dat naar ijzer en kikkers rook, met riet langs de oever. In het voorjaar bloeide de brem. De brem was geel. Dat was het enige op de heide dat ook voor mij een kleur had.
 

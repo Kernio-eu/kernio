@@ -8,7 +8,7 @@ Wat doen mensen als ze samen eten, en waarom duurt het zo lang? En valt er iets 
 
 Ik wist dat het een bijzondere avond zou worden lang voor de eerste bel ging. De tafel in de woonkamer werd langer. Dat doet ze een paar keer per jaar: de proefpersoon trekt aan de ene kant, Mieke aan de andere, en uit het midden komen twee planken die de rest van het jaar in het donker hebben gelegen en naar kast en oud hout ruiken. Daarna komt er een wit laken over, dat naar strijkijzer ruikt, en daarna komen de borden die niet de gewone borden zijn.
 
-Mieke had sinds het eerste licht in de keuken gestaan. Het huis rook eerst naar ui en boter, dan naar rood vlees dat in een hete pan siste, dan naar iets dieps en bruins dat de hele middag op het vuur bleef staan. Later kwam er chocolade bij, een geur die ik ken uit de verboden hoek van de keuken, en die ik altijd met een zekere eerbied waarneem, zoals mensen naar een afgrond kijken. De kachel brandde. Het was de tijd van het jaar waarin de ramen 's avonds van binnen besloegen.
+Mieke had sinds het eerste licht in de keuken gestaan. Het huis rook eerst naar ui en boter, dan naar rood vlees dat in een hete pan siste, dan naar iets dieps en bruins dat de hele middag op het vuur bleef staan. Later kwam er chocolade bij, een geur die ik ken uit de verboden hoek van de keuken, en die ik altijd met een zekere eerbied waarneem, zoals mensen naar een afgrond kijken. De kachel brandde. Het was de tijd van het jaar waarin de ramen 's avonds vanbinnen besloegen.
 
 Ik lag in de mand met mijn kin op de pantoffel en volgde alles. Mira had zich teruggetrokken op de bovenste plank van de boekenkast, waar ze lag met haar staart over de rand.
 
@@ -92,7 +92,7 @@ De proefpersoon antwoordde niet. Hij stond op, met een hand op zijn knie, en zet
 
 Ik moet hier twee conclusies noteren, en ze staan niet helemaal goed naast elkaar.
 
-De eerste is een conclusie over mezelf. Mijn honger is een meetinstrument dat altijd aan staat en altijd te hoog uitslaat. Hij zag een hand en maakte er een voederbeurt van. Hij zag een stukje vlees op een bord en maakte er een vergissing van. Een goede onderzoeker kent de afwijking van haar eigen instrument. Ik ken ze. Ik kan er alleen niets aan veranderen.
+De eerste is een conclusie over mezelf. Mijn honger is een meetinstrument dat altijd aanstaat en altijd te hoog uitslaat. Hij zag een hand en maakte er een voederbeurt van. Hij zag een stukje vlees op een bord en maakte er een vergissing van. Een goede onderzoeker kent de afwijking van haar eigen instrument. Ik ken ze. Ik kan er alleen niets aan veranderen.
 
 De tweede gaat over de proefpersoon. Hij had dat stukje bewaard vanaf de eerste snee en het afgeschermd tegen de saus, waar ui in zat. Hij liet het niet onder de tafel vallen, zoals ik dacht dat Paul deed. Hij gaf het na het eten, op zijn hurken, voor iedereen te zien.
 

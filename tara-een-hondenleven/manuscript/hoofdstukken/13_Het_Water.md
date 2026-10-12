@@ -56,7 +56,7 @@ Hij trapte het zand rond de voet van de berk aan, zoals Mieke bij haar tomaten. 
 
 Iets anders verbaasde de proefpersoon telkens opnieuw. Op warme dagen, als mijn tong al een tijd buiten hing, ging ik soms ineens van de wandeling af, recht door het hoge gras, onder een draad door, naar een sloot of een drinkbak voor koeien waar hij niets van wist, en daar dronk ik.
 
-"Hoe weet gij dat?" vroeg hij, toen hij hijgend aankwam. "Ge kunt dat van daar niet zien. Water ruikt naar niks."
+"Hoe weet gij dat?" vroeg hij, toen hij hijgend aankwam. "Ge kunt dat vandaar niet zien. Water ruikt naar niks."
 
 Thuis zei Mieke: "Misschien ruikt het voor haar wel naar iets."
 

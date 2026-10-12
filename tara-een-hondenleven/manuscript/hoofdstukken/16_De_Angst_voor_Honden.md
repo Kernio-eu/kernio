@@ -54,7 +54,7 @@ Het asfalt was al warm. Lode zei niets tot aan de kerk. Bij de kerk zei hij: "Am
 
 ### Hypothese
 
-Mijn eerste hypothese was dat de man bang was van het brood, en dat hij het had laten vallen om van het brood af te zijn. Ik vermeld deze hypothese uit volledigheid. Ze heeft niet lang standgehouden.
+Mijn eerste hypothese was dat de man bang was van het brood, en dat hij het had laten vallen om van het brood af te zijn. Ik vermeld deze hypothese voor de volledigheid. Ze heeft niet lang standgehouden.
 
 Mijn tweede hypothese was beter. De man had naar mij gekeken, en wat hij gezien had, was niet ik. Een hond die mij zo zag komen, had mijn achterkant al geroken. De man zag iets anders, iets dat lang voor mij om een bocht was gekomen, en dat zat er nog in.
 
@@ -90,9 +90,9 @@ Ik heb ze geteld. Lode maakte de lijn niet meer los bij de slagboom. Hij liep de
 
 De lijn is een vreemd instrument. Het ene uiteinde zit aan mij, het andere aan Lode, en wat er aan het ene uiteinde gebeurt, komt aan het andere toe voor het een woord heeft. Ik voelde in die zeventien wandelingen de angst van een man die ik één keer had geroken, door Lodes hand, door het leer, tot in mijn halsband. Lode was niet bang van mij. Lode was bang van die man zijn angst. En ik liep aan de korte lijn, en de herder van de hoeve liep los op zijn erf, en de reebok liep waar hij wou. Het is mij nooit duidelijk geworden waarom dat zo verdeeld was.
 
-Ik ontwierp intussen een experiment van mijn eigen. Want ik had de man opnieuw geroken. Hij woonde niet ver. Zijn zeep en zijn suikerkoffie kwamen soms langs de lantaarnpaal bij de bushalte, en één keer op de deurmat van de bakker, waar alle geuren van het dorp elkaar ontmoeten.
+Ik ontwierp intussen een eigen experiment. Want ik had de man opnieuw geroken. Hij woonde niet ver. Zijn zeep en zijn suikerkoffie kwamen soms langs de lantaarnpaal bij de bushalte, en één keer op de deurmat van de bakker, waar alle geuren van het dorp elkaar ontmoeten.
 
-De achttiende wandeling was een gewone meewandeling door het dorp, naar de bakker. En voor de bakker, op het voetpad, stond hij. Met een zak. Hij zag ons. Zijn geur ging omhoog als de vorige keer, en Lode zijn hand trok de lijn in, en zo stonden we daar: drie geuren die elkaar aankeken.
+De achttiende wandeling was een gewone meewandeling door het dorp, naar de bakker. En voor de bakker, op het voetpad, stond hij. Met een zak. Hij zag ons. Zijn geur ging omhoog als de vorige keer, en Lodes hand trok de lijn in, en zo stonden we daar: drie geuren die elkaar aankeken.
 
 Ik ging liggen.
 
@@ -124,7 +124,7 @@ Het was de eerste zin van hem die niet naar de wachtkamer rook.
 
 De man rent niet meer. Hij loopt nog altijd langs de etalage, en zijn geur stijgt nog altijd als hij mij ziet, maar hij stijgt minder hoog en hij zakt sneller. Eén keer heeft hij gezegd: "Dag, Tara." Hij zei het tegen Lode, maar mijn naam zat erin.
 
-Lode heeft de lijn op de zandweg weer losgemaakt. Het duurde een seizoen. De varens waren intussen helemaal bruin geworden en daarna plat, en er lag ijs in de karresporen, en op een ochtend klikte hij bij de slagboom de lijn los en zei: "Allez." Hij zei niet: "Dogtime." Dat zei hij pas de keer daarna.
+Lode heeft de lijn op de zandweg weer losgemaakt. Het duurde een seizoen. De varens waren intussen helemaal bruin geworden en daarna plat, en er lag ijs in de karrensporen, en op een ochtend klikte hij bij de slagboom de lijn los en zei: "Allez." Hij zei niet: "Dogtime." Dat zei hij pas de keer daarna.
 
 Sindsdien kijkt hij om elke bocht voor ik er ben. Dat deed hij vroeger niet. Hij roept mij ook terug voor de bocht, en dan gaan we er samen om, en pas als de weg erachter alleen naar dennen ruikt, mag ik verder. Ik heb dat niet met woorden geleerd, maar met een armlengte lijn.
 
@@ -139,5 +139,5 @@ De ochtend na de eenendertigste wandeling zong ik bij het ontbijt met de pantoff
 > **Onderzoeksdossier 89**
 > Onderwerp: de postbode.
 > Status: reproduceerbaar gevaar.
-> Opmerking: tot nu toe twee verschillende geuren in hetzelfde uniform. De eerste rook naar sigaretten en natte fietsbanden. De tweede is net begonnen en ruikt naar nieuwe schoenen, pepermunt, en iets uit de wachtkamer van de dierenarts. Hij duwt de brieven met zijn vingertoppen door de gleuf en trekt zijn hand terug voor ze vallen. Ik heb besloten hem niet langer te blaffen, en in plaats daarvan achter de deur te gaan liggen. Hij weet dat niet. Hij trekt zijn hand nog steeds terug. Het uniform zelf blijft verdacht: het gaat van mens naar mens en het ruikt telkens naar iemand anders. Een derde wordt verwacht.
+> Opmerking: tot nu toe twee verschillende geuren in hetzelfde uniform. De eerste rook naar sigaretten en natte fietsbanden. De tweede is net begonnen en ruikt naar nieuwe schoenen, pepermunt, en iets uit de wachtkamer van de dierenarts. Hij duwt de brieven met zijn vingertoppen door de gleuf en trekt zijn hand terug voor ze vallen. Ik heb besloten hem niet langer aan te blaffen, en in plaats daarvan achter de deur te gaan liggen. Hij weet dat niet. Hij trekt zijn hand nog steeds terug. Het uniform zelf blijft verdacht: het gaat van mens naar mens en het ruikt telkens naar iemand anders. Een derde wordt verwacht.
 > *Opmerking van de kat: zij zit elke ochtend op de vensterbank als hij komt. Hij ziet haar en zwaait. Zij knippert één keer en wast daarna haar linkerpoot.*

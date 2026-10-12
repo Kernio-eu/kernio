@@ -52,7 +52,7 @@ De proefpersoon legde het kleedje neer bij een tafel die nog geen tafel was, wan
 
 De man met het voorschoot keek ernaar. Toen zette hij zonder iets te vragen een koffie op de tafel.
 
-Zo gingen we vaker. Elke keer een beetje later op de ochtend. Eerst met lege stoelen. Dan met één tafel waar twee oude mannen zaten met een krant, waar ik even naar keek, en weer weg. Dan met drie tafels. Dan met de kelner die langs liep met een plateau. Elke keer lag ik op het kleedje, en elke keer kwam er een koekje, en sommige keren kwam het niet omdat ik was opgestaan, en dan legde hij het kleedje gewoon opnieuw recht, en zei het woord nog eens.
+Zo gingen we vaker. Elke keer een beetje later op de ochtend. Eerst met lege stoelen. Dan met één tafel waar twee oude mannen zaten met een krant, waar ik even naar keek, en weer weg. Dan met drie tafels. Dan met de kelner die langsliep met een plateau. Elke keer lag ik op het kleedje, en elke keer kwam er een koekje, en sommige keren kwam het niet omdat ik was opgestaan, en dan legde hij het kleedje gewoon opnieuw recht, en zei het woord nog eens.
 
 Er was één ochtend waarop alles misging. Het had geregend, de kasseien glommen en roken naar ijzer, en over het plein kwam een vrouw met een kooi vol jonge konijnen van de markt, die achter hun tralies op en neer schoten en naar wortelloof en angst roken. Ik stond op. Ik stond niet alleen op; ik ging. De lijn schoot strak, de tafel schoof, de koffie van de proefpersoon liep over het schoteltje en over zijn broek. De vrouw met de konijnen keek om en liep sneller.
 

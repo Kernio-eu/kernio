@@ -60,7 +60,7 @@ Hij was groter dan die van een hond. Vier tenen, dicht tegen elkaar, de twee mid
 
 Op die plek is zij jaren geleden tegen mijn knie komen staan, met het haar recht op haar rug, van haar nek tot haar staart. Ik vroeg of ze een spook had gezien. Zij had het geroken lang voor ik iets zag. Ik zag het nu alleen. Ik heb mijn neus er niet bij gebracht. Ik wist wat er voor mij in zou zitten.
 
-Achter de eerste afdruk stond een tweede, en een derde, op één lijn, de achterpoot in het spoor van de voorpoot, zoals een dier loopt dat weet waar het naartoe gaat. Ik ben ze achterna gegaan, van de ene naar de andere, tussen de dennen door, zonder haast, zonder te weten waar ik uitkwam.
+Achter de eerste afdruk stond een tweede, en een derde, op één lijn, de achterpoot in het spoor van de voorpoot, zoals een dier loopt dat weet waar het naartoe gaat. Ik ben ze achternagegaan, van de ene naar de andere, tussen de dennen door, zonder haast, zonder te weten waar ik uitkwam.
 
 Meewandelen is voor mij, zei ik vroeger. Dat is geen dogtime. Dogtime is voor haar.
 

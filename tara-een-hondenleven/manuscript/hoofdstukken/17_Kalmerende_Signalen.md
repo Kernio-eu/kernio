@@ -96,7 +96,7 @@ Ik had niet besloten om te geeuwen. Het gebeurde in mijn kaken, van achteren naa
 
 "Ze is moe," zei Mieke, zonder op te kijken.
 
-Ik ben toen beginnen te tellen. Lode geeuwt 's avonds gemiddeld vier keer voor hij de trap op gaat, en bij drie daarvan geeuw ik mee. Mieke geeuwt minder, maar bij haar geeuw ik ook. Bram geeuwt op kinderdag na het eten, als hij op de bank met zijn duim in zijn mond ligt en zijn ogen half dichtvallen, en dan geeuw ik ook.
+Ik ben toen beginnen te tellen. Lode geeuwt 's avonds gemiddeld vier keer voor hij de trap opgaat, en bij drie daarvan geeuw ik mee. Mieke geeuwt minder, maar bij haar geeuw ik ook. Bram geeuwt op kinderdag na het eten, als hij op de bank met zijn duim in zijn mond ligt en zijn ogen half dichtvallen, en dan geeuw ik ook.
 
 De postbode geeuwde een keer voor de deur. Ik zag hem door het glas. Ik geeuwde niet.
 
@@ -128,9 +128,9 @@ Hij zag het niet. Hij had zijn ogen nog dicht. Mieke zag het wel. Ze zei niets e
 
 Er zijn twee soorten geeuwen. De eerste soort is een woord. Die gebruik ik bij vreemden, als iemand over mij heen hangt of te hard praat of mij te lang aankijkt. Die geeuw zegt: rustig. Ik doe hem met opzet, of toch bijna.
 
-De tweede soort is geen woord. Die gebeurt mij. Die komt alleen als een van mijn eigen mensen geeuwt, en dan komt hij van binnen, zonder vragen.
+De tweede soort is geen woord. Die gebeurt mij. Die komt alleen als een van mijn eigen mensen geeuwt, en dan komt hij vanbinnen, zonder vragen.
 
-Van binnen voelen ze hetzelfde in mijn kaken. Het verschil zit alleen in wie er tegenover mij zit.
+Vanbinnen voelen ze hetzelfde in mijn kaken. Het verschil zit alleen in wie er tegenover mij zit.
 
 Toen de man in het park "Is ze moe?" vroeg, had hij voor de helft gelijk. Ik geeuwde. Hij had alleen de verkeerde soort gezien. En Lode, die van mij de andere soort al duizend keer gezien heeft, wist precies welke het was.
 

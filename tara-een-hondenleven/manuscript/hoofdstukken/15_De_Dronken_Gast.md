@@ -22,7 +22,7 @@ Eerst de geur. Het zoete parfum dat hij bij de deur had meegebracht, werd zwaard
 
 Dan het lijf. Zijn bewegingen werden groter dan nodig. Als hij naar zijn glas reikte, ging zijn hand er eerst voorbij en kwam dan terug. Als hij lachte, ging zijn stoel mee. Hij leunde naar links, naar Annemie, en bleef daar langer hangen dan een mens normaal hangt.
 
-Dan pas de stem. Die werd luider, maar niet zoals bij boosheid; er zat geen metaal in. Ze werd breder, met meer lucht en minder randen. Woorden liepen in elkaar over. Hij vertelde het verhaal van de directeur die zijn auto niet terugvond nog een keer, en de anderen lachten nog een keer, maar zachter, en Annemie keek naar haar horloge.
+Dan pas de stem. Die werd luider, maar niet zoals bij boosheid; er zat geen metaal in. Ze werd breder, met meer lucht en minder randen. Woorden liepen in elkaar over. Hij vertelde het verhaal van de directeur die zijn auto niet terugvond, nog een keer, en de anderen lachten nog een keer, maar zachter, en Annemie keek naar haar horloge.
 
 Ik lag in de mand met mijn kin op de pantoffel en volgde het allemaal met grote aandacht.
 
@@ -48,7 +48,7 @@ Hij kwam naar de mand. Hij boog zich over me heen, heel ver, met zijn adem van g
 
 Ik kwam omhoog. Mijn achterpoten bleven op het tapijt staan, mijn voorpoten hingen in zijn handen, mijn buik was bloot. Ik was ineens zo groot als hij, en zijn gezicht was vlak bij het mijne, en het rook naar alles tegelijk.
 
-"Een, twee, drie," zong hij. "Een, twee, drie."
+"Eén, twee, drie," zong hij. "Eén, twee, drie."
 
 Hij zette een stap naar links. Ik moest mee. Hij zette een stap naar rechts. Ik moest mee. Mijn nagels krasten over het tapijt.
 
@@ -56,7 +56,7 @@ Ik noteer hier wat ik deed, voor zover ik het van binnenuit kon waarnemen. Ik dr
 
 Ik had geen hypothese, geen meetpunt, geen plek in mijn verslag waar dit kon staan. Ik was alleen een hond met haar poten in de lucht.
 
-Toen hoorde ik de stoel van de proefpersoon achteruit schuiven.
+Toen hoorde ik de stoel van de proefpersoon achteruitschuiven.
 
 "Rik."
 
@@ -80,7 +80,7 @@ Ik was naar mijn mand gegaan en had me neergelegd, met de pantoffel tussen mijn 
 
 Ik verroerde me niet.
 
-"De hele avond. Ik heb 't gezien. Gij kijkt naar wie wat eet. Gij kijkt naar wie wat zegt. Gij kijkt naar Paul zijn hand." Hij lachte, kort. "Wat zit gij eigenlijk te denken, hè? Wat schrijft gij allemaal op?"
+"De hele avond. Ik heb 't gezien. Gij kijkt naar wie wat eet. Gij kijkt naar wie wat zegt. Gij kijkt naar Paul zijn hand." Hij lachte, kort. "Wat zit gij eigenlijk te denken, hé? Wat schrijft gij allemaal op?"
 
 Ik heb in mijn hele onderzoek nooit zo'n vraag gekregen. Een proefpersoon hoort niet te weten dat hij bestudeerd wordt. Ik draaide mijn kop weg, likte mijn lippen, en keek naar de kachel. Alle signalen die ik had. Rik bleef kijken.
 
@@ -96,7 +96,7 @@ Rik zette het glas water op de vloer, waar het meteen omviel, en kwam overeind. 
 
 Greet klapte in haar handen.
 
-Niet een keer, maar veel keren achter elkaar, snel, met haar handpalmen plat tegen elkaar. Paul deed mee. Annemie deed mee, met haar ogen ten hemel. Mieke deed mee, zachter. De proefpersoon klapte twee keer, langzaam, en schudde zijn hoofd.
+Niet één keer, maar veel keren achter elkaar, snel, met haar handpalmen plat tegen elkaar. Paul deed mee. Annemie deed mee, met haar ogen ten hemel. Mieke deed mee, zachter. De proefpersoon klapte twee keer, langzaam, en schudde zijn hoofd.
 
 Ik stond in de kamer en keek naar al die handen.
 

@@ -28,7 +28,7 @@ Hij aaide me niet. Hij hing zijn jas aan de kapstok, naast de lijn, en zei "goei
 
 Hij bleef staan bij de kachel.
 
-Eerst rook ik het. Er kwam zweet bij, nat en zout, uit zijn handpalmen, en het scherpe werd dikker, als koffie in een beker die nooit wordt uitgespoeld. Dan zag ik zijn lichaam: de schouders die omhoog gingen, de kin die naar voren kwam, één hand die openging en weer dichtging. En dan pas kwamen de woorden.
+Eerst rook ik het. Er kwam zweet bij, nat en zout, uit zijn handpalmen, en het scherpe werd dikker, als koffie in een beker die nooit wordt uitgespoeld. Dan zag ik zijn lichaam: de schouders die omhooggingen, de kin die naar voren kwam, één hand die openging en weer dichtging. En dan pas kwamen de woorden.
 
 "Tara! Wat hebt gij nu weer..."
 

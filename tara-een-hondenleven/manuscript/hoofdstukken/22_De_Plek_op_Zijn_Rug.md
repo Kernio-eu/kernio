@@ -68,7 +68,7 @@ Ik noteer de plaats van haar poot. De reden noteer ik niet. Die ken ik niet.
 
 Op een nacht deed ik iets wat ik in jaren niet meer gedaan had. Ik liet de rode bal in de mand liggen en ging de trap op. Het waren veertien treden, en bij de negende moest ik even blijven staan. Boven was het donker en het rook er naar wasverzachter, naar Miekes nachtcrème en naar de warme lucht die uit een slaapkamer komt waar twee mensen ademen. De deur stond open. Die staat altijd open. Ik ging niet naar binnen. Ik ging op de drempel liggen, met mijn neus net over de lijn, waar de touwen loper ophoudt en het tapijt van de slaapkamer begint.
 
-Lode sliep op zijn buik, met het deken tot aan zijn middel. Van op de drempel was het niet te ruiken. Er was te veel kamer tussen. Ik bleef toch liggen.
+Lode sliep op zijn buik, met het deken tot aan zijn middel. Vanop de drempel was het niet te ruiken. Er was te veel kamer tussen. Ik bleef toch liggen.
 
 's Morgens stapte hij bijna op mij.
 
@@ -134,7 +134,7 @@ Mieke kwam binnen. "En?"
 
 "Iets kleins," zei Lode. "Op de huid. Op tijd gevonden, zei hij. Ze hebben het helemaal weg."
 
-Mieke bleef in de deuropening staan. Dan draaide ze zich om naar de gootsteen en draaide de kraan open, en liet het water lopen zonder iets af te wassen. Ze rook naar zout. Ze stond zo een tijdje.
+Mieke bleef in de deuropening staan. Dan keerde ze zich naar de gootsteen en draaide de kraan open, en liet het water lopen zonder iets af te wassen. Ze rook naar zout. Ze stond zo een tijdje.
 
 "Zou ze dat geroken hebben?" zei Lode, tegen de vloer.
 

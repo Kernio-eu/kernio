@@ -96,13 +96,13 @@ Ik begreep geen van die woorden. Ik begreep wel dat ze anders klonken dan *alles
 
 ### Resultaat
 
-Het scherpe ging niet meteen weg. Hij werd dunner, zoals zijn geur in de gang dunner wordt als hij vertrekt, maar dan omgekeerd: hier was het iets wat vertrok terwijl Lode bleef. Na een tijd, die ik niet kan meten maar die langer was dan een kom brokken leegeten en korter dan een slaap, rook hij weer naar koffie, wol en Lode. Er bleef een randje van het scherpe over, in zijn handpalmen. Dat randje was er de volgende ochtend nog, toen ik zong met zijn sok in mijn bek.
+Het scherpe ging niet meteen weg. Het werd dunner, zoals zijn geur in de gang dunner wordt als hij vertrekt, maar dan omgekeerd: hier was het iets wat vertrok terwijl Lode bleef. Na een tijd, die ik niet kan meten maar die langer was dan een kom brokken leegeten en korter dan een slaap, rook hij weer naar koffie, wol en Lode. Er bleef een randje van het scherpe over, in zijn handpalmen. Dat randje was er de volgende ochtend nog, toen ik zong met zijn sok in mijn bek.
 
 Hij vulde de bak. Hij ging aan tafel zitten met zijn koffie en het platte lichte ding waarop hij sinds de herfst leest, en hij las niet. Het ding gaf licht op zijn kin. Hij schoof er niet met zijn vinger over. Na een tijd werd het zwart, en hij liet het zwart.
 
 Toen stond hij op, nam de lijn van de kapstok, en zei: "Kom."
 
-Dat deed hij nooit op een dag dat hij wegging. Nu was er de zandweg, in een licht dat nog half nacht was. Het gras in de berm was grijs en zwaar van de dauw en maakte mijn buik nat, de dennen aan de bosrand druppelden, en de lucht rook naar natte aarde en naar de vos, die er net nog geweest moest zijn, want zijn spoor was zo vers dat het nog warm leek. Lode klikte de lijn los zonder om zich heen te kijken. Hij zei niet *dogtime*. Hij stond met zijn handen in zijn zakken op de weg en keek naar het maïsveld, dat kaal was en vol plassen, en hij liet mij lezen zo lang ik wilde. Ik las lang. Hij wachtte. Hij hijgde niet, want hij stond stil.
+Dat deed hij nooit op een dag dat hij wegging. Nu was er de zandweg, in een licht dat nog half nacht was. Het gras in de berm was grijs en zwaar van de dauw en maakte mijn buik nat, de dennen aan de bosrand druppelden, en de lucht rook naar natte aarde en naar de vos, die er net nog geweest moest zijn, want zijn spoor was zo vers dat het nog warm leek. Lode klikte de lijn los zonder om zich heen te kijken. Hij zei niet *dogtime*. Hij stond met zijn handen in zijn zakken op de weg en keek naar het maïsveld, dat kaal was en vol plassen, en hij liet mij lezen zolang ik wilde. Ik las lang. Hij wachtte. Hij hijgde niet, want hij stond stil.
 
 Toen we terugkwamen, was hij te laat. Dat zei Mieke, in de gang, met zijn sleutels in haar hand, die ze in de suikerpot had gevonden.
 

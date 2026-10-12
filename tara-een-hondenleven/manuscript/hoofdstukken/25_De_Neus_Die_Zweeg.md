@@ -12,7 +12,7 @@ Eerst moet ik iets vermelden wat voor het niezen gebeurde. Ik noteerde het toen 
 
 De zomer liep ten einde. In de garage, waar de zak met mijn brokken staat, liep 's nachts een nieuw spoor langs de muur: klein, haastig, naar stof en graan en de achterkant van een kast. Muizen, voor mijn brokken. Ik wist het lang voor Lode, die het pas zag aan een gaatje in de zak.
 
-Op een avond zat hij lang gehurkt achteraan in de garage, met zijn leesbril op en een doosje in zijn hand. Daarna rook het onderaan de achterste muur naar graan en naar iets zoets en vets, zoals de boterhammen van Bram. Het kwam uit een spleet tussen twee stenen, waar de voeg uit gevallen was.
+Op een avond zat hij lang gehurkt achteraan in de garage, met zijn leesbril op en een doosje in zijn hand. Daarna rook het onderaan de achterste muur naar graan en naar iets zoets en vets, zoals de boterhammen van Bram. Het kwam uit een spleet tussen twee stenen, waar de voeg uitgevallen was.
 
 De volgende middag stond de zijdeur van de garage open, omdat Lode met de grasmaaier bezig was. Een open deur laat een Labrador niet onbeproefd. Uit de spleet stak een blokje, net ver genoeg om er mijn tanden achter te krijgen. Het smaakte naar graan en vet, en op het einde naar iets bitters. Daarachter lagen er nog, dieper, waar ik mijn tong voor nodig had. Ik heb de spleet leeggemaakt zoals ik een kom leegmaak: grondig, tot er alleen nog steen was.
 
@@ -86,7 +86,7 @@ Mieke zei op een avond dat mijn neus aan de rand lichter werd. Ik kan mijn eigen
 
 Dat waren de dingen die ik kon vaststellen. Het ergste noteerde ik pas later, omdat het geen observatie was. Het was een gat tussen de observaties.
 
-*Wandeltype: dogtime.*
+Wandeltype: dogtime.
 
 Op het grasveld langs het fietspad maakte Lode de lijn los. Het was een grijze ochtend, de lantaarnpalen brandden nog, en het gras was nat tot aan mijn ellebogen.
 
@@ -137,6 +137,7 @@ De dierenarts scheen met een lampje in mijn neus. Ik trok mijn kop weg. Hij keek
 "Dit moet ge in de kliniek laten bekijken," zei hij. "Ik ga u doorverwijzen."
 
 "Doorverwijzen," zei Lode.
+
 "Naar de kliniek aan de steenweg," zei de dierenarts. "Ze kunnen daar in de neus kijken. Dat kan ik hier niet."
 
 In de auto zat Lode lang achter het stuur voor hij de sleutel omdraaide. Het dekentje lag achterin. Ik lag erop. Vroeger kwam door de kier van het raampje de hele weg binnen: diesel, gemaaid gras, de varkensstal op de hoek. Nu kwam er koude lucht binnen, en die was koud, en verder niets.
@@ -183,7 +184,7 @@ Op het grasveld maakte hij de lijn nog altijd los. Ik liep nog altijd naar de pa
 
 Mijn ogen en oren hadden twaalf jaar lang alleen bevestigd wat mijn neus al wist. Ze kwamen achteraan, zoals Lotte uit de auto. Nu moesten ze voorop, en ze kenden de weg niet.
 
-'s Morgens lag ik vroeger al wakker voor hij boven uit bed kwam, omdat zijn slaapgeur als eerste de trap af kwam. Nu kwam er niets af. Ik lag in de mand en luisterde. De zevende trede piept onder iedereen, maar na een paar ochtenden wist ik dat ze niet onder iedereen op dezelfde manier piept. Onder Mieke kort en hoog, als een muis die zich bedenkt. Onder hem lang en laag. Pas bij die lange piep nam ik de bal in mijn bek. Twaalf jaar had ik hem herkend aan wat hij was. Nu herkende ik hem aan een plank.
+'s Morgens lag ik vroeger al wakker voor hij boven uit bed kwam, omdat zijn slaapgeur als eerste de trap afkwam. Nu kwam er niets af. Ik lag in de mand en luisterde. De zevende trede piept onder iedereen, maar na een paar ochtenden wist ik dat ze niet onder iedereen op dezelfde manier piept. Onder Mieke kort en hoog, als een muis die zich bedenkt. Onder hem lang en laag. Pas bij die lange piep nam ik de bal in mijn bek. Twaalf jaar had ik hem herkend aan wat hij was. Nu herkende ik hem aan een plank.
 
 Overdag ging ik aan de tuindeur staan, stil, zoals altijd, en Lode deed open. De tuin kwam niet binnen. Vroeger stond hij meteen in de opening, met alles erin: de egel onder de compostbak, de appels die in het gras lagen te gisten. Nu was het een opening met koude lucht, en daarachter een vlak dat groen is voor de mensen. Ik bleef op de drempel staan. Ik keek naar de schutting, naar de groentebakken, naar het donker onder de appelboom, een voor een. Ik wist niet wat daar was, en dus wist ik niet of ik erheen wilde.
 

@@ -2,7 +2,7 @@
 
 ### Onderzoeksvraag
 
-Twee ogen kijken naar twee ogen. Waarom doet dat het ene keer pijn en de andere keer niet?
+Twee ogen kijken naar twee ogen. Waarom doet dat de ene keer pijn en de andere keer niet?
 
 ### Observatie
 
@@ -12,7 +12,7 @@ Ik heb twee soorten blikken in mijn archief, en ze komen van dezelfde man.
 
 De eerste is oud. Ik was nog geen jaar. Lode had iets gelezen, op papier dat toen nog ritselde, en hij stond in de keuken boven mij, met zijn benen wijd en zijn armen over elkaar, en hij keek. Zijn ogen werden smal. Hij knipperde niet. Zijn geur werd scherp, metalig, de geur van een man die iets wil winnen en niet weet wat. Die blik drukte. Ik voelde hem op mijn kop liggen als een hand die te zwaar is, en ik werd klein onder die hand, en stil, en ik weet nog dat ik naar de tegels keek en de voegen telde, omdat de voegen het enige waren dat niet naar mij keek.
 
-Die blik heb ik al jaren niet meer gezien. De krant is in de vuilnisbak verdwenen, en de blik is met de krant mee gegaan.
+Die blik heb ik al jaren niet meer gezien. De krant is in de vuilnisbak verdwenen, en de blik is met de krant meegegaan.
 
 De tweede blik is van nu. Het was winter toen ik hem begon te meten. De houtkachel tikte en het oranje licht bewoog over het tapijt. Buiten was het donker voor Lode thuiskwam, en hij kwam binnen met de kou in zijn jas en de Ring nog in zijn schouders, en hij ging zitten in zijn zetel. Ik ging liggen voor zijn voeten met mijn kin op de pantoffel. Ik keek naar hem.
 
@@ -120,7 +120,7 @@ Een derde resultaat, van de onderzoeker zelf: de vragende blik wordt door de pro
 
 Een boze blik is een duw. Hij komt van boven en hij wil dat de ander kleiner wordt.
 
-Een liefdevolle blik is geen duw. Hij komt van op dezelfde hoogte, of van lager, en hij wil niets. Wie niets wil, krijgt iets terug.
+Een liefdevolle blik is geen duw. Hij komt vanop dezelfde hoogte, of van lager, en hij wil niets. Wie niets wil, krijgt iets terug.
 
 Dezelfde man heeft mij allebei gegeven. Ik weet nog hoe de eerste voelde. Ik ben vergeten wanneer de tweede begon.
 

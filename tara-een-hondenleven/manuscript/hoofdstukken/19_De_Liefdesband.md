@@ -54,7 +54,7 @@ Toen ging ik liggen. Op de touwen loper, met mijn kin op de lat van hout, mijn n
 
 Ik ging niet binnen.
 
-Het was niet uit angst. Ik ken angst; ik heb hem geroken op een zandweg en in een wachtkamer en in mijn eigen vacht toen de krant nog ritselde. Dit leek eerder op naast Lodes been lopen als de lijn los hangt. Je kunt weg. Je gaat niet.
+Het was niet uit angst. Ik ken angst; ik heb hem geroken op een zandweg en in een wachtkamer en in mijn eigen vacht toen de krant nog ritselde. Dit leek eerder op naast Lodes been lopen als de lijn loshangt. Je kunt weg. Je gaat niet.
 
 Een tweede meting kwam die zomer, op een nacht met onweer.
 
@@ -150,7 +150,7 @@ Lode kwam terug. Elke keer. Ik heb het gemeten, ook in de lange middagen dat het
 
 ### Conclusie
 
-Een gesloten deur houdt een hond buiten. Een open deur doet dat niet. Wat een hond buiten houdt bij een open deur, is iets anders, en het zit niet in de deur.
+Een gesloten deur houdt een hond buiten. Een open deur doet dat niet. Wat een hond buitenhoudt bij een open deur, is iets anders, en het zit niet in de deur.
 
 Ik lag daarna nog vaak op de overloop, met mijn kin op de lat van hout. Niet om binnen te gaan. Omdat het de plek was waar het meeste van hem lag, zonder dat ik iets hoefde te breken.
 

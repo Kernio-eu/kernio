@@ -10,7 +10,7 @@ Wandeltype: vermenging. Ik kom daar nog op terug.
 
 Mieke zei dat mijn snuit wit werd. Ik heb dat niet zelf kunnen vaststellen. Wit is voor mij een helderheid, geen kleur, en ik kijk zelden naar mijn eigen snuit. Wat ik wel kon vaststellen, was dat Lode er vaker over aaide. Met zijn duim, van de neus naar de ogen, heel langzaam, alsof hij het grijs er wilde afvegen of juist wilde voelen of het er nog zat. Op kinderdag zei Lotte dat ik een baard had, zoals opa wanneer hij zich een paar dagen niet had geschoren. Lode streek over zijn kin en zei niets terug.
 
-De ochtenden werden stijf. Ik werd wakker in mijn mand naast de houtkachel, met mijn kin op de rode bal, en mijn achterpoten waren de eersten die niet wakker werden. Ik moest ze overtuigen. Eerst de voorpoten strekken, dan de rug rond maken, dan een ogenblik wachten, en dan pas, als de rest van het lijf erover had nagedacht, opstaan. Vroeger stond ik in één beweging. Ik herinner me die beweging nog, zoals je een geur herinnert van een plek waar je niet meer komt.
+De ochtenden werden stijf. Ik werd wakker in mijn mand naast de houtkachel, met mijn kin op de rode bal, en mijn achterpoten waren de eerste die niet wakker werden. Ik moest ze overtuigen. Eerst de voorpoten strekken, dan de rug rond maken, dan een ogenblik wachten, en dan pas, als de rest van het lijf erover had nagedacht, opstaan. Vroeger stond ik in één beweging. Ik herinner me die beweging nog, zoals je een geur herinnert van een plek waar je niet meer komt.
 
 Het lied ging niet verloren. Het kwam alleen eerder dan mijn benen: ik begon nog liggend, met de bal in mijn bek, en kwam overeind tijdens het zingen. Lode zei dat het klonk als een oude deur, met een stem waarin geen klacht zat.
 
@@ -52,7 +52,7 @@ Mijn hypothese was dat het verschil er nog was, maar dat mijn meetinstrumenten h
 
 ### Experiment
 
-Om de hypothese te toetsen, heb ik op een middag in de late herfst een eigen route gekozen. Ik ging van het pad af, zoals vroeger, de heide in, tussen de struiken, die bruin waren en nat en naar honing rook die er niet meer was. Ik ging naar het ven. Ik ging naar de plek waar ik ooit het grote spoor had gevonden. Ik ging door het zand, met mijn neus omlaag, en las wat er die nacht was gebeurd: een ree, twee konijnen, een man met een fiets, en verder niets wat ik niet kende.
+Om de hypothese te toetsen, heb ik op een middag in de late herfst een eigen route gekozen. Ik ging van het pad af, zoals vroeger, de heide in, tussen de struiken, die bruin waren en nat en naar honing roken die er niet meer was. Ik ging naar het ven. Ik ging naar de plek waar ik ooit het grote spoor had gevonden. Ik ging door het zand, met mijn neus omlaag, en las wat er die nacht was gebeurd: een ree, twee konijnen, een man met een fiets, en verder niets wat ik niet kende.
 
 Lode volgde. Hij liep gewoon mee, op mijn tempo, van het pad af, zijn schoenen in het natte zand. Hij keek naar de grond, waar ik naar keek. Een keer bleef hij staan bij een plek waar ik ook was blijven staan, en ik zag dat zijn neus bewoog. Dat had ik hem nooit eerder zien doen. Ik heb het genoteerd met een vraagteken.
 
@@ -66,7 +66,7 @@ Lode zei het woord niet meer. Ik weet niet wanneer hij ermee opgehouden was. Ik 
 
 Er waren ook andere metingen die niet meer klopten.
 
-De geur-klok, die ik in mijn eerste jaren had leren lezen en in mijn volwassen jaren tot op een sprong nauwkeurig kon gebruiken, begon te haperen. In de gang landt elke geur eerst op de deurmat, en ze verbleekt daar in een vast ritme, zodat ik vroeger aan de dunte van Miekes handcrème kon voelen wanneer haar auto in de straat zou komen. Nu stond ik soms te vroeg aan de deur. Ik lag er dan lang, met mijn neus tegen de kier, en er kwam niemand, en Lode zei vanuit de keuken: "Ze is naar de markt, Tara. Dat duurt nog." Op andere dagen stond ik te laat op. Dan stond Mieke al in de gang haar jas uit te doen voor ik er was, en dan keek ze naar mij met een gezicht dat ik niet kon lezen, en ging ze op haar hurken zitten.
+De geurklok, die ik in mijn eerste jaren had leren lezen en in mijn volwassen jaren tot op een sprong nauwkeurig kon gebruiken, begon te haperen. In de gang landt elke geur eerst op de deurmat, en ze verbleekt daar in een vast ritme, zodat ik vroeger aan de dunte van Miekes handcrème kon voelen wanneer haar auto in de straat zou komen. Nu stond ik soms te vroeg aan de deur. Ik lag er dan lang, met mijn neus tegen de kier, en er kwam niemand, en Lode zei vanuit de keuken: "Ze is naar de markt, Tara. Dat duurt nog." Op andere dagen stond ik te laat op. Dan stond Mieke al in de gang haar jas uit te doen voor ik er was, en dan keek ze naar mij met een gezicht dat ik niet kon lezen, en ging ze op haar hurken zitten.
 
 Eén keer lag ik aan de verkeerde kant van de deur. Niet aan de kant waar hij opengaat, maar aan de andere kant, waar de scharnieren zitten. Ik lag daar met mijn neus tegen het hout en wachtte, en toen Lode thuiskwam, ging de deur open en raakte mij niet, en hij stapte binnen en zag mij daar liggen, met mijn neus naar de muur.
 
