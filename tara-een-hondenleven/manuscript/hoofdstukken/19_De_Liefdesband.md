@@ -96,6 +96,28 @@ Lode keek naar mij. Ik lag op de deurmat, met mijn kop op mijn poten.
 
 Jonas knikte, op de manier van mensen die later nog eens zullen nadenken. Mieke, vanuit de keuken, lachte kort door haar neus. Ik weet niet waarom.
 
+Jonas bleef tot het donker werd. Aan tafel, toen Lotte in de blauwe draagmand sliep, keek hij naar mij onder de tafel. "Hoeveel woorden verstaat die eigenlijk?"
+
+"Meer dan ge denkt," zei Lode.
+
+Hij had gelijk, en hij wist niet hoeveel. Ik heb er een inventaris van gemaakt. De meeste woorden van mensen zijn geluid. Ze komen in lange rijen, ze gaan over de Ring en over de prijs van dingen en over mensen die ik nooit geroken heb, en ze vallen naast mij op de grond als kruimels die niet van eten zijn. Maar sommige woorden zijn dingen. Die hebben een geur, een gewicht en een plaats in het huis.
+
+*Wandelen* is de lijn aan de kapstok. *Dogtime* is de klik van de karabijnhaak die losgaat. *Bal* is rood en onzichtbaar en ligt waar mijn neus hem vindt. *Koekje* is de tweede plank. *Eten* is de bak. *Auto* is het dekentje achterin, en soms de dierenarts, wat de waarde van het woord drukt. *Kom* is Lodes been. *Plaats* is het grijze kleedje, ook als het niet onder mij ligt. *Zoek* is mijn neus, losgelaten. *Stok* is alles wat in een bos staat en niet te zwaar is. *Mieke* is handcrème en krijt. *Sofie* is een blauwe auto op de oprit. *Bram* is zand en stickers. En *Tara* is het geluid waarbij mijn kop al draait voor ik weet waarom.
+
+Toen de proefpersoon merkte dat ik bij *wandelen* al aan de kapstok stond voor zijn zin af was, begon hij het te spellen. "Zullen we straks gaan w-a-n-d-e-l-e-n?" zei hij tegen Mieke, zachter dan nodig. Ik heb er een paar weken over gedaan. Daarna stond ik bij de w aan de kapstok. Hij is overgestapt op "een toerke". Ik ben ermee bezig.
+
+Mieke spelde nooit. Mieke zei alles tegen mij in hele zinnen, alsof ik elk woord verstond. Dat deed ik niet. Maar ik verstond haar.
+
+Wat ik het vaakst vroeg, vroeg ik niet met woorden. Als ik naar buiten wilde, ging ik aan de deur staan. Ik krabde niet en ik blafte niet. Ik stond, met mijn neus bij de spleet waar de tuin onder de deur door kwam, en er kwam altijd iemand.
+
+En op de avonden dat de bak nog leeg in de keuken stond en Lode in zijn zetel zat met zijn tablet, schoof ik tussen zijn knieën en de salontafel en legde mijn kop op zijn schoot. Op het tablet, als het moest. Ik keek niet naar de keuken. Ik keek naar hem.
+
+Hij krabde achter mijn oor, zonder op te kijken.
+
+"Ja, ja," zei hij. "Ik weet het. Uw eten."
+
+Dan stond hij op. Hij was het nooit vergeten. Ik heb het toch elke avond gecontroleerd.
+
 Die zomer gingen we ook naar Herentals, naar Sofie, en daar gebeurde iets dat ik niet in deze proef kan onderbrengen. Ik noteer het toch, omdat ik het nergens anders kan laten.
 
 Wandeltype: dogtime.

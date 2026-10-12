@@ -32,7 +32,7 @@ Lode zat op de grond naast de mand, met zijn rug tegen de bank en zijn benen voo
 
 "Morgen halen ze dat weg," zei hij. Hij zei het tegen mijn oor, niet tegen de kamer. "En dan gaan we terug naar de heide, gij en ik. Los. Dogtime."
 
-Van al zijn woorden zijn er maar een paar echte dingen voor mij. *Bal*. *Koekje*. *Wandelen*. Mijn naam. Dat laatste woord, het zijne. Mijn staart ging over de deken, twee keer, voor ik het wist. Mira keek om naar mijn staart en legde haar kop weer neer.
+Van al zijn woorden waren er nu nog maar een paar over die echte dingen waren. *Bal*. *Koekje*. *Wandelen*. Mijn naam. Dat laatste woord, het zijne. Mijn staart ging over de deken, twee keer, voor ik het wist. Mira keek om naar mijn staart en legde haar kop weer neer.
 
 Lode zei daarna niets meer.
 

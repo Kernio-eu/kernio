@@ -42,6 +42,20 @@ Ik probeerde het bij Bram. Bram was inmiddels een kleine mens die op twee benen 
 
 Ik keek weg. Bram keek waar ik naartoe keek. Ik keek terug. Bram keek terug. We hebben dat een hele namiddag kunnen doen. Ik noteer Bram als collega, niet als proefpersoon.
 
+Tussen de metingen door gebruikte ik mijn ogen nog voor iets anders, en dat heb ik lang niet als onderzoek genoteerd, omdat het gewoon werkte. Er is een derde blik. Die komt niet van Lode maar van mij, en hij heeft een richting. Ik kijk naar Lode tot hij terugkijkt. Dan kijk ik naar iets anders. Dan weer naar hem. Meer is het niet.
+
+De kapstok, bijvoorbeeld. De lijn hangt daar aan haar haak, met de karabijnhaak naar beneden, en ze ruikt naar mijn halsband en naar elke straat waar we ooit geweest zijn. Ik ging in de gang staan en keek: Lode, lijn, Lode. Hij legde zijn tablet weg. "Ja, ja. Allez dan."
+
+De koekjestrommel, op de tweede plank. Dezelfde methode, in de keuken: Lode, trommel, Lode. Hij keek eerst naar Mieke, en Mieke keek naar mijn buik. "Ééntje," zei hij dan. "En niet tegen haar zeggen."
+
+De tuindeur. Lode, deur, Lode. Hij stond al recht voor ik de tweede keer naar hem keek.
+
+Ik heb gemeten hoe lang de proefpersoon nodig had om de vraag te begrijpen. Ik mat het in knipperingen, wat geen officiële eenheid is maar wel de enige die ik altijd bij mij heb. Bij de lijn: één, soms twee. Bij de deur: geen. Bij de trommel: één om het te begrijpen, en daarna een hele reeks om te doen alsof hij het niet begreep. Die reeks noteer ik niet als traagheid. Ik noteer ze als onderhandeling.
+
+Eén keer kreeg ik geen ja. Ik keek naar hem, en dan naar de vensterbank, waar Mira lag te slapen. Hij keek naar Mira, en naar mij.
+
+"Nee," zei hij. Hij had niet eens geknipperd.
+
 Voor de volledigheid heb ik ook de eerste soort blik opnieuw gemeten, al heb ik die niet zelf opgezocht. Hij kwam naar mij toe.
 
 Wandeltype: meewandelen, in het dorp, op een grijze ochtend met mot in de lucht, het soort regen dat niet valt maar blijft hangen en alle geuren van het voetpad nat en zwaar maakt. In de straat achter de kerk staat een huis met een hoge poort van zwart ijzer, en achter die poort woont een reu. Ik kende zijn geur van de lantaarnpaal ervoor: oud, zwaar, iets van ijzer en vlees, en elke keer een beetje hoger tegen de paal dan nodig is.
@@ -99,6 +113,8 @@ Ik geeuwde. Hij ook.
 De hypothese is bevestigd. Een lange blik zonder druk vertraagt de ademhaling van de proefpersoon, en die van de onderzoeker. Het effect is reproduceerbaar op koude avonden en ook bij daglicht. Het werkt niet bij Mieke, die het niet nodig heeft, en niet bij Bram, die het voor onderzoek gebruikt. Het werkt niet als de proefpersoon zijn tablet vasthoudt.
 
 Een tweede resultaat, dat niet in de opzet stond: de blik die Lode mij geeft, geeft hij ook aan zijn kleinkind. Dezelfde ogen. Dezelfde trage knipper. Ik had gedacht dat hij die blik voor mij had uitgevonden. Ik neem aan dat hij ouder is.
+
+Een derde resultaat, van de onderzoeker zelf: de vragende blik wordt door de proefpersoon bijna altijd meteen begrepen. Meteen begrijpen en meteen opstaan zijn bij de koekjestrommel twee verschillende metingen.
 
 ### Conclusie
 
