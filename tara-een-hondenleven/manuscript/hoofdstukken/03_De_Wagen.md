@@ -40,7 +40,7 @@ De vrouw zei daar niets op. Ze leunde tegen de deurpost en keek naar hem, zoals 
 
 Toen deed ik iets.
 
-Ik weet niet waarom. Ik heb er later vaak over nagedacht, met de grondigheid die ik op alles toepas, en ik ben er nooit uitgekomen. Er lag een strootje voor mijn poten. Ik nam het in mijn bek. Het smaakte naar stof en naar zon, en het stak een beetje aan de binnenkant van mijn wang. Toen stond ik op en liep naar hem toe.
+Ik weet niet waarom. Ik heb er later vaak over nagedacht, met de grondigheid die ik op alles toepas, en ik ben er nooit uitgekomen. Er lag een strootje voor mijn poten. Ik nam het in mijn bek. Het smaakte naar stof en zon. Toen stond ik op en liep naar hem toe.
 
 Voor hem waren het twee stappen. Voor mij was het een reis, door de warme lichtvlek waar het stof in dreef, met het strootje dwars in mijn bek als iets wat ik moest afleveren. Mijn staart begon te bewegen. Toen mijn kont. Toen alles achter mijn voorpoten. Mijn hele achterlijf zwaaide van links naar rechts, zo hard dat ik scheef liep en twee keer bijna omviel.
 

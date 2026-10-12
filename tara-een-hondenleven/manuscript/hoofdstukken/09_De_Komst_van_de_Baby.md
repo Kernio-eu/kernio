@@ -20,9 +20,11 @@ Hij had gelijk. Ruiken is niet weten. Ik rook dat er iets in Sofie veranderde. W
 
 En Mieke zoog. Dat moet ik ook noteren, want het hoort bij de gegevens. In de weken voor het pakje haalde ze de stofzuiger vaker uit het berghok dan in de twee jaren daarvoor bij elkaar. De stofzuiger is een lang, laag dier met een snuit op een stok, dat met een brul ontwaakt en alles opeet wat op de grond ligt, ook wat van mij is: haren, kruimels, het zand van de zandweg. Ik had er sinds mijn eerste weken een vaste procedure voor. Bij de eerste brul ging ik naar de tuin, en als de tuindeur dicht was, ging ik onder de keukentafel, achter de stoelpoten, waar de snuit niet bij kon.
 
-Toen kwam de dag.
+Het nieuws kwam op een ochtend. Ik hoorde Lode op de trap, ik had zijn sok in mijn bek, en ik zong. Lode vulde de bak met zijn telefoon tegen zijn oor geklemd, en de brokken liepen over de rand op de tegels. "Ja," zei hij. "Ja. Hoeveel? Allez. Allez, jong." Hij legde de telefoon op het aanrecht en bleef staan met de maatbeker in zijn hand. Mieke kwam de trap af in haar ochtendjas, half lopend. Ze rook naar slaap en naar iets wat haastig was. Ze sloegen hun armen om elkaar heen, midden in de keuken, over mij heen, en ik at de gemorste brokken op, een voor een, omdat niemand anders het deed.
 
-Het was voorjaar, de appelboom stond in het wit, en de kachel was al weken uit; het huis rook naar open ramen en naar gemaaid gras van de buren. Ik hoorde een auto de straat in komen die ik kende: een kleine blauwe. Sofies auto. Ik kende hem niet aan zijn geluid maar aan zijn kleur, want blauw is een van de weinige kleuren die ik echt zie, en die auto was zo blauw als de lucht op een goeie dag. Hij draaide de oprit op en bleef staan achter de grijze.
+Een paar slapen later kwam de dag.
+
+Het was voorjaar, de appelboom stond in het wit, en de kachel was al weken uit; het huis rook naar open ramen en naar gemaaid gras van de buren. Ik hoorde een auto de straat in komen die ik kende: een kleine blauwe. Sofies auto. Ik kende hem nog niet aan zijn geluid, wel aan zijn kleur, want blauw is een van de weinige kleuren die ik echt zie, en die auto was zo blauw als de lucht op een goeie dag. Hij draaide de oprit op en bleef staan achter de grijze.
 
 Sofie stapte uit, traag, met een hand aan het portier. Jonas stapte aan de andere kant uit en ging achterin iets losmaken. Toen hij zich weer oprichtte, droeg hij een mand met een hengsel, van grijze stof en hard plastic, zoals je een emmer water draagt die niet mag morsen.
 

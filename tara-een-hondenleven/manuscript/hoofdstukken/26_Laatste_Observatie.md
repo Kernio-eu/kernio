@@ -66,7 +66,7 @@ Ze zeiden dat Tara niet reageerde op wat ze testten. Op licht, op pijn. Ze zeide
 
 "We denken dat het beter is om haar te laten inslapen."
 
-Ik heb naar de affiche gekeken. Naar de tanden.
+Ik heb naar de affiche gekeken. Naar de tanden. Buiten op de steenweg reed een vrachtwagen voorbij, en het raam trilde in zijn sponning tot hij weg was.
 
 "Voelt ze iets?" vroeg ik.
 

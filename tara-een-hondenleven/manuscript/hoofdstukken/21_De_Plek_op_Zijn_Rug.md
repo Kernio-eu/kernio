@@ -18,6 +18,8 @@ Ik moet hier voorzichtig zijn. Ik weet wat ik rook, maar ik weet niet wat het wa
 
 "Allez, Tara," zei hij, en hij duwde mijn kop weg met zijn elleboog. "Ge kittelt."
 
+In mijn eerste jaar had ik vastgesteld dat de proefpersoon zijn geur niet kan verbergen. Hij kan "alles prima" zeggen; zijn huid zegt iets anders. Ik had toen niet bedacht dat zijn huid ook iets kon zeggen wat hij zelf niet wist.
+
 ### Hypothese
 
 Mijn eerste hypothese was die van een Labrador: hij had ergens in gerold.
@@ -106,7 +108,7 @@ Daarna zette ze de film weer aan, en niemand zei nog iets. Lode rook naar koffie
 
 ### Resultaat
 
-Hij ging. Ik weet niet meer welke ochtend, maar ik weet dat hij zijn goede broek aantrok en dat de auto wegreed zonder mij. Ik ging bij de deur liggen. Toen het licht in de gang van de deurmat tot aan de onderste trede was geschoven, hoorde ik de auto in de straat. Mijn klok liep toen nog gelijk.
+Hij ging. Ik weet niet meer welke ochtend, maar ik weet dat hij zijn goede broek aantrok en dat de auto wegreed zonder mij. Ik ging bij de deur liggen. Mira kwam in de gang zitten, op een afstand van precies één poot, wat voor haar dichtbij is, en waste zich. Toen het licht in de gang van de deurmat tot aan de onderste trede was geschoven, hoorde ik de auto in de straat. Mijn klok liep toen nog gelijk.
 
 Hij kwam binnen met een geur die ik kende van een andere plek: ontsmettingsmiddel, dat in de neus brandt, en de angstgeur van een wachtzaal, die bij mensen dezelfde is als bij honden, alleen met meer tijdschriften. Op zijn linkerschouderblad zat een pleister. Daaronder zat de geur van bloed, een beetje, en daaronder niets meer.
 

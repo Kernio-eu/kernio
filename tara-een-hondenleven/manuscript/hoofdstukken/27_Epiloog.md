@@ -8,11 +8,13 @@ Ik blijf liggen en luister. Mieke slaapt nog. Buiten rijdt de eerste auto naar d
 
 Ik luister toch, tot ik zeker ben.
 
-Dan ga ik de trap af. Mijn linkervoet eerst. De vierde trede kraakt. Ik heb ze nooit geteld. Zij wel, denk ik. Het laatste jaar bleef ze halverwege staan en keek ze naar boven, naar mij, alsof ze wilde weten hoeveel er nog kwamen.
+Dan ga ik de trap af. Mijn linkervoet eerst. De zevende trede piept. Het zijn er veertien; dat weet ik sinds kort. Ik heb ze nooit geteld. Zij wel, denk ik. Het laatste jaar bleef ze halverwege staan en keek ze naar boven, naar mij, alsof ze wilde weten hoeveel er nog kwamen.
 
 De mand staat naast de kachel. De wollen deken van Mieke ligt erin, gewassen en gevouwen. De rode bal ligt in het midden. Mira ligt ernaast, op de vloer, met haar rug tegen de rand van de mand. Ze ligt daar sinds die avond. Ze kijkt op als ik binnenkom en legt haar kop weer neer.
 
-Ik zet koffie. Ik vul geen bak.
+Ik zet koffie. Ik vul geen bak. De bak staat nog onder het aanrecht, gewassen. Niemand heeft gezegd dat hij weg moet.
+
+'s Avonds blijft er een stukje op mijn bord liggen. Ik eet het niet op. Mieke ruimt het af en zegt er niets van.
 
 In de gang hangt de lijn aan de kapstok. Ik heb hem niet weggehangen. Mieke ook niet.
 

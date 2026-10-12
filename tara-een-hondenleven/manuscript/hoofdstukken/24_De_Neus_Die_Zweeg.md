@@ -28,11 +28,11 @@ Zijn vinger kwam naar mijn neus. Ik trok mijn kop weg voor hij er was. Dat had i
 
 Ik noteerde dat hij het wist voor ik het wist.
 
-Lotte, die naar zand en snoep ruikt, zei niets. Ze ging naast de mand op de grond liggen, met haar wang op de tegels, en keek van dichtbij naar mijn neus, zonder te wijzen. Zo bleef ze liggen tot Sofie riep dat de jassen aan moesten.
+Lotte, die naar zand en snoep ruikt, zei niets. Ze ging naast de mand op de grond liggen, met haar wang op het tapijt, en keek van dichtbij naar mijn neus, zonder te wijzen. Zo bleef ze liggen tot Sofie riep dat de jassen aan moesten.
 
 Op een nacht kwam een reeks die niet ophield. Ik niesde tot ik rechtop in de mand zat en niet meer wist of ik ademde of niesde. De kachel was uit en de kamer was koud. Boven kraakte het bed. Daarna de trap, linkervoet eerst, veertien treden, de zevende die piept, en dan Lode in zijn pyjama in de deur, zonder licht.
 
-Hij zei niets. Hij ging op de grond zitten naast de mand, op de koude tegels, met zijn rug tegen de bank, en legde zijn hand op mijn rug tot de reeks voorbij was. Daarna bleef de hand liggen. Ik weet niet hoe lang hij daar gezeten heeft. Toen ik wakker werd, was het licht, en lag er een deken over zijn benen die Mieke daar moest hebben gelegd.
+Hij zei niets. Hij ging op de grond zitten naast de mand, op de koude vloer, met zijn rug tegen de bank, en legde zijn hand op mijn rug tot de reeks voorbij was. Daarna bleef de hand liggen. Ik weet niet hoe lang hij daar gezeten heeft. Toen ik wakker werd, was het licht, en lag er een deken over zijn benen die Mieke daar moest hebben gelegd.
 
 Mieke zei op een avond dat mijn neus aan de rand lichter werd. Ik kan mijn eigen neus niet zien. Ik heb hem altijd alleen gebruikt. Lode ging op zijn hurken zitten, streek met zijn duim heel licht langs de rand van mijn neus, en keek daarna lang naar zijn duim.
 
