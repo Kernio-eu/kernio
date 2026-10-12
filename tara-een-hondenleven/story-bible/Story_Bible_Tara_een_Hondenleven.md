@@ -1,6 +1,6 @@
 ---
 title: "Tara, een Hondenleven"
-subtitle: "Story bible, versie 4 (12 oktober 2026)"
+subtitle: "Story bible, versie 5 (12 oktober 2026)"
 lang: nl-BE
 ---
 
@@ -267,7 +267,7 @@ Bram wordt geboren wanneer Tara ongeveer twee is, Lotte wanneer ze ongeveer zes 
 
 # 8. Plaatsbijbel
 
-Het verhaal speelt in een fictief dorp in de Antwerpse Kempen, tussen Herentals en Kasterlee. Er zijn zandwegen, dennenbossen, heide en vennen, en een dorpsplein met kerk en café.
+Het verhaal speelt in Heultje, een dorp in de Antwerpse Kempen dat bij Westerlo hoort. Het is een echte plaats; huizen, straten en mensen in het boek zijn verzonnen. Lode rijdt via de E313 naar Antwerpen; Sofie woont in Herentals. Er zijn zandwegen, dennenbossen, heide en vennen, en een dorpsplein met kerk en café.
 
 **Het kot bij de fokker (hoofdstuk 1 en 2).** Een oude schuur. Het licht valt in stoffige banen door de kieren. Er is stro dat prikt en kraakt, met kranten eronder die naar inkt en melk ruiken. De warmte van acht lijven ligt tegen haar flank. 's Nachts is het koud aan de randen en warm in het midden.
 
@@ -358,7 +358,7 @@ Een donkere, warme plek. Er is geen beeld en geen geluid, alleen warmte, een zac
 - Tara loopt los, ondanks het bordje. Lode neemt geen poepzakje mee, "want dit is natuur".
 - Tara ruikt het verse spoor van iets groots en wilds: de wolf, die sinds 2018 terug is in de Kempen en strikt beschermd wordt.
 - Een boswachter houdt hen tegen, wijst op het bord, en vraagt Lodes identiteitskaart. Hij noteert alles in een boekje.
-- Drie weken later valt er een brief van de gemeente in de bus: een GAS-boete voor een loslopende hond, opgelegd door de sanctionerend ambtenaar op basis van de vaststelling van de boswachter. Tara noteert dat de envelop Lode laat ruiken zoals vroeger na een dag op de Ring.
+- Drie weken later valt er een brief van de gemeente Westerlo in de bus: een GAS-boete van 250 euro voor een loslopende hond, opgelegd door de sanctionerend ambtenaar op basis van de vaststelling van de boswachter. Tara noteert dat de envelop Lode laat ruiken zoals vroeger na een dag op de Ring.
 - Lode schrijft een verweerschrift van drie bladzijden over hondenhaters en beweging. Mieke leest het, zegt niets, en legt de overschrijving naast zijn koffie. Hij betaalt.
 - Lode moppert over hondenhaters die niet weten dat een hond moet rennen. "De wolf mag hier alles, en zij moet aan een touw."
 - Tara velt geen oordeel, ook niet over Lode. Haar conclusie: "Ze beschermen wat ze vrezen en houden vast wat ze liefhebben." Lode zwijgt even. Daarna doet hij de lijn los zodra de boswachter om de hoek is.
@@ -468,7 +468,7 @@ Alle Onderzoeksdossiers met nummer, onderwerp en status, met de grap over de spr
 - **De wolf in Vlaanderen** sinds 2018 ([VRT NWS](https://www.vrt.be/vrtnws/nl/2018/08/24/wolf-august-liep-300-kilometer-om-naya-te-ontmoeten-en-beet-wel/)).
 
 **Literaire voorgangers:**
-- Franz Kafka, *Onderzoekingen van een hond* (1922), mogelijk als motto ([Wikipedia](https://en.wikipedia.org/wiki/Investigations_of_a_Dog)).
+- Franz Kafka, *Onderzoekingen van een hond* (1922), levert het motto van het boek ([Wikipedia](https://en.wikipedia.org/wiki/Investigations_of_a_Dog)).
 - Natsume Sōseki, *Ik ben een kat* ([Complete Review](https://complete-review.com/reviews/soseki/i_am_a_cat.htm)).
 - Virginia Woolf, *Flush*.
 
@@ -619,10 +619,9 @@ Vastgelegd door de auteur: de namen (Lode, Mieke, Mira, Sofie, Jonas, Bram, Lott
 
 Nog open:
 
-1. **Het fictieve dorp:** een naam voor het dorp in de Antwerpse Kempen.
-2. **De optionele nuance** van het reekalfje in hoofdstuk 19.
-3. **Het motto:** wel of geen motto van Kafka.
-4. **Het bedrag van de boete:** een GAS-boete kan tot 250 euro gaan. Een concreet bedrag, bijvoorbeeld 100 euro, maakt de brief echter.
+1. **De optionele nuance** van het reekalfje in hoofdstuk 19.
+
+Vastgelegd in versie 5: het dorp is Heultje (Westerlo), de GAS-boete bedraagt 250 euro, en het boek opent met een motto van Kafka (sectie 20).
 
 # 18. Wijzigingen ten opzichte van versie 2
 
@@ -653,3 +652,18 @@ Nog open:
 5. **De epiloog staat definitief in Lodes stem** en draait om het ontbrekende ochtendlied. De rode bal komt mee naar huis in plaats van in het gras te liggen.
 6. **De boswachter** stelt de overtreding vast; de gemeente stuurt een GAS-boete. Lode schrijft een verweerschrift en betaalt toch.
 7. **De namen zijn definitief.**
+
+# 20. Motto en versie 5
+
+Het boek opent, na de titelpagina en voor de proloog, met dit motto (eigen vertaling uit het Duits; de tekst van Kafka is publiek domein):
+
+> *Waar haalt de aarde dit voedsel vandaan?*
+>
+> Franz Kafka, *Onderzoekingen van een hond* (1922)
+
+Het is de vraag waar Kafka's onderzoekende hond zijn leven aan wijdt. Voor Tara is het antwoord simpel en fout: uit de koekjestrommel, zodra je zingt.
+
+**Wijzigingen in versie 5:**
+- Het dorp is Heultje (Westerlo).
+- De GAS-boete bedraagt 250 euro en komt van de gemeente Westerlo.
+- Het motto van Kafka is vastgelegd.
