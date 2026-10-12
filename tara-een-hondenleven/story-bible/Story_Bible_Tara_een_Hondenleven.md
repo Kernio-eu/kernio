@@ -1,6 +1,6 @@
 ---
-title: "Tara, een Hondenleven"
-subtitle: "Story bible, versie 8 (12 oktober 2026)"
+title: "Zij koos mij"
+subtitle: "Het geheime onderzoeksrapport van een Labrador. Story bible, versie 9 (12 oktober 2026)"
 lang: nl-BE
 ---
 
